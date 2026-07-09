@@ -2,7 +2,8 @@
 title: PACT Player Archive
 description: Handouts, maps, and lore revealed during play
 ---
-# PACT Player Archive
+
+![[banner.webp]]
 
 Welcome to the player-facing PACT archive.
 
