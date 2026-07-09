@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/Chompy78/PACT_Players
+  baseUrl: chompy78.github.io/PACT_Players
   ignorePatterns:
     - private
     - templates
