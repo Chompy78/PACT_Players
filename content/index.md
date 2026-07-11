@@ -9,11 +9,11 @@ Welcome to the player-facing PACT archive.
 
 ## Prelude
 
-- [[A01_prelude/index|A01 Prelude]]
+- [[arc01_prelude/index|Arc 01: Prelude]]
 
 ## Future Arcs
 
-- [[A02_arc2/index|A02 Arc 2]]
-- [[A03_arc3/index|A03 Arc 3]]
+- [[arc02_arc2/index|Arc 02: Arc 2]]
+- [[arc03_arc3/index|Arc 03: Arc 3]]
 
 This archive contains player-facing handouts, maps, and images revealed during play.

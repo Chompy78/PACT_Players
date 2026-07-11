@@ -1,4 +1,4 @@
-# A01 Prelude
+# Arc 01: Prelude
 
 Player-facing handouts for the Prelude.
 

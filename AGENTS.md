@@ -24,8 +24,10 @@ here, including this file's siblings (`CHANGELOG.md`, `DECISIONS.md`,
 
 - `content/` — the actual campaign content. This is almost always the only
   directory you should be editing for content requests. Organized by arc:
-  `A01_prelude/`, `A02_arc2/`, `A03_arc3/` (future arcs are placeholder
-  index pages until the GM confirms that arc has actually been played).
+  `arc01_prelude/`, `arc02_arc2/`, `arc03_arc3/` (future arcs are
+  placeholder index pages until the GM confirms that arc has actually been
+  played; the `_arc2`/`_arc3` suffixes are placeholders too — rename to a
+  thematic name, as `arc01_prelude` did, once that arc is actually played).
   Sessions nest under `<arc>/session N/`.
 - `quartz/` — the Quartz site generator itself (upstream internals). Don't
   edit unless the task is specifically about customizing the generator.
@@ -68,8 +70,8 @@ the instant it's pushed — reverting doesn't remove it from git history.
   entry needs to reference that a secret-related decision was made, log the
   _fact_ of the decision, not the secret itself (e.g. "resolved how the
   Arc 2 betrayal will be foreshadowed" — not what the betrayal is).
-- Don't populate `A02_arc2/` or `A03_arc3/` with real content until the GM
-  confirms that arc has actually been played at the table.
+- Don't populate `arc02_arc2/` or `arc03_arc3/` with real content until the
+  GM confirms that arc has actually been played at the table.
 - When asked to add session notes/handouts, include only what was actually
   revealed to players in-session — never GM prep notes, statblocks meant to
   stay hidden, or planned-but-unrevealed plot points.
