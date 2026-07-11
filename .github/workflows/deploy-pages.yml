@@ -11,7 +11,23 @@ permissions:
   id-token: write
 
 jobs:
+  content-secret-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Scan content/ for GM-only markers
+        run: |
+          if grep -rniE "SECRET:|GM-ONLY:" content/; then
+            echo "::error::Found a SECRET:/GM-ONLY: marker in content/. This repo is public and content/ is published live \
+            to GitHub Pages — remove or relocate this content (see AGENTS.md) before it can deploy."
+            exit 1
+          fi
+          echo "No GM-only markers found in content/."
+
   build:
+    needs: content-secret-check
     runs-on: ubuntu-latest
 
     steps:
@@ -23,10 +39,10 @@ jobs:
 
       - name: Install Dependencies
         run: npm ci
-      
+
       - name: Install Quartz plugins
         run: npx quartz plugin install
-      
+
       - name: Build Quartz
         run: npx quartz build
 

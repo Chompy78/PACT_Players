@@ -1,0 +1,4 @@
+# CLAUDE.md
+
+See [AGENTS.md](./AGENTS.md) for project conventions. This file is a
+redirect only — do not add substantive instructions here.
