@@ -7,6 +7,14 @@ Player-facing handouts for the Prelude.
 - [[Children of Amber]]
 - [[My Village]]
 
-## Session 1
+## Chapter 1
 
-- [[session 1/Start of Prelude Handout|Start of Prelude Handout]]
+- [[Chapter_1/Start of Prelude Handout|Start of Prelude Handout]]
+
+## Chapter 2
+
+- [[Chapter_2/index|Chapter 2 Handouts]]
+
+## Chapter 3
+
+- [[Chapter_3/index|Chapter 3 Handouts]]

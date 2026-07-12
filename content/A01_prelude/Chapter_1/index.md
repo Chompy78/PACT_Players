@@ -1,3 +1,3 @@
-# Session 1 Handouts
+# Chapter 1 Handouts
 
 - [[Start of Prelude Handout]]
