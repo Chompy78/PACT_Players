@@ -10,10 +10,18 @@ Obsidian-flavored Markdown (`[[wikilinks]]`, `![[embeds]]`).
   rules, roster). The `00_` prefix pins it above the arcs in Quartz's
   alphabetically-sorted explorer sidebar.
 - `content/ArcNN_name/` — one folder per arc, e.g. `Arc01_prelude`,
-  `Arc02_among_strangers`. Items placed directly in the arc folder are
-  arc-wide handouts. Rename the folder's `name` suffix once an arc gets its
-  real title (keep the `ArcNN_` numeric prefix for sort order).
+  `Arc02_among_strangers`. Rename the folder's `name` suffix once an arc gets
+  its real title (keep the `ArcNN_` numeric prefix for sort order).
 - `content/ArcNN_name/Chapter_N/` — chapter-specific handouts and images.
+- Arc-wide handouts (apply to the whole arc, not one chapter) go directly
+  under `content/ArcNN_name/` as loose files, or grouped into category
+  subfolders once there are enough of them (e.g. `NPCs/`, `Maps/`, `Misc/`).
+  No wrapper folder — category folders sit as siblings to the `Chapter_N/`
+  folders. Deliberate choice: Quartz's Explorer sidebar sorts folders
+  alphabetically, and `Chapter_N` sorts before `M`/`N`-ish names, keeping
+  chapters listed first. **Category folder names must sort alphabetically
+  after "Chapter"** (i.e. avoid names starting with A or B, like "Artifacts"
+  or "Bestiary") or they'll jump ahead of the chapters in the sidebar.
 - Folder/file naming: no spaces — use underscores (e.g. `Chapter_1`, not
   `session 1`). Spaces cause messy URL-encoding in the built site.
 - Every folder should have an `index.md` that links to what's inside it —
