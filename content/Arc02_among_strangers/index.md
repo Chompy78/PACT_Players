@@ -2,7 +2,9 @@
 
 ## Arc-wide Handouts
 
-No player-facing handouts have been added yet.
+- [[NPCs/index|NPCs]]
+- [[Maps/index|Maps]]
+- [[Misc/index|Misc]]
 
 ## Chapters
 
