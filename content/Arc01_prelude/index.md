@@ -2,7 +2,7 @@
 
 Player-facing handouts for the Prelude.
 
-## General Prelude Handouts
+## Arc-wide Handouts
 
 - [[Children of Amber]]
 - [[My Village]]

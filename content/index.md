@@ -7,6 +7,10 @@ description: Handouts, maps, and lore revealed during play
 
 Welcome to the player-facing PACT archive.
 
+## Campaign
+
+- [[00_Campaign/index|Campaign Reference]]
+
 ## Prelude
 
 - [[Arc01_prelude/index|Arc01 Prelude]]
