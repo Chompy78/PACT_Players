@@ -6,9 +6,9 @@ Player-facing handouts for the Prelude.
 
 ## Arc-wide Handouts
 
-- [[NPCs/index|NPCs]]
-- [[Maps/index|Maps]]
-- [[Misc/index|Misc]]
+- [[Arc01_prelude/NPCs/index|NPCs]]
+- [[Arc01_prelude/Maps/index|Maps]]
+- [[Arc01_prelude/Misc/index|Misc]]
 
 ## Chapter 1
 
@@ -16,12 +16,12 @@ Player-facing handouts for the Prelude.
 
 ## Chapter 2
 
-- [[Chapter_2/index|Chapter 2 Handouts]]
+- [[Arc01_prelude/Chapter_2/index|Chapter 2 Handouts]]
 
 ## Chapter 3
 
-- [[Chapter_3/index|Chapter 3 Handouts]]
+- [[Arc01_prelude/Chapter_3/index|Chapter 3 Handouts]]
 
 ## Chapter 4
 
-- [[Chapter_4/index|Chapter 4 Handouts]]
+- [[Arc01_prelude/Chapter_4/index|Chapter 4 Handouts]]
