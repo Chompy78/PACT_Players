@@ -2,7 +2,7 @@
 title: Arc01 Prelude
 ---
 
-![[my village by Wren.png|400]]
+![[banner.webp|600]]
 
 Player-facing handouts for the Prelude.
 
