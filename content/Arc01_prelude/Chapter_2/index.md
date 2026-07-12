@@ -1,3 +1,5 @@
 # Chapter 2 Handouts
 
-No player-facing handouts have been added yet.
+## My Summer (by Wren)
+
+![[My summer by Wren.png]]

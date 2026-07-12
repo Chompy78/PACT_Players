@@ -21,3 +21,7 @@ Player-facing handouts for the Prelude.
 ## Chapter 3
 
 - [[Chapter_3/index|Chapter 3 Handouts]]
+
+## Chapter 4
+
+- [[Chapter_4/index|Chapter 4 Handouts]]

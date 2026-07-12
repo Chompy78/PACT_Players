@@ -16,14 +16,6 @@
 
 ![[my village by Wren.png]]
 
-## My Summer (by Wren)
-
-![[My summer by Wren.png]]
-
-## Kids Tree House
-
-![[Kids Tree House.jpg]]
-
 ## Woodline
 
 ![[Woodline.jpg]]
