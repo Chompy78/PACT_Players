@@ -1,4 +1,6 @@
-# Arc02 Among Strangers
+---
+title: Arc02
+---
 
 ## Arc-wide Handouts
 

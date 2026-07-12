@@ -17,7 +17,7 @@ Welcome to the player-facing PACT archive.
 
 ## Future Arcs
 
-- [[Arc02_among_strangers/index|Arc02 Among Strangers]]
+- [[Arc02_arc2/index|Arc02]]
 - [[Arc03_arc3/index|Arc03 Arc 3]]
 
 This archive contains player-facing handouts, maps, and images revealed during play.
