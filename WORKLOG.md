@@ -4,6 +4,24 @@ Per-AI-work-session summaries. Newest entries on top. Not to be confused
 with TTRPG game sessions (`content/.../session N/`) — see `AGENTS.md` for
 the naming rationale and what belongs here vs `CHANGELOG.md`/`DECISIONS.md`.
 
+## 2026-07-11 — Add .gitignore; branch protection pending user input
+
+**Asked:** Pick up the two open follow-ups from the previous session: add
+a `.gitignore` (repo had none, so `node_modules`/`.quartz` created by
+local installs/builds were one `git add -A` away from being committed),
+and set up branch protection on `main`.
+
+**Did:** Added `.gitignore` covering `node_modules/`, Quartz build
+output/caches (`public/`, `.quartz/`, `.quartz-cache/`), `*.tsbuildinfo`,
+and standard OS/editor/env cruft. Confirmed via `git ls-files` that none
+of those patterns currently match anything already tracked, so this is
+purely preventative.
+
+**Open/next:** Branch protection not yet applied — it's a repo-settings
+change with real blast radius (could block direct pushes to `main`,
+which is how most history in this repo was made so far), so checking
+with the user on exact rules before applying rather than guessing.
+
 ## 2026-07-11 — Rename arc folders to a consistent scheme (arc01_prelude, arc02_arc2, arc03_arc3)
 
 **Asked:** Rename `content/A01_prelude` to `arc01_prelude` without breaking
