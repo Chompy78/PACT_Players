@@ -1,4 +1,4 @@
-# Arc02 Arc 2
+# Arc02 Among Strangers
 
 ## Arc-wide Handouts
 
