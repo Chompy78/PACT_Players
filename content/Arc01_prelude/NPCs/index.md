@@ -1,12 +1,12 @@
 # NPCs
 
-## Children of Amber
+## Children of Amber (A)
 
-![[Children of Amber.png]]
+![[Children of Amber A.png]]
 
-## Children of Amber (v2)
+## Children of Amber (B)
 
-![[Children of Amber v2.png]]
+![[Children of Amber B.png]]
 
 ## Elders of Amber
 
