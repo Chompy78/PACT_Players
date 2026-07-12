@@ -3,7 +3,7 @@ title: PACT Player Archive
 description: Handouts, maps, and lore revealed during play
 ---
 
-![[banner.webp]]
+![[banner.webp|700]]
 
 Welcome to the player-facing PACT archive.
 

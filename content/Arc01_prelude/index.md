@@ -1,5 +1,7 @@
 # Arc01 Prelude
 
+![[my village by Wren.png|400]]
+
 Player-facing handouts for the Prelude.
 
 ## Arc-wide Handouts
