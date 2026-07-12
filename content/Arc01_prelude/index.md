@@ -6,6 +6,9 @@ Player-facing handouts for the Prelude.
 
 - [[Children of Amber]]
 - [[My Village]]
+- [[NPCs/index|NPCs]]
+- [[Maps/index|Maps]]
+- [[Misc/index|Misc]]
 
 ## Chapter 1
 
