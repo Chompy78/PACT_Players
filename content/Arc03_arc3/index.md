@@ -1,4 +1,6 @@
-# Arc03 Arc 3
+---
+title: Arc03
+---
 
 ## Arc-wide Handouts
 

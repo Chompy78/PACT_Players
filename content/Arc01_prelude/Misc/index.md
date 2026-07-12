@@ -1,4 +1,6 @@
-# Misc
+---
+title: Misc
+---
 
 ## Kids Tree House
 

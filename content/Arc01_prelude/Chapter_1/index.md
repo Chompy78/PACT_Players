@@ -1,3 +1,5 @@
-# Chapter 1 Handouts
+---
+title: Chapter 1 Handouts
+---
 
 - [[Start of Prelude Handout]]

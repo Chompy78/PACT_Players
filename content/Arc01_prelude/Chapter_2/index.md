@@ -1,4 +1,6 @@
-# Chapter 2 Handouts
+---
+title: Chapter 2 Handouts
+---
 
 ## My Summer (by Wren)
 

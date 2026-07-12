@@ -1,4 +1,6 @@
-# Maps
+---
+title: Maps
+---
 
 ## Amble Village
 

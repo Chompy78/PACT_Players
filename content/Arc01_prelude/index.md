@@ -1,4 +1,6 @@
-# Arc01 Prelude
+---
+title: Arc01 Prelude
+---
 
 ![[my village by Wren.png|400]]
 
