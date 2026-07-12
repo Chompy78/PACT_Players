@@ -4,8 +4,6 @@ Player-facing handouts for the Prelude.
 
 ## Arc-wide Handouts
 
-- [[Children of Amber]]
-- [[My Village]]
 - [[NPCs/index|NPCs]]
 - [[Maps/index|Maps]]
 - [[Misc/index|Misc]]
