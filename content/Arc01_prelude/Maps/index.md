@@ -10,10 +10,6 @@ title: Maps
 
 ![[Amble Village Centre.png]]
 
-## My Village
-
-![[my village.png]]
-
 ## My Village (by Wren)
 
 ![[my village by Wren.png]]
