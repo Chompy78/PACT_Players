@@ -1,4 +1,6 @@
-# NPCs
+---
+title: NPCs
+---
 
 ## Children of Amber (A)
 

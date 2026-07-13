@@ -4,9 +4,9 @@ title: Arc02
 
 ## Arc-wide Handouts
 
-- [[NPCs/index|NPCs]]
-- [[Maps/index|Maps]]
-- [[Misc/index|Misc]]
+- [[Arc02_arc2/NPCs/index|NPCs]]
+- [[Arc02_arc2/Maps/index|Maps]]
+- [[Arc02_arc2/Misc/index|Misc]]
 
 ## Chapters
 
