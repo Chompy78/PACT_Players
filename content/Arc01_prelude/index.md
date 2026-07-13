@@ -2,7 +2,7 @@
 title: Arc01 Prelude
 ---
 
-![[banner.webp|600]]
+![[arc01_prelude_banner.jpg|600]]
 
 Player-facing handouts for the Prelude.
 
