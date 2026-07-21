@@ -5,3 +5,7 @@ title: Chapter 2 Handouts
 ## My Summer (by Wren)
 
 ![[My summer by Wren.png]]
+
+## Funeral Notice
+
+[[funeral-notice|Funeral Notice]]
