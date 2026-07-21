@@ -106,10 +106,13 @@ for (const imgPath of targets) {
   const mdPath = path.join(dir, `${stem}.md`)
   if (existsSync(mdPath)) continue
 
-  const width = imageWidthFor(imgPath)
-  const embed = width ? `![[${base}|${width}]]` : `![[${base}]]`
-
   const title = titleCase(stem)
+  const width = imageWidthFor(imgPath)
+  // Alt text (accessibility) + width: Quartz's embed syntax is
+  // ![[file|alt text|width]] — verified against the actual wikilink-embed
+  // regex, not just docs, before relying on it here.
+  const embed = width ? `![[${base}|${title}|${width}]]` : `![[${base}|${title}]]`
+
   writeFileSync(mdPath, `# ${title}\n\n${embed}\n`)
   created.push({ dir, stem, base, title, mdPath })
 

@@ -24,6 +24,12 @@ Obsidian-flavored Markdown (`[[wikilinks]]`, `![[embeds]]`).
   or "Bestiary") or they'll jump ahead of the chapters in the sidebar.
 - Folder/file naming: no spaces — use underscores (e.g. `Chapter_1`, not
   `session 1`). Spaces cause messy URL-encoding in the built site.
+- **Image filenames are the one exception — avoid underscores in them.** Quartz's wikilink embed
+  parser misreads underscore patterns in an image filename as Markdown emphasis and silently fails to
+  render the embed (upstream bug, jackyzha0/quartz#2305). Hyphens or spaces are safe for images
+  (`funeral-notice.png`, `market (1).png`); underscores are not. Also avoid accented/non-ASCII
+  characters (known to crash the Quartz builder entirely, jackyzha0/quartz#386) and `@` in filenames
+  (breaks under the GFM plugin, jackyzha0/quartz#2172).
 - Every folder should have an `index.md` that links to what's inside it —
   this doubles as the page players see and mirrors the Explorer sidebar.
 
@@ -32,6 +38,24 @@ Obsidian-flavored Markdown (`[[wikilinks]]`, `![[embeds]]`).
 Pushing to `main` triggers `.github/workflows/deploy-pages.yml`, which runs
 `quartz build` and deploys to GitHub Pages automatically. There's no
 separate manual deploy step — a push to `main` **is** the deploy.
+
+## Keeping a page hidden or protected
+
+- **To actually hide a page from the built site**, its frontmatter needs `draft: true` — that's the
+  literal field Quartz's `RemoveDrafts` plugin checks (already enabled in `quartz.config.yaml`). A
+  custom field like `status: draft` does **nothing** on its own; it's fine to keep alongside `draft:
+  true` for your own tracking, but `draft: true` is the field that actually removes the page from the
+  build. Verified directly: a page with only `status: draft` (no `draft: true`) still built and
+  deployed — see `D-2026-07-21-fix-draft-frontmatter-field` in `DECISIONS.md`.
+- **This repo is a public GitHub repo** — anything pushed to `main`, `draft: true` or not, is visible in
+  the git history to anyone who looks. `draft: true` only controls what the *built site* serves; it's
+  not access control.
+- **For content that genuinely needs to stay hidden even from someone browsing the repo** (real spoilers,
+  GM-only notes that must live here for some reason), use the `encrypted-pages` plugin — already
+  installed and enabled in `quartz.config.yaml`. Add a `password: <some-password>` field to that page's
+  frontmatter (the field name is configurable via that plugin's `passwordField` option, currently
+  `password`) and Quartz encrypts the page client-side, only decryptable with that password. Share the
+  password out-of-band (not in another public file).
 
 ## Merge policy
 

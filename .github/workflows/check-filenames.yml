@@ -1,0 +1,40 @@
+name: Check content filenames
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "content/**"
+  pull_request:
+    paths:
+      - "content/**"
+
+permissions:
+  contents: read
+
+jobs:
+  check-filenames:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      # Added or renamed files only — pre-existing filenames aren't re-checked
+      # on every push, just whatever changed in this one.
+      - name: Determine added/renamed files under content/
+        run: |
+          BASE="${{ github.event.pull_request.base.sha || github.event.before }}"
+          HEAD="${{ github.event.pull_request.head.sha || github.sha }}"
+          git diff --name-only --diff-filter=AR "$BASE" "$HEAD" -- 'content/**' > /tmp/changed-content.txt
+          echo "Added/renamed files under content/ in this change:"
+          cat /tmp/changed-content.txt
+
+      - name: Check filenames
+        run: node .github/scripts/check-filenames.mjs /tmp/changed-content.txt

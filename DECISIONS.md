@@ -6,6 +6,32 @@
 
 ## Index
 
+- **D-2026-07-21-encrypted-pages-and-giscus-prep** — Documented the already-installed-but-unused
+  `encrypted-pages` plugin (password-protect a page via frontmatter) in `CLAUDE.md`, and pre-filled the
+  `comments` (giscus) plugin's config structure without enabling it — enabling with empty
+  `repoId`/`categoryId` errors at build time; those only exist once the giscus GitHub App is installed.
+  See full entry.
+- **D-2026-07-21-filename-lint-check** — Added a GitHub Action that checks newly added/renamed
+  `content/` filenames against three documented Quartz footguns (underscores in image names, `@` in any
+  filename, non-ASCII characters) and fails loudly instead of letting a broken embed land silently. See
+  full entry.
+- **D-2026-07-21-git-auto-commit-action** — Replaced `auto-handout.yml`'s hand-rolled
+  `git add`/`commit`/`push` steps with `stefanzweifel/git-auto-commit-action`, a maintained Marketplace
+  action that handles edge cases (e.g. an out-of-date local checkout before pushing) the raw shell
+  version didn't. See full entry.
+- **D-2026-07-21-auto-optimize-images** — `auto-handout.yml` now re-encodes newly added PNG/JPEG images
+  with `sharp` (already a project dependency) before creating their handout page — cut real repo images
+  by ~55-60% in testing (3.0MB → 1.26MB) with no visible quality loss, only overwriting when the result
+  is actually smaller. See full entry.
+- **D-2026-07-21-image-alt-text** — Every handout image embed now carries alt text (the page's title) —
+  `![[file.png|Alt Text|500]]`, verified directly against Quartz's actual wikilink-embed regex before
+  relying on it. Folded into `auto-handout-stub.mjs` so future auto-generated handouts get alt text too.
+  See full entry.
+- **D-2026-07-21-fix-draft-frontmatter-field** — `status: draft` (this repo's own convention) doesn't
+  hide a page from the built site — verified directly by rebuilding locally (`Filtered out 0 files`,
+  the draft recap fully present in `public/`). Quartz's enabled `RemoveDrafts` plugin checks a literal
+  `draft: true` field instead. Added `draft: true` to the Session 1 recap alongside the existing
+  `status`/`needs_review` fields. See full entry.
 - **D-2026-07-21-handout-image-orientation-width** — Handout images now get an explicit embed width
   sized by orientation (750 for landscape/square, 500 for portrait) instead of no width at all — a flat
   750px for every image would render portrait ones (0.67 ratio) ~1119px tall, noticeably oversized
@@ -33,6 +59,136 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-07-21-fix-draft-frontmatter-field · `status: draft` doesn't hide a page — Quartz needs `draft: true`
+- **Context:** The Session 1 recap's frontmatter used a custom `status: draft` / `needs_review: true`
+  pair, with an explicit note to flip `status: approved` once ready for players. While researching this
+  repo for improvement ideas, found that Quartz ships a `RemoveDrafts` filter plugin (already `enabled:
+  true` in `quartz.config.yaml`) that checks a literal `draft: true` frontmatter field — not `status`.
+- **Verification:** rebuilt the site locally (`npm ci && npx quartz plugin install && npx quartz
+  build`). Output: `Filtered out 0 files` across all 21 input files, and
+  `public/arc01_prelude/session_recaps/session-01-recap.html` was fully present — confirming the "draft"
+  recap was being built and would deploy to the public site exactly like any approved page.
+- **Options:**
+  - A) Leave `status`/`needs_review` as the only fields, accept that "draft" content is not actually
+    held back from the live site.
+  - B) Add `draft: true` (the real field) alongside the existing custom fields, so both this repo's own
+    tracking convention and Quartz's actual filter agree.
+  - C) Drop `status`/`needs_review` entirely and standardize on `draft: true` alone.
+- **Decision:** Option B.
+- **Why:** Option A leaves a real, silent gap between intent and behavior. Option C would lose the
+  distinction this repo already draws between "not yet reviewed" (`needs_review`) and "reviewed, not yet
+  released" (`status`), which `draft: true` alone can't express — `draft` is binary (hidden or not),
+  while this repo tracks a review pipeline. Keeping both costs nothing and closes the actual gap.
+- **Status:** Active.
+- **Consequence:** Publishing the Session 1 recap now requires flipping all three fields — `draft:
+  false`, `status: approved`, `needs_review: false` — not just `status`. `TASKS.md` and `CLAUDE.md`
+  updated accordingly. Worth checking any future "draft"-style content the same way rather than
+  assuming a custom field name does anything on its own.
+
+## D-2026-07-21-image-alt-text · add alt text to every handout image embed
+- **Context:** None of this repo's image embeds had alt text — a real accessibility gap (screen readers
+  get nothing on any handout image). Quartz's wikilink embed syntax supports combining alt text with an
+  explicit width, but the exact syntax needed confirming before touching every embed in the repo.
+- **Verification:** rather than trust a single source, extracted Quartz's actual
+  `wikilinkImageEmbedRegex` and ran it directly in Node against sample inputs — confirmed
+  `![[file.png|Alt Text|500]]` parses to `alt: "Alt Text", width: "500"` as expected, and that a
+  numbers-only segment (`![[file.png|500]]`) is correctly treated as width-only, not alt text.
+- **Decision:** Added alt text (matching each page's title) to every existing handout embed across
+  `Chapter_1`, `Chapter_2`, `NPCs/`, `Maps/`, `Misc/`, and the two banners — `![[file.png|Alt Text|750]]`
+  — and updated `.github/scripts/auto-handout-stub.mjs` to generate embeds the same way for future
+  images, so this doesn't regress as new handouts get auto-generated.
+- **Why:** Free accessibility win once the exact syntax was confirmed safe; folding it into the
+  auto-handout script means it's the new default going forward, not a one-time manual pass that drifts.
+- **Status:** Active.
+- **Consequence:** Any image embed added by hand (bypassing the auto-handout Action) should follow the
+  same `![[file|Title|width]]` pattern for consistency.
+
+## D-2026-07-21-auto-optimize-images · re-encode newly added images with sharp before creating handout pages
+- **Context:** This repo's AI-generated handout images are large — several 3MB+ PNGs at 1024×1536/
+  1536×1024. `sharp` is already a project dependency (Quartz itself uses it), making in-repo image
+  optimization straightforward to add without a new external dependency.
+- **Verification, not just assumption:** tested against real repo images before wiring anything in.
+  Naive re-encode at default settings didn't beat the originals at all (`already optimal`) — only
+  `effort: 10` (libvips' slowest/best PNG compression setting) produced real savings: 3.00MB → 1.26MB
+  and 2.94MB → 1.14MB on two samples (~58% smaller). Also checked pixel-level fidelity: not byte-
+  identical (a source `sBIT` chunk causes ~1.6/255 average channel-value drift, max 49/255 on rare
+  pixels) — negligible/imperceptible in practice, but documented as "near-lossless," not overclaimed as
+  exact. Confirmed the "only overwrite if smaller" safety check actually matters: re-encoding the
+  already-optimized Arc01 banner (100KB) at quality 85 would have made it *larger* (150KB) — the check
+  correctly skips it.
+- **Options:**
+  - A) Don't optimize images at all — accept multi-MB page weight.
+  - B) A third-party GitHub Action (e.g. `calibreapp/image-actions`) — built for exactly this, but
+    designed around pull requests, and this repo pushes directly to `main`.
+  - C) A small in-repo script using the already-present `sharp` dependency, run in the same
+    `auto-handout.yml` job against the same newly-added-images manifest it already computes.
+- **Decision:** Option C.
+- **Why:** No new dependency, no PR-based workflow mismatch, reuses the diff-scoped manifest
+  `auto-handout.yml` already builds (see `D-2026-07-21-auto-handout-action`) rather than a separate
+  full-tree pass.
+- **Status:** Active.
+- **Consequence:** `auto-handout.yml` now needs an `npm ci` step (added) so `sharp`'s native binary is
+  available in CI. Images added by hand outside the Action aren't automatically optimized.
+
+## D-2026-07-21-git-auto-commit-action · use a maintained Action instead of hand-rolled git push steps
+- **Context:** `auto-handout.yml`'s original commit/push step was three raw shell lines
+  (`git config`/`git add`/`git commit`/`git push`). Research into GitHub Actions bot-commit best
+  practices surfaced a specific, real gap: the hand-rolled version doesn't pull/rebase before pushing,
+  so a second push landing in the narrow window while the job runs could make the push fail outright.
+- **Decision:** Replaced it with `stefanzweifel/git-auto-commit-action@v7`, a widely-used Marketplace
+  action built specifically for this pattern.
+- **Why:** Battle-tested rather than reinventing it, and it's a straight drop-in — same
+  `github-actions[bot]` identity by default, same effective behavior, one less hand-maintained edge case.
+- **Status:** Active.
+- **Consequence:** `auto-handout.yml`'s commit/push step is now a single `uses:` line
+  (`file_pattern: content`) instead of an inline shell block.
+
+## D-2026-07-21-filename-lint-check · fail loudly on known Quartz filename footguns
+- **Context:** Research surfaced *three separate* documented Quartz bugs, all filename-shaped and all
+  silent failures (a broken embed, or in one case a crashed build) rather than an obvious error:
+  underscores in image filenames (misread as Markdown emphasis, jackyzha0/quartz#2305), `@` in any
+  filename (turned into a `mailto:` link by the GFM plugin before Quartz's own parser sees it,
+  jackyzha0/quartz#2172), and non-ASCII/accented characters (crashes the Quartz builder entirely,
+  jackyzha0/quartz#386).
+- **Decision:** Added `.github/workflows/check-filenames.yml` — checks newly added/renamed files under
+  `content/` against all three patterns on every push to `main` (and on pull requests, if this repo ever
+  uses them) and fails the workflow run if any are found. Verified against synthetic test cases
+  (`bad_name.png`, `photo@2x.png`, `café.png`, plus a `some_notes.md` control) before merging — correctly
+  flagged all three bad cases and left the underscore-containing non-image file alone.
+- **Why:** These bugs are each individually easy to hit by accident (any AI-image-generator export, or a
+  filename typed with an accent) and each produces a silently broken page rather than a build error —
+  catching them at push time surfaces the problem immediately instead of discovering it by noticing a
+  missing image later.
+- **Status:** Active.
+- **Consequence:** Since this repo pushes directly to `main` rather than using PRs for content, a
+  failure here doesn't block the merge (it already happened) — it's a loud, visible signal after the
+  fact rather than a gate. Worth revisiting if this repo ever adopts a PR-based content workflow, where
+  it could gate the merge instead.
+
+## D-2026-07-21-encrypted-pages-and-giscus-prep · document/prep two already-installed-but-unused plugins
+- **Context:** `quartz.config.yaml` already lists both `encrypted-pages` (`enabled: true`) and
+  `comments`/giscus (`enabled: false`) plugins, neither ever used or documented anywhere in this repo.
+- **`encrypted-pages`:** password-protects a page client-side via a frontmatter field (`passwordField:
+  password` in its config). Relevant because this repo is a **public** GitHub repo — `draft: true` (see
+  `D-2026-07-21-fix-draft-frontmatter-field`) only controls what the built site serves, not what's
+  visible in the git history to anyone browsing the repo directly. For content that must never be
+  readable pre-approval even by someone checking the repo, `password: <value>` frontmatter is the actual
+  mitigation. Documented in `CLAUDE.md` under a new "Keeping a page hidden or protected" section — no
+  code change needed, it was already wired in, just never written down.
+- **`comments`/giscus:** confirmed via research (not assumption) that giscus requires real `repo`,
+  `repoId`, `category`, and `categoryId` values, and that enabling it with empty values errors at build
+  time. Those IDs only exist once the giscus GitHub App is installed on this specific repo — a manual,
+  consent-based step only the repo owner can do (visit https://giscus.app). Pre-filled `repo:
+  Chompy78/PACT_Players` and `category: Announcements` (giscus's own recommended category), left
+  `repoId`/`categoryId` as empty placeholders with comments explaining exactly what's needed, and kept
+  `enabled: false` until those are filled in.
+- **Decision:** Document/prep both rather than force either into a broken or half-working state.
+- **Why:** `encrypted-pages` needed zero code changes, just documentation — a pure discoverability gap.
+  giscus genuinely can't be finished by an AI session alone; forcing `enabled: true` to "complete" item
+  12 would have broken every future build instead.
+- **Status:** Active — `encrypted-pages` usable immediately; giscus tracked as an open item in
+  `TASKS.md` pending the giscus.app setup step.
 
 ## D-2026-07-21-handout-image-orientation-width · size handout image embeds by orientation, not a flat width
 - **Context:** While fixing the `content-visibility` 0×0 bug (see `D-2026-07-21-...` below and TASKS.md),

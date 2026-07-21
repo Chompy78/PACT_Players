@@ -10,6 +10,7 @@ tags:
   - session-recap
   - arc-1
   - player-safe
+draft: true
 status: draft
 needs_review: true
 source: session 1.txt

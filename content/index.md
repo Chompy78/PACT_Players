@@ -3,7 +3,7 @@ title: PACT Player Archive
 description: Handouts, maps, and lore revealed during play
 ---
 
-![[banner.webp|750]]
+![[banner.webp|PACT Player Archive banner|750]]
 
 Welcome to the PACT Archive. Here you'll find the maps, sketches, stories, and odd little discoveries your characters uncover as they grow up in and around the village of Amble. Some pages may feel familiar, some may raise new questions, and many secrets are still waiting to be revealed — but every piece belongs to the story you've lived together.
 

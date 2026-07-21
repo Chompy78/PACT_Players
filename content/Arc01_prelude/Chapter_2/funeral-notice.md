@@ -1,3 +1,3 @@
 # Funeral Notice
 
-![[funeral-notice.png|500]]
+![[funeral-notice.png|Funeral Notice|500]]

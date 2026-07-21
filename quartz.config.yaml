@@ -204,10 +204,20 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
+    # Disabled until giscus is set up (needs a real repo/repoId/category/categoryId —
+    # enabling with these empty errors at build time). To turn on: visit
+    # https://giscus.app, follow its setup against Chompy78/PACT_Players (installs
+    # the giscus GitHub App and enables Discussions on the repo if not already on),
+    # then paste its generated repo/repoId/category/categoryId here and flip
+    # enabled to true. See DECISIONS.md and TASKS.md.
     enabled: false
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: Chompy78/PACT_Players
+        repoId: "" # from giscus.app
+        category: Announcements # giscus.app recommends this category
+        categoryId: "" # from giscus.app
     layout:
       position: afterBody
       priority: 10
