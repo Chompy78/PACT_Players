@@ -6,6 +6,14 @@
 
 ## Index
 
+- **D-2026-07-21-auto-handout-deploy-trigger-fix** — The auto-handout Action's own commit (pushed with
+  the default `GITHUB_TOKEN`) never triggered a site deploy, because GitHub deliberately excludes
+  `GITHUB_TOKEN` pushes from cascading into other `on: push` workflows. Fixed by adding a `workflow_run`
+  trigger to `deploy-pages.yml`. See full entry.
+- **D-2026-07-21-auto-handout-action** — Added a GitHub Action that scans each push to `main` for newly
+  added images under `content/`, creates a stub handout page for any that don't have one (skipping
+  filenames containing `ignoremd`), embeds the image inline in the folder's `index.md`, and pushes the
+  result straight back to `main`. See full entry.
 - **D-2026-07-21-tasks-md-correction** — The initial light-port decision below wrongly ruled out any
   open-work tracker at all, not just PACT's heavyweight Effort/Risk one — caught before landing, and
   before authoring a replacement it turned out a real one had already been created and merged by a
@@ -21,6 +29,72 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-07-21-auto-handout-deploy-trigger-fix · auto-handout's own commit never triggered a deploy — GITHUB_TOKEN pushes don't cascade
+- **Context:** `D-2026-07-21-auto-handout-action` (below) added a GitHub Action that commits new stub
+  handout pages back to `main` using the default `GITHUB_TOKEN`. Its first real run (triggered by
+  "Create market (1).png") committed `d46e1a1` — but that commit never got its own `Deploy Quartz Site`
+  run. Confirmed directly against the Actions run history (`actions_list` → `list_workflow_runs`): the
+  auto-handout Action ran and succeeded, but `deploy-pages.yml` has no run for `d46e1a1` at all. It only
+  ended up live because a later, human-authored push (`8d69c38`) happened to land on top of it and
+  triggered a normal deploy — without that, the `market (1)` page would still be undeployed on `main`
+  indefinitely, invisible on the live site despite being merged.
+- **Root cause:** GitHub deliberately excludes pushes made with the repository's default `GITHUB_TOKEN`
+  from triggering other `on: push`-based workflow runs, specifically to prevent workflow-triggers-workflow
+  infinite loops. `deploy-pages.yml` only listened for `push`, so the bot's own commit was invisible to it.
+- **Options:**
+  - A) Give the auto-handout Action a personal access token (PAT) instead of the default `GITHUB_TOKEN`
+    for its push — PAT-authored pushes aren't subject to the same restriction.
+  - B) Add a `workflow_run` trigger to `deploy-pages.yml` that fires when the auto-handout Action
+    completes successfully, in addition to its existing `push` trigger.
+  - C) Merge the two workflows into one job, so the same run that commits the stub pages also builds and
+    deploys the site.
+- **Decision:** Option B.
+- **Why:** `workflow_run` isn't subject to the `GITHUB_TOKEN` cascade restriction, so this closes the gap
+  with no new secret to create or rotate, and no broadened token scope (Option A would need a PAT with
+  write access stored as a repo secret, more to manage and a bigger blast radius if leaked). Option C
+  would duplicate the whole build/deploy pipeline inside `auto-handout.yml`, meaning two places to keep in
+  sync if the deploy process ever changes. The `build` job's `if` checks out `github.event.workflow_run.
+  head_sha` specifically (not just `main`'s current tip) so it deploys exactly the commit the auto-handout
+  run produced, even if another push lands in the interim.
+- **Status:** Active.
+- **Consequence:** A push that only touches images (and therefore only runs `auto-handout.yml`, with no
+  separate human commit after it) now reliably triggers a real deploy once the stub pages are committed.
+  Note: a human push that itself adds a new image will now trigger two deploy runs in quick succession —
+  once for the raw push, once after `auto-handout.yml` completes — a minor inefficiency, not a
+  correctness problem, and not worth added complexity to avoid.
+
+## D-2026-07-21-auto-handout-action · auto-create + auto-link stub handout pages for new images, push straight to main
+- **Context:** Manually wrapping every new handout image in a `.md` page (title + `![[embed]]`) and
+  linking it from the folder's `index.md` — done by hand for `funeral-notice.png` — doesn't scale once
+  images start arriving in batches (e.g. `market (1).png` through `market (10).png`). A fully mechanical
+  script can't reliably tell which images want their own page versus which are meant to be embedded
+  elsewhere (banners, NPC composites) — that's a judgment call, not something to blindly automate.
+- **Options:**
+  - A) An AI-in-the-loop scheduled session that scans for new images periodically and uses judgment each
+    time to decide standalone page vs. embed-elsewhere.
+  - B) A mechanical GitHub Action that wraps every new image in a stub page, except ones whose filename
+    contains a marker string (`ignoremd`) to opt out.
+  - C) No automation — keep doing this by hand per image.
+- **Decision:** Option B, per the user's explicit choice over Option A.
+- **Why:** Simpler and free to run (no recurring AI session cost); the `ignoremd` filename marker gives a
+  deliberate, visible opt-out for banners/composites/originals without needing the script to guess intent.
+  Scoped to only the images newly **added** in each push (`git diff --diff-filter=A` against the push's
+  before/after SHAs) rather than a full `content/` re-scan, so pre-existing images that were deliberately
+  left without a standalone page (e.g. NPC composites already linked from `NPCs/index.md`) are never
+  retroactively touched — verified locally before merging by simulating added-file manifests, including a
+  file with `ignoremd` in the name (correctly skipped) and one without (stub page + index link created).
+  The stub's `index.md` entry embeds the image (`![[file]]`) rather than linking to the new page
+  (`[[stem]]`) — matches the existing inline-embed pattern already used for images without their own page
+  (e.g. "My Summer (by Wren)"), after the first two auto-generated entries (funeral-notice, market (1))
+  were noticed rendering as click-through links instead and corrected.
+- **Status:** Active.
+- **Consequence:** Pushing a new image to `content/` (by any method — CLI, GitHub web, GitHub Desktop) that
+  doesn't already have a matching `.md` and doesn't have `ignoremd` in its filename will now always get a
+  stub page and an inline embed in its folder's `index.md`, committed straight to `main`. Anyone adding a
+  banner, original/pre-crop image, or composite meant to stay embedded elsewhere must include `ignoremd`
+  in that file's name or it will get an (unwanted but harmless) stub page too. See also
+  `D-2026-07-21-auto-handout-deploy-trigger-fix` for a related bug this surfaced.
 
 ## D-2026-07-21-tasks-md-correction · "no Effort/Risk system" isn't the same claim as "no task tracker" — and a real one already existed
 - **Context:** `D-2026-07-21-scaffold-port-light` (below) decided this repo shouldn't get PACT's

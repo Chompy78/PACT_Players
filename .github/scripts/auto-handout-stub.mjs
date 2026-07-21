@@ -55,14 +55,15 @@ for (const imgPath of targets) {
   writeFileSync(mdPath, `# ${title}\n\n![[${base}]]\n`)
   created.push({ dir, stem, base, title, mdPath })
 
-  // Best-effort: link the new page from the folder's index.md, if one exists,
-  // and it doesn't already reference this stem. Append-only — never rewrites
-  // existing content.
+  // Best-effort: embed the image inline in the folder's index.md, if one
+  // exists, and it doesn't already reference this file. Append-only — never
+  // rewrites existing content. Matches the existing inline-embed pattern used
+  // for images that don't get their own linked-to page.
   const indexPath = path.join(dir, "index.md")
   if (existsSync(indexPath)) {
     const indexContent = readFileSync(indexPath, "utf8")
-    if (!indexContent.includes(`[[${stem}`)) {
-      writeFileSync(indexPath, indexContent.replace(/\n*$/, "\n") + `\n## ${title}\n\n[[${stem}|${title}]]\n`)
+    if (!indexContent.includes(`[[${base}`) && !indexContent.includes(`[[${stem}`)) {
+      writeFileSync(indexPath, indexContent.replace(/\n*$/, "\n") + `\n## ${title}\n\n![[${base}]]\n`)
     }
   }
 }
