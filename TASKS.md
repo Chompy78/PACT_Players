@@ -25,6 +25,40 @@ Source: John's "PACT Player Agent Fast-Path Plan".
   <https://giscus.app>, follow its setup against `Chompy78/PACT_Players` (enables GitHub Discussions on
   the repo if not already on), paste the generated `repoId`/`categoryId` into that plugin's
   `options.options` block, and flip `enabled` to `true`.
+- **Add `loading="lazy"` to image embeds.** Was on the original approved list but got missed — turns out
+  it's not a one-line config change: Quartz's wikilink embed syntax has no `loading` option, so this
+  needs a small custom script/component (e.g. a Quartz `afterDOMLoaded` script that sets
+  `loading="lazy"` on rendered `<img>` elements) rather than a markdown or CSS tweak. Free perf win on
+  image-heavy pages once done; deferred pending a decision on how much new custom-component surface is
+  worth adding for it.
+- **Consider `ExplicitPublish` instead of/alongside `RemoveDrafts`.** Currently `explicit-publish` is
+  `enabled: false` in `quartz.config.yaml`. Opt-out (current: publish everything except `draft: true`)
+  means one missed `draft: true` = an accidental spoiler goes live (see
+  `D-2026-07-21-fix-draft-frontmatter-field`). Opt-in (`publish: true` required per page) fails closed
+  instead of open — safer default for a spoiler-sensitive campaign wiki, at the cost of having to
+  remember to flip `publish: true` on every page meant to go live. A real workflow-shape decision, not
+  just a config flip — worth thinking through before switching.
+- **Check what frontmatter field the `unlisted-pages` plugin actually uses** (already `enabled: true` in
+  `quartz.config.yaml`, currently unused). Same "verify the real field name before relying on it" caution
+  that `draft` needed (see `D-2026-07-21-fix-draft-frontmatter-field`) — could be a lighter-weight
+  "reduce visibility without fully unpublishing" option (e.g. hide from the Explorer sidebar/search
+  without hiding from direct links), worth investigating as a middle ground.
+- **Cross-link NPC names in session recap prose to their NPC pages** — e.g. `[[Nell Weaver]]` inline in
+  `session-01-recap.md`'s body text, not just in the tag list. Quartz's graph view and backlinks are
+  already on by default but currently have almost nothing to connect; this is a manual per-recap pass,
+  not something to automate.
+- **Look at existing TTRPG session-recap AI tools before building the Player Agent pipeline further** —
+  Scrybe Quill, Archivist AI, Dungeon Scribe (local whisper.cpp, privacy-friendly), and the open-source
+  `rpg-session-processor`/`ttrpg-campaign-summariser` scripts. Several already solve "transcript →
+  structured recap," overlapping with the planned Part 3 (WhisperX+pyannote) work on `AI_home_server` —
+  research only, no repo changes.
+- **Format NPC/encounter tables using Obsidian's `Randomness`/`Dice Roller` table syntax**, even without
+  interactivity in the static Quartz build yet. Costs nothing now and means these tables are ready to
+  "go interactive" later if a Quartz transformer for it appears — exploratory, low priority.
+- **Decide deliberately whether any GM-only content should ever touch this public repo at all**, versus
+  living only in the separate `PACT-Campaign` Dropbox/GM workspace — a real access-control decision
+  (this repo is fully public; `draft: true` and `encrypted-pages` are technical mitigations, not a
+  substitute for that decision), not a code task.
 
 ## Done / not needed
 
