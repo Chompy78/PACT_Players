@@ -1,0 +1,54 @@
+name: Auto-generate handout pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "content/**/*.png"
+      - "content/**/*.jpg"
+      - "content/**/*.jpeg"
+      - "content/**/*.gif"
+      - "content/**/*.webp"
+
+permissions:
+  contents: write
+
+jobs:
+  auto-handout:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      # Only the images newly ADDED by this push — never the whole content/
+      # tree, so pre-existing images that were deliberately left without a
+      # standalone page are never touched.
+      - name: Determine newly added images
+        run: |
+          git diff --name-only --diff-filter=A "${{ github.event.before }}" "${{ github.sha }}" -- \
+            'content/**/*.png' 'content/**/*.jpg' 'content/**/*.jpeg' 'content/**/*.gif' 'content/**/*.webp' \
+            > /tmp/added-images.txt
+          echo "Newly added images in this push:"
+          cat /tmp/added-images.txt
+
+      - name: Create stub pages for newly added images
+        run: node .github/scripts/auto-handout-stub.mjs /tmp/added-images.txt
+
+      - name: Commit and push if anything changed
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add content/
+            git commit -m "Auto: add handout stub pages for new images"
+            git push
+          else
+            echo "No new handout pages needed."
+          fi
