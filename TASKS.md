@@ -16,6 +16,16 @@ Source: John's "PACT Player Agent Fast-Path Plan".
 - **Optional: add `content/player-agent.md`.** A short player-facing page explaining what the PACT Player
   Agent knows and good example questions to ask, once that agent exists and works (see the home-server
   task board). Not needed until then.
+- **Fix images embedded without an explicit width rendering invisible (0×0) site-wide.**
+  Root cause confirmed live: `quartz/styles/base.scss`'s `img { content-visibility: auto; }`
+  collapses any image embedded as `![[file.png]]` (no explicit width) to a 0×0 layout box —
+  the invalid `width="auto"` HTML attribute this produces breaks intrinsic-size detection under
+  that containment mode. Images with an explicit width (`![[file.png|750]]`, like the Arc01
+  banner) aren't affected. Currently hits `My summer by Wren.png`, `funeral-notice.png`, and
+  `market (1).png` in Chapter 2 — likely others too. Fix: add `img { content-visibility: visible; }`
+  to `quartz/styles/custom.scss` (the empty, sanctioned override file — no vendored Quartz code
+  touched). Verified live via a browser CSS override before writing this up: clientWidth went from
+  0 to 630px immediately. No per-image markdown edits needed once this lands.
 
 ## Done / not needed
 
