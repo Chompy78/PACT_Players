@@ -6,6 +6,10 @@
 
 ## Index
 
+- **D-2026-07-21-handout-image-orientation-width** — Handout images now get an explicit embed width
+  sized by orientation (750 for landscape/square, 500 for portrait) instead of no width at all — a flat
+  750px for every image would render portrait ones (0.67 ratio) ~1119px tall, noticeably oversized
+  next to landscape images (500px tall) at the same width. See full entry.
 - **D-2026-07-21-auto-handout-deploy-trigger-fix** — The auto-handout Action's own commit (pushed with
   the default `GITHUB_TOKEN`) never triggered a site deploy, because GitHub deliberately excludes
   `GITHUB_TOKEN` pushes from cascading into other `on: push` workflows. Fixed by adding a `workflow_run`
@@ -29,6 +33,36 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-07-21-handout-image-orientation-width · size handout image embeds by orientation, not a flat width
+- **Context:** While fixing the `content-visibility` 0×0 bug (see `D-2026-07-21-...` below and TASKS.md),
+  the request came to make handout images bigger than their current ~630px natural container width —
+  matching the Arc01 banner's explicit `|750` embed width. Checked every handout image's real pixel
+  dimensions first (PNG/JPEG header parse, not just eyeballing): most are 1024×1536 (portrait, ratio 0.67)
+  or 1536×1024 (landscape, ratio 1.5); a few maps are 1254×1254 (square). A flat `|750` for all of them
+  would render portrait images at ~1119px tall — over a screen-height on most laptops — while landscape
+  images at the same width render at only 500px tall, a visibly inconsistent, oversized result for
+  anything portrait.
+- **Options:**
+  - A) `|750` for every image regardless of orientation — simplest, matches the banner exactly, but
+    portrait images end up disproportionately tall.
+  - B) Leave portrait images with no explicit width (natural ~630px container width) and only widen
+    landscape/square images to `|750`.
+  - C) Different explicit widths by orientation — `|750` for landscape/square, `|500` for portrait
+    (750/1.5 = 500px tall; 500/0.67 ≈ 746px tall — comparable rendered height across orientations).
+- **Decision:** Option C.
+- **Why:** Keeps a comparable vertical footprint across every handout regardless of source-image
+  orientation, rather than either accepting oversized portrait images (Option A) or leaving them
+  inconsistently un-sized while everything else grows (Option B). Applied to every existing handout embed
+  across `Chapter_1`, `Chapter_2`, `NPCs/`, `Maps/`, and `Misc/`, and folded into
+  `.github/scripts/auto-handout-stub.mjs` (a dependency-free PNG/JPEG header parser, verified against real
+  files before merging) so future auto-generated handouts get the same treatment automatically rather than
+  landing without an explicit width again.
+- **Status:** Active.
+- **Consequence:** New handout images added by hand (bypassing the auto-handout Action, or in formats the
+  script's parser doesn't cover — GIF/WEBP) won't get an automatic width and should be sized manually
+  using this same 750/500 convention. `The cubby.png` (Chapter_1) is orphaned — not embedded from any
+  page — so it was left untouched; it'll need a width whenever it actually gets linked somewhere.
 
 ## D-2026-07-21-auto-handout-deploy-trigger-fix · auto-handout's own commit never triggered a deploy — GITHUB_TOKEN pushes don't cascade
 - **Context:** `D-2026-07-21-auto-handout-action` (below) added a GitHub Action that commits new stub

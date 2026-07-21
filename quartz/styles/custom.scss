@@ -1,3 +1,12 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// base.scss sets `img { content-visibility: auto; }`, which collapses any
+// image embedded without an explicit width (`![[file.png]]`, no `|width`) to
+// a 0x0 layout box — the browser can't determine intrinsic size to lay out
+// against under that containment mode. See DECISIONS.md for the confirmed
+// root cause.
+img {
+  content-visibility: visible;
+}

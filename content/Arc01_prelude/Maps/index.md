@@ -4,16 +4,16 @@ title: Maps
 
 ## Amble Village
 
-![[Amble Village.png]]
+![[Amble Village.png|750]]
 
 ## Amble Village Centre
 
-![[Amble Village Centre.png]]
+![[Amble Village Centre.png|750]]
 
 ## My Village (by Wren)
 
-![[my village by Wren.png]]
+![[my village by Wren.png|750]]
 
 ## Woodline
 
-![[Woodline.jpg]]
+![[Woodline.jpg|750]]
