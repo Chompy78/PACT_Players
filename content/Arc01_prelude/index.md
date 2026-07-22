@@ -16,18 +16,18 @@ The Prelude is the story of growing up in Amble, when the whole world seemed sma
 - [[Arc01_prelude/Maps/index|Maps]]
 - [[Arc01_prelude/Misc/index|Misc]]
 
-## Ch. 1 Spring: The Broken Charm
+## Ch. 1: The Broken Charm
 
 - [[Arc01_prelude/Chapter_1/index|Handouts]]
 
-## Ch. 2 Summer: Market Day
+## Ch. 2: Market Day
 
 - [[Arc01_prelude/Chapter_2/index|Handouts]]
 
-## Ch. 3 Autumn: [REDACTED]
+## Ch. 3: [REDACTED]
 
 - [[Arc01_prelude/Chapter_3/index|Handouts]]
 
-## Ch. 4 Winter: [REDACTED]
+## Ch. 4: [REDACTED]
 
 - [[Arc01_prelude/Chapter_4/index|Handouts]]

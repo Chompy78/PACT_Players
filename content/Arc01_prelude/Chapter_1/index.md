@@ -1,5 +1,5 @@
 ---
-title: "Ch. 1 Spring: The Broken Charm"
+title: "Ch. 1: The Broken Charm"
 ---
 
 ## Start of Prelude Handout

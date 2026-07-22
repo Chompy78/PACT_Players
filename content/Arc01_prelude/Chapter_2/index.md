@@ -1,5 +1,5 @@
 ---
-title: "Ch. 2 Summer: Market Day"
+title: "Ch. 2: Market Day"
 ---
 
 ## My Summer (by Wren)
