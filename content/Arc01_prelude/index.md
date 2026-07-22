@@ -6,6 +6,8 @@ title: Arc01 Prelude
 
 The Prelude is the story of growing up in Amble, when the whole world seemed small enough to explore in an afternoon and every path, field, and old trail held the promise of adventure. It is a time of childhood friendships, shared secrets, scraped knees, village festivals, and days spent believing that home would always stay the same. Yet beyond the comfort of familiar faces and well-worn places, the wider world is beginning to stir—and some stories have already started, whether anyone in Amble realizes it or not.
 
+**New here?** Start with [[00_Campaign/Campaign_Pitch|No One Stays a Child]] — the campaign pitch and premise.
+
 ## Arc-wide Handouts
 
 - [[Arc01_prelude/NPCs/index|NPCs]]
