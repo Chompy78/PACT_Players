@@ -5,6 +5,8 @@ description: Handouts, maps, and lore revealed during play
 
 ![[banner.webp|PACT Player Archive banner|750]]
 
+**New here?** Start with [[00_Campaign/Campaign_Pitch|No One Stays a Child]] — the campaign pitch and premise.
+
 Welcome to the PACT Archive. Here you'll find the maps, sketches, stories, and odd little discoveries your characters uncover as they grow up in and around the village of Amble. Some pages may feel familiar, some may raise new questions, and many secrets are still waiting to be revealed — but every piece belongs to the story you've lived together.
 
 ## Campaign
