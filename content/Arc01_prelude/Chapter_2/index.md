@@ -1,5 +1,5 @@
 ---
-title: Chapter 2 Handouts
+title: "Chapter 2 Summer: Market Day"
 ---
 
 ## My Summer (by Wren)
