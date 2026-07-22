@@ -14,7 +14,7 @@ The Prelude is the story of growing up in Amble, when the whole world seemed sma
 
 ## Chapter 1
 
-- [[Chapter_1/Start of Prelude Handout|Start of Prelude Handout]]
+- [[Arc01_prelude/Chapter_1/index|Chapter 1 Handouts]]
 
 ## Chapter 2
 
