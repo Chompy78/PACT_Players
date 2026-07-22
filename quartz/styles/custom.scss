@@ -10,3 +10,16 @@
 img {
   content-visibility: visible;
 }
+
+.github-source-link {
+  margin-top: -0.75rem;
+
+  a {
+    font-size: 0.85rem;
+    color: var(--gray);
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}

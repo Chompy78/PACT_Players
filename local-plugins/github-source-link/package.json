@@ -1,0 +1,23 @@
+{
+  "name": "github-source-link",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "quartz": {
+    "displayName": "GitHub Source Link",
+    "description": "Links each page to its source Markdown file on GitHub",
+    "category": "component",
+    "components": {
+      "GithubSourceLink": {
+        "name": "GithubSourceLink",
+        "displayName": "GitHub Source Link",
+        "description": "Links each page to its source Markdown file on GitHub",
+        "version": "1.0.0"
+      }
+    },
+    "defaultOptions": {
+      "repo": "Chompy78/PACT_Players",
+      "branch": "main"
+    }
+  }
+}

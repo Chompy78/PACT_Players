@@ -175,6 +175,14 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
+  - source: ./local-plugins/github-source-link
+    enabled: true
+    options:
+      repo: Chompy78/PACT_Players
+      branch: main
+    layout:
+      position: beforeBody
+      priority: 21
   - source: github:quartz-community/tag-list
     enabled: false
     layout:
