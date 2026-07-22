@@ -2,10 +2,6 @@
 title: "Ch. 2: Market Day"
 ---
 
-## My Summer (by Wren)
-
-![[My summer by Wren.png|My Summer (by Wren)|500]]
-
 ## Funeral Notice
 
 ![[funeral-notice.png|Funeral Notice|500]]
