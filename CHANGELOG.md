@@ -3,6 +3,16 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-07-22 · Reshuffled Chapter 1/2 handouts** — moved the "My Summer (by Wren)" handout to Chapter 1
+  and renamed it to `My Spring by Wren.png` (matching Ch. 1's now-established spring theme); cleared
+  Chapter 2's two remaining handouts (`funeral-notice.png`, `market (1).png`) back to the standard "No
+  player-facing handouts have been added yet." placeholder, pending new art to re-upload.
+- **2026-07-22 · Set, then trimmed, the Arc01 chapter titles** — `Chapter_1`–`Chapter_4`'s `index.md`
+  frontmatter titles and the matching `Arc01_prelude/index.md` section headers went from generic
+  "Chapter N Handouts" to full names ("Chapter 1 Spring: The Broken Charm", etc.), then got shortened
+  twice more in the same session once the sidebar showed them too cramped — "Chapter" → "Ch.", then
+  dropped the season word entirely. Final form: `Ch. 1: The Broken Charm`, `Ch. 2: Market Day`,
+  `Ch. 3: [REDACTED]`, `Ch. 4: [REDACTED]` (the last two intentionally spoiler-redacted).
 - **2026-07-22 · Added a GitHub source-link under each page's date stamp** — new local Quartz plugin
   (`local-plugins/github-source-link/`) adds a small "View source on GitHub" line under the existing
   date/read-time stamp, linking to that page's Markdown file on `main`. Built and build-verified locally
