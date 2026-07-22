@@ -6,6 +6,12 @@
 
 ## Index
 
+- **D-2026-07-22-github-source-link-plugin** — Added a local (in-repo) Quartz component plugin that
+  links each page's date stamp area to that page's Markdown file on GitHub, after discovering the
+  existing date stamp is rendered by plugins fetched fresh from GitHub into a gitignored cache on every
+  build — there's no local file to edit to add a link directly. Links to the file on `main`, not the
+  exact last commit, per explicit user choice once the real cost of the commit-level version was shown.
+  See full entry.
 - **D-2026-07-21-encrypted-pages-and-giscus-prep** — Documented the already-installed-but-unused
   `encrypted-pages` plugin (password-protect a page via frontmatter) in `CLAUDE.md`, and pre-filled the
   `comments` (giscus) plugin's config structure without enabling it — enabling with empty
@@ -59,6 +65,45 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-07-22-github-source-link-plugin · link the page date stamp to the file on GitHub, not the exact last commit
+- **Context:** The user wanted the per-page date stamp (already shown automatically by Quartz's
+  `content-meta`/`created-modified-date` plugins, git-driven, `priority: [frontmatter, git, filesystem]`)
+  made clickable, so they could confirm which version of a page they were looking at.
+- **Key finding:** `content-meta` and `created-modified-date` are declared in `quartz.config.yaml` with
+  `source: github:quartz-community/...` — Quartz's plugin loader (`quartz/plugins/loader/gitLoader.ts`)
+  fetches these fresh from GitHub into `.quartz/plugins/` (gitignored) on every `npx quartz plugin
+  install`/build. There is no local file in this repo to edit to change their behavior. The loader does
+  support a **local** plugin source (`source: ./relative/path`, symlinked into `.quartz/plugins/` instead
+  of cloned — see `isLocalSource`/`installPlugin` in `gitLoader.ts`), which is the supported extension
+  point for exactly this kind of customization.
+- **Options:**
+  - A) Make the date link to the exact commit that last touched the file — needs a new build-time
+    git-log-per-file lookup (a transformer plugin) plus a replacement display component.
+  - B) Add a separate small link, "View source on GitHub", pointing at the file's page on `main` —
+    computed directly from `fileData.relativePath` (already set by Quartz's own markdown parser), no git
+    shell-out needed.
+  - C) Leave the date as plain text.
+- **Decision:** B, per the user's explicit choice after being shown the real cost of A.
+- **Why:** A requires new git-lookup code this session could not fully test before it would touch the
+  live build (no `node_modules` installed in this sandbox at the point the choice was made). Getting a
+  static site generator's build pipeline wrong is a real, hard-to-reverse risk to the live site. B needed
+  no git lookup at all, so it could be fully built and verified locally before ever pushing: ran `npm ci`
+  (worked fine through the sandbox's proxy), `npx quartz build`, and confirmed both the rendered HTML and
+  that the resulting GitHub URLs actually 200 — including a path with spaces (`House Rules.md` →
+  `House%20Rules.md`, correctly percent-encoded). From the linked GitHub file page, a reader is still one
+  click away ("History") from every past version, just not the single most-recent commit's diff directly.
+- **Status:** Active.
+- **Consequence:** `local-plugins/github-source-link/` is now the pattern for any future same-repo Quartz
+  customization. Notes for next time: (1) the plugin's `package.json` needs a `quartz` manifest field
+  (`category: "component"`, `components: {...}`, `defaultOptions`) for the loader to recognize and
+  register it; `quartz.config.yaml` then references it via `source: ./local-plugins/<name>` with a
+  `layout` block exactly like any external plugin. (2) The loader's subpath-export fallback (used to find
+  a plugin's `components` module) only looks for compiled `.js` candidates unless the plugin's
+  `package.json` declares an explicit `exports` map — this plugin's component is plain `.js` using
+  `preact`'s `h()` directly (no JSX) specifically to avoid needing that; a future local plugin wanting
+  JSX/`.tsx` will need an explicit `exports["./components"]` entry pointing at the `.tsx` file. A true
+  "link to the exact last commit" version remains undone — logged as an open item in `TASKS.md`.
 
 ## D-2026-07-21-fix-draft-frontmatter-field · `status: draft` doesn't hide a page — Quartz needs `draft: true`
 - **Context:** The Session 1 recap's frontmatter used a custom `status: draft` / `needs_review: true`

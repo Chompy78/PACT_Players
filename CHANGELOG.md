@@ -3,6 +3,19 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-07-22 · Added a GitHub source-link under each page's date stamp** — new local Quartz plugin
+  (`local-plugins/github-source-link/`) adds a small "View source on GitHub" line under the existing
+  date/read-time stamp, linking to that page's Markdown file on `main`. Built and build-verified locally
+  (`npx quartz build`, checked the rendered HTML and that the resulting GitHub URLs 200) before pushing —
+  see `D-2026-07-22-github-source-link-plugin` for why this links to the file rather than its exact last
+  commit.
+- **2026-07-22 · Added the campaign pitch and character-advancement pages; consolidated Chapter 1
+  handouts** — new `content/00_Campaign/Campaign_Pitch.md` ("No One Stays a Child") and
+  `content/00_Campaign/Character_Advancement.md`, both linked from the homepage, the Arc01 Prelude index,
+  and the Campaign Reference index. `Chapter_1/index.md` now inlines its handouts — including the
+  previously-orphaned `The cubby.png` (flagged in `D-2026-07-21-handout-image-orientation-width`'s
+  Consequence note) — instead of linking out to a separate page, matching Chapter 2's format; removed
+  Chapter 2's redundant standalone stub pages (`funeral-notice.md`, `market (1).md`) in the same pass.
 - **2026-07-21 · docs(tooling): light-ported PACT's log-as-you-go pattern** — added `CHANGELOG.md`
   (this file), `DECISIONS.md`, and 4 adapted `.claude/commands/*.md` skills (`add-task`, `close-session`,
   `cold-plan-review`, `log-lesson`), ported from `chompy78/PACT` and light-touch compared to the full

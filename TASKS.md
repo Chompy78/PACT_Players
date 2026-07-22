@@ -9,6 +9,13 @@ Source: John's "PACT Player Agent Fast-Path Plan".
 
 ## Open
 
+- **Link the page date stamp to the exact last-touching commit, not just the file.** Currently
+  `local-plugins/github-source-link/` links each page's "View source on GitHub" line to the file on
+  `main` (see `D-2026-07-22-github-source-link-plugin`) — one click from full history via GitHub's own
+  "History" button, but not the exact commit diff. Doing that properly needs a build-time
+  git-log-per-file lookup (a new transformer plugin) plus a replacement date component; deferred pending
+  a session that can install dependencies and test the full build end-to-end before it touches the live
+  site.
 - **Decide when Session 1's recap goes player-facing.** `content/Arc01_prelude/Session_recaps/session-01-recap.md`
   currently has `draft: true` (the actual field Quartz's `RemoveDrafts` plugin checks — see
   `D-2026-07-21-fix-draft-frontmatter-field` in `DECISIONS.md`; the pre-existing `status: draft` /
