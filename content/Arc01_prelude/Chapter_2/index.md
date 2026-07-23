@@ -2,8 +2,6 @@
 title: "Ch. 2: Market Day"
 ---
 
-No player-facing handouts have been added yet.
-
 ## AmbleMarketFair Cloth Stall
 
 ![[AmbleMarketFair-Cloth-Stall.png|AmbleMarketFair Cloth Stall|750]]
