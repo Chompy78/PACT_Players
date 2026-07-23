@@ -18,3 +18,7 @@ noStubPages: true
 ## Woodline
 
 ![[Woodline.jpg|Woodline|750]]
+
+## Village Map
+
+![[village-map.png|Village Map|750]]
