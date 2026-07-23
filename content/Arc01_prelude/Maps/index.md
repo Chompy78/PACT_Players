@@ -1,5 +1,6 @@
 ---
 title: Maps
+noStubPages: true
 ---
 
 ## Amble Village

@@ -10,6 +10,8 @@ The Prelude is the story of growing up in Amble, when the whole world seemed sma
 
 **A note on character advancement:** your character isn't locked into a class progression — you earn Advancement Points and spend them on what fits your character. [[00_Campaign/Character_Advancement|Read more]].
 
+**Before Session 1:** read your [[Arc01_prelude/Shared-History-Handout|Shared History]] — three memories your characters share, worth printing and keeping beside your character sheet.
+
 ## Arc-wide Handouts
 
 - [[Arc01_prelude/NPCs/index|NPCs]]

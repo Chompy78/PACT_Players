@@ -9,6 +9,8 @@ description: Handouts, maps, and lore revealed during play
 
 **A note on character advancement:** your character isn't locked into a class progression — you earn Advancement Points and spend them on what fits your character. [[00_Campaign/Character_Advancement|Read more]].
 
+**Before Session 1:** read your [[Arc01_prelude/Shared-History-Handout|Shared History]] — three memories your characters share, worth printing and keeping beside your character sheet.
+
 Welcome to the PACT Archive. Here you'll find the maps, sketches, stories, and odd little discoveries your characters uncover as they grow up in and around the village of Amble. Some pages may feel familiar, some may raise new questions, and many secrets are still waiting to be revealed — but every piece belongs to the story you've lived together.
 
 ## Campaign

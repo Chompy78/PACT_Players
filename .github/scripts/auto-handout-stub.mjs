@@ -6,6 +6,14 @@
 // skipped — use that marker for banners, composites, or anything meant to be
 // embedded elsewhere instead of getting its own page.
 //
+// Folders whose index.md has `noStubPages: true` in its frontmatter get the
+// inline index.md embed ONLY — no standalone per-image .md page. Without this,
+// every new image gets both a standalone page AND an inline embed, and Quartz's
+// folder-page plugin then auto-lists those standalone pages as a "N items
+// under this folder" block at the bottom of the index page — pure clutter for
+// a folder that already shows everything inline (confirmed live: this exact
+// thing happened in Chapter_1 and NPCs after new images landed there).
+//
 // Embeds carry an explicit width based on orientation (750 for landscape/
 // square, 500 for portrait) — matches the site-wide sizing convention (see
 // DECISIONS.md): a flat width for every orientation makes portrait images
@@ -35,6 +43,17 @@ function titleCase(stem) {
     .split(/\s+/)
     .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
     .join(" ")
+}
+
+// Minimal frontmatter check — just looking for a top-level `noStubPages: true`
+// line between the opening/closing `---` fences. Not a full YAML parser (this
+// repo's frontmatter is simple enough not to need one).
+function folderOptsOutOfStubPages(indexPath) {
+  if (!existsSync(indexPath)) return false
+  const content = readFileSync(indexPath, "utf8")
+  const match = content.match(/^---\n([\s\S]*?)\n---/)
+  if (!match) return false
+  return /^noStubPages:\s*true\s*$/m.test(match[1])
 }
 
 // Minimal, dependency-free PNG/JPEG dimension readers (no `npm ci` needed in
@@ -94,7 +113,8 @@ const targets = readFileSync(manifestPath, "utf8")
   .filter((f) => IMAGE_EXTS.has(path.extname(f).toLowerCase()))
   .filter((f) => existsSync(f))
 
-const created = []
+const createdPages = []
+const indexOnlyEmbeds = []
 
 for (const imgPath of targets) {
   const dir = path.dirname(imgPath)
@@ -103,8 +123,11 @@ for (const imgPath of targets) {
 
   if (base.toLowerCase().includes(SKIP_MARKER)) continue
 
+  const indexPath = path.join(dir, "index.md")
+  const noStub = folderOptsOutOfStubPages(indexPath)
   const mdPath = path.join(dir, `${stem}.md`)
-  if (existsSync(mdPath)) continue
+
+  if (!noStub && existsSync(mdPath)) continue
 
   const title = titleCase(stem)
   const width = imageWidthFor(imgPath)
@@ -113,26 +136,33 @@ for (const imgPath of targets) {
   // regex, not just docs, before relying on it here.
   const embed = width ? `![[${base}|${title}|${width}]]` : `![[${base}|${title}]]`
 
-  writeFileSync(mdPath, `# ${title}\n\n${embed}\n`)
-  created.push({ dir, stem, base, title, mdPath })
+  if (!noStub) {
+    writeFileSync(mdPath, `# ${title}\n\n${embed}\n`)
+    createdPages.push({ dir, stem, base, title, mdPath })
+  }
 
   // Best-effort: embed the image inline in the folder's index.md, if one
   // exists, and it doesn't already reference this file. Append-only — never
-  // rewrites existing content. Matches the existing inline-embed pattern used
-  // for images that don't get their own linked-to page.
-  const indexPath = path.join(dir, "index.md")
+  // rewrites existing content.
   if (existsSync(indexPath)) {
     const indexContent = readFileSync(indexPath, "utf8")
     if (!indexContent.includes(`[[${base}`) && !indexContent.includes(`[[${stem}`)) {
       writeFileSync(indexPath, indexContent.replace(/\n*$/, "\n") + `\n## ${title}\n\n${embed}\n`)
+      if (noStub) indexOnlyEmbeds.push({ dir, base, title, indexPath })
     }
   }
 }
 
-if (created.length === 0) {
+if (createdPages.length === 0 && indexOnlyEmbeds.length === 0) {
   console.log("No new images need handout pages.")
   process.exit(0)
 }
 
-console.log(`Created ${created.length} handout page(s):`)
-for (const c of created) console.log(` - ${c.mdPath}`)
+if (createdPages.length > 0) {
+  console.log(`Created ${createdPages.length} handout page(s):`)
+  for (const c of createdPages) console.log(` - ${c.mdPath}`)
+}
+if (indexOnlyEmbeds.length > 0) {
+  console.log(`Added ${indexOnlyEmbeds.length} inline embed(s) (noStubPages folder, no standalone page):`)
+  for (const c of indexOnlyEmbeds) console.log(` - ${c.indexPath} (${c.title})`)
+}
