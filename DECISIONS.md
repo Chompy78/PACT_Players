@@ -6,6 +6,13 @@
 
 ## Index
 
+- **D-2026-07-23-shared-history-handout-format** — A richly-styled standalone HTML handout (custom
+  fonts, parchment theme, print stylesheet) needed adding to the site. Raw `.html` turned out to be
+  non-viable — confirmed Quartz strips the `.html` extension when copying it as a static asset, which
+  would break correct rendering on GitHub Pages. Rendered it via headless Chromium instead: a screenshot
+  (image, matching every other handout on the site) plus a PDF (matching the design's own "print this"
+  instruction; confirmed `.pdf` keeps its extension and resolves correctly via Quartz wikilinks, unlike
+  `.html`). See full entry.
 - **D-2026-07-23-auto-rename-underscore-filenames** — The pipeline now auto-renames underscores to
   hyphens for any newly added image before creating its stub page, instead of relying on
   `check-filenames.yml` to catch it after the fact and a human to fix it manually — confirmed necessary
@@ -70,6 +77,44 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-07-23-shared-history-handout-format · render a standalone HTML handout as image + PDF, not raw HTML
+- **Context:** John supplied a "Shared History" player handout as a self-contained `.html` file with
+  custom Google Fonts, a parchment theme, and its own `@media print` stylesheet ("Print this and keep it
+  beside your character sheet"). Needed to decide how to actually host this on a Quartz/GitHub Pages
+  site where every other handout is a plain image.
+- **Verification, not assumption:** copied the file into `content/` and ran a real local build before
+  deciding anything. Confirmed via byte-for-byte diff that Quartz copies `.html` files verbatim as a
+  static asset (content unchanged) — but it emits the file with **no extension**
+  (`shared-history-test.html` → served at `.../shared-history-test`), because Quartz's own path handling
+  treats `.html`-suffixed paths as page slugs (matching its own emitted output), not as opaque static
+  assets. An extension-less file won't reliably get a `text/html` content-type from GitHub Pages' static
+  file server, so a reader's browser would likely download or mis-render it rather than display it.
+  Separately confirmed `.pdf` does NOT have this problem: a real wikilink (`[[file.pdf|Download]]`) to a
+  test PDF resolved to `.../file.pdf` with the extension intact, verified in the built HTML's `<a href>`.
+- **Options:**
+  - A) Host the raw `.html` file directly — ruled out by the verification above.
+  - B) Manually rebuild the handout as a plain Quartz Markdown page, using the site's own typography —
+    loses the bespoke parchment/font design entirely.
+  - C) Render the HTML with headless Chromium (already available in this environment) to a screenshot
+    image for on-site display, matching how every other handout works.
+  - D) Also render a PDF via the same headless browser, using the design's own print stylesheet, and
+    link to it as a downloadable/printable file.
+- **Decision:** C and D together — an image for in-page viewing plus a linked PDF for the explicit
+  print-and-keep use case, on one new handout page.
+- **Why:** Option A is simply broken. Option B throws away real design work (fonts, parchment texture,
+  layout) the handout was deliberately given, for no benefit. C alone would satisfy "look right on the
+  site" but lose the crisp/selectable/printable text the design explicitly asks for; D alone would
+  satisfy the print use case but not match the image-based convention every other handout on this site
+  follows. Doing both costs nothing extra (both render from the same source in one headless-browser
+  pass) and serves both use cases properly instead of picking one at the expense of the other.
+- **Status:** Active.
+- **Consequence:** This is the first `.pdf` asset and the first "image + downloadable" pattern on this
+  site — worth following the same approach (render via headless Chromium, image for display + PDF for
+  print) for any future handout that arrives as a standalone styled HTML file rather than a plain image.
+  Placed as an arc-wide loose file under `content/Arc01_prelude/` (pre-Session-1 shared backstory, not
+  tied to a specific chapter) rather than inside a `Chapter_N/` folder, per this repo's existing
+  arc-wide-vs-chapter-specific content rule in `CLAUDE.md`.
 
 ## D-2026-07-23-auto-rename-underscore-filenames · auto-fix underscore image filenames instead of catching them after the fact
 - **Context:** `D-2026-07-21-filename-lint-check` added `check-filenames.yml` to catch (not fix) three
