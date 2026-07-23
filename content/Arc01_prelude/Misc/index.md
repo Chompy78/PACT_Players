@@ -2,6 +2,4 @@
 title: Misc
 ---
 
-## Kids Tree House
-
-![[Kids Tree House.jpg|Kids Tree House|500]]
+No player-facing handouts have been added yet.
