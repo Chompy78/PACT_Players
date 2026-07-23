@@ -41,6 +41,9 @@ jobs:
           echo "Newly added images in this push:"
           cat /tmp/added-images.txt
 
+      - name: Rename any unsafe filenames (underscores -> hyphens)
+        run: node .github/scripts/rename-unsafe-filenames.mjs /tmp/added-images.txt
+
       - name: Optimize newly added images
         run: node .github/scripts/optimize-images.mjs /tmp/added-images.txt
 
@@ -50,5 +53,5 @@ jobs:
       - name: Commit and push if anything changed
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "Auto: optimize new images, add handout stub pages"
+          commit_message: "Auto: fix filenames, optimize new images, add handout stub pages"
           file_pattern: content
