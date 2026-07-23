@@ -6,6 +6,11 @@
 
 ## Index
 
+- **D-2026-07-23-auto-rename-underscore-filenames** — The pipeline now auto-renames underscores to
+  hyphens for any newly added image before creating its stub page, instead of relying on
+  `check-filenames.yml` to catch it after the fact and a human to fix it manually — confirmed necessary
+  the same day when 3 new NPC portraits landed with underscore names and needed exactly that manual fix.
+  See full entry.
 - **D-2026-07-22-github-source-link-plugin** — Added a local (in-repo) Quartz component plugin that
   links each page's date stamp area to that page's Markdown file on GitHub, after discovering the
   existing date stamp is rendered by plugins fetched fresh from GitHub into a gitignored cache on every
@@ -65,6 +70,34 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-07-23-auto-rename-underscore-filenames · auto-fix underscore image filenames instead of catching them after the fact
+- **Context:** `D-2026-07-21-filename-lint-check` added `check-filenames.yml` to catch (not fix) three
+  documented Quartz filename footguns. The same day this repo saw real use: 3 new NPC portraits
+  (`Portrait_1_Wren_Age_7_Session_1.png`, etc.) landed via the auto-handout pipeline with underscore
+  names, `check-filenames.yml` correctly failed on that push, and fixing it required a manual follow-up
+  commit (renaming the images, the generated stub pages, and the `NPCs/index.md` links by hand).
+- **Options:**
+  - A) Leave it as a catch-and-report check — a human always fixes it manually afterward, as just
+    happened.
+  - B) Auto-rename underscores to hyphens for newly added images, before the stub-creation step ever
+    runs, so the stub page and index link are correct from the very first commit.
+  - C) Also try to auto-fix `@` and non-ASCII filename problems the same way.
+- **Decision:** B. Kept `@`/non-ASCII as human-fix-only (Option C rejected).
+- **Why:** Underscore -> hyphen has one obviously-correct, safe replacement — nothing is lost or
+  ambiguous. `@` and non-ASCII don't have an equally obvious safe rewrite (what should
+  `café.png` become? `cafe.png`? `caf.png`? — a human's call), so auto-fixing those risks silently
+  mangling a filename someone cared about, which is worse than a loud, catchable failure.
+- **Status:** Active.
+- **Consequence:** `.github/scripts/rename-unsafe-filenames.mjs` runs in `auto-handout.yml` right after
+  the newly-added-images manifest is computed, rewriting both the files on disk and the manifest itself
+  so every later step (`optimize-images.mjs`, `auto-handout-stub.mjs`) operates on the corrected
+  filename. `check-filenames.mjs`'s underscore check was removed — it would now just be permanent noise
+  on a problem that's already fixed within the same pipeline run (verified: re-tested the check against
+  the same synthetic cases used in `D-2026-07-21-filename-lint-check` and confirmed it no longer flags
+  `bad_name.png` while still correctly flagging `photo@2x.png` and `café.png`). Verified the full chain
+  end-to-end locally (rename -> optimize -> stub creation) with a synthetic underscore-named file before
+  merging.
 
 ## D-2026-07-22-github-source-link-plugin · link the page date stamp to the file on GitHub, not the exact last commit
 - **Context:** The user wanted the per-page date stamp (already shown automatically by Quartz's

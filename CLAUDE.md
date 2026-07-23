@@ -27,9 +27,14 @@ Obsidian-flavored Markdown (`[[wikilinks]]`, `![[embeds]]`).
 - **Image filenames are the one exception — avoid underscores in them.** Quartz's wikilink embed
   parser misreads underscore patterns in an image filename as Markdown emphasis and silently fails to
   render the embed (upstream bug, jackyzha0/quartz#2305). Hyphens or spaces are safe for images
-  (`funeral-notice.png`, `market (1).png`); underscores are not. Also avoid accented/non-ASCII
-  characters (known to crash the Quartz builder entirely, jackyzha0/quartz#386) and `@` in filenames
-  (breaks under the GFM plugin, jackyzha0/quartz#2172).
+  (`funeral-notice.png`, `market (1).png`); underscores are not. **This one is auto-corrected** — the
+  auto-handout Action renames underscores to hyphens for any newly added image before it ever creates a
+  stub page, so an underscore-named upload gets silently fixed rather than silently broken. Still worth
+  naming images with hyphens/spaces from the start, since the auto-fix only runs for images that go
+  through the auto-handout pipeline. Also avoid accented/non-ASCII characters (known to crash the
+  Quartz builder entirely, jackyzha0/quartz#386) and `@` in filenames (breaks under the GFM plugin,
+  jackyzha0/quartz#2172) — those two aren't auto-fixed (no safe automatic replacement), so
+  `check-filenames.yml` still fails loudly on them and needs a manual rename.
 - Every folder should have an `index.md` that links to what's inside it —
   this doubles as the page players see and mirrors the Explorer sidebar.
 
