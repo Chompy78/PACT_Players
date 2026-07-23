@@ -1,5 +1,6 @@
 ---
 title: "Ch. 1: The Broken Charm"
+noStubPages: true
 ---
 
 ## Start of Prelude Handout
