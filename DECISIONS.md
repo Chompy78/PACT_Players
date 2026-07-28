@@ -6,6 +6,9 @@
 
 ## Index
 
+- **D-2026-07-28-technical-access-not-scope** — Added a "Technical Access ≠ Scope" section to
+  `CLAUDE.md`, after direct testing on Home AI Server confirmed a session with broad, non-enforced
+  access would cross into a different project's files if asked. See full entry.
 - **D-2026-07-23-nostubpages-frontmatter-flag** — Redundant standalone `.md` stub pages (created
   alongside the inline `index.md` embed for every new image) were surfacing as an unwanted "N items
   under this folder" listing via Quartz's `folder-page` plugin, confirmed live in both Chapter 1 and
@@ -83,6 +86,21 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-07-28-technical-access-not-scope · add a "technical access ≠ scope" rule to CLAUDE.md
+- **Context:** Direct testing on Home AI Server (a different project sharing the AI_templates standard
+  this repo is a light port of) confirmed a real gap: a session with broad, non-enforced filesystem/
+  connector access reasoned it *would* edit a different project's files if asked, since it saw no rule
+  stopping it.
+- **Options:** Leave it as an unstated assumption; or state it explicitly in `CLAUDE.md`, matching the
+  standard-level rule added to AI_templates' `AGENTS_TEMPLATE.md`/`AI_RULES.md` and retrofitted into
+  every other active project's own instructions file.
+- **Decision:** State it explicitly.
+- **Why:** The Home AI Server test showed the assumption doesn't hold — a session without an enforced
+  technical boundary needs to actually be told, not just expected to infer it. This repo has no
+  `AGENTS.md` (see the "no AGENTS.md" note under Log as you go), so the rule goes in `CLAUDE.md` instead,
+  the sole "how to work here" file.
+- **Status:** Active. See AI_templates' `D-2026-07-28-technical-access-not-scope` for the full reasoning.
 
 ## D-2026-07-23-nostubpages-frontmatter-flag · opt a folder out of standalone per-image stub pages
 - **Context:** `auto-handout-stub.mjs` always creates a standalone `.md` page for a new image *and*

@@ -3,6 +3,11 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-07-28 · Added a "Technical Access ≠ Scope" section to CLAUDE.md** — states that an AI session
+  without enforced technical permission-scoping shouldn't read/edit a different project's files unless
+  explicitly asked, after direct testing on Home AI Server showed that assumption doesn't hold on its
+  own. Retrofitted here after it was missed in the initial cross-project rollout. See `DECISIONS.md`
+  D-2026-07-28-technical-access-not-scope.
 - **2026-07-22 · Reshuffled Chapter 1/2 handouts** — moved the "My Summer (by Wren)" handout to Chapter 1
   and renamed it to `My Spring by Wren.png` (matching Ch. 1's now-established spring theme); cleared
   Chapter 2's two remaining handouts (`funeral-notice.png`, `market (1).png`) back to the standard "No
