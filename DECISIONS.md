@@ -6,6 +6,11 @@
 
 ## Index
 
+- **D-2026-07-28-sniff-image-bytes-not-extension** — `H09-fey-creature.png` (Chapter 3) turned out to be
+  JPEG bytes saved with a `.png` extension, silently defeating the pipeline's extension-based dimension
+  reader (no width, no crash — just missing). Fixed by sniffing actual magic bytes (try PNG, fall back to
+  JPEG) regardless of extension; also consolidated Chapter 3 into the `noStubPages` pattern like Chapter
+  2 before it. See full entry.
 - **D-2026-07-28-technical-access-not-scope** — Added a "Technical Access ≠ Scope" section to
   `CLAUDE.md`, after direct testing on Home AI Server confirmed a session with broad, non-enforced
   access would cross into a different project's files if asked. See full entry.
@@ -86,6 +91,26 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-07-28-sniff-image-bytes-not-extension · detect image format from magic bytes, not the file extension
+- **Context:** Chapter 3's new images landed and the pipeline auto-processed them, but
+  `H09-fey-creature.png` came out with no explicit width — everything else got one. Investigated with
+  `file`, not assumption: the file's actual content is JPEG (`JFIF standard 1.01 ... 1536x1024`), despite
+  its `.png` extension. `auto-handout-stub.mjs`'s `imageWidthFor()` picked its parser
+  (`pngSize`/`jpegSize`) based on the file's extension, so a `.png`-named file only ever got the PNG
+  reader tried — which correctly returned nothing for JPEG bytes, silently producing no width rather than
+  an error.
+- **Decision:** Try `pngSize()` first, then fall back to `jpegSize()`, regardless of what the extension
+  says. Verified against the actual mislabeled file before merging: PNG parse returns `null`, JPEG
+  fallback correctly reads `1536x1024` → landscape → `750`.
+- **Why:** A mislabeled file is a real, if uncommon, occurrence (image tools/exports get this wrong
+  sometimes) and the fix costs nothing — trying both parsers is cheap, and content bytes are the actual
+  source of truth, not a filename convention.
+- **Status:** Active.
+- **Consequence:** Manually fixed `H09-fey-creature.png`'s embed to `|750` in both `index.md` and (before
+  it was deleted, see below) its own stub page. Also consolidated Chapter 3 into the `noStubPages`
+  pattern (like Chapter 2 was manually consolidated just before it) — deleted its 7 standalone stub
+  pages, added `noStubPages: true` to `Chapter_3/index.md`, verified 0 items under that folder afterward.
 
 ## D-2026-07-28-technical-access-not-scope · add a "technical access ≠ scope" rule to CLAUDE.md
 - **Context:** Direct testing on Home AI Server (a different project sharing the AI_templates standard

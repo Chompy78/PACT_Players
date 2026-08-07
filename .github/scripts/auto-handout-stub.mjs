@@ -95,7 +95,10 @@ function imageWidthFor(imgPath) {
   } catch {
     return null
   }
-  const size = ext === ".png" ? pngSize(buf) : jpegSize(buf)
+  // Sniff actual magic bytes rather than trusting the extension — a real
+  // mislabeled file (JPEG bytes saved as .png) silently produced no width at
+  // all otherwise. Try PNG first, fall back to JPEG regardless of extension.
+  const size = pngSize(buf) ?? jpegSize(buf)
   if (!size || !size.width || !size.height) return null
   return size.width >= size.height ? LANDSCAPE_WIDTH : PORTRAIT_WIDTH
 }

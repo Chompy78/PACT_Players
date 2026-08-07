@@ -1,8 +1,7 @@
 ---
 title: "Ch. 3: [REDACTED]"
+noStubPages: true
 ---
-
-No player-facing handouts have been added yet.
 
 ## H02 Wrens Nook
 
@@ -26,7 +25,7 @@ No player-facing handouts have been added yet.
 
 ## H09 Fey Creature
 
-![[H09-fey-creature.png|H09 Fey Creature]]
+![[H09-fey-creature.png|H09 Fey Creature|750]]
 
 ## H10 Burned Sketch Fragment
 
