@@ -50,14 +50,4 @@ And Wren — who had spent the whole day proving she belonged with us whether we
 
 We didn't know it yet, but that was the last summer any of it would be this simple.
 
----
 
-- Note on the NPC "old scout": referred to throughout the transcript only descriptively ("Old Man," one
-  possible mishearing "Old Barn") — no proper name is confirmed by Pass 3's canon-correction sheet.
-  Deliberately left un-named here rather than inventing one — **[VERIFY]**. The prose template's own
-  *illustrative, non-canon* Examples 2/3 use "Old Marn" for a similar figure, but that name has not been
-  verified against this real transcript and should not be assumed to be the same NPC.
-- Note on Moral Ledger sequencing: because this session is chronologically earlier than Session 2,
-  `chapters/chapter-02-draft-full-session.md`'s "First Heroic Act" note (Skylar's stampede rescue) is now
-  inaccurate — that's the campaign's *second* logged Heroic Act, not the first. Needs correcting.
-- Source: `play-sessions/play-session-1b/transcripts-final/pass-3-cat1_corrected_dnd_campaign.txt`
