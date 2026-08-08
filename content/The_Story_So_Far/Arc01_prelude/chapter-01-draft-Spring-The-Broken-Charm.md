@@ -55,15 +55,5 @@ And Wren — who had spent the whole day proving she belonged with us whether we
 
 We didn't know it yet, but that was the last summer any of it would be this simple.
 
-
-- ~~Note on the NPC "old scout": referred to throughout the transcript only descriptively ("Old Man," one
-  possible mishearing "Old Barn") — no proper name is confirmed by Pass 3's canon-correction sheet.~~
-  **Resolved:** named "Old Marn" in the prose above — there's already an existing NPC portrait in
-  `Arc01_prelude/NPCs` for "Old Marn, Age 65", which fits the description here (the elderly, "kind,
-  unhurried" adult who watches over the children) closely enough to use rather than inventing an
-  unrelated name.
-- Note on Moral Ledger sequencing: because this session is chronologically earlier than Session 2,
-  `chapters/chapter-02-draft-full-session.md`'s "First Heroic Act" note (Skylar's stampede rescue) is now
-  inaccurate — that's the campaign's *second* logged Heroic Act, not the first. Needs correcting.
-- Source: `play-sessions/play-session-1b/transcripts-final/pass-3-cat1_corrected_dnd_campaign.txt`
+![[chapter-01-the-cubby-tree-ignoremd.jpeg|The cubby, built plank by stolen plank in the tree above the council tree|750]]
 

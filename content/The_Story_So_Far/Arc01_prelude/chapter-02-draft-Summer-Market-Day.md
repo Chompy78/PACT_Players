@@ -25,6 +25,8 @@ Bram didn't say anything back. He just looked like he'd been hit somewhere that 
 
 We left with our families. Behind the old grain store, half-hidden, we saw Bram and his father again, the father doing what he did, Bram absorbing it, the way he always did. Nobody said anything about it. Nobody ever did.
 
+![[chapter-02-maras-funeral-ignoremd.jpeg|Mara's funeral at the shrine|750]]
+
 * * *
 
 Three weeks later the summer market came, and there was still a gap where Mara used to stand — the kind you only noticed if you knew where to look. Wren filled it that summer by working twice as hard as anyone asked her to.
@@ -44,6 +46,8 @@ Not the ordinary bells. The wrong ones — fast, panicked, the kind that meant s
 We watched from Caspian's tree. Five adventurers went out to meet two trolls at the wood line, and it was nothing like the stories Old Piper told. It was ugly. One of the fighters got thrown clean across the clearing with his chest opened up before anyone could blink. A healer's hands lit up gold and closed it again. Someone's magic came out in sparks instead of fire, hitting a troll four times before it noticed. And then the one everyone was shouting for — Captain Vesk, sword too big for anyone sensible to carry — walked up to the second troll like he was annoyed at it, and nearly took its arm off in one motion.
 
 Skylar shot an arrow from the tree. Missed by a mile. Missed again. Got told off by name, in front of everyone, by an adult who definitely used to be a child once and had clearly forgotten it.
+
+![[chapter-02-children-tree-troll-battle-ignoremd.jpeg|Watching the troll battle from Caspian's tree|750]]
 
 It ended, eventually. Not cleanly. There was a lot of blood that wasn't ours and a smell that stayed with us longer than the memory did. One boy near us said he was leaving Amble the day he turned old enough. I didn't say anything. I didn't need to. We were all thinking it.
 
@@ -98,6 +102,8 @@ Skylar threw the lantern.
 I want to say there was a plan behind it. There wasn't. There was a rat on her ankle and a lantern in her hand and twelve years of never once having thought that far ahead.
 
 It hit the side of the shed instead of the rats, and the shed — old, dry, exactly as flammable as an old dry shed left alone for years tends to be — caught immediately. What had been a handful of rats became every rat the shed had ever held, pouring out in every direction at once, and we did the only sensible thing anyone in that situation has ever done. We ran.
+
+![[chapter-02-cart-shed-ignoremd.jpeg|The old cart shed, before the fire|750]]
 
 Skylar went straight home and got into bed still smelling of smoke, which fooled nobody. Her brother knew. Her sister knew. Everybody's little brother, it turned out, knew everything, and most of it wasn't true — by morning the story going round blamed some other girl entirely, over a beauty pageant that had never happened, and everyone believed it without checking, because that's how Amble's rumours had always worked and none of us had thought to question it before.
 

@@ -6,6 +6,13 @@
 
 ## Index
 
+- **D-2026-08-08-chapter-art-ignoremd** — Four new illustrations landed directly on the branch inside
+  `The_Story_So_Far/Arc01_prelude/`, meant to be embedded by hand inside their specific chapter's prose,
+  not auto-handled by the `auto-handout` pipeline (which only runs on `main` anyway, but would create
+  unwanted stub pages/index embeds for them on merge). Renamed all four with the `ignoremd` marker and
+  embedded each manually at its matching scene. Also finished removing chapter 1's GM-only editorial
+  footer notes (the player's own edit to do this had been silently dropped by an intervening merge) and
+  copied its still-relevant content into `TASKS.md` before deleting. See full entry.
 - **D-2026-08-08-restructure-story-so-far-top-level** — Pushed directly by the player: renamed
   `00_Campaign/` to `Amble_Campaign/` (drops the numeric-prefix sort hack — the name itself already
   sorts before the arcs) and promoted `The_Story_So_Far/` from nested inside the campaign folder to a
@@ -103,6 +110,37 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-08-08-chapter-art-ignoremd · manually embed chapter artwork, opt out of the auto-handout pipeline
+
+- **Context:** The player pushed four new illustrations directly into
+  `content/The_Story_So_Far/Arc01_prelude/` (one for chapter 1, three for chapter 2), unmarked. That
+  folder has an `index.md` without `noStubPages: true`, so on merge to `main` the `auto-handout` pipeline
+  would have created a standalone stub page for each image and appended an inline embed to the sessions
+  index — exactly the "N items under this folder" clutter already fixed once for the handout galleries
+  (see `D-2026-07-23-nostubpages-frontmatter-flag`), except here the images are meant to illustrate
+  specific chapters, not sit in a gallery at all.
+  - Separately, the player had tried to delete chapter 1's GM-only footer notes (NPC-naming note,
+    Moral Ledger sequencing note, source-transcript path) in the same push, but that push branched off an
+    older commit; the subsequent merge kept my in-progress edit to that same footer (resolving the NPC
+    name) instead of applying their deletion, so the notes were still present after the merge completed
+    cleanly with no conflict markers.
+- **Decision:** Renamed all four images with the `ignoremd` marker (`chapter-01-the-cubby-tree-ignoremd.jpeg`, etc.)
+  and manually embedded each one inline at its matching scene in the relevant chapter's prose. Finished
+  removing chapter 1's footer notes as the player intended — the NPC-naming note was already resolved and
+  redundant, and the source-transcript path shouldn't ship in player-facing prose. The still-open Moral
+  Ledger sequencing problem was copied into `TASKS.md` before the footer was deleted, so the substance
+  isn't lost, only the internal editorial note.
+- **Why:** `ignoremd` is the repo's existing mechanism for "art meant to be placed by hand inside prose,
+  not auto-handled" (documented in `auto-handout-stub.mjs`'s own header comment) — this is exactly that
+  case. Stripping the footer notes matters because these files will eventually go player-facing (once
+  `draft: true` is lifted) and GM notes/transcript paths shouldn't be part of what ships.
+- **Status:** Active. Verified with a local build: draft filtering still holds (both chapters excluded),
+  the sessions index still shows "0 items under this folder" (no stray stub pages), and all four images
+  render inline at their embed points.
+- **Consequence:** If more chapter art gets added to this folder before `noStubPages: true` is ever added
+  to its `index.md`, it needs the same `ignoremd` treatment — the folder currently relies on every future
+  image following that convention.
 
 ## D-2026-08-08-restructure-story-so-far-top-level · rename campaign folder, promote Story So Far to content root
 
