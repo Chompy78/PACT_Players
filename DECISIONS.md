@@ -6,6 +6,10 @@
 
 ## Index
 
+- **D-2026-08-08-publish-story-so-far-chapters** — Flipped `draft: true` → `false` on both "The Story So
+  Far" chapters at the player's request, publishing them despite the still-open Moral Ledger sequencing
+  question. Deliberate: that issue is a labeling detail in an external document, not anything visible in
+  the published prose, so there's no real cost to publishing before it's resolved. See full entry.
 - **D-2026-08-08-chapter-art-ignoremd** — Four new illustrations landed directly on the branch inside
   `The_Story_So_Far/Arc01_prelude/`, meant to be embedded by hand inside their specific chapter's prose,
   not auto-handled by the `auto-handout` pipeline (which only runs on `main` anyway, but would create
@@ -110,6 +114,25 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-08-08-publish-story-so-far-chapters · publish both chapters despite the open Moral Ledger note
+
+- **Context:** Both chapters were `draft: true`, which meant their links from
+  `The_Story_So_Far/Arc01_prelude/index.md` 404'd on the live site — reported by the player as a bug.
+  Root cause was the deliberate draft gate itself, not an actual build/link error (confirmed with a local
+  build: 0 files filtered once un-drafted, both pages emit, and both links resolve).
+- **Decision:** Flip `draft: false` on both `chapter-01-draft-Spring-The-Broken-Charm.md` and
+  `chapter-02-draft-Summer-Market-Day.md` per the player's explicit "publish it," rather than waiting on
+  the Moral Ledger sequencing fix first.
+- **Why:** The Moral Ledger issue is a "First Heroic Act" mislabel in some external GM-side tracking
+  document — nothing about it is visible in the published chapter prose itself, so publishing now costs
+  nothing and doesn't need to wait on a document whose location isn't even confirmed yet.
+- **Status:** Active. `TASKS.md` still carries the open item to locate and fix the Moral Ledger mislabel.
+- **Consequence:** The "N items under this folder" listing on `The_Story_So_Far/Arc01_prelude/index.md`
+  now shows 2 items (both chapters), duplicating the curated bullet list above it — expected and already
+  accepted in `D-2026-08-08-story-so-far-section`'s reasoning (that folder deliberately has no
+  `noStubPages: true`, since these are real pages meant to be found via the folder listing too, not just
+  the curated links).
 
 ## D-2026-08-08-chapter-art-ignoremd · manually embed chapter artwork, opt out of the auto-handout pipeline
 

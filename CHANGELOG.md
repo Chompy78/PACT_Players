@@ -3,6 +3,12 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-08 · Published both "The Story So Far" chapters** — flipped `draft: true` → `false` on
+  `chapter-01-draft-Spring-The-Broken-Charm.md` and `chapter-02-draft-Summer-Market-Day.md`; the 404s the
+  player hit clicking into them from the sessions index were the draft gate doing its job, not a broken
+  build. Published anyway per explicit request — the still-open Moral Ledger sequencing question is a
+  labeling detail in an external document, nothing visible in the prose itself. See `DECISIONS.md`
+  D-2026-08-08-publish-story-so-far-chapters.
 - **2026-08-08 · Embedded 4 new chapter illustrations, finished removing chapter 1's GM notes** — renamed
   the player's new artwork with the `ignoremd` marker and placed each inline at its matching scene in
   chapter 1/2's prose (avoids the auto-handout pipeline creating stray stub pages for them on merge);
