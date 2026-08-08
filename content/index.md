@@ -5,9 +5,9 @@ description: Handouts, maps, and lore revealed during play
 
 ![[banner.webp|PACT Player Archive banner|750]]
 
-**New here?** Start with [[00_Campaign/Campaign_Pitch|No One Stays a Child]] — the campaign pitch and premise.
+**New here?** Start with [[Amble_Campaign/Campaign_Pitch|No One Stays a Child]] — the campaign pitch and premise.
 
-**A note on character advancement:** your character isn't locked into a class progression — you earn Advancement Points and spend them on what fits your character. [[00_Campaign/Character_Advancement|Read more]].
+**A note on character advancement:** your character isn't locked into a class progression — you earn Advancement Points and spend them on what fits your character. [[Amble_Campaign/Character_Advancement|Read more]].
 
 **Before Session 1:** read your [[Arc01_prelude/Shared-History-Handout|Shared History]] — three memories your characters share, worth printing and keeping beside your character sheet.
 
@@ -15,7 +15,7 @@ Welcome to the PACT Archive. Here you'll find the maps, sketches, stories, and o
 
 ## Campaign
 
-- [[00_Campaign/index|Campaign Reference]]
+- [[Amble_Campaign/index|Campaign Reference]]
 
 ## Prelude
 

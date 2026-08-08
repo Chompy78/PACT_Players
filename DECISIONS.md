@@ -6,6 +6,25 @@
 
 ## Index
 
+- **D-2026-08-08-chapter-art-ignoremd** — Four new illustrations landed directly on the branch inside
+  `The_Story_So_Far/Arc01_prelude/`, meant to be embedded by hand inside their specific chapter's prose,
+  not auto-handled by the `auto-handout` pipeline (which only runs on `main` anyway, but would create
+  unwanted stub pages/index embeds for them on merge). Renamed all four with the `ignoremd` marker and
+  embedded each manually at its matching scene. Also finished removing chapter 1's GM-only editorial
+  footer notes (the player's own edit to do this had been silently dropped by an intervening merge) and
+  copied its still-relevant content into `TASKS.md` before deleting. See full entry.
+- **D-2026-08-08-restructure-story-so-far-top-level** — Pushed directly by the player: renamed
+  `00_Campaign/` to `Amble_Campaign/` (drops the numeric-prefix sort hack — the name itself already
+  sorts before the arcs) and promoted `The_Story_So_Far/` from nested inside the campaign folder to a
+  content-root sibling of the arcs. Added the first two prose chapters (`chapter-01-draft-...`,
+  `chapter-02-draft-...`), set `draft: true` on both since they carry unresolved GM-only verification
+  notes, and fixed every now-broken `00_Campaign/...` wikilink left behind by the rename. See full entry.
+- **D-2026-08-08-story-so-far-section** — Added a campaign-level prose section for hand-written,
+  short-story-format session recaps, kept separate from the per-session `Chapter_N` handout galleries.
+  Named "The Story So Far" (over "Chronicle"/"Tales"/"Campaign Journal"); lives at
+  `content/00_Campaign/The_Story_So_Far/`, grouped into per-arc subfolders reusing the existing
+  `ArcNN_name` convention, with individual entries labeled "Session N: [Title]". Plain Quartz pages, not
+  a custom tabbed HTML page. See full entry.
 - **D-2026-07-28-sniff-image-bytes-not-extension** — `H09-fey-creature.png` (Chapter 3) turned out to be
   JPEG bytes saved with a `.png` extension, silently defeating the pipeline's extension-based dimension
   reader (no width, no crash — just missing). Fixed by sniffing actual magic bytes (try PNG, fall back to
@@ -91,6 +110,98 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-08-08-chapter-art-ignoremd · manually embed chapter artwork, opt out of the auto-handout pipeline
+
+- **Context:** The player pushed four new illustrations directly into
+  `content/The_Story_So_Far/Arc01_prelude/` (one for chapter 1, three for chapter 2), unmarked. That
+  folder has an `index.md` without `noStubPages: true`, so on merge to `main` the `auto-handout` pipeline
+  would have created a standalone stub page for each image and appended an inline embed to the sessions
+  index — exactly the "N items under this folder" clutter already fixed once for the handout galleries
+  (see `D-2026-07-23-nostubpages-frontmatter-flag`), except here the images are meant to illustrate
+  specific chapters, not sit in a gallery at all.
+  - Separately, the player had tried to delete chapter 1's GM-only footer notes (NPC-naming note,
+    Moral Ledger sequencing note, source-transcript path) in the same push, but that push branched off an
+    older commit; the subsequent merge kept my in-progress edit to that same footer (resolving the NPC
+    name) instead of applying their deletion, so the notes were still present after the merge completed
+    cleanly with no conflict markers.
+- **Decision:** Renamed all four images with the `ignoremd` marker (`chapter-01-the-cubby-tree-ignoremd.jpeg`, etc.)
+  and manually embedded each one inline at its matching scene in the relevant chapter's prose. Finished
+  removing chapter 1's footer notes as the player intended — the NPC-naming note was already resolved and
+  redundant, and the source-transcript path shouldn't ship in player-facing prose. The still-open Moral
+  Ledger sequencing problem was copied into `TASKS.md` before the footer was deleted, so the substance
+  isn't lost, only the internal editorial note.
+- **Why:** `ignoremd` is the repo's existing mechanism for "art meant to be placed by hand inside prose,
+  not auto-handled" (documented in `auto-handout-stub.mjs`'s own header comment) — this is exactly that
+  case. Stripping the footer notes matters because these files will eventually go player-facing (once
+  `draft: true` is lifted) and GM notes/transcript paths shouldn't be part of what ships.
+- **Status:** Active. Verified with a local build: draft filtering still holds (both chapters excluded),
+  the sessions index still shows "0 items under this folder" (no stray stub pages), and all four images
+  render inline at their embed points.
+- **Consequence:** If more chapter art gets added to this folder before `noStubPages: true` is ever added
+  to its `index.md`, it needs the same `ignoremd` treatment — the folder currently relies on every future
+  image following that convention.
+
+## D-2026-08-08-restructure-story-so-far-top-level · rename campaign folder, promote Story So Far to content root
+
+- **Context:** The player pushed a restructure directly to this branch (`00_Campaign` → `Amble_Campaign`,
+  `The_Story_So_Far` moved up from nested-in-campaign to a content-root sibling of the arcs) along with
+  the first two prose chapters. Because it landed as a direct push rather than through this session, the
+  rename broke every existing `[[00_Campaign/...]]` wikilink written before the move — `content/index.md`,
+  `Arc01_prelude/index.md`, `Amble_Campaign/index.md`, and `The_Story_So_Far/index.md` all pointed at
+  paths that no longer existed.
+- **Decision:** Fixed every broken link to the new paths, wired the two new chapter files into
+  `The_Story_So_Far/Arc01_prelude/index.md` (which still said "No sessions written up yet"), and added
+  `title`/`draft: true` frontmatter to both chapter files — neither had any frontmatter at all, so without
+  this they'd have built with an ugly filename-derived title and gone player-facing with their GM-only
+  editorial notes still attached (one has an explicit **[VERIFY]** on an NPC name, plus a cross-file
+  sequencing note saying the other chapter's "First Heroic Act" annotation is currently wrong). Also
+  updated `CLAUDE.md`'s content-structure section to stop describing a `00_` numeric-prefix rule that no
+  longer reflects what's actually on disk.
+- **Why:** `Amble_Campaign` sorts before `ArcNN_name` folders on the name alone (`Am` < `Ar`), so the
+  numeric-prefix trick documented in `D-2026-07-19-category-folder-sort-order`'s sibling reasoning wasn't
+  actually load-bearing here — dropping it for a more meaningful name cost nothing. `draft: true` on the
+  new chapters follows the same reasoning as the (now-superseded) Session 1 recap draft gate in
+  `TASKS.md`: unresolved GM notes shouldn't go live by accident just because a file landed in `content/`.
+- **Status:** Active. Verified with a local build: both draft chapters are correctly filtered out (0 in
+  `public/`), the Story So Far → Arc01 → chapter links all resolve, and `Amble_Campaign` still sorts above
+  the arcs in the Explorer sidebar.
+- **Consequence:** The two chapter files stay invisible on the built site until `draft: true` is flipped —
+  do that once the `[VERIFY]` NPC-name note and the Moral Ledger "First Heroic Act" sequencing note (see
+  the note block at the bottom of `chapter-01-draft-Spring-The-Broken-Charm.md`) are resolved.
+
+## D-2026-08-08-story-so-far-section · a campaign-level section for prose session recaps
+
+- **Context:** The player has been writing up each session as a short story — prose narrating the actual
+  adventure, not a rules/handout reference. It needed a home in the site. Initially floated as a single
+  HTML page with tabs per session plus generated artwork. Investigated that option directly: Quartz
+  copies `.html` files as static assets but **strips the `.html` extension on output** (confirmed by
+  building a real test file — same footgun already documented in
+  `D-2026-07-23-shared-history-handout-format`), so a hand-authored tabbed page would need to be treated
+  as an opaque non-Quartz asset, losing search indexing, backlinks, the mobile-responsive shell, and
+  `draft: true` gating that every other page on the site gets for free. Recommended plain Quartz pages
+  instead, one per session.
+- **Naming:** "Chapter" was already taken (the per-session handout-gallery folders, `Chapter_1`–
+  `Chapter_4`) and reusing it for prose would collide in meaning. Considered "Chronicle" (rejected —
+  too formal a tone for the site) and "Tales" (rejected — reads as a disconnected anthology, when these
+  are meant to read as one continuous story). Landed on **"The Story So Far"** for the section, with
+  individual entries labeled **"Session N: [Title]"** rather than "Chapter" or "recap".
+- **Decision:** New section at `content/00_Campaign/The_Story_So_Far/` (campaign level, not nested under
+  one arc, since the story spans arcs) with one subfolder per arc reusing the existing `ArcNN_name`
+  convention (e.g. `Arc01_prelude/`), each holding that arc's `Session_NN.md` entries plus an `index.md`.
+  Linked from both `00_Campaign/index.md` (campaign hub) and `Arc01_prelude/index.md` (arc page), same
+  cross-linking pattern used for the Shared History Handout. Deliberately **no** `noStubPages: true` on
+  the arc-level index — unlike the handout-gallery pattern, these session pages are meant to be found and
+  linked to directly, not just embedded inline, so the folder listing is genuinely wanted here rather
+  than clutter.
+- **Why:** Plain Quartz pages get search, backlinks, `draft: true` gating, and the existing mobile-
+  responsive layout for free — a hand-rolled tabbed HTML page would have to reimplement or forgo all of
+  that, for a cosmetic tab UI Quartz doesn't need in order to read well as connected short chapters.
+- **Status:** Active. Scaffolding only — index pages exist for the section and Arc01 Prelude; no
+  `Session_NN.md` files yet, pending the player's actual prose text.
+- **Consequence:** When session artwork gets added, use the existing `ignoremd` filename marker so the
+  auto-handout pipeline doesn't create an unwanted stub page or inline embed for art meant to be placed
+  by hand inside a session's own prose file.
 
 ## D-2026-07-28-sniff-image-bytes-not-extension · detect image format from magic bytes, not the file extension
 - **Context:** Chapter 3's new images landed and the pipeline auto-processed them, but

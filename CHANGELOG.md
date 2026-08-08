@@ -3,6 +3,23 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-08 · Embedded 4 new chapter illustrations, finished removing chapter 1's GM notes** — renamed
+  the player's new artwork with the `ignoremd` marker and placed each inline at its matching scene in
+  chapter 1/2's prose (avoids the auto-handout pipeline creating stray stub pages for them on merge);
+  completed removing chapter 1's editorial footer notes (a merge had silently kept them after the
+  player's own delete), copying the still-open Moral Ledger sequencing question into `TASKS.md` first.
+  See `DECISIONS.md` D-2026-08-08-chapter-art-ignoremd.
+- **2026-08-08 · Renamed 00_Campaign to Amble_Campaign, promoted The Story So Far to content root, added
+  the first two prose chapters** — player pushed the restructure directly; fixed the resulting broken
+  `00_Campaign/...` links across `content/index.md`, `Arc01_prelude/index.md`, `Amble_Campaign/index.md`,
+  and `The_Story_So_Far/index.md`, wired in `chapter-01-draft-Spring-The-Broken-Charm.md` and
+  `chapter-02-draft-Summer-Market-Day.md` (both set `draft: true` — unresolved GM verification notes),
+  and updated `CLAUDE.md`'s stale `00_` prefix rule. See `DECISIONS.md`
+  D-2026-08-08-restructure-story-so-far-top-level.
+- **2026-08-08 · Added "The Story So Far" — a campaign-level section for prose session recaps** —
+  `content/00_Campaign/The_Story_So_Far/` with per-arc subfolders (`Arc01_prelude/` first), separate from
+  the `Chapter_N` handout galleries. Linked from `00_Campaign/index.md` and `Arc01_prelude/index.md`.
+  Scaffolding only — no session prose written up yet. See `DECISIONS.md` D-2026-08-08-story-so-far-section.
 - **2026-07-28 · Added a "Technical Access ≠ Scope" section to CLAUDE.md** — states that an AI session
   without enforced technical permission-scoping shouldn't read/edit a different project's files unless
   explicitly asked, after direct testing on Home AI Server showed that assumption doesn't hold on its
