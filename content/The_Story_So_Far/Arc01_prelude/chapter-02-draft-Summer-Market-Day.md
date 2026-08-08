@@ -1,6 +1,6 @@
 ---
 title: "Summer: Market Day"
-draft: true
+draft: false
 ---
 
 # Chapter 2 — Twelve
