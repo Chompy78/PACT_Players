@@ -8,4 +8,4 @@ handout gallery (see each arc's `Chapter_N` folders for those); this is the actu
 
 ## Arc01: Prelude
 
-- [[00_Campaign/The_Story_So_Far/Arc01_prelude/index|Sessions]]
+- [[The_Story_So_Far/Arc01_prelude/index|Sessions]]

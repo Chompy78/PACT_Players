@@ -6,9 +6,19 @@ Obsidian-flavored Markdown (`[[wikilinks]]`, `![[embeds]]`).
 
 ## Content structure
 
-- `content/00_Campaign/` — campaign-wide reference material (world map, house
-  rules, roster). The `00_` prefix pins it above the arcs in Quartz's
-  alphabetically-sorted explorer sidebar.
+- `content/Amble_Campaign/` — campaign-wide reference material (world map,
+  house rules, roster). Named after the campaign's home village so it sorts
+  above the arcs in Quartz's alphabetically-sorted explorer sidebar without
+  needing a numeric prefix (was `00_Campaign/` until 2026-08-08; renamed for a
+  more meaningful name — see `D-2026-08-08-restructure-story-so-far-top-level`
+  in `DECISIONS.md`). If this folder is ever renamed again, check its sort
+  position stays above `ArcNN_name` and `The_Story_So_Far`.
+- `content/The_Story_So_Far/` — the campaign told as connected prose short
+  stories, one per session, grouped into per-arc subfolders that reuse the
+  `ArcNN_name` convention below (e.g. `The_Story_So_Far/Arc01_prelude/`).
+  Deliberately separate from each arc's `Chapter_N` folders, which are
+  player-facing handout galleries, not prose — see
+  `D-2026-08-08-story-so-far-section` in `DECISIONS.md`.
 - `content/ArcNN_name/` — one folder per arc, e.g. `Arc01_prelude`,
   `Arc02_among_strangers`. Rename the folder's `name` suffix once an arc gets
   its real title (keep the `ArcNN_` numeric prefix for sort order).

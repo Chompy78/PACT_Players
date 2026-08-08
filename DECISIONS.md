@@ -6,6 +6,12 @@
 
 ## Index
 
+- **D-2026-08-08-restructure-story-so-far-top-level** — Pushed directly by the player: renamed
+  `00_Campaign/` to `Amble_Campaign/` (drops the numeric-prefix sort hack — the name itself already
+  sorts before the arcs) and promoted `The_Story_So_Far/` from nested inside the campaign folder to a
+  content-root sibling of the arcs. Added the first two prose chapters (`chapter-01-draft-...`,
+  `chapter-02-draft-...`), set `draft: true` on both since they carry unresolved GM-only verification
+  notes, and fixed every now-broken `00_Campaign/...` wikilink left behind by the rename. See full entry.
 - **D-2026-08-08-story-so-far-section** — Added a campaign-level prose section for hand-written,
   short-story-format session recaps, kept separate from the per-session `Chapter_N` handout galleries.
   Named "The Story So Far" (over "Chronicle"/"Tales"/"Campaign Journal"); lives at
@@ -97,6 +103,34 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-08-08-restructure-story-so-far-top-level · rename campaign folder, promote Story So Far to content root
+
+- **Context:** The player pushed a restructure directly to this branch (`00_Campaign` → `Amble_Campaign`,
+  `The_Story_So_Far` moved up from nested-in-campaign to a content-root sibling of the arcs) along with
+  the first two prose chapters. Because it landed as a direct push rather than through this session, the
+  rename broke every existing `[[00_Campaign/...]]` wikilink written before the move — `content/index.md`,
+  `Arc01_prelude/index.md`, `Amble_Campaign/index.md`, and `The_Story_So_Far/index.md` all pointed at
+  paths that no longer existed.
+- **Decision:** Fixed every broken link to the new paths, wired the two new chapter files into
+  `The_Story_So_Far/Arc01_prelude/index.md` (which still said "No sessions written up yet"), and added
+  `title`/`draft: true` frontmatter to both chapter files — neither had any frontmatter at all, so without
+  this they'd have built with an ugly filename-derived title and gone player-facing with their GM-only
+  editorial notes still attached (one has an explicit **[VERIFY]** on an NPC name, plus a cross-file
+  sequencing note saying the other chapter's "First Heroic Act" annotation is currently wrong). Also
+  updated `CLAUDE.md`'s content-structure section to stop describing a `00_` numeric-prefix rule that no
+  longer reflects what's actually on disk.
+- **Why:** `Amble_Campaign` sorts before `ArcNN_name` folders on the name alone (`Am` < `Ar`), so the
+  numeric-prefix trick documented in `D-2026-07-19-category-folder-sort-order`'s sibling reasoning wasn't
+  actually load-bearing here — dropping it for a more meaningful name cost nothing. `draft: true` on the
+  new chapters follows the same reasoning as the (now-superseded) Session 1 recap draft gate in
+  `TASKS.md`: unresolved GM notes shouldn't go live by accident just because a file landed in `content/`.
+- **Status:** Active. Verified with a local build: both draft chapters are correctly filtered out (0 in
+  `public/`), the Story So Far → Arc01 → chapter links all resolve, and `Amble_Campaign` still sorts above
+  the arcs in the Explorer sidebar.
+- **Consequence:** The two chapter files stay invisible on the built site until `draft: true` is flipped —
+  do that once the `[VERIFY]` NPC-name note and the Moral Ledger "First Heroic Act" sequencing note (see
+  the note block at the bottom of `chapter-01-draft-Spring-The-Broken-Charm.md`) are resolved.
 
 ## D-2026-08-08-story-so-far-section · a campaign-level section for prose session recaps
 

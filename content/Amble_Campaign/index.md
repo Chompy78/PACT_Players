@@ -9,4 +9,4 @@ Handouts and reference material that apply to the entire campaign, not just one 
 - [[Character_Advancement|A Note on Character Advancement]]
 - [[World Map]]
 - [[House Rules]]
-- [[00_Campaign/The_Story_So_Far/index|The Story So Far]] — the campaign told as connected short stories, one per session
+- [[The_Story_So_Far/index|The Story So Far]] — the campaign told as connected short stories, one per session

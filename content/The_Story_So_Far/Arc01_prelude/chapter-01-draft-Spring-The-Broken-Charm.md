@@ -1,3 +1,8 @@
+---
+title: "Spring: The Broken Charm"
+draft: true
+---
+
 # Chapter 1 — The Council Tree
 
 Looking back, none of us should have been heroes. Not that we were trying to be. Heroes are brave, heroes are wise, heroes make sensible decisions — and at eight years old, we were none of those things.
@@ -30,7 +35,7 @@ By then we'd half forgotten the charm anyway, because Wren had seen something in
 
 We watched from a tree for most of the afternoon. Wren wouldn't leave. Neither would Skylar, mostly to keep Wren company, though she'd never have admitted that was the actual reason. When the creature finally crept back for the meat we'd left out, it turned out to be small, fox-shaped, deer-shaped, neither, limping badly on one leg. Fenwick called it a ghost. It wasn't a ghost.
 
-The grown-ups had their own plan for it. A hunting party was already tracking it through the wood line, certain it was the thing killing sheep, and not especially interested in whether it was hurt first. We told the old scout who watched over us most days — kind, unhurried, about the only adult in Amble who ever really listened when we talked — and he gave us until nightfall to prove we were right about it before the hunters found it themselves. It felt, for the first time that day, like something that actually mattered.
+The grown-ups had their own plan for it. A hunting party was already tracking it through the wood line, certain it was the thing killing sheep, and not especially interested in whether it was hurt first. We told Old Marn, the scout who watched over us most days — kind, unhurried, about the only adult in Amble who ever really listened when we talked — and he gave us until nightfall to prove we were right about it before the hunters found it themselves. It felt, for the first time that day, like something that actually mattered.
 
 * * *
 
@@ -40,7 +45,7 @@ Fenwick went for it with a stick before Skylar hauled him back by the collar. Th
 
 * * *
 
-In the morning the old scout came and knelt beside it and put one hand against its side, and a warm blue light passed between his palm and its fur, and he told us it would heal clean. He said we'd done a good deed. He also said, in the way adults say things they don't quite mean as a joke, that it might remember us for it, one day, if we ever needed it to.
+In the morning Old Marn came and knelt beside it and put one hand against its side, and a warm blue light passed between his palm and its fur, and he told us it would heal clean. He said we'd done a good deed. He also said, in the way adults say things they don't quite mean as a joke, that it might remember us for it, one day, if we ever needed it to.
 
 We carried it back out to the wood line ourselves — Skylar and Moss, mostly, because it had stopped flinching from them — and let it go. It licked Skylar's hand once before it ran, which none of us have ever quite let her live down.
 
@@ -50,4 +55,15 @@ And Wren — who had spent the whole day proving she belonged with us whether we
 
 We didn't know it yet, but that was the last summer any of it would be this simple.
 
+
+- ~~Note on the NPC "old scout": referred to throughout the transcript only descriptively ("Old Man," one
+  possible mishearing "Old Barn") — no proper name is confirmed by Pass 3's canon-correction sheet.~~
+  **Resolved:** named "Old Marn" in the prose above — there's already an existing NPC portrait in
+  `Arc01_prelude/NPCs` for "Old Marn, Age 65", which fits the description here (the elderly, "kind,
+  unhurried" adult who watches over the children) closely enough to use rather than inventing an
+  unrelated name.
+- Note on Moral Ledger sequencing: because this session is chronologically earlier than Session 2,
+  `chapters/chapter-02-draft-full-session.md`'s "First Heroic Act" note (Skylar's stampede rescue) is now
+  inaccurate — that's the campaign's *second* logged Heroic Act, not the first. Needs correcting.
+- Source: `play-sessions/play-session-1b/transcripts-final/pass-3-cat1_corrected_dnd_campaign.txt`
 

@@ -16,12 +16,16 @@ Source: John's "PACT Player Agent Fast-Path Plan".
   git-log-per-file lookup (a new transformer plugin) plus a replacement date component; deferred pending
   a session that can install dependencies and test the full build end-to-end before it touches the live
   site.
-- **Write up Session 1 in "The Story So Far".** The section now exists (see
-  `D-2026-08-08-story-so-far-section`) at `content/00_Campaign/The_Story_So_Far/Arc01_prelude/`, but no
-  `Session_NN.md` files exist yet — pending the actual prose text. When adding it, decide whether it
-  needs `draft: true` for a review pass before going player-facing (see
-  `D-2026-07-21-fix-draft-frontmatter-field` — that's the field that actually hides a page, not a custom
-  `status:` field).
+- **Resolve the remaining open note in the "The Story So Far" chapter drafts, then flip `draft: true`
+  off.** `content/The_Story_So_Far/Arc01_prelude/chapter-01-draft-Spring-The-Broken-Charm.md` and
+  `chapter-02-draft-Summer-Market-Day.md` are both still `draft: true` (hidden from the built site). The
+  "old scout" NPC naming is resolved (named "Old Marn", matching the existing NPC portrait in
+  `Arc01_prelude/NPCs`). Still open: chapter 1's note references a "Moral Ledger" annotation in an
+  external/GM-side source file (`chapters/chapter-02-draft-full-session.md` — not part of this repo)
+  labeling Skylar's stampede rescue as the campaign's "First Heroic Act." Since chapter 1's fey-creature
+  rescue is chronologically earlier, that labeling needs correcting wherever the actual Moral Ledger
+  tracking lives — location TBD, not something in this repo to fix directly. Once resolved, flip
+  `draft: false` on both files. See `D-2026-08-08-restructure-story-so-far-top-level`.
 - **Optional: add `content/player-agent.md`.** A short player-facing page explaining what the PACT Player
   Agent knows and good example questions to ask, once that agent exists and works (see the home-server
   task board). Not needed until then.
