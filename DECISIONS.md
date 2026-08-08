@@ -6,6 +6,12 @@
 
 ## Index
 
+- **D-2026-08-08-story-so-far-section** — Added a campaign-level prose section for hand-written,
+  short-story-format session recaps, kept separate from the per-session `Chapter_N` handout galleries.
+  Named "The Story So Far" (over "Chronicle"/"Tales"/"Campaign Journal"); lives at
+  `content/00_Campaign/The_Story_So_Far/`, grouped into per-arc subfolders reusing the existing
+  `ArcNN_name` convention, with individual entries labeled "Session N: [Title]". Plain Quartz pages, not
+  a custom tabbed HTML page. See full entry.
 - **D-2026-07-28-sniff-image-bytes-not-extension** — `H09-fey-creature.png` (Chapter 3) turned out to be
   JPEG bytes saved with a `.png` extension, silently defeating the pipeline's extension-based dimension
   reader (no width, no crash — just missing). Fixed by sniffing actual magic bytes (try PNG, fall back to
@@ -91,6 +97,39 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-08-08-story-so-far-section · a campaign-level section for prose session recaps
+
+- **Context:** The player has been writing up each session as a short story — prose narrating the actual
+  adventure, not a rules/handout reference. It needed a home in the site. Initially floated as a single
+  HTML page with tabs per session plus generated artwork. Investigated that option directly: Quartz
+  copies `.html` files as static assets but **strips the `.html` extension on output** (confirmed by
+  building a real test file — same footgun already documented in
+  `D-2026-07-23-shared-history-handout-format`), so a hand-authored tabbed page would need to be treated
+  as an opaque non-Quartz asset, losing search indexing, backlinks, the mobile-responsive shell, and
+  `draft: true` gating that every other page on the site gets for free. Recommended plain Quartz pages
+  instead, one per session.
+- **Naming:** "Chapter" was already taken (the per-session handout-gallery folders, `Chapter_1`–
+  `Chapter_4`) and reusing it for prose would collide in meaning. Considered "Chronicle" (rejected —
+  too formal a tone for the site) and "Tales" (rejected — reads as a disconnected anthology, when these
+  are meant to read as one continuous story). Landed on **"The Story So Far"** for the section, with
+  individual entries labeled **"Session N: [Title]"** rather than "Chapter" or "recap".
+- **Decision:** New section at `content/00_Campaign/The_Story_So_Far/` (campaign level, not nested under
+  one arc, since the story spans arcs) with one subfolder per arc reusing the existing `ArcNN_name`
+  convention (e.g. `Arc01_prelude/`), each holding that arc's `Session_NN.md` entries plus an `index.md`.
+  Linked from both `00_Campaign/index.md` (campaign hub) and `Arc01_prelude/index.md` (arc page), same
+  cross-linking pattern used for the Shared History Handout. Deliberately **no** `noStubPages: true` on
+  the arc-level index — unlike the handout-gallery pattern, these session pages are meant to be found and
+  linked to directly, not just embedded inline, so the folder listing is genuinely wanted here rather
+  than clutter.
+- **Why:** Plain Quartz pages get search, backlinks, `draft: true` gating, and the existing mobile-
+  responsive layout for free — a hand-rolled tabbed HTML page would have to reimplement or forgo all of
+  that, for a cosmetic tab UI Quartz doesn't need in order to read well as connected short chapters.
+- **Status:** Active. Scaffolding only — index pages exist for the section and Arc01 Prelude; no
+  `Session_NN.md` files yet, pending the player's actual prose text.
+- **Consequence:** When session artwork gets added, use the existing `ignoremd` filename marker so the
+  auto-handout pipeline doesn't create an unwanted stub page or inline embed for art meant to be placed
+  by hand inside a session's own prose file.
 
 ## D-2026-07-28-sniff-image-bytes-not-extension · detect image format from magic bytes, not the file extension
 - **Context:** Chapter 3's new images landed and the pipeline auto-processed them, but

@@ -12,6 +12,8 @@ The Prelude is the story of growing up in Amble, when the whole world seemed sma
 
 **Before Session 1:** read your [[Arc01_prelude/Shared-History-Handout|Shared History]] — three memories your characters share, worth printing and keeping beside your character sheet.
 
+**Read the story:** [[00_Campaign/The_Story_So_Far/Arc01_prelude/index|The Story So Far — Prelude]] tells the Prelude's sessions as connected short stories.
+
 ## Arc-wide Handouts
 
 - [[Arc01_prelude/NPCs/index|NPCs]]

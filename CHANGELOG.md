@@ -3,6 +3,10 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-08 · Added "The Story So Far" — a campaign-level section for prose session recaps** —
+  `content/00_Campaign/The_Story_So_Far/` with per-arc subfolders (`Arc01_prelude/` first), separate from
+  the `Chapter_N` handout galleries. Linked from `00_Campaign/index.md` and `Arc01_prelude/index.md`.
+  Scaffolding only — no session prose written up yet. See `DECISIONS.md` D-2026-08-08-story-so-far-section.
 - **2026-07-28 · Added a "Technical Access ≠ Scope" section to CLAUDE.md** — states that an AI session
   without enforced technical permission-scoping shouldn't read/edit a different project's files unless
   explicitly asked, after direct testing on Home AI Server showed that assumption doesn't hold on its

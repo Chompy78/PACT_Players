@@ -16,13 +16,12 @@ Source: John's "PACT Player Agent Fast-Path Plan".
   git-log-per-file lookup (a new transformer plugin) plus a replacement date component; deferred pending
   a session that can install dependencies and test the full build end-to-end before it touches the live
   site.
-- **Decide when Session 1's recap goes player-facing.** `content/Arc01_prelude/Session_recaps/session-01-recap.md`
-  currently has `draft: true` (the actual field Quartz's `RemoveDrafts` plugin checks — see
-  `D-2026-07-21-fix-draft-frontmatter-field` in `DECISIONS.md`; the pre-existing `status: draft` /
-  `needs_review: true` fields don't actually hide the page from the built site by themselves), plus
-  `status: draft` / `needs_review: true` for your own tracking. Once you're happy for players to see it,
-  flip **all three**: `draft: false`, `status: approved`, `needs_review: false` (the file also has an "AI
-  notes for John before publishing" callout at the top worth deciding to keep or strip at the same time).
+- **Write up Session 1 in "The Story So Far".** The section now exists (see
+  `D-2026-08-08-story-so-far-section`) at `content/00_Campaign/The_Story_So_Far/Arc01_prelude/`, but no
+  `Session_NN.md` files exist yet — pending the actual prose text. When adding it, decide whether it
+  needs `draft: true` for a review pass before going player-facing (see
+  `D-2026-07-21-fix-draft-frontmatter-field` — that's the field that actually hides a page, not a custom
+  `status:` field).
 - **Optional: add `content/player-agent.md`.** A short player-facing page explaining what the PACT Player
   Agent knows and good example questions to ask, once that agent exists and works (see the home-server
   task board). Not needed until then.
@@ -50,10 +49,10 @@ Source: John's "PACT Player Agent Fast-Path Plan".
   that `draft` needed (see `D-2026-07-21-fix-draft-frontmatter-field`) — could be a lighter-weight
   "reduce visibility without fully unpublishing" option (e.g. hide from the Explorer sidebar/search
   without hiding from direct links), worth investigating as a middle ground.
-- **Cross-link NPC names in session recap prose to their NPC pages** — e.g. `[[Nell Weaver]]` inline in
-  `session-01-recap.md`'s body text, not just in the tag list. Quartz's graph view and backlinks are
-  already on by default but currently have almost nothing to connect; this is a manual per-recap pass,
-  not something to automate.
+- **Cross-link NPC names in "The Story So Far" prose to their NPC pages** — e.g. `[[Nell Weaver]]` inline
+  in a session's body text, not just in a tag list. Quartz's graph view and backlinks are already on by
+  default but currently have almost nothing to connect; this is a manual per-session pass, not something
+  to automate.
 - **Look at existing TTRPG session-recap AI tools before building the Player Agent pipeline further** —
   Scrybe Quill, Archivist AI, Dungeon Scribe (local whisper.cpp, privacy-friendly), and the open-source
   `rpg-session-processor`/`ttrpg-campaign-summariser` scripts. Several already solve "transcript →
@@ -77,10 +76,8 @@ Source: John's "PACT Player Agent Fast-Path Plan".
   `quartz/styles/custom.scss`, plus explicit `|750`/`|500` widths (by orientation) added to every
   handout embed site-wide — see `DECISIONS.md`.
 
-- **Recap file path confirmed.** Already lives at `content/Arc01_prelude/Session_recaps/session-01-recap.md`
-  — a sensible arc-scoped location consistent with this repo's existing `NPCs/`, `Maps/`, `Misc/`
-  category-folder pattern (see root `CLAUDE.md`). No `index.md` exists yet for `Session_recaps/`, and
-  `Arc01_prelude/index.md` doesn't link to it yet — worth doing together with the status-flip above so the
-  folder isn't linked before it's meant to be seen.
+- **Recap file path superseded.** The original `content/Arc01_prelude/Session_recaps/session-01-recap.md`
+  draft was deleted before being written up properly; superseded by the campaign-level "The Story So
+  Far" section (`content/00_Campaign/The_Story_So_Far/`) — see `D-2026-08-08-story-so-far-section`.
 - **Keep raw transcripts out of Quartz.** Policy only — `session 1.txt`/`.tsv` were never uploaded here and
   shouldn't be. Nothing to do unless someone tries to add them.
