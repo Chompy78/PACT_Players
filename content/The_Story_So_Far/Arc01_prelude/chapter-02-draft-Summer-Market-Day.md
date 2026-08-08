@@ -1,3 +1,8 @@
+---
+title: "Summer: Market Day"
+draft: true
+---
+
 # Chapter 2 — Twelve
 
 We weren't children anymore, though none of us had noticed the moment it happened. Four years is a long time when you're eight, and nothing at all looking back on it. The cubby was still ours. Wren was still around, louder every season, like volume might finally get her listened to. Anders had joined us somewhere in those years too — none of us can agree exactly when, only that one day he simply was part of the group, the way some people just become part of a thing without anyone deciding it. We told ourselves nothing much had changed. We were wrong about that.

@@ -1,3 +1,8 @@
+---
+title: "Spring: The Broken Charm"
+draft: true
+---
+
 # Chapter 1 — The Council Tree
 
 Looking back, none of us should have been heroes. Not that we were trying to be. Heroes are brave, heroes are wise, heroes make sensible decisions — and at eight years old, we were none of those things.
