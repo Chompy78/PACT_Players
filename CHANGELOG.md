@@ -3,6 +3,11 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-08 · Flattened "The Story So Far" chapter links one level** — `content/The_Story_So_Far/
+  index.md`'s "Arc01: Prelude" section now links directly to both chapters instead of a single
+  "Sessions" link into `Arc01_prelude/index.md`; removes an unnecessary extra click before reaching the
+  actual story text. `Arc01_prelude/index.md` itself is unchanged (still needed per this repo's
+  every-folder-needs-an-index.md convention).
 - **2026-08-08 · Published both "The Story So Far" chapters** — flipped `draft: true` → `false` on
   `chapter-01-draft-Spring-The-Broken-Charm.md` and `chapter-02-draft-Summer-Market-Day.md`; the 404s the
   player hit clicking into them from the sessions index were the draft gate doing its job, not a broken
