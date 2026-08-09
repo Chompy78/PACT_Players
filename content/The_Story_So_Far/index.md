@@ -8,4 +8,5 @@ handout gallery (see each arc's `Chapter_N` folders for those); this is the actu
 
 ## Arc01: Prelude
 
-- [[The_Story_So_Far/Arc01_prelude/index|Sessions]]
+- [[The_Story_So_Far/Arc01_prelude/chapter-01-draft-Spring-The-Broken-Charm|Spring: The Broken Charm]]
+- [[The_Story_So_Far/Arc01_prelude/chapter-02-draft-Summer-Market-Day|Summer: Market Day]]
