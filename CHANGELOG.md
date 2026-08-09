@@ -3,6 +3,12 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-08 · Gave "The Story So Far" a banner and real copy** — added `H08-Wrens-Sketchbook.jpeg` as
+  the section banner (reused from Chapter 3's handout gallery; a sketchbook-of-memories fits the "story
+  so far" theme without claiming a page-banner slot another page already owns), rewrote the top intro as
+  an actual jacket-copy blurb about Amble and the story itself (was describing the page's own format
+  instead of the story), and added a short blurb under "Arc01: Prelude" teasing what the two chapters
+  cover.
 - **2026-08-08 · Revealed Ch. 3's title** — `Arc01_prelude/Chapter_3/index.md` and the matching entry in
   `Arc01_prelude/index.md` changed from `[REDACTED]` to "Who to Believe." Chapter 4 stays `[REDACTED]`
   (not asked for).
