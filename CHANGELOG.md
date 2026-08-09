@@ -3,6 +3,11 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-09 · `z-cold`/`z-uploads` drop-zone folders, auto-synced to a dedicated `zcold` branch** —
+  external background script watches both folders and auto-pushes anything dropped in them within
+  seconds, via a git worktree + junction (not tracked on `main`). See
+  `D-2026-08-09-zcold-autosync-setup`.
+
 - **2026-08-08 · Trimmed the Arc01: Prelude teaser** — dropped "Two chapters told so far, more on the
   way" from `The_Story_So_Far/index.md`'s Arc01 blurb.
 - **2026-08-08 · Swapped "The Story So Far" banner, trimmed intro** — banner is now

@@ -6,6 +6,11 @@
 
 ## Index
 
+- **D-2026-08-09-zcold-autosync-setup** — `z-cold`/`z-uploads` are drop-zone folders: anything placed in
+  them locally gets auto-committed and pushed within seconds by an external background script (not part
+  of this repo). They live on a dedicated `zcold` branch via a git worktree + Windows junction, not on
+  `main` — a plain tracked folder was tried first but broke the moment this repo's working copy switched
+  to a feature branch, since git can't check the same branch out twice. See full entry.
 - **D-2026-08-08-publish-story-so-far-chapters** — Flipped `draft: true` → `false` on both "The Story So
   Far" chapters at the player's request, publishing them despite the still-open Moral Ledger sequencing
   question. Deliberate: that issue is a labeling detail in an external document, not anything visible in
@@ -114,6 +119,35 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-08-09-zcold-autosync-setup · drop-zone folders synced via a dedicated branch + worktree, not `main`
+
+- **Context:** The owner wanted a folder they could drop files into locally and have auto-pushed to
+  GitHub, without touching any in-progress work elsewhere in the repo. First tried as a plain tracked
+  folder (`z-cold`/`z-uploads`) on `main`, auto-committed by a small script scoped to just those paths.
+  That broke the first time this repo's working copy was switched to a feature branch
+  (`claude/quartz-update-tasks-qyvxuh`) for unrelated work — the folders vanished from disk, because git
+  checkout swaps the working tree to match whatever branch is current, and they were only tracked on
+  `main`.
+- **Options considered:** (1) `git-auto-sync` (a downloaded tool) pointed at the whole repo — rejected,
+  it has no subfolder scoping and would auto-push unrelated edits too. (2) Keep the plain-tracked-folder
+  approach and just re-sync it onto every branch by hand as needed — rejected, same root cause would keep
+  recurring on any future branch. (3) **Chosen:** a dedicated orphan branch (`zcold`) holding only
+  `z-cold`/`z-uploads`, checked out permanently into its own git worktree
+  (`~/dev/zcold-sync/worktrees/PACT_Players`, outside the repo), linked into the real repo folder via a
+  Windows junction (`New-Item -ItemType Junction`).
+- **Decision:** Implemented option 3. `main` (and every branch) no longer tracks these folders — they're
+  `.gitignore`'d — so no branch switch can make them disappear again. A small external PowerShell script
+  (`~/dev/zcold-sync/zcold-watch.ps1`, not part of this repo, shared across projects) polls the worktree
+  every ~5s and stages/commits/pushes only `z-cold`/`z-uploads` changes to the `zcold` branch. Runs as
+  Windows Scheduled Task `ZColdSync`.
+- **Why:** A worktree is the only way to have a path "always checked out" independent of whatever branch
+  is open in the normal working copy — git refuses to check the same branch out twice, ruling out keeping
+  the content directly on `main`. Trade-off: browsing dropped files on github.com means switching to the
+  `zcold` branch rather than seeing them under `main`. Locally this is invisible — the junction makes
+  both folders look and behave like ordinary folders regardless of branch.
+- **Status:** Active. Same pattern also applied to the `PACT` repo (see its own `DECISIONS.md`) using the
+  same shared watcher script.
 
 ## D-2026-08-08-publish-story-so-far-chapters · publish both chapters despite the open Moral Ledger note
 
