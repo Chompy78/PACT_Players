@@ -13,3 +13,7 @@ npm-debug.log*
 # OS/editor cruft
 .DS_Store
 Thumbs.db
+
+# Managed via a dedicated git worktree + junction (see ~/dev/zcold-sync)
+z-cold/
+z-uploads/
