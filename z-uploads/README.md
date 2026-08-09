@@ -1,7 +1,7 @@
 # z-uploads
 
 Drop-zone folder. Anything placed here is automatically committed and pushed
-to this branch (`zcold-data`) of the PACT_Players repo within a few seconds,
+to this branch (`zcold`) of the PACT_Players repo within a few seconds,
 by a background sync script running on this machine (see `~/dev/zcold-sync`).
 
 This branch is dedicated storage for dropped files only — it's kept
