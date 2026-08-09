@@ -7,7 +7,12 @@
   external background script watches both folders and auto-pushes anything dropped in them within
   seconds, via a git worktree + junction (not tracked on `main`). See
   `D-2026-08-09-zcold-autosync-setup`.
-
+- **2026-08-09 · Added Chapter 3 draft: "Autumn: Who to Believe"** — pulled the chapter-3 prose and its
+  three illustrations (bell-loft discovery, fey creature at the lime pits, apprenticeship ceremony) in
+  from the `zcold` branch's `z-uploads/` drop zone, stripped the GM-only review/metadata footer,
+  renamed the images with the `-ignoremd` marker, and linked it from both `The_Story_So_Far/index.md`
+  and `Arc01_prelude/index.md`. Left `draft: true` pending your read, same as Chapters 1–2 were. See
+  `D-2026-08-09-chapter-03-from-zuploads`.
 - **2026-08-08 · Trimmed the Arc01: Prelude teaser** — dropped "Two chapters told so far, more on the
   way" from `The_Story_So_Far/index.md`'s Arc01 blurb.
 - **2026-08-08 · Swapped "The Story So Far" banner, trimmed intro** — banner is now

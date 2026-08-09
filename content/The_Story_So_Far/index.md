@@ -17,3 +17,4 @@ one can explain, a funeral, a market day that didn't stay quiet.
 
 - [[The_Story_So_Far/Arc01_prelude/chapter-01-draft-Spring-The-Broken-Charm|Spring: The Broken Charm]]
 - [[The_Story_So_Far/Arc01_prelude/chapter-02-draft-Summer-Market-Day|Summer: Market Day]]
+- [[The_Story_So_Far/Arc01_prelude/chapter-03-draft-Autumn-Who-to-Believe|Autumn: Who to Believe]]

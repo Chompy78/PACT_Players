@@ -11,6 +11,11 @@
   of this repo). They live on a dedicated `zcold` branch via a git worktree + Windows junction, not on
   `main` — a plain tracked folder was tried first but broke the moment this repo's working copy switched
   to a feature branch, since git can't check the same branch out twice. See full entry.
+- **D-2026-08-09-chapter-03-from-zuploads** — Pulled Chapter 3's prose and art in from the `zcold`
+  branch's `z-uploads/` drop zone rather than the player pasting/pushing it directly. Stripped the
+  GM-only review/metadata footer before it touched player-facing content, named the images with the
+  `-ignoremd` marker per the existing convention, and left `draft: true` since the source file itself was
+  still marked "awaiting John's own read." See full entry.
 - **D-2026-08-08-publish-story-so-far-chapters** — Flipped `draft: true` → `false` on both "The Story So
   Far" chapters at the player's request, publishing them despite the still-open Moral Ledger sequencing
   question. Deliberate: that issue is a labeling detail in an external document, not anything visible in
@@ -148,6 +153,39 @@
   both folders look and behave like ordinary folders regardless of branch.
 - **Status:** Active. Same pattern also applied to the `PACT` repo (see its own `DECISIONS.md`) using the
   same shared watcher script.
+
+## D-2026-08-09-chapter-03-from-zuploads · source Chapter 3's prose and art from the zcold drop zone
+
+- **Context:** The player said "chapter 3 art and story are now under z-uploads" — a folder on the
+  separate `zcold` branch (not `main`, see `D-2026-08-09-zcold-autosync-setup` above for how it gets
+  there), synced there by a background script on the player's own
+  machine (per that branch's own `z-uploads/README.md`). It contained a full-session draft
+  (`chapter-03-draft-full-session.md`) and three illustrations. The draft file itself carried a GM-only
+  header (external cold-review scores, canon-correction notes, source-transcript path) and a full
+  "Session Metadata (AI Reference)" footer (Moral Ledger entries, milestone tracking, narrator-voice
+  notes) — none of it meant to ship player-facing, matching the pattern already handled once for
+  Chapters 1–2 (`D-2026-08-08-chapter-art-ignoremd`).
+- **Decision:** Copied only the prose body (the "Chapter 3 — Fourteen" section) into
+  `chapter-03-draft-Autumn-Who-to-Believe.md`, dropping the GM header/footer entirely. Renamed the three
+  images with the `-ignoremd` marker and embedded each at its matching scene (bell-loft discovery, the
+  fey creature's reappearance at the lime pits, the apprenticeship ceremony). Titled it "Autumn: Who to
+  Believe" — reusing the title already chosen for `Arc01_prelude/Chapter_3`'s handout gallery, since the
+  two describe the same in-story chapter and titles should agree. Left `draft: true`, matching the
+  source file's own "awaiting John's own read" status, and linked it from both
+  `The_Story_So_Far/index.md` and `Arc01_prelude/index.md` the same way Chapters 1–2 are (unpublished
+  chapters still get linked; the draft flag is what keeps them off the built site, not omitting the
+  link — see `D-2026-08-08-publish-story-so-far-chapters` for that same reasoning applied to Ch. 1–2).
+- **Why:** The GM-side metadata (review scores, Moral Ledger bookkeeping, transcript paths) documents how
+  the chapter was produced, not what happened in the story — it has no place in player-facing prose,
+  same reasoning as the footer notes stripped from Chapter 1. Reusing the Chapter_3 handout title instead
+  of inventing a new one keeps the two pages from drifting into inconsistent names for the same chapter.
+- **Status:** Active. `chapter-03-draft-Autumn-Who-to-Believe.md` stays `draft: true` until the player
+  confirms it's ready, the same as Chapters 1–2 were before `D-2026-08-08-publish-story-so-far-chapters`.
+  Verified with a local build (temporarily un-drafted, then reverted): all three images render with the
+  correct alt text, both index pages link to it, and reverting to `draft: true` correctly filters it back
+  out of the built site. The source file and images still exist on `zcold`'s `z-uploads/` — left
+  untouched since that branch is tied to a live background sync script on the player's own machine, not
+  something this session should modify without being asked.
 
 ## D-2026-08-08-publish-story-so-far-chapters · publish both chapters despite the open Moral Ledger note
 
