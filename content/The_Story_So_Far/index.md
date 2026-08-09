@@ -13,8 +13,7 @@ wider world has waiting for them.
 ## Arc01: Prelude
 
 The summer everything started small and got complicated fast — a stolen charm, an injured creature no
-one can explain, a funeral, a market day that didn't stay quiet. Two chapters told so far, more on the
-way.
+one can explain, a funeral, a market day that didn't stay quiet.
 
 - [[The_Story_So_Far/Arc01_prelude/chapter-01-draft-Spring-The-Broken-Charm|Spring: The Broken Charm]]
 - [[The_Story_So_Far/Arc01_prelude/chapter-02-draft-Summer-Market-Day|Summer: Market Day]]

@@ -3,6 +3,8 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-08 · Trimmed the Arc01: Prelude teaser** — dropped "Two chapters told so far, more on the
+  way" from `The_Story_So_Far/index.md`'s Arc01 blurb.
 - **2026-08-08 · Swapped "The Story So Far" banner, trimmed intro** — banner is now
   `arc01_prelude_banner.jpg` (was `H08-Wrens-Sketchbook.jpeg`, reused per the player's preference despite
   already being Arc01_prelude's own banner); dropped the "not a rules reference or handout gallery"
