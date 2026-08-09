@@ -28,7 +28,7 @@ The Prelude is the story of growing up in Amble, when the whole world seemed sma
 
 - [[Arc01_prelude/Chapter_2/index|Handouts]]
 
-## Ch. 3: [REDACTED]
+## Ch. 3: Who to Believe
 
 - [[Arc01_prelude/Chapter_3/index|Handouts]]
 

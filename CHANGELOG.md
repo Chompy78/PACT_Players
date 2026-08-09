@@ -3,6 +3,9 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-08 · Revealed Ch. 3's title** — `Arc01_prelude/Chapter_3/index.md` and the matching entry in
+  `Arc01_prelude/index.md` changed from `[REDACTED]` to "Who to Believe." Chapter 4 stays `[REDACTED]`
+  (not asked for).
 - **2026-08-08 · Flattened "The Story So Far" chapter links one level** — `content/The_Story_So_Far/
   index.md`'s "Arc01: Prelude" section now links directly to both chapters instead of a single
   "Sessions" link into `Arc01_prelude/index.md`; removes an unnecessary extra click before reaching the

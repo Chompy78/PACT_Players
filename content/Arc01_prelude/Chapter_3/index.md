@@ -1,5 +1,5 @@
 ---
-title: "Ch. 3: [REDACTED]"
+title: "Ch. 3: Who to Believe"
 noStubPages: true
 ---
 
