@@ -3,6 +3,10 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-08 · Swapped "The Story So Far" banner, trimmed intro** — banner is now
+  `arc01_prelude_banner.jpg` (was `H08-Wrens-Sketchbook.jpeg`, reused per the player's preference despite
+  already being Arc01_prelude's own banner); dropped the "not a rules reference or handout gallery"
+  aside from the intro blurb.
 - **2026-08-08 · Gave "The Story So Far" a banner and real copy** — added `H08-Wrens-Sketchbook.jpeg` as
   the section banner (reused from Chapter 3's handout gallery; a sketchbook-of-memories fits the "story
   so far" theme without claiming a page-banner slot another page already owns), rewrote the top intro as
