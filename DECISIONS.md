@@ -6,6 +6,13 @@
 
 ## Index
 
+- **D-2026-08-11-player-agent-contentindex-boundary** — The planned player-facing AI agent (queryable
+  campaign info, scoped to this repo/certain directories only) reads Quartz's own built
+  `static/contentIndex.json` rather than a raw clone or filesystem/MCP access to `content/`. That file is
+  already filtered by Quartz itself (`private` ignored, `draft: true` stripped, encrypted pages shipped as
+  ciphertext only) and already public, so it reuses an existing, tested boundary instead of re-implementing
+  one. No repo-side code changes — `draft`/`private`/`password` remain the actual hiding mechanism. See
+  full entry.
 - **D-2026-08-09-zcold-autosync-setup** — `z-cold`/`z-uploads` are drop-zone folders: anything placed in
   them locally gets auto-committed and pushed within seconds by an external background script (not part
   of this repo). They live on a dedicated `zcold` branch via a git worktree + Windows junction, not on
@@ -124,6 +131,42 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-08-11-player-agent-contentindex-boundary · use Quartz's built contentIndex.json as the player agent's data source, not raw repo access
+
+- **Context:** Planning a player-facing AI agent (Open WebUI, on the home server) that answers questions
+  about the campaign from this repo, and this repo only — ideally scoped to certain directories, ideally
+  symlink-safe. The existing v1 (`D-2026-07-21-pact-player-agent-fast-path-v1`, tracked on
+  `home-ai-server`) is manual copy-paste of one recap file into an Open WebUI knowledge base — doesn't
+  scale past a single file and needed a real content-scoping story before automating further.
+- **Options:**
+  - A) Give the agent raw filesystem or git access to this repo (a clone, or an MCP filesystem server
+    scoped to `content/`) — needs its own logic to re-derive which pages are draft/private/encrypted and
+    its own symlink-following, duplicating what Quartz's build already does.
+  - B) Sync the agent's knowledge base from the **deployed site's own `static/contentIndex.json`** —
+    Quartz's built-in search/Explorer index, regenerated on every push to `main` via
+    `deploy-pages.yml`.
+  - C) Keep the current manual copy-paste approach, just for more files.
+- **Decision:** B.
+- **Why:** `contentIndex.json` is already filtered by Quartz itself before the agent ever sees it:
+  `content/private/` is excluded via `quartz.config.yaml`'s `ignorePatterns`, `draft: true` pages are
+  stripped by the `remove-draft` plugin, and password-protected GM pages ship as ciphertext in a
+  *separate* file (`static/encryptedContentIndex.json`) the sync never touches. It's already public —
+  served to every visitor's browser for the site's own search — so pulling from it adds no new exposure.
+  Whatever symlinks resolve to under `content/` is already resolved by Quartz's own build, so the sync
+  needs no symlink-handling of its own. This reuses one already-tested boundary instead of
+  re-implementing it a second time inside a sync script, where getting it wrong risks leaking GM/private
+  content. Rejected A for that re-implementation risk; rejected C since it doesn't scale past one file and
+  this repo has grown well past a single recap.
+- **Status:** Active. The actual sync script, Open WebUI wiring, and remote-access mechanism (Tailscale
+  Funnel — a public HTTPS URL requiring no install on the player's end, gated by Open WebUI's own login)
+  are infra work tracked on `home-ai-server`'s own `TASK_BOARD.md`/`DECISIONS.md`, not duplicated here.
+- **Consequence:** No repo-side code changes for the boundary itself — `draft: true`, `content/private/`,
+  and `password` frontmatter remain the actual (and only) mechanisms that keep something invisible to the
+  agent, same as they're already the only mechanisms that keep it out of the built site. Folder location
+  or "just don't link it from an index.md" is not a boundary the agent respects. Reinforces the still-open
+  `TASKS.md` item "Decide deliberately whether any GM-only content should ever touch this public repo at
+  all."
 
 ## D-2026-08-09-zcold-autosync-setup · drop-zone folders synced via a dedicated branch + worktree, not `main`
 

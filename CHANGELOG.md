@@ -3,6 +3,9 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-11 · Decided the player agent's data-source boundary: `contentIndex.json`, not raw repo
+  access** — see `D-2026-08-11-player-agent-contentindex-boundary`. No repo-side changes; infra build
+  tracked on `home-ai-server`.
 - **2026-08-09 · Published Chapter 3: "Autumn: Who to Believe"** — flipped `draft: true` → `false` on
   `chapter-03-draft-Autumn-Who-to-Believe.md` per the player's explicit request.
 - **2026-08-09 · `z-cold`/`z-uploads` drop-zone folders, auto-synced to a dedicated `zcold` branch** —
