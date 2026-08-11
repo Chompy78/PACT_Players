@@ -16,14 +16,6 @@ Source: John's "PACT Player Agent Fast-Path Plan".
   git-log-per-file lookup (a new transformer plugin) plus a replacement date component; deferred pending
   a session that can install dependencies and test the full build end-to-end before it touches the live
   site.
-- **Find and fix the Moral Ledger sequencing mislabel.** Both "The Story So Far" chapters
-  (`chapter-01-draft-Spring-The-Broken-Charm.md`, `chapter-02-draft-Summer-Market-Day.md`) are now
-  `draft: false` and live on the site — published deliberately even though this one item is still open,
-  since it's a labeling detail in an external document, not something visible in the published prose.
-  Some external/GM-side document (a "Moral Ledger") apparently labels Skylar's stampede rescue in
-  chapter 2 as the campaign's "First Heroic Act," but chapter 1's fey-creature rescue happens first
-  chronologically, so that labeling is wrong wherever it actually lives. Location of that document is
-  still unknown — ask the player where it is before trying to fix it.
 - **Optional: add `content/player-agent.md`.** A short player-facing page explaining what the PACT Player
   Agent knows and good example questions to ask, once that agent exists and works (see the home-server
   task board). Not needed until then.
@@ -83,3 +75,9 @@ Source: John's "PACT Player Agent Fast-Path Plan".
   Far" section (`content/00_Campaign/The_Story_So_Far/`) — see `D-2026-08-08-story-so-far-section`.
 - **Keep raw transcripts out of Quartz.** Policy only — `session 1.txt`/`.tsv` were never uploaded here and
   shouldn't be. Nothing to do unless someone tries to add them.
+- **Moral Ledger sequencing mislabel — owner will find/fix personally.** Some external/GM-side document
+  (a "Moral Ledger") apparently labels Skylar's stampede rescue in Chapter 2 as the campaign's "First
+  Heroic Act," but Chapter 1's fey-creature rescue happens first chronologically — mislabeled wherever it
+  actually lives. Not an AI-actionable task: the document's location is unknown and only the owner knows
+  where to look. Doesn't affect the published site either way — the mislabel lives only in that external
+  document, not in the chapter prose itself (see `The_Story_So_Far` folder discussion, 11 August 2026).
