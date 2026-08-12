@@ -32,7 +32,7 @@ Amble is a small village, but the wider world it sits in is not just one kind of
 
 Minor magic is an ordinary, unevenly-spread talent — like a good singing voice or a strong arm. Roughly three people in ten can manage at least a small cantrip, often untrained and a little informally, and most extended families have someone who can do a little something. A magical convenience — a pot that keeps food hot on its own, say — is a real luxury for those who can afford one.
 
-Real spellcasting — a proper spellbook, years of training, genuine power — is a different matter entirely, and stays rare enough that anyone who has it is actually notable for it. Anything beyond that, the kind of magic that could reshape a life in a single stroke, is close to unheard of; nobody grows up expecting to see it.
+Real spellcasting — a proper spellbook, real training behind it — is a different matter, but it starts out unremarkable too. A trained caster's early tricks are a genuine skill, worth paying someone for, but they don't turn heads — plenty of small towns have someone who can do this much. It's only once a caster's power grows serious that people actually start to talk. Above even that, a bare handful of names per nation carry power worth a ruler's or the Guild's attention. And at the very top, magic that could reshape a life in a single stroke is close to unheard of outside a few of the continent's oldest, longest-lived hands at their craft.
 
 When spellwork is visible at all, it shows only in the moment of casting — a muted warm gold or a dull silver glow, nothing sharper. Enchanted things otherwise look like ordinary, well-made objects.
 
