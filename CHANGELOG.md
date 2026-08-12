@@ -3,6 +3,11 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-12 · First player-facing Amble/world-lore pages: `Amble.md`, `Wider_World_Kids.md`,
+  `Peoples_and_Magic.md` (live), `Kingdom_of_Halden_Adults.md` (draft, deliberate reveal gate), rebuilt
+  `House_Rules.md`** — kid-vs-adult world knowledge split into separate, independently `draft`-gated
+  files, the split visible in the filename itself. Stoneharbour explicitly held off pending Arc02. See
+  `D-2026-08-12-kid-adult-knowledge-gating` and `sessions/2026-08-12-amble-world-lore-build.md`.
 - **2026-08-11 · Decided the player agent's data-source boundary: `contentIndex.json`, not raw repo
   access** — see `D-2026-08-11-player-agent-contentindex-boundary`. No repo-side changes; infra build
   tracked on `home-ai-server`.

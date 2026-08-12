@@ -59,6 +59,19 @@ Source: John's "PACT Player Agent Fast-Path Plan".
   living only in the separate `PACT-Campaign` Dropbox/GM workspace — a real access-control decision
   (this repo is fully public; `draft: true` and `encrypted-pages` are technical mitigations, not a
   substitute for that decision), not a code task.
+- **Review `Amble_Campaign/Amble.md` and flip `draft: false`.** Built 2026-08-12 from the GM repo's
+  `Recurring_Locations.md` (village geography, landmarks, social customs) — solid source material, just
+  never had John's own read-through before going live. See `sessions/2026-08-12-amble-world-lore-build.md`.
+- **Flip `Amble_Campaign/Kingdom_of_Halden_Adults.md` to `draft: false` when ready.** Built 2026-08-12 as a
+  deliberate reveal gate, not unfinished content — holds adult/older-teen world knowledge (kingdom name,
+  King Aldric Vane, the South March, Stoneharbour, rumor of Kaldrun/Aeloria) that a young child in Amble
+  wouldn't yet know. Flip when the campaign reaches the point this should become common player knowledge,
+  and add the reciprocal links back in from `Amble.md` and `Wider_World_Kids.md` (noted inline in the
+  file's own build comment).
+- **Build a real `Stoneharbour` player page once Arc02 actually starts.** Explicitly held off 2026-08-12 —
+  the GM repo's Arc02 material (8 drafted chapters, `Stoneharbour_Location_Reference.md`,
+  `PAY_AND_DEBT_MODEL.md`) is all tied to the still-unrevealed Ch4 debt-trap reveal. No player-safe content
+  exists yet beyond the one sentence already in `Kingdom_of_Halden_Adults.md`.
 
 ## Done / not needed
 

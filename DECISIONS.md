@@ -6,6 +6,11 @@
 
 ## Index
 
+- **D-2026-08-12-kid-adult-knowledge-gating** — First player-facing Amble/world-lore pages built.
+  Kid-level vs adult-level world knowledge split into separate files with the split visible in the
+  filename itself (`Wider_World_Kids.md` / `Kingdom_of_Halden_Adults.md`), gated with Quartz's own
+  `draft: true`/`false` rather than any custom conditional-render plugin. Stoneharbour explicitly held
+  off — too tied to Arc02's still-unrevealed material. See full entry.
 - **D-2026-08-11-player-agent-contentindex-boundary** — The planned player-facing AI agent (queryable
   campaign info, scoped to this repo/certain directories only) reads Quartz's own built
   `static/contentIndex.json` rather than a raw clone or filesystem/MCP access to `content/`. That file is
@@ -131,6 +136,46 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-08-12-kid-adult-knowledge-gating · split kid-vs-adult world knowledge into separate, draft-gated files; held Stoneharbour off entirely
+
+- **Context:** Building the first player-facing Amble/world-lore pages (village lore, what's beyond
+  Amble, "Haden" — confirmed to mean the GM repo's `Kingdom_of_Halden_Reference.md`, extensively
+  documented there but never published here). Partway through, John asked that kid-level vs adult-level
+  world knowledge be visibly distinguishable, and specifically wanted to use Quartz's own `draft`
+  frontmatter field as the reveal mechanism rather than build a new one.
+- **Options considered:** (1) One file with inline age-labeled sections. (2) One file with frontmatter
+  tags per section (filterable, more setup). (3) Two files, each independently gated via `draft`. (4) A
+  true single-URL "shows only one section based on a marker" mechanism — would need a custom Quartz
+  transformer plugin, real engineering on `quartz/`, which this repo's own merge policy already flags as
+  needing sign-off separately from content changes.
+- **Decision:** Two files, gated independently via the existing `draft: true`/`false` field — no new
+  mechanism, reusing what Quartz already ships and what this repo already does for `Ch. 4: [REDACTED]`.
+  `Wider_World_Kids.md` (kid-level: roads, traders, the Guild's public presence) ships `draft: false`,
+  live immediately. `Kingdom_of_Halden_Adults.md` (adult/older-teen: kingdom name, King Aldric Vane, the
+  South March, Stoneharbour, rumor of Kaldrun/Aeloria) ships `draft: true` as a deliberate reveal gate,
+  with an in-file HTML comment explaining it's gated on purpose, not unfinished, and what to do when
+  flipping it (add the reciprocal links back in). Later renamed both files — `Wider_World.md` →
+  `Wider_World_Kids.md`, `Kingdom_of_Halden.md` → `Kingdom_of_Halden_Adults.md` — so the split is visible
+  in the filename/URL itself, not just the content; every cross-reference across `Amble.md`,
+  `Peoples_and_Magic.md`, `index.md`, and the two renamed files was updated to match.
+  Separately: **Stoneharbour was deliberately not given a page at all** this session, despite being
+  "the nearest town" and a natural fit for the adult-knowledge tier. The GM repo's Arc02 material (8
+  drafted chapter files, `Stoneharbour_Location_Reference.md`, `PAY_AND_DEBT_MODEL.md`,
+  `IRON_COIN_GUILD_CONTRACT_FULL_TEXT.md`) is all tied to the still-unrevealed Ch4 debt-trap reveal, and
+  this site's own `Arc02_arc2/` folder is still completely empty — no player-safe content exists yet
+  beyond the one sentence already in `Kingdom_of_Halden_Adults.md`. Tracked as an open `TASKS.md` item to
+  revisit once Arc02 actually starts.
+- **Why:** `draft` is a real, already-tested per-file marker Quartz ships for free — reusing it costs
+  nothing and matches an existing site pattern, versus building bespoke plugin machinery for a single
+  content-reveal need. Filename-level tagging (option 3, refined) makes the tier legible from the file
+  tree/URL alone, without needing to open a page to know which knowledge level it holds.
+- **Status:** Active. `Wider_World_Kids.md`, `Peoples_and_Magic.md` (ungated — baseline
+  character-creation-relevant lore, not part of the kid/adult split), and `House_Rules.md` are live.
+  `Amble.md` and `Kingdom_of_Halden_Adults.md` remain `draft: true` pending review/reveal-timing
+  respectively.
+
+---
 
 ## D-2026-08-11-player-agent-contentindex-boundary · use Quartz's built contentIndex.json as the player agent's data source, not raw repo access
 
