@@ -3,6 +3,8 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-12 · Published `Amble_Campaign/Amble.md`** — flipped `draft: true` → `false` after John's
+  read-through confirmed the content is good.
 - **2026-08-12 · First player-facing Amble/world-lore pages: `Amble.md`, `Wider_World_Kids.md`,
   `Peoples_and_Magic.md` (live), `Kingdom_of_Halden_Adults.md` (draft, deliberate reveal gate), rebuilt
   `House_Rules.md`** — kid-vs-adult world knowledge split into separate, independently `draft`-gated

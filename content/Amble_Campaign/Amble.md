@@ -1,7 +1,6 @@
 ---
 title: Amble
 description: The village where the story begins — geography, daily life, and the customs every child there grows up knowing.
-draft: true
 ---
 
 Amble is a small farming village of around three hundred people — the kind of place where everyone knows everyone, and a stranger is noticed before they've finished tying up their horse. The wider kingdom Amble belongs to feels far away most days; what's close is the stream, the fields, and whoever you grew up next to.
