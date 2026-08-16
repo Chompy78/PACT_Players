@@ -66,6 +66,16 @@ Source: John's "PACT Player Agent Fast-Path Plan".
   living only in the separate `PACT-Campaign` Dropbox/GM workspace — a real access-control decision
   (this repo is fully public; `draft: true` and `encrypted-pages` are technical mitigations, not a
   substitute for that decision), not a code task.
+- **Decide on and implement an improved handout-sharing workflow for live table use.** Current process
+  (commit image → `auto-handout.yml` creates a stub/appends to `index.md` → `deploy-pages.yml` rebuilds →
+  manual AI-assisted `index.md` restructuring for anything beyond a straight append) is too slow/manual
+  for revealing a handout mid-session. Options discussed 2026-08-16: (A) decouple prep from table-time —
+  pre-load handouts as `draft: true`, reveal live via a one-line frontmatter edit; (B) extend
+  `auto-handout-stub.mjs` so most handouts default to "own page" and skip manual `index.md` edits
+  entirely; (C) split into a fast live-reveal side channel (shared photo album / Discord / VTT) for the
+  table moment, backfilling the durable Quartz wiki afterward without time pressure; (D) replace handout
+  display entirely with a VTT's native reveal feature, at the cost of losing the wiki/lore-archive
+  structure. Recommended: C, with A as the cheaper fallback. Needs a decision before implementing.
 
 ## Done / not needed
 
