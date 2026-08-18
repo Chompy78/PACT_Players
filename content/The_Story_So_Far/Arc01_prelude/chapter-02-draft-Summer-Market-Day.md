@@ -45,7 +45,7 @@ Not the ordinary bells. The wrong ones — fast, panicked, the kind that meant s
 
 We watched from Caspian's tree. Five adventurers went out to meet two trolls at the wood line, and it was nothing like the stories Old Piper told. It was ugly. One of the fighters got thrown clean across the clearing with his chest opened up before anyone could blink. A healer's hands lit up gold and closed it again. Someone's magic came out in sparks instead of fire, hitting a troll four times before it noticed. And then the one everyone was shouting for — Captain Vesk, sword too big for anyone sensible to carry — walked up to the second troll like he was annoyed at it, and nearly took its arm off in one motion.
 
-Skylar shot an arrow from the tree. Missed by a mile. Missed again. Got told off by name, in front of everyone, by an adult who definitely used to be a child once and had clearly forgotten it.
+Caspian shot an arrow from the tree. Missed by a mile. Missed again. Got told off by name, in front of everyone, by an adult who definitely used to be a child once and had clearly forgotten it.
 
 ![[chapter-02-children-tree-troll-battle-ignoremd.jpeg|Watching the troll battle from Caspian's tree|750]]
 
@@ -67,19 +67,19 @@ Anders found Bram loading sacks alone, because Bram's father was somewhere being
 
 We gave him a hard time about it anyway, because that's what you did at twelve. Underneath, though, some of us had already started wondering how Bram could ever actually get away. None of our answers were any good.
 
-Marek let slip something stranger before we left him — someone had bought every barrel of lime in the village, in advance, without haggling. We found the barrels ourselves later, eight of them, sitting unwatched on a cart nobody had thought worth guarding. We took a handful each. Moss for his father's fields. Anders for the shop, allegedly for tea, which none of us believed. It felt like nothing. Looking back, it probably wasn't.
+Fenwick picked up something stranger while he minded the family stall — a rumour that someone had bought every barrel of lime in the village, in advance, without haggling. We found the barrels ourselves later, eight of them, sitting unwatched on a cart nobody had thought worth guarding. We took a handful each. Moss for his father's fields. Anders for the shop, allegedly for tea, which none of us believed. It felt like nothing. Looking back, it probably wasn't.
 
 Then someone stole the baker's ledger, and Amble stopped being boring for the second time that day.
 
 We chased him through half the market — over Moss's potato stall, past Marek, who watched and did nothing, past a dozen adults who assumed it was a game. He wasn't playing. He threw something into a string of pack animals and they went from calm to charging in a breath, and there was a child standing right in the middle of where they were going.
 
-Skylar got there first. Pushed the kid clear. Didn't get clear herself.
+Caspian got there first, or got there loudest — already running before he'd finished deciding to. He shoved the kid half clear and took a horse's shoulder for it, flat on his back before he'd even registered falling. Skylar went down a breath later, caught by the same wave of spooked animals, and for a second neither of them could tell which way was up.
 
-I remember the sound more than I remember deciding to run toward it. I remember Wren already moving, faster than any of us, hauling the child the rest of the way to safety while Skylar was still getting up off the ground. I remember Bram hauling on the reins of the last, worst animal like it weighed nothing, and it did not weigh nothing.
+I remember the sound more than I remember deciding to run toward it. I remember Wren already moving, faster than any of us, hauling the child the rest of the way to safety while the two of them were still getting up off the ground. I remember Bram hauling on the reins of the last, worst animal like it weighed nothing, and it did not weigh nothing.
 
 The thief didn't get far after that. Enough adults had noticed by then that he threw the ledger down and put his hands up rather than find out what happened next.
 
-Wren got sweets bought for her by three different relieved strangers before the afternoon was out. Skylar got two bruises and a story she'd tell forever, and neither of them minded much which one they'd got.
+Wren got sweets bought for her by three different relieved strangers before the afternoon was out. Caspian and Skylar both came away scraped and bruised, each with a story they'd tell forever, and neither of them minded much which one they'd got.
 
 Councilman Pike showed up not long after to check the stalls were packed properly, and somehow found time to lecture Bram about respect while saying nothing to anyone else. Wren called him a goody-two-shoes to his back, quietly, and none of us disagreed.
 
@@ -107,7 +107,7 @@ It hit the side of the shed instead of the rats, and the shed — old, dry, exac
 
 Skylar went straight home and got into bed still smelling of smoke, which fooled nobody. Her brother knew. Her sister knew. Everybody's little brother, it turned out, knew everything, and most of it wasn't true — by morning the story going round blamed some other girl entirely, over a beauty pageant that had never happened, and everyone believed it without checking, because that's how Amble's rumours had always worked and none of us had thought to question it before.
 
-The rest of us made it back to the cubby and spent an hour failing to invent a version of the night where we hadn't been there. A bear. Somebody's escaped goat. Nothing we came up with survived contact with our own parents the next morning, and none of us needed it to. Every lie held. Every single one of us got away with it completely.
+Fenwick wasn't with us either, in the end — none of us could tell you, even now, whether he went home too or somewhere else entirely; in all the scrambling, nobody thought to check. Moss, Anders, and Caspian made it back to the cubby and spent an hour failing to invent a version of the night where we hadn't been there. A bear. Somebody's escaped goat. Nothing we came up with survived contact with our own parents the next morning, and none of us needed it to. Every lie held. Every single one of us got away with it completely.
 
 We didn't know it yet, but that was the last secret we ever kept that didn't matter.
 

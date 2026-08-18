@@ -3,6 +3,18 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-18 · `chapter-02-draft-Summer-Market-Day.md` corrected — four real fidelity errors, mirroring
+  a Pass-4 fidelity check run on the Amble Story project's own source chapter.** The troll-fight
+  arrow-and-scolding beat belongs to Caspian, not Skylar (transcript names him directly, twice); the
+  stampede child-rescue is genuinely shared between Caspian and Skylar, not Skylar alone (the source
+  transcript doesn't cleanly separate them — Amble Story's own copy of this chapter flags it `[VERIFY]` in
+  its footer); the lime-purchase rumour came from Fenwick's own investigation check, not Marek; and only
+  three PCs (Moss, Anders, Caspian) are confirmed to have regrouped at the cubby after the fire, not all
+  four remaining — Fenwick's actual whereabouts that night were never stated on tape. Full evidence trail
+  lives in the Amble Story project's own `DECISIONS.md`,
+  `D-2026-08-18-chapter-02-pass4-fidelity-fixes`. Checked the other two chapters at the same time:
+  Chapter 3's copy here is already fully in sync with Amble Story's current text; Chapter 1's copy has one
+  small, pre-existing wording trim (unrelated to this fix, not touched).
 - **2026-08-16 · Reworked the "Real spellcasting" paragraph in `Peoples_and_Magic.md`** — replaced the
   flat rare/notable framing with a graded scale: unremarkable early tricks → serious enough that people
   talk → ruler/Guild-notable → near-mythical top tier.
@@ -10,6 +22,14 @@
   Story sections** — was one 8-item list, grouped now that the page count under this index has grown.
 - **2026-08-12 · Published `Amble_Campaign/Amble.md`** — flipped `draft: true` → `false` after John's
   read-through confirmed the content is good.
+- **2026-08-12 · `Peoples_and_Magic.md`'s "How Common Is Magic?" section rewritten — magic rarity now
+  scales by spell strength, not one flat "rare" band.** John's read: the previous version made *any* real
+  spellcasting sound rare enough to be notable, which reads wrong once player characters actually reach
+  it. New framing: early spellcasting is a real, useful skill but unremarkable; only once a caster's power
+  grows serious does it become something people talk about, with a further step up for the truly powerful
+  and the top tier staying close to unheard of outside the world's longest-lived peoples. Canon source:
+  PACT-campaign's `Lore/Kingdom_of_Halden_Reference.md`, updated same day —
+  see `D-2026-08-12-magic-rarity-by-spell-level` there.
 - **2026-08-12 · First player-facing Amble/world-lore pages: `Amble.md`, `Wider_World_Kids.md`,
   `Peoples_and_Magic.md` (live), `Kingdom_of_Halden_Adults.md` (draft, deliberate reveal gate), rebuilt
   `House_Rules.md`** — kid-vs-adult world knowledge split into separate, independently `draft`-gated
