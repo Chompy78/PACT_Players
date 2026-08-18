@@ -3,6 +3,11 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-18 · `chapter-01-draft-Spring-The-Broken-Charm.md` synced to Amble Story's current wording** —
+  restored "with **his own two friends — the ones who weren't us and never would be —** still swearing
+  revenge" (was trimmed to "with his two friends still swearing revenge" on this copy, a pre-existing
+  difference noticed while checking Chapters 1 and 3 for the same class of drift as the Chapter 2 fix
+  below). Chapter 3's copy needed nothing — already in sync.
 - **2026-08-18 · `chapter-02-draft-Summer-Market-Day.md` corrected — four real fidelity errors, mirroring
   a Pass-4 fidelity check run on the Amble Story project's own source chapter.** The troll-fight
   arrow-and-scolding beat belongs to Caspian, not Skylar (transcript names him directly, twice); the
