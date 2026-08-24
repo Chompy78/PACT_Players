@@ -6,6 +6,9 @@
 
 ## Index
 
+- **D-2026-08-24-nine-tier-dc-scale** — The GM-side campaign's DC scale expanded from four tiers to nine
+  (Trivial 5 through Godly 37), mirrored here for players as a new "How Hard Is Hard?" section in
+  `House_Rules.md` with five worked examples per tier. See full entry.
 - **D-2026-08-12-kid-adult-knowledge-gating** — First player-facing Amble/world-lore pages built.
   Kid-level vs adult-level world knowledge split into separate files with the split visible in the
   filename itself (`Wider_World_Kids.md` / `Kingdom_of_Halden_Adults.md`), gated with Quartz's own
@@ -176,6 +179,31 @@
   respectively.
 
 ---
+
+## D-2026-08-24-nine-tier-dc-scale · mirror the GM-side campaign's expanded nine-tier DC scale into the player-facing House Rules page
+
+- **Context:** The GM-side campaign repo (`cm-pact-campaign`) expanded its DC scale from four tiers (Easy
+  10/Standard 15/Hard 20/Exceptional 25) to nine (Trivial 5, Easy 8, Modest 12, Standard 15, Hard 22,
+  Demanding 24, Extreme 28, Heroic 33, Godly 37) — see that repo's own
+  `decisions/2026/D-2026-08-24-nine-tier-dc-scale.md` for the full design reasoning, including the D&D
+  2024 math behind Heroic and Godly being genuinely level-gated (impossible on a natural 20 below roughly
+  Level 9 and Level 17 respectively, not just rare). John asked for this written here too, with examples.
+- **Options:** (A) Keep this page's existing soft, numberless framing ("advantage is earned, failure
+  isn't a hard stop") and leave DCs as GM-only information. (B) Publish the full nine-tier scale here,
+  with worked examples, same as the GM guide. (C) Publish a trimmed/simplified version.
+- **Decision:** B. Added a new "How Hard Is Hard?" section to `content/Amble_Campaign/House_Rules.md`,
+  directly under the existing "How Checks Actually Play Out" section — the full nine-tier ladder, five
+  examples per tier, written in player-facing language (no GM-only design notes like the "use sparingly"
+  guidance the source guide carries for Heroic/Godly).
+- **Why:** This page already publishes other genuinely mechanical house rules (initiative uses Wisdom,
+  Long Rests don't auto-heal, Breathers) rather than staying purely narrative, so a DC ladder is
+  consistent with what the page already does. Knowing roughly how hard something is helps players make
+  informed choices about when to push a risky action versus look for another way, without needing to ask
+  the GM to break character and state a number.
+- **Status:** Active. This repo's copy is a **mirror**, not the source of truth — if the GM-side scale
+  changes again, this page needs updating to match; it isn't automatically synced.
+- **Consequence:** No numeric changes needed to any already-published player-facing content — none of
+  this project's pages previously stated a DC number.
 
 ## D-2026-08-11-player-agent-contentindex-boundary · use Quartz's built contentIndex.json as the player agent's data source, not raw repo access
 

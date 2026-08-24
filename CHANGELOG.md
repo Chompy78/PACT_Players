@@ -3,6 +3,11 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-24 · `Amble_Campaign/House_Rules.md` gets a new "How Hard Is Hard?" section** — mirrors the
+  GM-side campaign's expanded nine-tier DC scale (Trivial 5 through Godly 37, up from the old four-tier
+  Easy/Standard/Hard/Exceptional), with five worked examples per tier. See `DECISIONS.md`,
+  `D-2026-08-24-nine-tier-dc-scale`, and the GM-side repo's own record of the same name for the full
+  design reasoning.
 - **2026-08-18 · `chapter-01-draft-Spring-The-Broken-Charm.md` synced to Amble Story's current wording** —
   restored "with **his own two friends — the ones who weren't us and never would be —** still swearing
   revenge" (was trimmed to "with his two friends still swearing revenge" on this copy, a pre-existing
