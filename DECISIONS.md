@@ -6,6 +6,13 @@
 
 ## Index
 
+- **D-2026-08-24-chapter-04-handouts-from-zuploads** — 5 handouts (H01–H05) synced via the player's
+  `zcold`/`z-uploads` drop-zone landed in `Arc01_prelude/Chapter_4/`, confirmed by the player as
+  Arc01 (not Arc02) material despite one file's own internal build note pointing at
+  `Arc02_among_strangers`, and confirmed as already-played so no `draft: true` gate was added despite
+  depicting the previously-unrevealed debt-trap reveal. The one non-image handout (a styled 3-page
+  HTML indenture contract) was rendered via headless Chromium to a PNG + PDF pair, following
+  `D-2026-07-23-shared-history-handout-format`. See full entry.
 - **D-2026-08-24-nine-tier-dc-scale** — The GM-side campaign's DC scale expanded from four tiers to nine
   (Trivial 5 through Godly 37), mirrored here for players as a new "How Hard Is Hard?" section in
   `House_Rules.md` with five worked examples per tier. See full entry.
@@ -177,6 +184,64 @@
   character-creation-relevant lore, not part of the kid/adult split), and `House_Rules.md` are live.
   `Amble.md` and `Kingdom_of_Halden_Adults.md` remain `draft: true` pending review/reveal-timing
   respectively.
+
+---
+
+## D-2026-08-24-chapter-04-handouts-from-zuploads · source Chapter 4's handouts from the zcold drop zone, confirm Arc placement and reveal status with the player
+
+- **Context:** 5 files (`H01_The_Branding.jpeg`, `H02_Ride_Out_At_Dawn.jpeg`,
+  `H03_Iron_Coin_Guild_Contract_Printable.html`, `H04_Silverdrop.jpeg`, `H05_Indenture_Contract.jpeg`)
+  landed in `z-uploads/` on the `zcold` drop-zone branch (see `D-2026-08-09-zcold-autosync-setup`) and
+  the player asked for them to go under `Arc01_prelude/Chapter_4/`. Two things needed checking before
+  doing that, rather than just moving the files:
+  1. **Arc placement.** `H03`'s own internal build comment says it was built "as a companion to... the
+     atmospheric prop-shot image (IMG-004 in the Chapter 4 art pack)... Source text:
+     `Arc02_among_strangers/IRON_COIN_GUILD_CONTRACT_FULL_TEXT.md`... Deliberately NOT added to
+     `04_Chapter_4_Winter.html`'s HANDOUTS manifest" — naming a different arc than the one requested.
+     This also matches this repo's own prior record: `D-2026-08-12-kid-adult-knowledge-gating` documents
+     Iron Coin Guild/indenture material as GM-repo **Arc02** content, tied to "the still-unrevealed Ch4
+     debt-trap reveal" of **Arc01**, with `Arc02_arc2/` deliberately left empty on this site.
+  2. **Reveal/spoiler status.** `Arc01_prelude/Chapter_4/index.md` has no `draft: true` — it's live on
+     the built site right now, title still `[REDACTED]`. Once actually viewed, the images are
+     unambiguous: `H01` shows a girl mid-branding-ceremony at a ledger, `H05` is a full indenture
+     contract, both bearing the same guild seal as `H03`'s document — i.e. exactly the debt-trap reveal
+     `D-2026-08-12-kid-adult-knowledge-gating` flagged as still-unrevealed as of that date.
+- **Decision:** Asked the player directly on both points rather than guessing from the conflicting
+  metadata. Confirmed: (1) Arc01 is correct — the `Arc02_among_strangers` reference in `H03`'s comment
+  is stale/irrelevant to this site's own arc, and (2) the session has since been played, so no
+  `draft: true` gate was added — the page stays live as-is.
+- **Why:** The two sources of truth (the player's own instruction vs. a GM-side file's internal
+  provenance note plus this repo's own 12-day-old decision record) genuinely disagreed, and getting
+  either wrong has a real cost — either a spoiler landing on a public live site, or legitimate
+  already-played content getting hidden. Not something to silently pick either way.
+- **Consequence — H03's format:** The HTML file is a styled 3-page indenture-contract prop with its own
+  `@media print` stylesheet (page-break-per-`.page`-div). Same non-viable-as-raw-`.html` problem as
+  `D-2026-07-23-shared-history-handout-format` (Quartz strips `.html`'s extension on output, breaking
+  content-type serving), so the same pattern was reused: rendered via headless Chromium
+  (`/opt/pw-browsers/chromium` through `playwright`, globally installed in this environment, not a repo
+  dependency) to `H03-Iron-Coin-Guild-Contract.png` (full-page screenshot, all 3 stacked pages, for
+  in-page display) and `H03-Iron-Coin-Guild-Contract.pdf` (print-media render, for the explicit
+  download/print use case), both linked from `Chapter_4/index.md`.
+- **Consequence — everything else:** All 4 images renamed underscore→hyphen per
+  `D-2026-07-23-auto-rename-underscore-filenames`'s convention (not auto-applied here since these landed
+  via manual placement, not a push to `main` matching `auto-handout.yml`'s trigger paths). Embed widths
+  (750 landscape / 500 portrait) set by reusing `auto-handout-stub.mjs`'s own JPEG-dimension-sniffing
+  logic directly, rather than eyeballing. `Chapter_4/index.md` given `noStubPages: true`, matching
+  `Chapter_1`/`Chapter_3`'s consolidated-inline pattern (`D-2026-07-21-noStubPages-flag`) rather than
+  Chapter_2's separate-stub-pages pattern. Image bytes were **not** run through `optimize-images.mjs`
+  (sharp isn't installed outside CI) — if these are ever pushed through to `main`, `auto-handout.yml`
+  will re-optimize them automatically on that push since it detects newly-added images under
+  `content/**` regardless of branch of origin; the folder's `noStubPages: true` plus pre-existing index
+  embeds means that same Action run will not create redundant stub pages.
+- **Status:** Active. A full local Quartz build was attempted for verification (matching this repo's own
+  practice, e.g. `D-2026-08-09-chapter-03-from-zuploads`) but `npm run install-plugins` hung/timed out in
+  this environment — likely an `ssh://`-based git dependency the sandboxed network proxy can't reach (a
+  degraded-network issue, not a content problem). Verified manually instead: filename-safety rules,
+  dimension/width logic, and the `noStubPages` embed pattern were all checked against the site's own
+  scripts directly rather than re-implemented from memory, and the rendered PNG/PDF were visually
+  inspected. Original files left untouched on `zcold`'s `z-uploads/` per the same reasoning as
+  `D-2026-08-09-chapter-03-from-zuploads` — that branch is a live local drop-zone, not something a
+  session edits without being asked.
 
 ---
 

@@ -3,6 +3,12 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-24 · `Arc01_prelude/Chapter_4/` gets its first 5 handouts (H01–H05)** — sourced from the
+  `zcold`/`z-uploads` drop zone. The one non-image handout (a styled HTML indenture-contract prop) was
+  rendered via headless Chromium into a display PNG + printable PDF pair, matching how
+  `Shared-History-Handout` was handled. Confirmed with the player: Arc01 (not Arc02, despite one file's
+  own internal note pointing elsewhere) and no `draft: true` needed (session already played). See
+  `DECISIONS.md`, `D-2026-08-24-chapter-04-handouts-from-zuploads`.
 - **2026-08-24 · `Amble_Campaign/House_Rules.md` gets a new "How Hard Is Hard?" section** — mirrors the
   GM-side campaign's expanded nine-tier DC scale (Trivial 5 through Godly 37, up from the old four-tier
   Easy/Standard/Hard/Exceptional), with five worked examples per tier. See `DECISIONS.md`,
