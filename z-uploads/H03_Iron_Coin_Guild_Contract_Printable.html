@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Iron Coin Guild — Standard Indenture Agreement — Player Handout</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap');
+
+  :root{
+    --parchment: #EDE2C9;
+    --parchment-edge: #DACBA3;
+    --ink: #362518;
+    --ink-soft: #5A4530;
+    --gold: #A0824F;
+    --rule: #B9A574;
+  }
+
+  *{ box-sizing:border-box; }
+
+  body{
+    margin:0;
+    padding:36px 16px;
+    background:#cabd97;
+    font-family:'EB Garamond', serif;
+    color:var(--ink);
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:28px;
+  }
+
+  .page{
+    width:100%;
+    max-width:680px;
+    background:
+      radial-gradient(ellipse at top left, rgba(160,130,79,0.06), transparent 55%),
+      radial-gradient(ellipse at bottom right, rgba(90,69,48,0.07), transparent 55%),
+      var(--parchment);
+    border:1px solid var(--parchment-edge);
+    box-shadow: 0 2px 3px rgba(54,37,24,0.15), 0 10px 24px rgba(54,37,24,0.18);
+    padding:48px 52px 40px;
+    position:relative;
+  }
+
+  .page::before{
+    content:"";
+    position:absolute;
+    inset:12px;
+    border:1px solid rgba(160,130,79,0.5);
+    pointer-events:none;
+  }
+
+  .letterhead{
+    text-align:center;
+    margin-bottom:18px;
+    padding-bottom:16px;
+    border-bottom:2px solid var(--ink);
+  }
+
+  .emblem{ margin:0 auto 8px; display:block; }
+
+  .guild-name{
+    font-family:'IM Fell English', serif;
+    font-size:15px;
+    letter-spacing:0.28em;
+    text-transform:uppercase;
+    color:var(--ink);
+    margin:0 0 4px;
+  }
+
+  .doc-title{
+    font-family:'IM Fell English', serif;
+    font-size:22px;
+    font-style:italic;
+    color:var(--ink);
+    margin:0;
+  }
+
+  .doc-subtitle{
+    font-size:12.5px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+    margin:4px 0 0;
+  }
+
+  .field-block{
+    font-size:13.5px;
+    line-height:2;
+    margin:0 0 22px;
+    padding:14px 18px;
+    border:1px solid var(--rule);
+    background:rgba(255,255,255,0.15);
+  }
+
+  .field-block .row{ display:flex; }
+  .field-block .field-label{ width:150px; flex-shrink:0; color:var(--ink-soft); }
+  .field-block .field-value{ border-bottom:1px dotted var(--rule); flex:1; }
+  .field-block .field-value.blank{ min-height:1.4em; }
+
+  h2.section{
+    font-family:'IM Fell English', serif;
+    font-weight:400;
+    font-size:16px;
+    letter-spacing:0.04em;
+    color:var(--ink);
+    margin:26px 0 8px;
+    padding-bottom:4px;
+    border-bottom:1px solid var(--rule);
+  }
+
+  .section-body{
+    font-size:14.5px;
+    line-height:1.65;
+    color:var(--ink);
+  }
+
+  .section-body p{ margin:0 0 8px; }
+  .section-body ul{ margin:4px 0 8px; padding-left:22px; }
+  .section-body li{ margin-bottom:2px; }
+
+  .callout{
+    font-weight:600;
+    font-size:15px;
+    margin:6px 0;
+  }
+
+  .emphasis{
+    font-weight:600;
+    background:rgba(160,130,79,0.14);
+    padding:1px 4px;
+  }
+
+  .page-number{
+    text-align:center;
+    font-size:11px;
+    letter-spacing:0.15em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+    margin-top:30px;
+    padding-top:12px;
+    border-top:1px solid var(--rule);
+  }
+
+  .sig-block{
+    margin-top:32px;
+    display:flex;
+    gap:36px;
+  }
+
+  .sig-col{ flex:1; }
+
+  .sig-line{
+    border-bottom:1px solid var(--ink);
+    height:44px;
+    margin-bottom:6px;
+  }
+
+  .sig-caption{ font-size:12px; color:var(--ink-soft); }
+  .sig-caption .name{ font-style:italic; color:var(--ink); display:block; margin-top:2px; }
+
+  .date-line{
+    margin-top:24px;
+    text-align:center;
+    font-size:13.5px;
+  }
+
+  @media print{
+    body{ background:#fff; padding:0; gap:0; }
+    .page{
+      box-shadow:none;
+      border:none;
+      max-width:100%;
+      page-break-after: always;
+    }
+    .page:last-of-type{ page-break-after: auto; }
+  }
+</style>
+</head>
+<body>
+
+  <!-- ============================================================
+       PLAYER HANDOUT — PRINT NOTES (not part of the printed document,
+       this comment sits outside every .page div)
+       ============================================================
+       Built 2026-08-20 as a companion to the existing text handout
+       (H03_Iron_Coin_Guild_Contract.md) and the atmospheric prop-shot
+       image (IMG-004 in the Chapter 4 art pack) — this file exists
+       specifically because a genuinely READABLE multi-page prop was
+       wanted, and image generators can't reliably render legible
+       paragraphs of text. This is a real designed document instead,
+       following the same pattern as Chapter 1's Shared_History_Handout.html.
+
+       Source text: Arc02_among_strangers/IRON_COIN_GUILD_CONTRACT_FULL_TEXT.md
+       (the same contract signed in this chapter's Scene Fifteen — see that
+       file's own GM note on the specimen name below). Transcribed faithfully,
+       not paraphrased. The three-page split follows that source file's own
+       "# PAGE 2" / "# PAGE 3" markers — not a new decision made here.
+
+       SPECIMEN NAME: "Anders Tealeaf of Amble" appears in the header block
+       and Section 1, per the source file's own party-agnostic design note —
+       find-and-replace it with an actual signer's name before printing if
+       you want a personalised copy, or hand it out as-is to show the
+       standard form before the party's own is drawn up. The Signatures
+       page's own lines are left genuinely blank either way, for signing
+       at the table.
+
+       Print this (Ctrl/Cmd+P) for three physical pages, one per .page div.
+       Deliberately NOT added to 04_Chapter_4_Winter.html's HANDOUTS
+       manifest — it's a print-and-hand-out prop, not a GM-drawer reference
+       link like the other handouts.
+  -->
+
+  <!-- PAGE 1 -->
+  <div class="page">
+    <div class="letterhead">
+      <svg class="emblem" width="46" height="46" viewBox="0 0 46 46" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="23" cy="23" r="20" fill="none" stroke="#362518" stroke-width="1.5"/>
+        <circle cx="23" cy="23" r="15" fill="none" stroke="#A0824F" stroke-width="1"/>
+        <path d="M23 12 L26 20 L34 20 L27.5 25 L30 33 L23 28 L16 33 L18.5 25 L12 20 L20 20 Z"
+              fill="none" stroke="#362518" stroke-width="1.2"/>
+      </svg>
+      <p class="guild-name">Iron Coin Guild</p>
+      <p class="doc-title">Standard Indenture Agreement</p>
+      <p class="doc-subtitle">Apprentice Contract — Grade I</p>
+    </div>
+
+    <div class="field-block">
+      <div class="row"><span class="field-label">Contract Number</span><span class="field-value">ICG-SH-16-4721</span></div>
+      <div class="row"><span class="field-label">Member Classification</span><span class="field-value">Indenture Grade I</span></div>
+      <div class="row"><span class="field-label">Member Name</span><span class="field-value">Anders Tealeaf</span></div>
+      <div class="row"><span class="field-label">Place of Origin</span><span class="field-value">Amble, South March</span></div>
+      <div class="row"><span class="field-label">Issuing Office</span><span class="field-value">Stoneharbour Branch</span></div>
+      <div class="row"><span class="field-label">Contract Status</span><span class="field-value">Active</span></div>
+      <div class="row"><span class="field-label">Date of Signing</span><span class="field-value">14th Day of Winterfall, 1167</span></div>
+    </div>
+
+    <h2 class="section">1. Parties</h2>
+    <div class="section-body">
+      <p>This agreement is entered into between the Iron Coin Guild ("the Guild") and:</p>
+      <p class="callout">Anders Tealeaf of Amble</p>
+      <p>("the Member") of Amble, South March.</p>
+    </div>
+
+    <h2 class="section">2. Purpose</h2>
+    <div class="section-body">
+      <p>The Guild agrees to provide:</p>
+      <ul>
+        <li>Employment placement</li>
+        <li>Training and development</li>
+        <li>Lodging</li>
+        <li>Meals</li>
+        <li>Access to approved medical services</li>
+        <li>Opportunities for advancement</li>
+      </ul>
+      <p>The Member agrees to provide labour, service, and reasonable obedience to lawful Guild directives.</p>
+    </div>
+
+    <h2 class="section">3. Term of Service</h2>
+    <div class="section-body">
+      <p>The Member shall serve the Guild for a period of:</p>
+      <p class="callout">Seven (7) Years</p>
+      <p>beginning upon arrival at their assigned Guild office.</p>
+      <p>Periods of imprisonment, desertion, unauthorised absence, or suspension may be excluded from this calculation.</p>
+    </div>
+
+    <h2 class="section">4. Initial Debt</h2>
+    <div class="section-body">
+      <p>The Guild records the following debt against the Member's account:</p>
+      <p class="callout">750 GP</p>
+      <p>This debt reflects:</p>
+      <ul>
+        <li>Recruitment</li>
+        <li>Transportation</li>
+        <li>Placement services</li>
+        <li>Training allocation</li>
+        <li>Administrative onboarding</li>
+      </ul>
+      <p>The debt shall be maintained upon the Guild Ledger.</p>
+    </div>
+
+    <h2 class="section">5. Compensation</h2>
+    <div class="section-body">
+      <p>The Member shall receive compensation according to:</p>
+      <ul>
+        <li>Assigned duties</li>
+        <li>Risk rating</li>
+        <li>Performance</li>
+        <li>Guild requirements</li>
+      </ul>
+      <p>Compensation schedules are subject to change without amendment to this agreement.</p>
+    </div>
+
+    <h2 class="section">6. Lodging and Board</h2>
+    <div class="section-body">
+      <p>The Guild shall provide:</p>
+      <ul>
+        <li>Shared lodging</li>
+        <li>Meals</li>
+        <li>Laundry facilities</li>
+        <li>Access to approved medical care</li>
+      </ul>
+      <p>Associated charges may be deducted from earnings according to current Guild schedules.</p>
+    </div>
+
+    <h2 class="section">7. Application of Earnings</h2>
+    <div class="section-body">
+      <p>Unless otherwise requested and approved in writing:</p>
+      <p>Any surplus earnings remaining after deductions shall automatically be applied toward the reduction of the Member's recorded debt.</p>
+    </div>
+
+    <h2 class="section">8. Conduct</h2>
+    <div class="section-body">
+      <p>The Member shall:</p>
+      <ul>
+        <li>Obey lawful Guild directives</li>
+        <li>Protect Guild property</li>
+        <li>Maintain required records</li>
+        <li>Refrain from conduct harmful to Guild interests</li>
+      </ul>
+      <p>Repeated violations may result in disciplinary action.</p>
+    </div>
+
+    <h2 class="section">9. Records</h2>
+    <div class="section-body">
+      <p>The Guild shall maintain an official copy of this agreement.</p>
+      <p>One certified copy shall be issued to the Member's registered household of record.</p>
+      <p>Replacement copies may be obtained according to current Guild Records schedules and fees.</p>
+    </div>
+
+    <div class="page-number">Page One of Three</div>
+  </div>
+
+  <!-- PAGE 2 -->
+  <div class="page">
+    <h2 class="section" style="margin-top:0;">10. Placement</h2>
+    <div class="section-body">
+      <p>The Guild may assign the Member to:</p>
+      <ul>
+        <li>Settlements</li>
+        <li>Branch offices</li>
+        <li>Vessels</li>
+        <li>Commercial ventures</li>
+        <li>Security details</li>
+        <li>Expeditions</li>
+        <li>Other duties as required</li>
+      </ul>
+      <p>Assignments may be altered without amendment to this agreement.</p>
+    </div>
+
+    <h2 class="section">11. Rank</h2>
+    <div class="section-body">
+      <p>The Member enters service as:</p>
+      <p class="callout">Indenture Grade I</p>
+      <p>The Guild reserves the right to promote, demote, transfer, or reassign the Member according to operational requirements.</p>
+    </div>
+
+    <h2 class="section">12. Administration Assessments</h2>
+    <div class="section-body">
+      <p>Members may incur recurring assessments relating to:</p>
+      <ul>
+        <li>Record maintenance</li>
+        <li>Assignment management</li>
+        <li>Career administration</li>
+        <li>Archive services</li>
+        <li>Arbitration services</li>
+        <li>Placement services</li>
+      </ul>
+      <p>Current schedules are maintained by local Guild offices.</p>
+    </div>
+
+    <h2 class="section">13. Medical Services</h2>
+    <div class="section-body">
+      <p>Emergency treatment shall not be withheld due to inability to pay.</p>
+      <p>Associated costs may be recorded against the Member's ledger.</p>
+    </div>
+
+    <h2 class="section">14. Equipment</h2>
+    <div class="section-body">
+      <p>Guild-issued equipment remains Guild property unless otherwise recorded.</p>
+      <p>Loss or damage may result in charges against the Member's account.</p>
+    </div>
+
+    <h2 class="section">15. Appeals and Disputes</h2>
+    <div class="section-body">
+      <p>Disputes regarding:</p>
+      <ul>
+        <li>Ledger balances</li>
+        <li>Assessments</li>
+        <li>Placements</li>
+        <li>Promotions</li>
+        <li>Contract interpretation</li>
+      </ul>
+      <p>must be filed through the local Guild office.</p>
+      <p>Applicable fees may apply.</p>
+    </div>
+
+    <h2 class="section">16. Archive Services</h2>
+    <div class="section-body">
+      <p>The Guild Archive Office may provide:</p>
+      <ul>
+        <li>Certified copies</li>
+        <li>Debt statements</li>
+        <li>Ledger histories</li>
+        <li>Contract records</li>
+        <li>Contract review appointments</li>
+      </ul>
+      <p>Current fees apply.</p>
+    </div>
+
+    <div class="page-number">Page Two of Three</div>
+  </div>
+
+  <!-- PAGE 3 -->
+  <div class="page">
+    <h2 class="section" style="margin-top:0;">17. Completion of Service</h2>
+    <div class="section-body">
+      <p>Upon completion of the Service Term, the Member shall be released from mandatory service unless otherwise contracted.</p>
+    </div>
+
+    <h2 class="section">18. Repayment of Debt</h2>
+    <div class="section-body">
+      <p>The Member may make voluntary payments against recorded debt at any time.</p>
+      <p>Debt balances may be requested from Guild Records.</p>
+      <p>Current fees may apply.</p>
+    </div>
+
+    <h2 class="section">19. Clarification Regarding Debt</h2>
+    <div class="section-body">
+      <p class="emphasis">Repayment of recorded debt does not, by itself, terminate the Service Term established under Section 3.</p>
+    </div>
+
+    <h2 class="section">20. Early Termination</h2>
+    <div class="section-body">
+      <p>The Member may petition for early release from service.</p>
+      <p>Approval is not guaranteed.</p>
+    </div>
+
+    <h2 class="section">21. Early Release Assessment</h2>
+    <div class="section-body">
+      <p>Approved petitions may require settlement of:</p>
+      <ul>
+        <li>Outstanding debt</li>
+        <li>Administrative closure costs</li>
+        <li>Placement recovery costs</li>
+        <li>Training recovery costs</li>
+        <li>Other obligations arising under this agreement</li>
+      </ul>
+      <p>Current schedules are available from Guild Records.</p>
+    </div>
+
+    <h2 class="section">22. Records Fees</h2>
+    <div class="section-body">
+      <p>Administrative services, including but not limited to:</p>
+      <ul>
+        <li>Debt statements</li>
+        <li>Ledger histories</li>
+        <li>Certified copies</li>
+        <li>Archive searches</li>
+        <li>Contract reviews</li>
+        <li>Appeal filings</li>
+      </ul>
+      <p>may incur fees according to current Guild schedules.</p>
+    </div>
+
+    <h2 class="section">23. Final Authority</h2>
+    <div class="section-body">
+      <p>Interpretation of this agreement shall rest with duly authorised representatives of the Iron Coin Guild.</p>
+    </div>
+
+    <h2 class="section">Signatures</h2>
+    <div class="sig-block">
+      <div class="sig-col">
+        <div class="sig-line"></div>
+        <div class="sig-caption">Member<span class="name">(sign above)</span></div>
+      </div>
+      <div class="sig-col">
+        <div class="sig-line"></div>
+        <div class="sig-caption">Guild Witness<span class="name">D. Ashcroft, Assistant Registrar</span></div>
+      </div>
+    </div>
+    <div class="date-line">Date Executed: 14th Day of Winterfall, 1167</div>
+
+    <div class="page-number">Page Three of Three</div>
+  </div>
+
+</body>
+</html>
