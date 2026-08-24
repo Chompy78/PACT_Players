@@ -3,6 +3,11 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-24 · Cleaned up the `zcold` branch's `z-uploads/`** — deleted the 4 files already migrated
+  into `main` back on 2026-08-09 (`chapter-03-draft-full-session.md` + its 3 images), left there at the
+  time since that branch is tied to a live local sync script (`D-2026-08-09-chapter-03-from-zuploads`).
+  Kept `README.md`. Pushed via a throwaway worktree so the session's own checked-out branch was never
+  touched.
 - **2026-08-24 · `Arc01_prelude/Chapter_4/` gets its first 5 handouts (H01–H05)** — sourced from the
   `zcold`/`z-uploads` drop zone. The one non-image handout (a styled HTML indenture-contract prop) was
   rendered via headless Chromium into a display PNG + printable PDF pair, matching how
