@@ -3,6 +3,21 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-25 · All three Prelude chapters synced to Amble Story's post-review wording** — Amble Story
+  ran a scheduled cross-chapter prose review (74/100) and applied 13 of its 17 findings, then rewrote
+  Chapter 1 to its Age-8 voice anchor. Propagated here on request. **Chapter 1 is substantially rewritten**
+  (19 structural edits — compound sentences broken up, clause counts roughly halved, average sentence
+  length now 10.2 words against Chapter 2's 14.8 and Chapter 3's 20.2; no outcome, beat or preserved
+  player line changed). Chapters 2 and 3 took surgical fixes: a contradiction crediting Bram with a
+  bullying history the story had already retired, a sketchbook/charcoal tangle implying a third sketchbook
+  the transcript rules out, a broken group-composite "I", Chapter 1's season clash (its text said "last
+  summer"; this file is *Spring: The Broken Charm*), and several template phrases that had been shipping
+  verbatim. **Also caught pre-existing drift in this repo**, unrelated to that round: Chapter 2's copy was
+  missing the Bram-is-an-NPC clarifier added upstream on 2026-08-08 — now restored, the same class of
+  silent drift the 2026-08-18 sync found. All frontmatter and all seven image embeds preserved; Chapter
+  3's fey-creature image was moved along with the paragraph it illustrates, which shifted in the edit.
+  Verified paragraph-by-paragraph against source afterwards. Why lives in the Amble Story project's own
+  `DECISIONS.md`, `D-2026-08-25-prose-review-round-1` and `D-2026-08-25-chapter-01-voice-pass`.
 - **2026-08-24 · Cleaned up the `zcold` branch's `z-uploads/`** — deleted the 4 files already migrated
   into `main` back on 2026-08-09 (`chapter-03-draft-full-session.md` + its 3 images), left there at the
   time since that branch is tied to a live local sync script (`D-2026-08-09-chapter-03-from-zuploads`).

@@ -5,7 +5,7 @@ draft: false
 
 # Chapter 2 — Twelve
 
-We weren't children anymore, though none of us had noticed the moment it happened. Four years is a long time when you're eight, and nothing at all looking back on it. The cubby was still ours. Wren was still around, louder every season, like volume might finally get her listened to. Anders had joined us somewhere in those years too — none of us can agree exactly when, only that one day he simply was part of the group, the way some people just become part of a thing without anyone deciding it. We told ourselves nothing much had changed. We were wrong about that.
+Four years is a long time when you're eight, and nothing at all looking back on it. Somewhere in them we stopped being small, and not one of us noticed it happening. The cubby was still ours. Wren was still around, louder every season, like volume might finally get her listened to. Anders had joined us somewhere in those years too — none of us can agree exactly when, only that one day he simply was part of the group, the way some people just become part of a thing without anyone deciding it. We told ourselves nothing much had changed. We were wrong about that.
 
 It started with a funeral. The sky over Amble couldn't decide if it wanted to rain — neither could we, if we're honest. The whole village gathered at the shrine, standing close together, not for warmth. Grief does that; it makes people forget where to put their hands. Wren's mother lay under a bed of wildflowers, and Mother Yela stood beside her, and Wren stood beside Mother Yela, still as a fence post. We'd never seen her hold still before.
 
@@ -17,7 +17,7 @@ We were twelve. We knew better than to say it had.
 
 After, people drifted toward Wren the way people do at funerals — helpless, well-meaning, useless. She gave them one word each. Fine. Good. Yep. We drifted over too, because that's what you did. Caspian brought flowers, though it turned out they weren't allowed — some rule about the shrine none of us knew — so Anders gave her oranges instead, from a bag his family had brought for reasons nobody remembers. She took them like they were the strangest thing anyone had ever handed her, which, to be fair, they were. Skylar hugged her, because Skylar always thought a hug was the answer, and sometimes it was. Anders stepped back after and called it respect, which was mostly true.
 
-Bram came last. "Sorry about your mum," he said, and kept talking when he should have stopped — something about his mother's cooking, an open invitation to dinner, any time she needed. Kindness, badly aimed. Wren broke.
+Bram came last — he wasn't one of us, not really, but he came anyway. "Sorry about your mum," he said, and kept talking when he should have stopped — something about his mother's cooking, an open invitation to dinner, any time she needed. Kindness, badly aimed. Wren broke.
 
 *At least your parents are still alive*, she told him. *At least you've got a home. At least someone's waiting for you. At least your dad can still embarrass you — even drunk.*
 
@@ -31,7 +31,7 @@ We left with our families. Behind the old grain store, half-hidden, we saw Bram 
 
 Three weeks later the summer market came, and there was still a gap where Mara used to stand — the kind you only noticed if you knew where to look. Wren filled it that summer by working twice as hard as anyone asked her to.
 
-We found her losing an argument with a stack of crates outside Mother Yela's stall. Caspian ran to help. Beat me by seconds. She wasn't too proud to let us — just proud enough to keep kicking the crate she was already losing to.
+We found her losing an argument with a stack of crates outside Mother Yela's stall. Caspian ran to help. The rest of us were seconds behind him. She wasn't too proud to let us — just proud enough to keep kicking the crate she was already losing to.
 
 That's when Wren told us the guild man was back.
 
@@ -83,7 +83,7 @@ Wren got sweets bought for her by three different relieved strangers before the 
 
 Councilman Pike showed up not long after to check the stalls were packed properly, and somehow found time to lecture Bram about respect while saying nothing to anyone else. Wren called him a goody-two-shoes to his back, quietly, and none of us disagreed.
 
-We didn't mean to be heroes that afternoon. It just sort of happened, the way it apparently does, to people who are in the wrong place with the wrong amount of courage and not enough sense to leave.
+Nobody set out that afternoon to be brave about anything. It happened to us the way it happens to people who are in the wrong place with the wrong amount of courage and not enough sense to leave.
 
 By evening we had a plan for the night that had nothing to do with any of that. We should have been tired. We weren't.
 
@@ -91,7 +91,7 @@ By evening we had a plan for the night that had nothing to do with any of that. 
 
 We were not supposed to be awake. We were definitely not supposed to be at the old cart shed, the one the Tanner's dog wouldn't go near, the one with a ghost story attached to it that none of us actually believed and all of us wanted to.
 
-Anders brought stolen smoke leaves. Skylar brought a lantern and a length of rope. Someone brought bread, because someone always brought bread. We climbed down from the cubby with a plan that amounted to *walk there and see*, which was, by then, the only kind of plan we ever really made.
+Anders brought stolen smokeleaf. Skylar brought a lantern and a length of rope. Someone brought bread, because someone always brought bread. We climbed down from the cubby with a plan that amounted to *walk there and see*, which was, by then, the only kind of plan we ever really made.
 
 Being quiet was never going to happen. Not with a Goliath among us, and a halfling who still smelled faintly of grease from that afternoon.
 
@@ -105,9 +105,9 @@ It hit the side of the shed instead of the rats, and the shed — old, dry, exac
 
 ![[chapter-02-cart-shed-ignoremd.jpeg|The old cart shed, before the fire|750]]
 
-Skylar went straight home and got into bed still smelling of smoke, which fooled nobody. Her brother knew. Her sister knew. Everybody's little brother, it turned out, knew everything, and most of it wasn't true — by morning the story going round blamed some other girl entirely, over a beauty pageant that had never happened, and everyone believed it without checking, because that's how Amble's rumours had always worked and none of us had thought to question it before.
+Skylar went straight home and got into bed still smelling of smoke, which fooled nobody. Her brother knew. Her sister knew. Everybody's little brother, it turned out, knew everything, and most of it wasn't true — by morning the story going round blamed some other girl entirely, over a harvest-queen contest that had never happened, and everyone believed it without checking, because that's how Amble's rumours had always worked and none of us had thought to question it before.
 
-Fenwick wasn't with us either, in the end — none of us could tell you, even now, whether he went home too or somewhere else entirely; in all the scrambling, nobody thought to check. Moss, Anders, and Caspian made it back to the cubby and spent an hour failing to invent a version of the night where we hadn't been there. A bear. Somebody's escaped goat. Nothing we came up with survived contact with our own parents the next morning, and none of us needed it to. Every lie held. Every single one of us got away with it completely.
+Fenwick wasn't with us either. In all the scrambling, nobody thought to check where he'd got to. Moss, Anders, and Caspian made it back to the cubby and spent an hour failing to invent a version of the night where we hadn't been there. A bear. Somebody's escaped goat. Nothing we came up with survived contact with our own parents the next morning, and none of us needed it to. Every lie held. Every single one of us got away with it completely.
 
 We didn't know it yet, but that was the last secret we ever kept that didn't matter.
 
