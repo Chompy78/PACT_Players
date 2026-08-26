@@ -55,6 +55,8 @@ She opened her eyes when Wren called her name, and looked at us, and she was not
 
 We carried her to her bed. All of us except Skylar, who said — correctly, and to nobody's gratitude — that five people crowding one old woman was not help, and went to search the room instead. She found nothing worth the name: a pot set out for water that never got boiled, and nothing at all that explained the dust.
 
+![[chapter-04-grey-dust-ignoremd.jpeg|Mother Yela, caught mid-task, under a fine grey dust|750]]
+
 *Someone needs to go get Old Corr.*
 
 I want to be careful here, because of what came after, and because it would be easy to make us sound more frightened than we were. We weren't frightened, we were *organised* — we knew exactly what you did when an adult went down, because we'd done it a dozen times: you fetched the healer, the healer fixed it, and then the adults took over and told you to go away. Old Corr had put us back together after the rats, and after the lime pits, and after most of the stupid things we had ever done to ourselves.
@@ -80,6 +82,8 @@ They found him in his bed. When Anders shook him a faint dust lifted off him and
 And he nodded, and went back to sleep.
 
 They carried him between them the few hundred yards to the shrine, and it took ten minutes, because the snow was deep and the ground under it was ice and Anders is not a large person. They went down once, and Old Corr landed on top of him, and they got up and kept going and got him inside, and the door opened on the two of them hauling a body in out of the white, and Anders — who had been carrying the village healer through a blizzard for ten minutes — was asked immediately whether he'd killed him.
+
+![[chapter-04-carrying-old-corr-ignoremd.jpeg|Carrying Old Corr through the snow|750]]
 
 Moss got him in front of the fire and got a blanket round him and did the things his mother had done to him every time he'd stayed out too long in the cold, which was often. Archer suggested whiskey. Corr's pulse came back up, and in the corner Bram coughed and coughed and then started surreptitiously checking his own arms for dust, and told everyone he thought he was probably fine.
 
@@ -212,6 +216,8 @@ Old Piper's stupid story. That is what was in Anders' head. A blind drunk's tall
 
 He threw it in anyway.
 
+![[chapter-04-pearl-into-the-well-ignoremd.jpeg|He threw it in anyway|750]]
+
 Thale got a hand round the back of his head about half a second too late, and Marek — who had been chasing us the entire time, and who could have ended any one of us at any point in those four minutes and did not — pulled up short, looked down the well, and said: *well, you've done it now. You might as well take advantage of the water.*
 
 Then he told us it would only last a day, and went jogging after Thale — and Fenwick had a bucket off the wall before he'd finished the sentence.
@@ -259,6 +265,8 @@ Fenwick said he'd always been told not to sign anything he couldn't understand f
 Caspian went first, because Moss nominated him as the ringleader and nobody argued, and then Archer, and then Skylar, and then the rest of us. Thale told each of us to show a shoulder. He had a stamp, and the stamp was hot, and an iron coin burned itself into the skin of every one of us in turn. Moss screamed. Anders yelled and then signed, and a small magical light passed over the contract as he did it, sealing whatever it was we had just agreed to.
 
 Fenwick, having been branded and indentured at sixteen years of age, looked at the little gnome official holding the paperwork and asked whether they had the brand in a smaller size. "It's good that you can keep your sense of humour," Thale told him. "You'll need it where you're going."
+
+![[chapter-04-the-branding-ignoremd.jpeg|An iron coin, burned into the shoulder|750]]
 
 Then Wren came through the crowd and demanded to join the guild.
 
@@ -315,3 +323,5 @@ Fenwick told him not to be.
 The road out of Amble goes up before it goes anywhere, and there is a point near the top where the whole village fits between two fenceposts if you turn around — the shrine, the inn, the council tree, the cubby up in the branches that we built out of stolen planks when we were eight and never once got around to finishing.
 
 Every one of us turned around. Nobody said anything. Then Skylar started walking again, and the rest of us followed her, the way we always had, and the snow came down and filled in the prints behind us before we'd got a hundred yards.
+
+![[chapter-04-leaving-amble-ignoremd.jpeg|The road out of Amble, and the snow filling in behind them|750]]
