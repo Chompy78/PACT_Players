@@ -3,6 +3,16 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-26 · Chapter 4 published: `Winter: The Iron Coin`** — the Prelude's fourth and final season,
+  synced from Amble Story (~6,360 words). Grey Fever reaches Amble; the party steals the cure the Iron Coin
+  Guild is carrying through and throws it down the town well; the village lives, and all six of them are
+  indentured to the Guild for seven years and leave for Stoneharbour. `draft: false`, consistent with the
+  handouts decision of 2026-08-24 — the session has been played, so it isn't a spoiler. Added to both
+  index pages. **Also reworded the Arc01 blurb on `The_Story_So_Far/index.md`**, which described only the
+  first half of the arc ("The summer everything started small...") and was misleading now the arc runs to
+  a winter. No images exist for this chapter yet, unlike Chapters 1–3. Why lives in the Amble Story
+  project's own `DECISIONS.md`, `D-2026-08-25-chapter-04-drafted` and
+  `D-2026-08-26-chapter-04-canon-resolved`.
 - **2026-08-25 · All three Prelude chapters synced to Amble Story's post-review wording** — Amble Story
   ran a scheduled cross-chapter prose review (74/100) and applied 13 of its 17 findings, then rewrote
   Chapter 1 to its Age-8 voice anchor. Propagated here on request. **Chapter 1 is substantially rewritten**
