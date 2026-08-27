@@ -16,7 +16,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 - [Stable Characters](#stable-characters)
 - [Revival Exhaustion](#revival-exhaustion)
 - [Inspiration](#inspiration)
-- [Drinking a Potion](#drinking-a-potion)
+- [Drinking a Potion — Bonus Action](#drinking-a-potion-bonus-action)
 - [Medium Armor Strength Requirement](#medium-armor-strength-requirement)
 - [Heavy Armor Strength Requirement](#heavy-armor-strength-requirement)
 - [Advancement](#advancement)
@@ -106,7 +106,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 >
 > You can hold at most one Heroic Inspiration at a time. If you'd earn another while already holding one, you can't stack it — instead, give it to another player character who doesn't currently have any. *This paragraph is standard 2024 RAW, not a house rule — the one-at-a-time cap and passing along a duplicate both work this way by default.*
 
-## Drinking a Potion
+## Drinking a Potion — Bonus Action
 
 > [!note]- Details
 > Drinking a potion, or administering one to another creature, costs a Bonus Action.
