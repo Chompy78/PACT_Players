@@ -1,9 +1,9 @@
 ---
-title: PACT Player Archive
+title: Amble Player Hub
 description: Handouts, maps, and lore revealed during play
 ---
 
-![[banner.webp|PACT Player Archive banner|750]]
+![[banner.webp|Amble Player Hub banner|750]]
 
 **New here?** Start with [[Amble_Campaign/Campaign_Pitch|No One Stays a Child]] — the campaign pitch and premise.
 
@@ -11,11 +11,11 @@ description: Handouts, maps, and lore revealed during play
 
 **Before Session 1:** read your [[Arc01_prelude/Shared-History-Handout|Shared History]] — three memories your characters share, worth printing and keeping beside your character sheet.
 
-**Got a question about the story?** Ask the [PACT Player Agent](https://homeserver.tailc5803f.ts.net:8443) — it searches this archive and answers from what it finds, with links to the pages it used. No login, nothing to install, works on a phone. It only knows what's published here, so it can't spoil anything you haven't seen.
+**Got a question about the story?** Ask the [PACT Player Agent](https://homeserver.tailc5803f.ts.net:8443) — it searches this site and answers from what it finds, with links to the pages it used. No login, nothing to install, works on a phone. It only knows what's published here, so it can't spoil anything you haven't seen.
 
-It's better at specific questions than broad ones — *"who is Marek?"* or *"what's the Silver Drop?"* will get you further than *"summarise chapter 4"*. If it says it can't find something, it usually means the search missed it rather than that the page isn't there, so try naming a person, place or object instead.
+Ask it whatever you like — *"who is Marek?"*, *"what's the Silver Drop?"*, *"what happened in chapter 4?"* and *"who are the mentors of Amble?"* all work. If it says it doesn't know something, take it at its word: it's built to say so rather than guess, and it will tell you when a detail simply isn't recorded anywhere on the site.
 
-Welcome to the PACT Archive. Here you'll find the maps, sketches, stories, and odd little discoveries your characters uncover as they grow up in and around the village of Amble. Some pages may feel familiar, some may raise new questions, and many secrets are still waiting to be revealed — but every piece belongs to the story you've lived together.
+Welcome to the Amble Player Hub. Here you'll find the maps, sketches, stories, and odd little discoveries your characters uncover as they grow up in and around the village of Amble. Some pages may feel familiar, some may raise new questions, and many secrets are still waiting to be revealed — but every piece belongs to the story you've lived together.
 
 ## Campaign
 
