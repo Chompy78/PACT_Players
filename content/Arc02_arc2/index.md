@@ -12,4 +12,4 @@ The party leave Amble indentured to the Iron Coin Guild, bound for Stoneharbour 
 
 ## Chapters
 
-- [[Arc02_arc2/Chapter_1/index|Ch. 1: Among Strangers]]
+- [[Arc02_arc2/Chapter_1/index|Ch. 1: Indentured]]

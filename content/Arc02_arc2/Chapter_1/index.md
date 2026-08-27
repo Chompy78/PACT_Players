@@ -1,5 +1,5 @@
 ---
-title: "Ch. 1: Among Strangers"
+title: "Ch. 1: Indentured"
 noStubPages: true
 ---
 
