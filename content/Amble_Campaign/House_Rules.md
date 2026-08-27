@@ -70,6 +70,29 @@ Advantage is something you earn through setup — using a skill or talent your c
 
 A failed check doesn't hard-stop a scene. It complicates it, costs something, or sends the story sideways — but it keeps moving.
 
+## Group Checks and Expert Checks
+
+Not every situation where multiple characters could roll is handled the same way. Which approach applies depends on whether success depends on everyone involved, or the party can lean on its most qualified member.
+
+**Group Checks** are for tasks everyone is personally attempting, where every character's performance matters — stealth, climbing a cliff, swimming a river, crossing dangerous terrain, sneaking through a dungeon.
+
+- Everyone involved rolls.
+- The group succeeds if at least half the characters succeed (a tie counts as success, per the standard D&D group check rule).
+- A skilled character helps the group, but a weaker one can still hold it back.
+
+*Sneaking past guards, everyone rolls Stealth — an exceptionally sneaky rogue can't cover for a fighter clanking along in chain mail. Climbing a cliff works the same way: one expert climber can't carry the whole party's result.*
+
+**Expert Checks** are for tasks the party can reasonably hand to its most qualified member — Arcana, History, Religion, Nature, Investigation, Medicine, Perception, Insight, Survival, Persuasion, Deception, Intimidation, Performance, Animal Handling, Sleight of Hand.
+
+- Only characters with relevant knowledge, training, proficiency, background, or another good narrative reason take part.
+- One qualified character rolls as the primary.
+- A second qualified character who could meaningfully help grants the primary roller Advantage.
+- Characters without relevant expertise generally sit this one out.
+
+*The party finds an ancient royal seal. The wizard and bard both know some history — the wizard rolls History, the bard assists for Advantage. The barbarian, with no relevant knowledge, doesn't roll.*
+
+Group Checks test the party's collective capability — everyone's contributing, so a weak link can cost the group. Expert Checks test the party's best capability — the group leans on whoever's actually equipped to solve the problem, rather than having every player roll a knowledge or perception check until someone gets lucky.
+
 ## How Hard Is Hard?
 
 The GM sets a target number (a DC) for anything genuinely uncertain, roughly matching how difficult the attempt actually is. You won't always be told the number, but here's the ladder, so you have a feel for it — and a sense of what each tier of "impressive" actually looks like at the table.
