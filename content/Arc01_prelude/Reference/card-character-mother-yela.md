@@ -9,7 +9,7 @@ draft: false
 
 **Species:** Mother Yela is a human. The species (or race) of Mother is human.
 
-**Role:** The woman who runs the village shrine in Amble. She is the Cleric mentor of Amble - healer and hearth-witch.
+**Role:** The woman who runs the village shrine in Amble. She is the Cleric mentor of Amble — healer and hearth-witch. She is one of the mentors of Amble.
 
 She speaks at Mara's funeral in Chapter 2, and takes Wren in afterwards.
 
