@@ -15,6 +15,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 - [Short Rests and Long Rests](#short-rests-and-long-rests)
 - [Stable Characters Can Join a Rest](#stable-characters-can-join-a-rest)
 - [Revival Exhaustion](#revival-exhaustion)
+- [Non-Lethal Attacks](#non-lethal-attacks)
 - [Inspiration](#inspiration)
 - [Drinking a Potion — Bonus Action](#drinking-a-potion--bonus-action)
 - [Medium Armor Strength Requirement](#medium-armor-strength-requirement)
@@ -96,6 +97,23 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > Whenever a character drops to 0 hit points and is later revived to 1 or more — by any means, healing magic, a potion, a natural death-save recovery — they gain one level of exhaustion. This stacks with any exhaustion they already have, and follows the standard exhaustion track, which means enough of it really can kill a character. A Long Rest still removes one level, as normal.
 >
 > *2024 RAW doesn't penalise going to 0 hit points and being healed back up at all — no exhaustion is gained. (RAW does the opposite for an actual death: a creature that dies and is later resurrected comes back with 1 fewer exhaustion level than it had, not more.) The "a Long Rest removes one level" part above is standard RAW, unchanged — this section's only real house rule is the exhaustion gain itself.*
+
+## Non-Lethal Attacks
+
+> [!note]- Details
+> **Declare it before you roll.** A non-lethal attack has to be declared *before* the attack roll — you're announcing intent, not deciding after the fact once you see how much damage landed.
+>
+> **Suitable attacks deal full damage.** Unarmed strikes, clubs, saps, and similar attacks the GM agrees are reasonably non-lethal by nature deal normal damage even when declared non-lethal.
+>
+> **Unsuitable attacks deal half damage.** Most slashing and piercing weapons, ranged attacks, and damaging spells — along with fire, acid, poison, and similar damage types — deal half damage when used non-lethally. You're deliberately pulling a weapon that isn't built for it.
+>
+> **Reducing a creature to 0 HP this way** leaves it Unconscious, Stable, and alive — not dying, no death saves.
+>
+> **The GM has final say** on whether a given attack counts as suitable (full damage) or unsuitable (half damage) for non-lethal use.
+>
+> *Example: a punch, a club, or a sap swung non-lethally still deals full damage. An arrow, a spear thrust, a sword slash, or a Fire Bolt deals half damage if declared non-lethal. A sword's pommel or the flat of its blade may be allowed at full damage at the GM's discretion — ask before you swing.*
+>
+> *2024 RAW: any melee attack can be declared non-lethal at the moment it reduces a creature to 0 hit points — decided after damage is rolled, with no damage penalty either way. Ranged attacks and spells can't normally knock a creature out at all. This house rule moves the declaration earlier (before the attack roll, not after seeing the result) and extends non-lethal intent to any attack type — at the cost of half damage for anything that isn't inherently suited to it.*
 
 ## Inspiration
 
