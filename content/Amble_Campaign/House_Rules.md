@@ -33,13 +33,21 @@ By the end of Chapter 2, a well-built child rolls somewhere between +0 and +3 on
 
 Everyone — players and NPCs/monsters alike — rolls initiative as d20 + Wisdom modifier (plus any bonus that would normally apply), not Dexterity.
 
-## Long Rests Don't Auto-Heal
+## Short Rests and Long Rests
 
-Finishing a Long Rest restores half your total hit dice (rounded down, minimum 1) — same amount as usual — but you have to actually spend them to heal, one at a time, same as spending hit dice on a short rest. A Long Rest in this campaign takes **2 days**, not one night.
+**Short Rest** takes 30 minutes (down from the standard hour).
 
-## Breather (a new, shorter rest)
+**Long Rest** takes 10 hours — at least 7 hours of sleep, plus up to 3 hours of light activity (reading, talking, eating, standing watch, setting up or breaking down camp, grabbing a meal in town). Less sleep than that, or more light activity, and the rest doesn't count.
 
-A Breather is a 5-minute rest that restores one hit die (to be spent for healing like any other). It exists alongside the standard Short Rest, not instead of it — but whenever you're entitled to take a Short Rest, you can take a Breather in its place instead. Taking a Breather uses up that Short Rest opportunity; the two don't stack.
+- **Interrupted before the 1-hour mark:** no benefit — the rest has to start over.
+- **Interrupted at 1+ hours in:** you gain the benefits of a Short Rest for what you got, and the Long Rest isn't wasted — resume it, but finishing it now takes 1 additional hour on top of what's left. Each later interruption adds another hour.
+- You can only benefit from one Long Rest in a 24-hour period, and you need at least 1 hit point to begin one.
+
+Finishing a Long Rest restores half your total hit dice (rounded down, minimum 1) — same amount as usual — but, same as a Short Rest, you have to actually spend them to heal, one at a time. It doesn't auto-heal you to full.
+
+## Stable Characters
+
+A character who's stable at 0 hit points can still take part in a Short Rest. At the end of it, they regain 1 hit point and can spend Hit Dice normally afterward, same as anyone else — enough on its own to meet a Long Rest's 1-hit-point minimum, without needing healing magic first. (Waking up this way still counts as being revived under Revival Exhaustion below — the level of exhaustion applies.)
 
 ## Revival Exhaustion
 
