@@ -18,6 +18,10 @@ Handouts and reference material that apply to the entire campaign, not just one 
 - [[Wider_World_Kids|What Lies Beyond Amble?]] — what a child in Amble actually knows about the world outside it
 - [[Peoples_and_Magic|Peoples and Magic]] — who you'll meet growing up here, and how common magic really is
 
+## Reference
+
+- [[Amble_Campaign/Reference/index|Reference]] — a short page for each character and each chapter, if you just want to check who someone is or what happened when
+
 ## The Story
 
 - [[The_Story_So_Far/index|The Story So Far]] — the campaign told as connected short stories, one per session

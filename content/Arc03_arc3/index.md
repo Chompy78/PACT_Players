@@ -1,5 +1,5 @@
 ---
-title: Arc03
+title: "Arc 3"
 ---
 
 ## Arc-wide Handouts

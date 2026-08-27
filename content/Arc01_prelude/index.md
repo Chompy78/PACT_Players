@@ -1,5 +1,5 @@
 ---
-title: Arc01 Prelude
+title: "Arc 1: Prelude"
 ---
 
 ![[arc01_prelude_banner.jpg|Arc01 Prelude banner|750]]
@@ -14,7 +14,7 @@ The Prelude is the story of growing up in Amble, when the whole world seemed sma
 
 **Read the story:** [[The_Story_So_Far/Arc01_prelude/index|The Story So Far — Prelude]] tells the Prelude's sessions as connected short stories.
 
-**Look someone up:** [[Arc01_prelude/Reference/index|Reference]] — a short page for each character and each chapter, if you just want to check who someone is or what happened when.
+**Look someone up:** [[Amble_Campaign/Reference/index|Reference]] — a short page for each character and each chapter, if you just want to check who someone is or what happened when.
 
 ## Arc-wide Handouts
 

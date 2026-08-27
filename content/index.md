@@ -17,7 +17,7 @@ Welcome to the Amble Player Hub. Here you'll find the maps, sketches, stories, a
 
 Ask it whatever you like — *"who is Marek?"*, *"what's the Silver Drop?"*, *"what happened in chapter 4?"* and *"who are the mentors of Amble?"* all work. If it says it doesn't know something, take it at its word: it's built to say so rather than guess, and it will tell you when a detail simply isn't recorded anywhere on the site.
 
-**Look someone up.** [[Arc01_prelude/Reference/index|Reference]] — a short page for each character and each chapter, if you just want to check who someone is or what happened when.
+**Look someone up.** [[Amble_Campaign/Reference/index|Reference]] — a short page for each character and each chapter, if you just want to check who someone is or what happened when.
 
 **Spending your advancement.** Your character isn't locked into a class progression — you earn Advancement Points and spend them on what fits your character. [[Amble_Campaign/Character_Advancement|Read more]].
 
@@ -50,7 +50,6 @@ They signed the contract and walked out of Amble under guild escort. Whatever co
 Four seasons in the village where they grew up, from a stolen charm to the coldest winter anyone can remember.
 
 - [[Arc01_prelude/index|Arc overview and handouts]]
-- [[Arc01_prelude/Reference/index|Reference]]
 - Chapters: [[Arc01_prelude/Chapter_1/index|1]] · [[Arc01_prelude/Chapter_2/index|2]] · [[Arc01_prelude/Chapter_3/index|3]] · [[Arc01_prelude/Chapter_4/index|4]]
 
 ## Later arcs
