@@ -41,13 +41,13 @@ Everyone — players and NPCs/monsters alike — rolls initiative as d20 + Wisdo
 
 - **Interrupted before the 1-hour mark:** no benefit — the rest has to start over.
 - **Interrupted at 1+ hours in:** you gain the benefits of a Short Rest for what you got, and the Long Rest isn't wasted — resume it, but finishing it now takes 1 additional hour on top of what's left. Each later interruption adds another hour.
-- You can only benefit from one Long Rest in a 24-hour period, and you need at least 1 hit point to begin one.
+- You can only benefit from one Long Rest in a 24-hour period, and you need at least 1 hit point to begin one (except a stable character at 0 hit points — see Stable Characters below).
 
 Finishing a Long Rest restores half your total hit dice (rounded down, minimum 1) — same amount as usual — but, same as a Short Rest, you have to actually spend them to heal, one at a time. It doesn't auto-heal you to full.
 
 ## Stable Characters
 
-A character who's stable at 0 hit points can still take part in a Short Rest. At the end of it, they regain 1 hit point and can spend Hit Dice normally afterward, same as anyone else — enough on its own to meet a Long Rest's 1-hit-point minimum, without needing healing magic first. (Waking up this way still counts as being revived under Revival Exhaustion below — the level of exhaustion applies.)
+A character who's stable at 0 hit points can take part in a Short Rest or Long Rest. At the end of it, they regain 1 hit point and can spend Hit Dice normally afterward, same as anyone else. (Waking up this way still counts as being revived under Revival Exhaustion below — the level of exhaustion applies.)
 
 ## Revival Exhaustion
 
