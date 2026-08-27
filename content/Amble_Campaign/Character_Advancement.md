@@ -13,4 +13,4 @@ Boons are features you buy with Advancement Points once your character meets the
 
 | Boon | Level | AP Cost | Effect | Category |
 |---|---|---|---|---|
-| Renewed Fire | 5+ | 10 | At the end of every short rest, gain 1 Heroic Inspiration. | Feature: Resourceful |
+| Renewed Fire | 5+ | 10 | If you have no Heroic Inspiration, regain 1 at the end of every short rest. | Feature: Resourceful |
