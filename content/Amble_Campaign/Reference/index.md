@@ -72,4 +72,37 @@ Eleven mentors, one per path, who take on apprentices from the village.
 
 ## Arc 2: Among Strangers
 
-No reference pages yet — they'll appear here as the arc is played.
+Where the party go after Amble. These pages cover who people are, not what happens.
+
+### Places
+
+- [[Amble_Campaign/Reference/card-place-stoneharbour|Stoneharbour]]
+
+### Stoneharbour — who runs what
+
+The town's own authorities, separate from the Guild.
+
+- [[Amble_Campaign/Reference/card-character-halvard-stroud|Halvard Stroud]]
+- [[Amble_Campaign/Reference/card-character-hesper-tuck|Hesper Tuck]]
+- [[Amble_Campaign/Reference/card-character-petra-whitlock|Petra Whitlock]]
+- [[Amble_Campaign/Reference/card-character-selwyn-aske|Selwyn Aske]]
+- [[Amble_Campaign/Reference/card-character-wystan-dorn|Wystan Dorn]]
+
+### The Guild branch
+
+- [[Amble_Campaign/Reference/card-character-berrin-slate|Berrin Slate]]
+- [[Amble_Campaign/Reference/card-character-hobb-hobbern|Hobb Hobbern]]
+- [[Amble_Campaign/Reference/card-character-ilsabet-marrow|Ilsabet Marrow]]
+
+### The bunk room
+
+Fellow indentured workers sharing the barracks block.
+
+- [[Amble_Campaign/Reference/card-character-corley-finn|Corley Finn]]
+- [[Amble_Campaign/Reference/card-character-sena-voll|Sena Voll]]
+- [[Amble_Campaign/Reference/card-character-tomkin-reed|Tomkin Reed]]
+
+### Around Stoneharbour
+
+- [[Amble_Campaign/Reference/card-character-dela-brant|Dela Brant]]
+- [[Amble_Campaign/Reference/card-character-tobin-brant|Tobin Brant]]
