@@ -2,7 +2,7 @@
 title: "Arc 2: Among Strangers"
 ---
 
-![[arc02_among_strangers_banner.webp|Arc 2: Among Strangers banner|750]]
+![[arc02-among-strangers-banner.webp|Arc 2: Among Strangers banner|750]]
 
 Amble is behind them. Six of them signed a seven-year indenture to the Iron Coin Guild and walked out under escort with the coin still burning on their shoulders; the seventh came anyway, unindentured, because there was nothing left at home to stay for.
 
@@ -17,7 +17,3 @@ Stoneharbour is a working port on a coast none of them has ever seen — bigger 
 ## Chapters
 
 - [[Arc02_arc2/Chapter_1/index|Ch. 1: Indentured]]
-
-## Arc02 Among Strangers Banner
-
-![[arc02-among-strangers-banner.webp|Arc02 Among Strangers Banner]]
