@@ -132,6 +132,13 @@ Not every situation where multiple characters could roll is handled the same way
 
 *Expert Checks are this table's own — RAW has no such category. The closest RAW equivalent is just the Help action (one helper granting Advantage to one roller); this formalises that into a named approach and, unlike the Help action alone, explicitly excuses everyone else from rolling at all.*
 
+**Some physical skills split between the two, depending on what's actually happening** — not on the skill's name:
+
+- **Sleight of Hand** — almost always an Expert Check. Usually only one character is picking the pocket, palming the gem, or disarming a simple mechanism; it rarely makes sense for everyone to roll.
+- **Athletics** — climbing a wall together is a Group Check. Forcing open a door, lifting a portcullis, or wrestling one enemy is usually one character (or one character with help) — an Expert Check.
+- **Acrobatics** — crossing a rope bridge together is a Group Check. One character pulling off a difficult stunt or balancing act is an Expert Check.
+- **Stealth** — the whole party sneaking is a Group Check. A scout sneaking ahead alone is an Expert Check.
+
 Group Checks test the party's collective capability — everyone's contributing, so a weak link can cost the group. Expert Checks test the party's best capability — the group leans on whoever's actually equipped to solve the problem, rather than having every player roll a knowledge or perception check until someone gets lucky.
 
 ## How Hard Is Hard?
