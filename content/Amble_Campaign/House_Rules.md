@@ -65,6 +65,10 @@ You can hold at most one Heroic Inspiration at a time. If you'd earn another whi
 
 Drinking a potion doesn't cost you your action, your bonus action, or your movement — it's simply something you can do on your turn, no action-economy cost at all.
 
+## Medium Armor Strength Requirement
+
+Medium armor requires **Strength 10** — standard rules only put a Strength requirement on heavy armor, not medium. Below Strength 10, you get no benefit from wearing it at all: no AC bonus, nothing.
+
 ## Advancement
 
 Full explanation: [[Character_Advancement|A Note on Character Advancement]]. A few extra pacing notes:
