@@ -11,9 +11,9 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 - [Growing Up Together](#growing-up-together)
 - [Building a Child (Sessions 1-2)](#building-a-child-sessions-1-2)
 - [Initiative Uses Wisdom, Not Dexterity](#initiative-uses-wisdom-not-dexterity)
-- [Critical Hits](#critical-hits)
+- [Critical Hits (Same as RAW)](#critical-hits-same-as-raw)
 - [Short Rests and Long Rests](#short-rests-and-long-rests)
-- [Stable Characters](#stable-characters)
+- [Stable Characters Can Join a Rest](#stable-characters-can-join-a-rest)
 - [Revival Exhaustion](#revival-exhaustion)
 - [Inspiration](#inspiration)
 - [Drinking a Potion — Bonus Action](#drinking-a-potion-bonus-action)
@@ -60,7 +60,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 >
 > *2024 RAW: initiative is a Dexterity check (d20 + Dexterity modifier).*
 
-## Critical Hits
+## Critical Hits (Same as RAW)
 
 > [!note]- Details
 > A natural 20 on an attack roll is always a critical hit. Roll all the attack's damage dice twice and add them together, then add relevant modifiers once — not doubled. Any other damage dice tied to the same attack (like a Rogue's Sneak Attack) get rolled twice as well.
@@ -72,18 +72,18 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 ## Short Rests and Long Rests
 
 > [!note]- Details
-> **Short Rest** takes 30 minutes (down from the standard hour). *2024 RAW: 1 hour, and — new in 2024 — you need at least 1 hit point to take one (see Stable Characters below for the exception).*
+> **Short Rest** takes 30 minutes (down from the standard hour). *2024 RAW: 1 hour, and — new in 2024 — you need at least 1 hit point to take one (see Stable Characters Can Join a Rest below for the exception).*
 >
 > **Long Rest** takes 10 hours — at least 7 hours of sleep, plus up to 3 hours of light activity (reading, talking, eating, standing watch, setting up or breaking down camp, grabbing a meal in town). Less sleep than that, or more light activity, and the rest doesn't count. *2024 RAW: 8 hours total — at least 6 hours of sleep, up to 2 hours of light activity.*
 >
 > - **Interrupted before the 1-hour mark:** no benefit — the rest has to start over. *Same as 2024 RAW.*
 > - **Interrupted at 1+ hours in:** you gain the benefits of a Short Rest for what you got, and the Long Rest isn't wasted — resume it, but finishing it now takes 1 additional hour on top of what's left. Each later interruption adds another hour. *Same as 2024 RAW.*
-> - You need at least 1 hit point to begin a Long Rest (except a stable character at 0 hit points — see Stable Characters below). *Same as 2024 RAW.*
+> - You need at least 1 hit point to begin a Long Rest (except a stable character at 0 hit points — see Stable Characters Can Join a Rest below). *Same as 2024 RAW.*
 > - After finishing a Long Rest, you must wait at least 16 hours before starting another one. *Same as 2024 RAW — this replaced 2014's flat "once per 24-hour period" rule. Practically similar, but it's a cooldown after the rest ends rather than a calendar-day cap, so a stretch of later and later nights can push it further than a straight 24-hour rule would.*
 >
 > Finishing a Long Rest restores half your total hit dice (rounded down, minimum 1) — same amount as usual — but, same as a Short Rest, you have to actually spend them to heal, one at a time. It doesn't auto-heal you to full. *2024 RAW restores all hit points and all spent hit dice automatically; not having to spend them manually is the one thing this page changes here.*
 
-## Stable Characters
+## Stable Characters Can Join a Rest
 
 > [!note]- Details
 > A character who's stable at 0 hit points can take part in a Short Rest or Long Rest. At the end of it, they regain 1 hit point and can spend Hit Dice normally afterward, same as anyone else. (Waking up this way still counts as being revived under Revival Exhaustion below — the level of exhaustion applies.)
