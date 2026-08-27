@@ -72,17 +72,23 @@ Whenever a character drops to 0 hit points and is later revived to 1 or more —
 
 You can hold at most one Heroic Inspiration at a time. If you'd earn another while already holding one, you can't stack it — instead, give it to another player character who doesn't currently have any. *This paragraph is standard 2024 RAW, not a house rule — the one-at-a-time cap and passing along a duplicate both work this way by default.*
 
-## Drinking a Potion Is a Free Action
+## Drinking a Potion
 
-Drinking a potion doesn't cost you your action, your bonus action, or your movement — it's simply something you can do on your turn, no action-economy cost at all.
+Drinking a potion, or administering one to another creature, costs a Bonus Action.
 
-*2024 RAW already lowered this from 2014's full Action to a Bonus Action — this page removes that remaining Bonus Action cost too.*
+*Same as 2024 RAW — this replaced 2014's full Action. No further house rule on top of it.*
 
 ## Medium Armor Strength Requirement
 
 Medium armor requires **Strength 10** — standard rules only put a Strength requirement on heavy armor, not medium. Below Strength 10, you get no benefit from wearing it at all: no AC bonus, nothing.
 
-*2024 RAW only gates heavy armor on Strength (Chain Mail 13, Splint and Plate 15) and the penalty there is different too — a heavy character under the threshold still gets the AC, just at −10 ft. speed. This house rule is a new requirement RAW doesn't have at all for medium armor, and a harsher penalty (no AC at all) than RAW ever uses for heavy armor.*
+*2024 RAW doesn't gate medium armor on Strength at all — this floor is entirely this table's own. (Heavy armor gets the same Strength-10 floor now too — see Heavy Armor Strength Requirement below — layered on top of its own existing RAW speed penalty.)*
+
+## Heavy Armor Strength Requirement
+
+Heavy armor requires **Strength 10** to get any benefit from it at all — below that, no AC bonus, nothing, same treatment as Medium Armor above. Between Strength 10 and the armor's own listed requirement (Chain Mail 13, Splint and Plate 15), you get the AC bonus but keep the standard −10 ft. speed penalty. At or above the armor's own requirement, no penalty at all.
+
+*2024 RAW only imposes the −10 ft. speed penalty below Chain Mail's 13 or Splint/Plate's 15 — it has no lower floor where the armor stops working altogether. This house rule adds that floor at Strength 10, matching Medium Armor above, while keeping RAW's own speed penalty intact for the range above it.*
 
 ## Advancement
 
