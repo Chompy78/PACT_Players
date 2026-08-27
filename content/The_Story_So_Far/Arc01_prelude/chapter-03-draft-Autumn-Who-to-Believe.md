@@ -83,6 +83,10 @@ The charcoal was the last thing they found. A small pack of sketching sticks, dr
 
 Neither of them said much on the walk back down. There wasn't much to say that wouldn't have made it worse.
 
+They took the ledger straight to Marek, because he was the only adult in Amble who had been anywhere else. He turned the pages, said none of the names meant a thing to him, and asked what exactly they expected him to do about it. Anders offered him a copper piece each. Marek said his rate was ten gold a day. Then he told them Wren was a girl who ran off all the time, that they should go and bother their parents instead, and that they could step outside and discuss it properly — and once they were outside he shut the door on them and had it locked.
+
+He would say "well done" to us before the day was over. None of us had forgotten this part when he did.
+
 * * *
 
 Caspian and Moss were already back at the cubby, empty-handed and footsore, by the time the others made it in from the tannery — which meant it took a good ten minutes of everyone talking over everyone else before anyone thought to ask what Caspian had seen on the road home. The cart again. The tanner's, definitely, but not the tanner driving it — the stranger had the reins, dogs trotting alongside, Halloway beside him, headed back out along the road that forked toward the lime pits. Gone four in the afternoon by then, autumn light already starting to lean long and gold across the fields. None of us needed telling twice.
