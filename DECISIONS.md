@@ -6,6 +6,10 @@
 
 ## Index
 
+- **D-2026-08-27-hub-rename-and-restructure** — Site renamed *PACT Player Archive* → **Amble Player Hub**;
+  home page restructured (welcome first, new Player tools section, arcs regrouped Current/Past/Later); a
+  generated **Reference** section added at campaign level; Arc 2 opened as *Among Strangers* with a
+  Stoneharbour page. See full entry.
 - **D-2026-08-27-house-rules-rest-and-hd-rework** — Short Rest cut to 30 minutes, Long Rest extended to 10
   hours (7 sleep + 3 light activity), and 2024 RAW's interrupted-rest and 16-hour-cooldown mechanics
   restored in place of this page's prior flat "2-day Long Rest"/"once per 24h" wording. The standalone
@@ -163,6 +167,54 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-08-27-hub-rename-and-restructure · rename the site, restructure the home page, add a generated Reference section, and open Arc 2
+
+**Context.** Two problems arrived together. The PACT Player Agent was answering badly — it called Bram "a
+player-controlled halfling" when he is an NPC and human — and the cause turned out to be this repo, not the
+agent: **nothing published here states who anyone is.** The NPC page is images only. Separately the site's
+own shape had drifted: "PACT Player Archive" led with system jargon, the home page buried its welcome under
+loose bullets, arcs were split into "Prelude" and "Future Arcs" with Arc 2 unnamed, and Chapter 4's title
+was still `[REDACTED]` months after publication.
+
+**Options.** For the agent's problem: leave it (it would keep inventing), prompt-tune it (its system prompt
+already says in capitals not to guess, and it guessed anyway), or publish the missing facts. For the site
+name: keep it, or drop the system jargon for the village.
+
+**Decision.**
+- **Renamed to Amble Player Hub** (`quartz.config.yaml` `pageTitle`, plus the home page). Dropped the
+  `" - Amble"` title suffix, which would have made every tab read "Amble Player Hub - Amble".
+- **Home page restructured:** welcome paragraph first, a new **Player tools** section gathering the
+  assistant / Reference / advancement note, a real description under Campaign, The Story So Far surfaced,
+  and arcs regrouped into **Current / Past / Later** at two levels.
+- **Added a Reference section** — one page per character, per chapter, plus roster pages. Now 49 pages.
+  These are **generated** from a structured source owned by the Amble Story project
+  (`ai/agent-cards/`) — re-render rather than editing them here.
+- **Placed at campaign level** (`Amble_Campaign/Reference/`), not under Arc 1, because it covers the party
+  across every arc and the recurring cast who leave Amble behind.
+- **Opened Arc 2 as "Among Strangers"** with the campaign repo's existing banner, an intro, Ch. 1
+  *Indentured*, and a **Stoneharbour** page under Campaign Reference with the arrival map.
+- **Un-redacted Chapter 4's title.**
+- Normalised arc titles to `Arc 1: / Arc 2: / Arc 3` — a space sorts before a digit, so `"Arc 2: Among
+  Strangers"` had been sorting *ahead* of `"Arc01 Prelude"` in the explorer.
+
+**Why.** The agent can only see what this site publishes — deliberately, per
+`D-2026-08-11-player-agent-contentindex-boundary`. So the fix had to be published content, not a private
+feed into the knowledge base; that boundary is what stops it ever seeing GM material. Card format was
+settled by measurement rather than taste: on the home server's own embedding model and reranker, "is Bram a
+player character or an NPC?" scored JSON 3.2, a natural-language card 10.4, prose −3.1. **Raw JSON is the
+worst of the three** — retrieval matches language, not syntax.
+
+**Everything published was audited against what was already public.** Removed rather than published: the
+PC parents' names, the "Haldeni" people-name, a forward-looking GM line about Bram's later arc, and — for
+Arc 2, which is unplayed — every `Function`/`Arc` line from its `Cast.md`, the organised-crime figure who
+takes a cut of Stoneharbour, the gambling den behind a shop counter, and the cookshop dog (the arc
+reference says to let the players name it). Corvin Thale's species was withheld because canon marks it
+"tentative". Chapter 1's other handouts stay unpublished until played.
+
+**Status.** Live. Agent verified answering "Bram Cotter is a non-player character (NPC). He is human" with
+a citation, and answering "what happens to Dela Brant?" with "I'm not aware of any event involving Dela
+Brant" — that second answer is the audit working, not a gap.
 
 ## D-2026-08-27-house-rules-rest-and-hd-rework · shorten Short Rest, extend Long Rest, restore RAW's interruption/cooldown mechanics, drop Breather for a Stable Characters rule instead
 

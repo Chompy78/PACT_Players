@@ -3,6 +3,17 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-27 · Site renamed to Amble Player Hub; home page restructured; Reference section added; Arc 2
+  opened as Among Strangers** — `pageTitle` and home page renamed from *PACT Player Archive*, and the
+  `" - Amble"` suffix dropped. Home page reordered: welcome first, new **Player tools** section, a real
+  description under Campaign, The Story So Far surfaced, and arcs regrouped **Current / Past / Later** two
+  levels deep. New **Reference** section at `Amble_Campaign/Reference/` — 49 generated pages (characters,
+  chapters, rosters, and a Stoneharbour place card) rendered from Amble Story's `ai/agent-cards/`; edit
+  there and re-render, never by hand. **Arc 2: Among Strangers** opened with the campaign banner, an intro,
+  Ch. 1 *Indentured*, and a **Stoneharbour** page carrying the arrival map. Chapter 4's `[REDACTED]` title
+  replaced with *The Iron Coin*. Arc titles normalised to `Arc 1: / Arc 2: / Arc 3` so the explorer stops
+  sorting Arc 2 first. Everything audited before publishing — GM-side, forward-looking and unplayed-arc
+  material deliberately withheld. See D-2026-08-27-hub-rename-and-restructure.
 - **2026-08-27 · `House_Rules.md` reworked end to end: rest timing/HD, armor Strength floors, Group/Expert
   Checks, Critical Hits, full RAW-annotation pass, collapsed-callout layout** — Short Rest cut to 30
   minutes, Long Rest extended to 10 hours (7 sleep + 3 light activity, explicitly covering camp setup/
