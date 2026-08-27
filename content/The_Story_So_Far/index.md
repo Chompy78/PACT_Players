@@ -3,7 +3,7 @@ title: The Story So Far
 description: The campaign told as connected short stories, one per session
 ---
 
-![[arc01_prelude_banner.jpg|The Story So Far banner|750]]
+![[arc01-prelude-banner.jpg|The Story So Far banner|750]]
 
 Amble is a small farming village where everyone knows everyone — the kind of place where growing up
 should be simple. It doesn't stay that way. This is the story of the friends who live there, told as
