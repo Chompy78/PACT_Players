@@ -26,3 +26,7 @@ Handouts and reference material that apply to the entire campaign, not just one 
 ## The Story
 
 - [[The_Story_So_Far/index|The Story So Far]] — the campaign told as connected short stories, one per session
+
+## Stoneharbour Map
+
+![[stoneharbour-map.jpeg|Stoneharbour Map|750]]
