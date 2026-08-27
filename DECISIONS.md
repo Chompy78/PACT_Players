@@ -6,6 +6,23 @@
 
 ## Index
 
+- **D-2026-08-27-house-rules-rest-and-hd-rework** — Short Rest cut to 30 minutes, Long Rest extended to 10
+  hours (7 sleep + 3 light activity), and 2024 RAW's interrupted-rest and 16-hour-cooldown mechanics
+  restored in place of this page's prior flat "2-day Long Rest"/"once per 24h" wording. The standalone
+  Breather rule was dropped entirely rather than made unlimited, and a new Stable Characters rule lets a
+  character at 0 HP join either rest type and wake at 1 HP. See full entry.
+- **D-2026-08-27-armor-strength-requirements** — New Strength-10 "no benefit at all" floor added to both
+  Medium and Heavy armor (medium has no RAW Strength gate at all; heavy's floor sits under RAW's own
+  13/15 thresholds and −10 ft. penalty, not replacing them). See full entry.
+- **D-2026-08-27-group-and-expert-checks** — New house rule splitting multi-character ability checks into
+  Group Checks (RAW's existing mechanic, restated with examples) and Expert Checks (this table's own,
+  closest RAW equivalent is the Help action), plus which physical skills split between the two by task
+  rather than by skill name. See full entry.
+- **D-2026-08-27-house-rules-raw-annotations-and-collapse** — Every section of `House_Rules.md` annotated
+  with its actual 2024 RAW baseline (verified via search, not recalled from memory), catching and fixing
+  two inaccuracies already live on the page. Restructured into collapsed-by-default Obsidian callouts per
+  section with a "Jump to a rule" quick-link list at the top, verified against the live built site
+  (headings, collapse state, and every anchor checked directly in the deployed HTML). See full entry.
 - **D-2026-08-24-chapter-04-handouts-from-zuploads** — 5 handouts (H01–H05) synced via the player's
   `zcold`/`z-uploads` drop-zone landed in `Arc01_prelude/Chapter_4/`, confirmed by the player as
   Arc01 (not Arc02) material despite one file's own internal build note pointing at
@@ -146,6 +163,129 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-08-27-house-rules-rest-and-hd-rework · shorten Short Rest, extend Long Rest, restore RAW's interruption/cooldown mechanics, drop Breather for a Stable Characters rule instead
+
+- **Context:** `House_Rules.md`'s existing rest rules (Short Rest unstated/RAW 1 hour, Long Rest a flat
+  2 days, a standalone 5-minute "Breather" substitutable for a Short Rest) were revisited end to end at
+  the player's request, working through several iterations: whether unlimited Breathers were safe given
+  Hit Dice are already a capped resource (they're not — short-rest class features like Warlock spell
+  slots or Fighter Action Surge aren't Hit-Dice-gated at all, so unlimited Breathers would let those reset
+  every 5 minutes), what Long Rest duration actually supports a party sharing one continuous night watch
+  (10 hours: at 4 people splitting evenly, each watches 2.5h and sleeps 7.5h — comfortably above a 7-hour
+  floor with room for smaller/larger parties), and what a stable character at 0 HP needs to do to rejoin
+  the party's rest instead of just waiting for outside healing.
+- **Options:** (A) Keep the existing 2-day Long Rest/unlimited-Breather shape and only patch the specific
+  complaint raised. (B) Rework rest timing and mechanics as a coherent set: Short Rest to 30 minutes,
+  Long Rest to 10 hours (7 sleep + 3 light activity), restore 2024 RAW's actual interrupted-rest behavior
+  (no benefit before 1 hour in; a Short Rest's benefit plus a resumable rest needing +1 hour per
+  interruption after that) and its real once-per-16-hours-after-finishing cooldown (this page previously
+  stated a flat "once per 24-hour period," which is the superseded 2014 rule, not 2024's), and replace
+  Breather entirely with a Stable Characters rule.
+- **Decision:** B, in full. `House_Rules.md`'s "Short Rests and Long Rests" section now states: Short Rest
+  30 minutes; Long Rest 10 hours (≥7h sleep, ≤3h light activity — explicitly including camp setup/
+  breakdown and buying a meal in town); RAW's interruption behavior and 16-hour cooldown restored
+  verbatim; Hit Dice still spent manually to heal (unchanged from before). The Breather section was
+  removed outright. A new "Stable Characters Can Join a Rest" section lets a character stable at 0 HP
+  join a Short *or* Long Rest and wake at 1 HP at the end — enough on its own to satisfy the Long Rest's
+  1-HP minimum without needing healing magic first, and still counts as a revival under the existing
+  Revival Exhaustion rule.
+- **Why:** Breather's actual exploit surface wasn't Hit Dice pacing (already capped by the existing "half
+  total per Long Rest" rule) but short-rest class-feature resets, which have no Hit-Dice cost at all —
+  unlimited Breathers would have let Warlocks/Fighters nova every 5 minutes regardless of healing scarcity.
+  Removing it outright (rather than capping its frequency) avoids reintroducing that surface while still
+  giving a faster HP-recovery option via the shortened 30-minute Short Rest. The 10-hour Long Rest and its
+  7/3 split were sized directly against a 4-person watch rotation rather than picked arbitrarily. Stable
+  Characters closes an actual gap: without it, a character stabilized (not dying, just at 0 HP) had no
+  way back into consciousness except outside healing, even though a full night's rest was happening right
+  next to them.
+- **Status:** Active. Restated and re-verified against current 2024 RAW mid-session (see
+  `D-2026-08-27-house-rules-raw-annotations-and-collapse`) — the interruption and cooldown mechanics
+  above are the actual published rule, not the 2014 version this page previously stated.
+
+---
+
+## D-2026-08-27-armor-strength-requirements · add a Strength-10 "no benefit" floor to both Medium and Heavy armor, layered under Heavy's existing RAW thresholds
+
+- **Context:** 2024 RAW gates only Heavy armor on Strength (Chain Mail 13, Splint/Plate 15 — below the
+  threshold, the AC bonus still applies but speed drops 10 ft.); Medium armor has no Strength requirement
+  in RAW at all. The player asked for a Medium armor floor first, then asked for the same treatment on
+  Heavy armor once the Medium version was in place.
+- **Options:** (A) Medium-only floor, leaving Heavy armor exactly as RAW. (B) Add the same Strength-10
+  floor to Heavy armor too, but decide whether it *replaces* RAW's 13/15 thresholds or *layers under*
+  them. (C) Skip Heavy armor entirely.
+- **Decision:** B, layered under. Both Medium and Heavy armor now require Strength 10 to get any benefit
+  at all — below that, no AC bonus, nothing. For Heavy armor specifically, RAW's own 13/15 thresholds and
+  −10 ft. speed penalty still apply *above* the new floor: Str 10 up to the armor's own RAW requirement
+  gets the AC bonus with RAW's speed penalty; at or above the armor's own requirement, no penalty at all.
+- **Why:** A flat replacement would have deleted RAW's existing speed-penalty tier for characters between
+  Str 10 and 13/15, silently making moderately-weak-but-not-frail characters better off than intended.
+  Layering the new floor underneath keeps RAW's existing curve intact for anyone who already clears it,
+  and only changes behavior for characters below Str 10, which RAW never addressed for armor use at all.
+- **Status:** Active.
+
+---
+
+## D-2026-08-27-group-and-expert-checks · new house rule splitting multi-character checks into Group Checks (RAW) and Expert Checks (this table's own)
+
+- **Context:** `House_Rules.md` had no explicit rule for how to handle a check multiple characters could
+  plausibly attempt — RAW's own Group Check mechanic (found in the DMG, not the PHB) already exists but
+  wasn't documented here, and there was no house-rule equivalent for tasks better handled by deferring to
+  the party's single most-qualified member instead of everyone rolling.
+- **Options:** (A) Document only RAW's existing Group Check mechanic. (B) Add a second, new category
+  (Expert Checks) for tasks where the party can reasonably rely on one qualified member, formalizing what
+  the Help action only partly covers (Help grants Advantage to one roller but doesn't excuse everyone else
+  from also rolling). (C) Leave this to ad-hoc GM judgment, undocumented.
+- **Decision:** B. Added a new "Group Checks and Expert Checks" section: Group Checks restate RAW's
+  existing mechanic (everyone rolls, succeeds if at least half do) with worked examples; Expert Checks are
+  new — one qualified character rolls as primary, a second qualified character can grant Advantage instead
+  of also rolling, and characters without relevant expertise sit it out entirely. A follow-up pass added
+  which physical skills (Sleight of Hand, Athletics, Acrobatics, Stealth) split between the two categories
+  by what's actually happening in the scene, not by the skill's name alone.
+- **Why:** Some tasks (sneaking as a group, climbing together) genuinely test collective capability and a
+  weak roll should matter; others (one Rogue picking a lock, one scholar recalling history) test the
+  party's best capability and forcing everyone to roll either wastes time or lets a lucky low-skill roll
+  undermine a specialist's presence. Naming both cases explicitly, rather than leaving it to per-instance
+  GM judgment, gives players a predictable rule for which applies.
+- **Status:** Active.
+
+---
+
+## D-2026-08-27-house-rules-raw-annotations-and-collapse · annotate every section against actual 2024 RAW, fix 2 inaccuracies found doing it, restructure into collapsed callouts with a top quick-link list
+
+- **Context:** `House_Rules.md` had grown to 15 sections without ever stating, section by section, what
+  the actual 2024 RAW baseline was for comparison — several of my own in-chat claims about "RAW" earlier
+  this same session turned out to be wrong when checked against current sources (Long Rest's frequency
+  cap was stated as 2014's flat "once per 24 hours" rather than 2024's actual "16 hours after finishing
+  one"; Heroic Inspiration's one-at-a-time cap and pass-along-a-duplicate behavior was mislabeled as this
+  table's house rule when it's already standard 2024 RAW). Separately, the page had grown long enough that
+  the player asked for each rule collapsed by default with a quick-link list at the top.
+- **Options for the RAW pass:** (A) Leave the page as-is, trusting earlier claims. (B) Verify every
+  RAW-comparison claim against current sources before publishing it, fixing anything found wrong along
+  the way rather than only forward from that point.
+- **Options for the layout change:** (A) Convert each section's `##` heading into a collapsible element
+  directly (e.g. raw `<details>`), losing the automatic right-sidebar table of contents this site already
+  builds from real headings. (B) Keep real `##` headings (preserving the sidebar TOC and stable anchors)
+  and wrap only each section's body in an Obsidian-style foldable callout (`> [!note]-`, already supported
+  by this site's enabled `ObsidianFlavoredMarkdown` plugin), collapsed by default, plus add a manual
+  top-of-page quick-link list linking to each heading's anchor.
+- **Decision:** B on both. Every section now carries an italicized RAW-comparison note, and the two
+  inaccuracies above were corrected in place rather than left standing. The page was restructured per
+  layout-option B: headings stayed real headings, bodies moved into collapsed callouts, and a "Jump to a
+  rule" list was added under the intro paragraph.
+- **Why:** For the RAW pass — stating something as "matches/differs from RAW" is a factual claim a player
+  might rely on at the table; publishing an unverified or already-known-wrong claim under this page's own
+  banner ("where they differ from standard D&D 2024") defeats its purpose. For the layout — keeping real
+  headings costs nothing and preserves two things a rewrite to raw `<details>` would have broken (the
+  sidebar TOC and predictable anchors for a quick-link list); the callout approach uses a plugin already
+  enabled in `quartz.config.yaml`, not a new dependency.
+- **Status:** Active. Verified directly against the live built site, not just the source Markdown: curled
+  the deployed HTML and confirmed all 15 callouts render `is-collapsed` by default, all 14 quick-link
+  anchors match a real heading `id` (one mismatch was found and fixed — an em dash in a heading produces a
+  double-hyphen slug, not the single-hyphen one first guessed), and all 30 site pages plus the
+  cross-links between `House_Rules.md` and `Character_Advancement.md` return live/resolved, not broken.
+
+---
 
 ## D-2026-08-12-kid-adult-knowledge-gating · split kid-vs-adult world knowledge into separate, draft-gated files; held Stoneharbour off entirely
 

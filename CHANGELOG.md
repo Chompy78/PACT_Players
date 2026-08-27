@@ -3,6 +3,34 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-27 · `House_Rules.md` reworked end to end: rest timing/HD, armor Strength floors, Group/Expert
+  Checks, Critical Hits, full RAW-annotation pass, collapsed-callout layout** — Short Rest cut to 30
+  minutes, Long Rest extended to 10 hours (7 sleep + 3 light activity, explicitly covering camp setup/
+  breakdown and buying a meal in town), 2024 RAW's real interrupted-rest and 16-hour-cooldown mechanics
+  restored (this page previously stated the superseded 2014 "once per 24 hours" rule). The standalone
+  Breather rule was dropped entirely — replaced by a new **Stable Characters Can Join a Rest** rule
+  letting a character at 0 HP join either rest type and wake at 1 HP. New **Medium/Heavy Armor Strength
+  Requirement** rules add a Strength-10 "no benefit at all" floor to both, layered under Heavy armor's
+  existing RAW 13/15 thresholds rather than replacing them. New **Group Checks and Expert Checks** rule:
+  RAW's existing Group Check mechanic restated with examples, plus a new Expert Check category for tasks
+  the party can hand to its most qualified member, and which physical skills (Sleight of Hand, Athletics,
+  Acrobatics, Stealth) split between the two by task rather than by skill name. New **Critical Hits (Same
+  as RAW)** section confirms 2024's crit mechanic applies to NPCs and monsters too. **Every section now
+  carries a verified 2024-RAW comparison note** — found and fixed two inaccuracies already live on the
+  page in the process (the Long Rest frequency claim above, and Heroic Inspiration's hold-cap/pass-along
+  behavior, which is standard RAW, not this table's house rule as it was previously labeled). Finally,
+  **the whole page was restructured**: every section's body now sits in a collapsed-by-default Obsidian
+  callout, with a new "Jump to a rule" quick-link list under the intro — verified directly against the
+  live built site (all 15 callouts confirmed `is-collapsed`, one broken quick-link anchor found and fixed
+  — an em dash produces a double-hyphen slug — and all 30 site pages plus the cross-links between this
+  page and `Character_Advancement.md` confirmed resolving, not broken). See `DECISIONS.md`,
+  `D-2026-08-27-house-rules-rest-and-hd-rework`, `D-2026-08-27-armor-strength-requirements`,
+  `D-2026-08-27-group-and-expert-checks`, and `D-2026-08-27-house-rules-raw-annotations-and-collapse`.
+- **2026-08-27 · `Character_Advancement.md` gets a new PACT Boons table** — first entry: **Renewed Fire**
+  (Level 5+, 10 AP, Feature: Resourceful) — if you have no Heroic Inspiration, regain 1 at the end of
+  every short rest. First boon of its kind in this repo; column meanings (Level requirement, AP cost,
+  Category) were inferred from the format given and flagged for confirmation, not asserted as an
+  established convention.
 - **2026-08-25 · All three Prelude chapters synced to Amble Story's post-review wording** — Amble Story
   ran a scheduled cross-chapter prose review (74/100) and applied 13 of its 17 findings, then rewrote
   Chapter 1 to its Age-8 voice anchor. Propagated here on request. **Chapter 1 is substantially rewritten**
