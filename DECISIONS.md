@@ -6,6 +6,11 @@
 
 ## Index
 
+- **D-2026-08-27-arc-banners-need-the-ignoremd-marker** — Arc banners are embedded by hand in their
+  arc's `index.md`, so they must carry the `ignoremd` filename marker like any other embed-elsewhere
+  image. Arc 2's didn't: `auto-handout-stub.mjs` appended a second, working banner section to the bottom
+  of the page, which masked the fact that the hand-written embed at the top was pointing at a filename
+  that didn't exist. See full entry.
 - **D-2026-08-27-non-lethal-attacks** — New `House_Rules.md` section: non-lethal intent must be declared
   before the attack roll (RAW decides after damage lands), suitable attacks (unarmed, club, sap) deal
   full damage, unsuitable attacks (most weapons, ranged, damaging spells) deal half damage, extending the
@@ -171,6 +176,32 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-08-27-arc-banners-need-the-ignoremd-marker · a banner without the marker gets a duplicate section that hides a broken embed above it
+
+- **Context:** Arc 2's `index.md` opened with a hand-written banner embed pointing at
+  `arc02_among_strangers_banner.webp`, while the file on disk was `arc02-among-strangers-banner.webp`.
+  That embed had never rendered. Nobody noticed, because the page still showed a banner — just at the
+  bottom, in a `## Arc02 Among Strangers Banner` section `auto-handout-stub.mjs` had appended when the
+  image first landed, plus a standalone stub page for it. Two banners, one broken, and the working one
+  covering for the broken one.
+- **Options:** (a) Fix the link and leave the auto-appended section as the page's banner. (b) Fix the
+  link, delete the duplicate section and its stub page, and treat the underlying cause — the missing
+  `ignoremd` marker — as the thing to write down. (c) Add `noStubPages: true` to the arc-level
+  `index.md` files, which suppresses the stub page but *not* the appended index section.
+- **Decision:** (b). Fixed the embed, removed the duplicate section and
+  `arc02-among-strangers-banner.md`, matching Arc 1's layout (banner embed only, no page of its own).
+  Going forward, **a new arc's banner image must contain `ignoremd` in its filename** before it is
+  pushed to `main`, per the existing convention in `D-2026-08-08-chapter-art-ignoremd` and
+  `D-2026-07-21-auto-handout-action`.
+- **Why:** The convention already existed; what was new is the discovery that skipping it fails
+  *silently and invisibly*. A duplicate section on its own is cosmetic clutter you'd eventually notice.
+  A duplicate section that renders correctly directly beneath a broken embed is worse — the page looks
+  finished, so the real fault goes unfound. (c) is a half-measure for exactly that reason: it removes
+  the tidy-looking symptom (the stub page) and leaves the misleading one. The two existing banners need
+  no rename — `auto-handout.yml` only ever processes images newly added in the triggering push, so
+  neither will be touched again.
+- **Status:** In force. Applies to Arc 3's banner and every arc after it.
 
 ## D-2026-08-27-non-lethal-attacks · new house rule: declare non-lethal before the roll, half damage for unsuitable attacks, extends the knockout option to ranged/spell attacks
 

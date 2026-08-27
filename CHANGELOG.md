@@ -3,6 +3,27 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-27 · Arc 2 Ch. 1 handouts published: H01/H02/H05, all ten NPC portraits, and the Schedule of
+  Requisition** — pulled from the GM repo's `Arc02_among_strangers/`. **H03 (Courier Manifest) and H04
+  (Letter From Amble) deliberately held back** at the player's request. `Chapter_1/` gets the Stoneharbour
+  arrival map, the First Monthly Statement and the Indenture Summary Sheet; `NPCs/` gets IMG-001 Berrin
+  Slate through IMG-010 Cass Tiller (all Chapter 1, all marked Player Safe in the chapter's own handout
+  inventory); `Misc/` gets the Schedule of Requisition, which is arc-level rather than chapter-scoped per
+  the GM repo's `HANDOUT_PLAN.md`. All filenames converted underscore→hyphen on copy per
+  `D-2026-07-23-auto-rename-underscore-filenames`. Index pages hand-written rather than left to
+  `auto-handout-stub.mjs` so portraits read "Factor Berrin Slate" and not "IMG 001 Factor Berrin Slate";
+  `noStubPages: true` added to `NPCs/` and `Misc/` (Chapter_1 already had it) so the folders show inline
+  embeds only. Widths 750 landscape / 500 portrait as usual. The Action's own follow-up commit optimized
+  all 14 images (3.2 MB → 1.3 MB on the largest) and correctly added no stubs or duplicate embeds.
+- **2026-08-27 · Fixed both arc banners, which had been failing to render** — Arc 2's index embedded
+  `arc02_among_strangers_banner.webp` while the file on disk was `arc02-among-strangers-banner.webp`, so
+  the top-of-page banner was a dead embed; the only reason the page looked right was the working duplicate
+  `## Arc02 Among Strangers Banner` section `auto-handout-stub.mjs` had appended at the bottom. Fixed the
+  link and removed the duplicate section plus its standalone stub page. Arc 1's
+  `arc01_prelude_banner.jpg` hit the underscore-in-image-filename bug outright (`_prelude_` parsed as
+  Markdown emphasis) — renamed to `arc01-prelude-banner.jpg` and updated both embeds, Arc 1's own index
+  and `The_Story_So_Far`, which reuses the same image. A sweep of `content/` confirms no underscore-named
+  images remain anywhere. See D-2026-08-27-arc-banners-need-the-ignoremd-marker.
 - **2026-08-27 · `House_Rules.md`: add a Non-Lethal Attacks house rule** — new section (jump-list entry
   included): non-lethal intent must be declared *before* the attack roll (RAW decides after damage
   lands), suitable attacks (unarmed, club, sap, GM-approved) deal full damage, unsuitable attacks
