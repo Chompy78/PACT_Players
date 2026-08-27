@@ -1,5 +1,5 @@
 ---
-title: "Ch. 4: [REDACTED]"
+title: "Ch. 4: The Iron Coin"
 noStubPages: true
 ---
 

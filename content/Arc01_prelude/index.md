@@ -34,6 +34,6 @@ The Prelude is the story of growing up in Amble, when the whole world seemed sma
 
 - [[Arc01_prelude/Chapter_3/index|Handouts]]
 
-## Ch. 4: [REDACTED]
+## Ch. 4: The Iron Coin
 
 - [[Arc01_prelude/Chapter_4/index|Handouts]]
