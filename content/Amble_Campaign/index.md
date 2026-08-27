@@ -16,6 +16,7 @@ Handouts and reference material that apply to the entire campaign, not just one 
 - [[World Map]]
 - [[Amble|Amble]] — the village itself: geography, landmarks, and the customs every kid there grows up knowing
 - [[Wider_World_Kids|What Lies Beyond Amble?]] — what a child in Amble actually knows about the world outside it
+- [[Stoneharbour]] — the port town of Arc 2: its districts, its trades, and who runs what
 - [[Peoples_and_Magic|Peoples and Magic]] — who you'll meet growing up here, and how common magic really is
 
 ## Reference
