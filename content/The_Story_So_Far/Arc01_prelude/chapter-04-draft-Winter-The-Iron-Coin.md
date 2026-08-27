@@ -123,12 +123,11 @@ Then she straightened up and told us the one piece of good news in the whole bus
 
 "I'm not a child," Archer said. "I'm a man."
 
-
 "Archer," she said, "you're a boy. At best."
 
 That's the last joke I'm going to be able to give you for a while, so I'd take it while it's there.
 
-What she told us after that was worse the longer you thought about it. Adults were the primary victims, and children were unaffected or slower to fade — and *fade* was the word she used, and it wasn't a figure of speech. The dust wasn't a symptom in the ordinary sense, not the sort of thing a fever is. The dust was the person. It was them going out of the world a little at a time, and settling.
+What she told us after that was worse the longer you thought about it. Adults were the primary victims, and children were unaffected or slower to fade — and *fade* was her word, chosen carefully, and it wasn't a figure of speech. The dust was the person. It was them going out of the world a little at a time, and settling.
 
 It had been out on the farms for over a week, and strangers and outlying farmers had been dying for days. The news hadn't been passed on properly, because somebody higher up had decided the village didn't need alarming. And now it had reached Amble.
 

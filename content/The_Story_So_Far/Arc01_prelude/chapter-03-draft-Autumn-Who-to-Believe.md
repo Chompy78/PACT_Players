@@ -9,21 +9,21 @@ We were still twelve. We wouldn't be for very much longer.
 
 That was how we left it last time, half a joke and half a warning, and two years took the joke out of it — real apprenticeships this time, not the pretend kind. Competent, barely, and not yet named, which felt less like an achievement and more like being handed a chore nobody had explained properly. Wren ran the cubby house like she owned it, because as far as any of us could tell, she did, with Mother Yela's harsh-but-mostly-absent blessing. Fenwick and Archer weren't with us that autumn — apprenticeships pull in different directions, and there were whole weeks by then when the group was whoever happened to be free. None of us thought of it as anyone leaving. It only looks that way from here.
 
-Bram — never one of us, exactly, but never quite not, either — grew into the size his father had always seemed to be daring him toward, and got quieter as he grew, the way some boys do once being loud stops working. And sometimes, if you were out past the tree line at the right hour, you'd catch the fey creature we'd saved back when we were eight — bigger now, bolder, in no particular hurry to bolt at the sight of us. It had stopped being afraid of us before we'd stopped being afraid of most things. None of us thought much about what that meant. Not yet.
+Bram — never one of us, exactly, but never quite not, either — grew into the size his father had always seemed to be daring him toward, and got quieter as he grew. Being loud had stopped working for him somewhere along the line. And sometimes, if you were out past the tree line at the right hour, you'd catch the fey creature we'd saved back when we were eight — bigger now, bolder, in no particular hurry to bolt at the sight of us. It had stopped being afraid of us before we'd stopped being afraid of most things. None of us thought much about what that meant. Not yet.
 
 None of that is why this part matters, though.
 
 It's the morning Wren didn't turn up for breakfast.
 
-It wasn't unheard of. Wren had never been much for schedules, and Mother Yela's grip on her had always been more theory than practice. Caspian and Moss headed for the woods, same as always, whenever they wanted an excuse to be outdoors, and Anders went with them, trailing at a respectful, entirely unnecessary distance the whole way — convinced he was being subtle about it. He was not being subtle about it. He'd been not being subtle about it for years, and by now the whole village had simply stopped mentioning it, the way you stop mentioning a smell you've lived with too long to notice. Skylar went the other way, alone, because somebody had to actually look properly instead of just wandering off with an excuse.
+It wasn't unheard of. Wren had never been much for schedules, and Mother Yela's grip on her had always been more theory than practice. Caspian and Moss headed for the woods, same as always, whenever they wanted an excuse to be outdoors, and Anders went with them, trailing at a respectful, entirely unnecessary distance the whole way — convinced he was being subtle about it. He was not being subtle about it. He'd been not being subtle about it for years, and by now the whole village had simply stopped mentioning it. You stop noticing a smell you've lived with long enough. Skylar went the other way, alone, because somebody had to actually look properly instead of just wandering off with an excuse.
 
 She didn't have to go far. Right at the edge of the woods, before she'd even properly started, she found the two things that should never have been left behind: Wren's little sketchbook, and her charcoal. Wren didn't go anywhere without them. She'd rather have forgotten her own boots. Skylar took the sketchbook and kept going, into town, on her own.
 
 * * *
 
-The sketchbook was where the real trail started. Half of it was ordinary — hay, a dog, a chicken drawn with more affection than accuracy — but three pages back there was a cart, drawn and redrawn, the wheels done over and over like she couldn't get them right, or couldn't stop trying. Further on, a sketch of Councilman Pike's house, bigger and finer than its neighbours, the kind of house a girl with a grudge against its owner might draw without quite admitting to herself why. Skylar found the blacksmith's cart first, because it was closest and least likely to matter, and it turned out to be exactly what it looked like — four wheels, nothing strange about it.
+The sketchbook was where the real trail started. Half of it was ordinary — hay, a dog, a chicken drawn with more affection than accuracy — but three pages back there was a cart, drawn and redrawn, the wheels done over and over like she couldn't get them right, or couldn't stop trying. Further on, a sketch of Councilman Pike's house, bigger and finer than its neighbours, the kind of house a girl with a grudge against its owner might draw without quite admitting to herself why.
 
-Nobody in town had seen Wren. That in itself wasn't strange — she disappeared for stretches at a time the way weather disappears, and always came back the same way, unannounced. What was strange was how thoroughly nobody had seen her, all morning, in a village where everybody generally knew everyone else's business within the hour.
+Nobody in town had seen Wren. That happened often enough — she disappeared for stretches at a time and always came back unannounced. What caught at us was how thoroughly nobody had seen her, in a village where everybody knew everyone else's business inside the hour.
 
 Mother Yela sent Skylar up to the bell loft in the end — the little nook above the shrine that Wren had claimed as hers years back. "I've never gone up," she said. "Getting too old in my age to climb things like that. It's her little spot." She said it fondly, and a bit sadly, the way you talk about a door you've chosen never to open. Skylar went up alone, squeezing through the attic hatch, and found a nest — blanket, cushions, a small hoard of buttons and stones and stubs of charcoal, and a half-finished sketch of the whole village seen from above, proof of how many hours Wren had spent up there simply watching Amble go about its business without her.
 
@@ -33,7 +33,9 @@ She also found a burial token. Old Martha's, specifically — buried with her no
 
 * * *
 
-Back at the cubby, the sketchbook did more work than any of us had managed on our own. Caspian checked the ground outside for anything the rest of us had missed — kid-sized footprints, a dog's, nothing adult, nothing that explained why she'd have dropped her sketchbook and her charcoal at the tree line and kept walking. Anders slipped off to Pike's house and pressed his face to a window, and found nothing but Councilman Pike making himself lunch, which told them precisely nothing except that he was, at least, home. Mother Yela handed over Wren's second, larger sketchbook when they passed by again — the one she carried less often, for more careful drawings — and what was in it made the back of our necks go cold: a page of four faces, drawn with more care than any of them probably deserved. Bram. Councilman Pike. Rennick the miller. Halloway the tanner. The four people in Amble who'd made Wren's life hardest. Behind it, a page torn out — more violently than Wren ever tore anything.
+Back at the cubby, the sketchbook did more work than any of us had managed on our own. Caspian read the ground outside it — kid-sized footprints, a dog's, nothing adult, nothing that explained why she'd have dropped her things at the tree line and walked on. Anders pressed his face to Councilman Pike's window and established that Councilman Pike was at home, making lunch. Moss got as far as the sandwiches.
+
+The second sketchbook was the one that mattered. Mother Yela handed it over when Skylar and Caspian passed by again — the larger one, the one Wren carried less often, for more careful drawings — and what was in it made the back of our necks go cold: a page of four faces, drawn with more care than any of them probably deserved. Bram. Councilman Pike. Rennick the miller. Halloway the tanner. The four people in Amble who'd made Wren's life hardest. Behind it, a page torn out — more violently than Wren ever tore anything.
 
 I didn't understand what I was looking at yet. None of us did.
 
@@ -45,21 +47,41 @@ We ate Moss's sandwiches, argued over the drawings, and eventually made our way 
 
 The lime pits and the tannery weren't in the same direction, and it was already past midday, so we split the only way that made sense. Caspian and Moss set off for the pits — a fair hike, the better part of an hour each way — while Anders and Skylar, with Bram close behind, went to find the tanner. We only got this part secondhand, later, in the version they agreed on.
 
-Caspian and Moss's afternoon turned out to be mostly wasted, and if we're honest about it now, mostly their own doing. The pits were wide, half-forgotten, and quiet — an old storage shed locked up tight, a scatter of cart tracks too old to mean anything — and somewhere in the first hour the search quietly stopped being a search. Caspian called it a chance to finally explore somewhere they'd never properly been. Moss kept wandering off after whatever caught his eye in the dirt, sure each time that it would turn out to matter more than it did. Neither of them called it looking for Wren, not out loud, though that was supposedly the reason they were out there at all. By the time either of them admitted to being bored, they'd been bored for the better part of two hours already. They found nothing, mostly because by then they'd stopped looking for it, and started the long walk back. We have never once been able to decide whether she was already inside that shed.
+Caspian and Moss's afternoon was wasted, and it was their own doing. The pits were wide and half-forgotten and quiet: an old storage shed locked up tight, a scatter of cart tracks too old to mean anything. Somewhere in the first hour the search stopped being a search. Caspian called it a chance to finally explore somewhere they'd never properly been. Moss kept wandering off after whatever caught his eye in the dirt. By the time either of them admitted to being bored they had been bored for the better part of two hours, and they walked back with nothing.
 
-The others found rather more. The tannery was quiet — Halloway wasn't often around, his trade keeping its distance from polite noses — and his wagon, when Anders climbed into the back of it, was empty. From there Skylar led them back to Mother Yela with the burial token in hand, and that was when the morning's odd little mystery turned properly strange: Old Martha's grave was undisturbed, no fresh digging, nothing dragged up out of the earth, but the flowers on it were wrong — not the ones she'd been buried with, not the ones anyone remembered her favouring, fresh enough that somebody had to have changed them recently.
+We have never once been able to decide whether she was already inside that shed.
+
+The others found rather more. The tannery was working that afternoon, smoke up, Halloway in it — and Halloway caught Anders halfway into the back of his wagon and wanted to know what the pair of them thought they were doing. Anders said he was enquiring about an apprenticeship. Nobody believed that, least of all Halloway. But the wagon was empty, and there was nothing to hold them there, and they went.
+
+They went to the graveyard next, because the burial token had been in Skylar's pocket since the bell loft and none of them could think what else to do with it. Old Martha's plot was undisturbed. No fresh digging, nothing dragged up out of the earth. The flowers on it were wrong, though — not the ones she'd been buried with, not the ones anyone remembered her favouring, and fresh enough that somebody had changed them inside a day.
 
 Somebody besides us had been visiting a dead woman's grave, and none of us liked that thought as much as we pretended to.
 
-Rennick, at the mill, told them nothing useful and was rude about it, which at least had the virtue of being consistent with everything anyone already knew about Rennick. It was on the walk back into town that the stranger found them instead — hide armour, two dogs built more like wolves than anything you'd want licking your hand, and not the faintest interest in being friendly. Skylar gave him directions to the tannery he hadn't asked politely for, and he paid her for it: one copper piece, and a folded note that said, in its entirety, that she was an arsehole. Nobody ever worked out whether he had a specific grievance or simply enjoyed insulting children for coin. Given everything else they learned about him, they suspected it was recreational.
+Mother Yela couldn't explain the token either. Rennick, at the mill, was rude and useless in the exact proportions everyone had always expected of Rennick.
 
-They followed him at a careful distance and watched him vanish into the tannery. Shouting followed, none of it clear enough to make out. Then the stranger and Halloway came out together, dogs at heel, and struck off into the woods behind the tannery — toward, Skylar half-remembered from town gossip, an old shed that used to be part of the tanning works, back before it fell out of use.
+The stranger found them on the road back into town. Hide armour, two dogs built more like wolves than anything you'd want licking your hand, no interest whatsoever in being friendly. He wanted the tannery. Skylar gave him directions he hadn't asked politely for, and he paid her for them: one copper piece, and a folded note that said, in its entirety, that she was an arsehole. Nobody ever worked out whether he had a specific grievance or simply enjoyed insulting children for coin. They suspected it was recreational.
 
-Anders and Skylar went to look at it properly, with Bram keeping watch on the road, climbing past two guard dogs that took a fair while to lose interest and picking a lock that had no business being on a building everyone assumed was abandoned. Inside: a lantern, hides on frames, a shelf of jars labelled in Halloway's own careful hand, and a ledger, simply titled *Goods*, that neither of them could make full sense of on a first read. A clean apron hung freshly laundered on a hook. The floor was scored with fresh cart ruts, far too many for a shed nobody used.
+They followed him at a careful distance and watched him vanish into the tannery. Shouting came out of it, none of it clear enough to make out. Then the stranger and Halloway came out together, dogs at heel, and struck off into the woods behind the works — toward, Skylar half-remembered from town gossip, an old shed left over from when the tanning had still been done out there.
 
-And in the corner, unmistakably, a small pack of charcoal sticks with Wren's own careless handwriting scrawled across it, claiming it as hers.
+* * *
 
-Neither of them said much on the way back down. There wasn't much to say that wouldn't have made it worse.
+They knew that shed. Everyone their age knew it. It was one of the places you played when you were nine and wanted a roof no adult had a claim on.
+
+Bram stayed on the road to watch it. Getting near the shed took Anders and Skylar three quarters of an hour — the dogs started up whenever anyone came within a certain distance of the wall, so they went in, and backed off, and waited, and went in again, until at last they came up on it and nothing barked at all. They covered the last of it on their stomachs through wet leaves.
+
+The shed had been worked on. New timber in places, and none of the sag either of them remembered. Skylar got to the window first and saw nothing whatsoever through it, because the inside was dark and she had ordinary eyes.
+
+It was the lock that gave it away. A good lock, and a new one, on the door of a building the whole village would have told you nobody had touched in years. Anders had tools for that, and a history that explained why: his own family had started locking things up on him years back, and he had made a study of the problem. It took him ten minutes. Skylar spent all ten of them saying they should go.
+
+Inside there was a lantern with oil still in it. They lit it, and for a moment it looked like nothing at all: a couple of hides on frames, a bench, the ordinary furniture of a trade.
+
+Then the light reached the shelf. Jars of chemicals, a whole row of them, every one labelled in Halloway's own careful hand, the letters small and even and patient. A clean apron on a hook, freshly laundered, hanging ready for somebody. And on the table a ledger with one word on the cover — *Goods* — filled with entries neither of them could properly read and both of them understood well enough.
+
+The floor was scored with cart ruts. Fresh ones, and far too many of them for a shed nobody used.
+
+The charcoal was the last thing they found. A small pack of sketching sticks, drawn all over in Wren's own careless hand, with her name on it, claiming it.
+
+Neither of them said much on the walk back down. There wasn't much to say that wouldn't have made it worse.
 
 * * *
 
@@ -79,7 +101,7 @@ Halloway panicked. He grabbed a torch and set to burning the pages he'd torn out
 
 Skylar went down. Anders went down. Caspian went down too, briefly, gulping air in the mud with no memory of the hit that put him there.
 
-We remember it in pieces, the way you remember a fall rather than the falling. I remember the smoke. I remember Wren's hands, finally free, shaking too hard to be useful. I remember somebody screaming for Bram to hold, and Bram holding, on nothing but stubbornness and the fact that nobody had told him he was allowed to stop.
+We remember it in pieces, and none of the pieces join up. I remember the smoke. I remember Wren's hands, finally free, shaking too hard to be useful. I remember somebody screaming for Bram to hold, and Bram holding, on nothing but stubbornness and the fact that nobody had told him he was allowed to stop.
 
 The stranger broke first. "I'm not paid enough to kill kids," he said, and meant it, backing off into the treeline and vanishing before anyone had strength left to chase him. Halloway didn't have that option — cornered, outnumbered, and, in the end, not actually much of a fighter. One more swing from Bram and he threw his hands up and surrendered, right there in the mud, next to the dog he'd been so willing to let kill us a minute earlier.
 
@@ -95,7 +117,7 @@ We bound Halloway, loaded our wounded into his own cart, and rode back into Ambl
 
 Old Corr healed us as he always had, moving from one to the next with the same unhurried patience he'd used on scraped knees a decade ago, as if a slashed cheek and a near-fatal beating were just a bigger version of the same old mischief. It should have felt insulting. Mostly it felt like being tucked in. We were fourteen, we'd nearly died in a lime pit at dusk, and somehow it still felt like being handed a bandage and sent back out to play.
 
-Bram's cheek didn't close clean, even under Old Corr's hands — a mark he'd carry from now on, the way the rest of us carried something from that day too. His would just happen to show.
+Bram's cheek didn't close clean, even under Old Corr's hands — a mark he'd carry from now on. The rest of us carried something out of that day too. His would just happen to show.
 
 Some of the adults scolded us for not asking for help sooner. We'd heard that particular tune before and knew all the words. Skylar gave the questioner a look that needed no translation. Marek, of everyone, was the one who actually nodded at us afterward and said, "Well done" — gruffly, like the words cost him something, immediately undercut by how rude he'd been about everything else all day. We told him so. He filed it away for later. He seemed to file everything away for later. Bram lingered near him a moment longer than the rest of us did before heading home. None of us thought anything of it at the time.
 

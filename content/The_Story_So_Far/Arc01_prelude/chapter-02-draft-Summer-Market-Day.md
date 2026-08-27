@@ -5,25 +5,25 @@ draft: false
 
 # Chapter 2 — Twelve
 
-Four years is a long time when you're eight, and nothing at all looking back on it. Somewhere in them we stopped being small, and not one of us noticed it happening. The cubby was still ours. Wren was still around, louder every season, like volume might finally get her listened to. Anders had joined us somewhere in those years too — none of us can agree exactly when, only that one day he simply was part of the group, the way some people just become part of a thing without anyone deciding it. We told ourselves nothing much had changed. We were wrong about that.
+Four years is a long time when you're eight, and nothing at all looking back on it. Somewhere in them we stopped being small, and not one of us noticed it happening. The cubby was still ours. Wren was still around, louder every season, like volume might finally get her listened to. Anders had joined us somewhere in those years too — none of us can agree exactly when, only that one day he simply was part of the group, and nobody remembered deciding it. We told ourselves nothing much had changed. We were wrong about that.
 
-It started with a funeral. The sky over Amble couldn't decide if it wanted to rain — neither could we, if we're honest. The whole village gathered at the shrine, standing close together, not for warmth. Grief does that; it makes people forget where to put their hands. Wren's mother lay under a bed of wildflowers, and Mother Yela stood beside her, and Wren stood beside Mother Yela, still as a fence post. We'd never seen her hold still before.
+It started with a funeral. The sky over Amble couldn't decide if it wanted to rain — neither could we, if we're honest. The whole village gathered at the shrine, pressed shoulder to shoulder. Grief does that; it makes people forget where to put their hands. Wren's mother lay under a bed of wildflowers, and Mother Yela stood beside her, and Wren stood beside Mother Yela, still as a fence post. We'd never seen her hold still before.
 
 Mother Yela spoke about a woman who worked harder than she complained, who left this world too soon and a daughter behind her. "May the road beyond be gentler than the road behind," she said, and the village murmured that it hoped so too.
 
-Then Bram's father ruined it, the way Bram's father ruined most things — drunk before noon, loud before that, something about shirts he'd never paid full price for. Bram tried to quiet him, couldn't meet anyone's eyes doing it. Eventually the man sat back down, and Mother Yela kept going like nothing had happened.
+Then Bram's father ruined it. Bram's father ruined most things — drunk before noon, loud before that, something about shirts he'd never paid full price for. Bram tried to quiet him, couldn't meet anyone's eyes doing it. Eventually the man sat back down, and Mother Yela kept going like nothing had happened.
 
 We were twelve. We knew better than to say it had.
 
 After, people drifted toward Wren the way people do at funerals — helpless, well-meaning, useless. She gave them one word each. Fine. Good. Yep. We drifted over too, because that's what you did. Caspian brought flowers, though it turned out they weren't allowed — some rule about the shrine none of us knew — so Anders gave her oranges instead, from a bag his family had brought for reasons nobody remembers. She took them like they were the strangest thing anyone had ever handed her, which, to be fair, they were. Skylar hugged her, because Skylar always thought a hug was the answer, and sometimes it was. Anders stepped back after and called it respect, which was mostly true.
 
-Bram came last — he wasn't one of us, not really, but he came anyway. "Sorry about your mum," he said, and kept talking when he should have stopped — something about his mother's cooking, an open invitation to dinner, any time she needed. Kindness, badly aimed. Wren broke.
+Bram came last. He hung back at the edge of it a while first, and then he came anyway. "Sorry about your mum," he said, and kept talking when he should have stopped — something about his mother's cooking, an open invitation to dinner, any time she needed. Kindness, badly aimed. Wren broke.
 
 *At least your parents are still alive*, she told him. *At least you've got a home. At least someone's waiting for you. At least your dad can still embarrass you — even drunk.*
 
 Bram didn't say anything back. He just looked like he'd been hit somewhere that doesn't bruise. "I'll see you around," he said, and left. We'd remember that morning for a long time — longer than we'd remember most of what came after it.
 
-We left with our families. Behind the old grain store, half-hidden, we saw Bram and his father again, the father doing what he did, Bram absorbing it, the way he always did. Nobody said anything about it. Nobody ever did.
+We left with our families. Behind the old grain store, half-hidden, we saw Bram and his father again, the father doing what he did, Bram absorbing it. Nobody said anything about it. Nobody ever did.
 
 ![[chapter-02-maras-funeral-ignoremd.jpeg|Mara's funeral at the shrine|750]]
 
@@ -43,23 +43,23 @@ We were still arguing about whether that counted as brave or stupid when the bel
 
 Not the ordinary bells. The wrong ones — fast, panicked, the kind that meant something rather than announced it. Someone shouted trolls, and half the market ran the wrong direction to get a better look, and we were part of that half, because we were twelve and had not yet learned better.
 
-We watched from Caspian's tree. Five adventurers went out to meet two trolls at the wood line, and it was nothing like the stories Old Piper told. It was ugly. One of the fighters got thrown clean across the clearing with his chest opened up before anyone could blink. A healer's hands lit up gold and closed it again. Someone's magic came out in sparks instead of fire, hitting a troll four times before it noticed. And then the one everyone was shouting for — Captain Vesk, sword too big for anyone sensible to carry — walked up to the second troll like he was annoyed at it, and nearly took its arm off in one motion.
+We watched from Caspian's tree. Five adventurers went out to meet two trolls at the wood line. Old Piper told it as a ballad. It was ugly. One of the fighters got thrown clean across the clearing with his chest opened up before anyone could blink. A healer's hands lit up gold and closed it again. Someone's magic came out in sparks instead of fire, hitting a troll four times before it noticed. And then the one everyone was shouting for — Captain Vesk, sword too big for anyone sensible to carry — walked up to the second troll like he was annoyed at it, and nearly took its arm off in one motion.
 
 Caspian shot an arrow from the tree. Missed by a mile. Missed again. Got told off by name, in front of everyone, by an adult who definitely used to be a child once and had clearly forgotten it.
 
 ![[chapter-02-children-tree-troll-battle-ignoremd.jpeg|Watching the troll battle from Caspian's tree|750]]
 
-It ended, eventually. Not cleanly. There was a lot of blood that wasn't ours and a smell that stayed with us longer than the memory did. One boy near us said he was leaving Amble the day he turned old enough. I didn't say anything. I didn't need to. We were all thinking it.
+It ended, eventually, and it was a mess by the time it did. There was a lot of blood that wasn't ours and a smell that stayed with us longer than the memory did. One boy near us said he was leaving Amble the day he turned old enough. I didn't say anything. I didn't need to. We were all thinking it.
 
 Afterward we did what children do after something enormous happens near them — we asked the nearest adult stupid questions. The wizard told Skylar magic cost five hundred gold a year to learn properly, in a city none of us had ever seen the name of written down. Fenwick offered an adventurer a dozen loaves of bread to take him on. He was told, kindly, to go practise on something his own size first. He took that as a yes.
 
 Nobody charged the village a copper for the trolls. Marek made sure of that, and one of the elders looked so relieved it was almost funny — grown-ups aren't supposed to look scared, and for a second, he did.
 
-We didn't know it yet, but that was the day Amble stopped being the whole world. Not because anything changed here. Because we'd seen, for the first time, how much wasn't here at all.
+We didn't know it yet, but that was the day Amble stopped being the whole world. The village was the same one it had been that morning. We'd just seen, for the first time, how much of the world was somewhere else.
 
 * * *
 
-The rest of the market went the way market days always went, once the excitement had burned off. Moss drifted toward the herb stall and came back thinking about apprenticeships, torn between the farm and something that smelled less like manure. Skylar found the curio seller and asked about magic until he ran out of patient answers. Fenwick tried Marek again and was, gently, ignored — Marek only passed through a few times a year, and by the next visit he never remembered anyone's name. Fenwick took that personally. Fenwick took most things personally.
+The rest of the market went back to being a market, once the excitement had burned off. Moss drifted toward the herb stall and came back thinking about apprenticeships, torn between the farm and something that smelled less like manure. Skylar found the curio seller and asked about magic until he ran out of patient answers. Fenwick tried Marek again and was, gently, ignored — Marek only passed through a few times a year, and by the next visit he never remembered anyone's name. Fenwick took that personally. Fenwick took most things personally.
 
 Anders found Bram loading sacks alone, because Bram's father was somewhere being useless, and helped without being asked. That was the year we started noticing things about Bram we hadn't noticed at eight — that he worked harder than anyone gave him credit for, that he flinched less than he used to, that when he finally told us he wanted to join the Guild, the reason wasn't glory.
 
@@ -83,9 +83,9 @@ Wren got sweets bought for her by three different relieved strangers before the 
 
 Councilman Pike showed up not long after to check the stalls were packed properly, and somehow found time to lecture Bram about respect while saying nothing to anyone else. Wren called him a goody-two-shoes to his back, quietly, and none of us disagreed.
 
-Nobody set out that afternoon to be brave about anything. It happened to us the way it happens to people who are in the wrong place with the wrong amount of courage and not enough sense to leave.
+Nobody set out that afternoon to be brave about anything. It happened to us because we were in the wrong place with the wrong amount of courage and not enough sense to leave.
 
-By evening we had a plan for the night that had nothing to do with any of that. We should have been tired. We weren't.
+By evening we had a plan for the night that had nothing to do with any of that. Twelve-year-olds get tired at all the wrong times.
 
 * * *
 
@@ -114,5 +114,3 @@ We didn't know it yet, but that was the last secret we ever kept that didn't mat
 Amble buried the old cart shed's ashes the way it buried most things that summer — quietly, and quickly, and without asking too many questions it didn't want the answers to. Moss started learning the woods properly that season. Skylar went looking for someone who could teach her more than a cantrip. Fenwick kept training with Bram, since Marek forgot his name every single time he passed through, and never once let that stop him asking again.
 
 We were still twelve. We wouldn't be for very much longer.
-
-

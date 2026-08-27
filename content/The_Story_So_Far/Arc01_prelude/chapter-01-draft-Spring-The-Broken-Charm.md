@@ -13,9 +13,9 @@ That morning we heard the shouting before we saw the tree.
 
 Bram had Wren backed against the trunk. He was shouting about a charm. His grandfather's charm — a small, finely carved wooden thing, the kind of carving you don't get told the story of until you're older, and by then his grandfather was dead, so nobody ever would. Bram never went anywhere without it. Wren swore she hadn't touched it. Neither of them was telling the whole truth.
 
-We should have talked them down. We didn't have that in us at eight.
+Talking them down never occurred to any of us.
 
-Fenwick and Archer tried to pull Bram off her. Caspian went for his legs. Moss waded in after them, which at eight was usually enough to end an argument, and didn't end this one. Inside about four seconds every other child at the tree had decided this looked like fun.
+Fenwick and Archer tried to pull Bram off her. Caspian went for his legs. Moss waded in after them, which at eight usually ended an argument. This time it made it bigger. Inside about four seconds every other child at the tree had decided this looked like fun.
 
 Nobody won.
 
@@ -81,7 +81,7 @@ Skylar stayed with it all night. The rest of us went home and got yelled at for 
 
 In the morning Old Marn came and knelt beside it. He put one hand against its side. A warm blue light passed between his palm and its fur, and he told us it would heal clean.
 
-He said we'd done a good deed. Then he said, in the way adults say things they don't quite mean as a joke, that it might remember us for it one day. If we ever needed it to.
+He said we'd done a good deed. Then he said it might remember us for it one day. If we ever needed it to. He made it sound like a joke. Grown-ups do that when they mean it.
 
 We carried it back out to the wood line ourselves. Skylar and Moss did most of the carrying, because it had stopped flinching from them. Then we let it go.
 
@@ -95,6 +95,6 @@ And Wren got voted into the cubby that evening. She had spent the whole day prov
 
 She fell asleep against Skylar's shoulder that night. Six of us under a roof we'd built ourselves, plank by stolen plank, talking about fairy foxes and stolen charms and everything we'd got away with.
 
-We didn't know it yet, but that was the last of it that would ever be this simple.
+The lantern was still burning in the corner. The stolen one. Nobody got up to put it out.
 
 ![[chapter-01-the-cubby-tree-ignoremd.jpeg|The cubby, built plank by stolen plank in the tree above the council tree|750]]
