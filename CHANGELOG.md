@@ -3,6 +3,13 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-27 · `House_Rules.md`: add a Non-Lethal Attacks house rule** — new section (jump-list entry
+  included): non-lethal intent must be declared *before* the attack roll (RAW decides after damage
+  lands), suitable attacks (unarmed, club, sap, GM-approved) deal full damage, unsuitable attacks
+  (slashing/piercing weapons, ranged, damaging spells, fire/acid/poison) deal half damage, and a creature
+  reduced to 0 HP this way is Unconscious/Stable/alive. Also extends the option to ranged attacks and
+  spells, which RAW's own knockout rule doesn't cover at all. GM has final discretion on what counts as
+  suitable. See D-2026-08-27-non-lethal-attacks.
 - **2026-08-27 · Site renamed to Amble Player Hub; home page restructured; Reference section added; Arc 2
   opened as Among Strangers** — `pageTitle` and home page renamed from *PACT Player Archive*, and the
   `" - Amble"` suffix dropped. Home page reordered: welcome first, new **Player tools** section, a real

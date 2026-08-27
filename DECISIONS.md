@@ -6,6 +6,10 @@
 
 ## Index
 
+- **D-2026-08-27-non-lethal-attacks** — New `House_Rules.md` section: non-lethal intent must be declared
+  before the attack roll (RAW decides after damage lands), suitable attacks (unarmed, club, sap) deal
+  full damage, unsuitable attacks (most weapons, ranged, damaging spells) deal half damage, extending the
+  knockout option to ranged/spell attacks RAW doesn't cover at all. See full entry.
 - **D-2026-08-27-hub-rename-and-restructure** — Site renamed *PACT Player Archive* → **Amble Player Hub**;
   home page restructured (welcome first, new Player tools section, arcs regrouped Current/Past/Later); a
   generated **Reference** section added at campaign level; Arc 2 opened as *Among Strangers* with a
@@ -167,6 +171,30 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-08-27-non-lethal-attacks · new house rule: declare non-lethal before the roll, half damage for unsuitable attacks, extends the knockout option to ranged/spell attacks
+
+- **Context:** `House_Rules.md` had no rule for fighting non-lethally beyond 2024 RAW's own baseline —
+  any melee attack can be declared non-lethal at the moment it drops a creature to 0 HP, decided after
+  damage is rolled, with no damage cost either way, and ranged attacks/spells can't knock a creature out
+  at all. The player wanted an explicit house rule covering both when the choice gets made and which
+  attack types qualify.
+- **Options:** (A) Restate RAW as-is, no mechanical change. (B) Move the declaration earlier (before the
+  attack roll) and extend the knockout option to any attack type, at a half-damage cost for attacks not
+  inherently suited to it. (C) Something else the player would specify.
+- **Decision:** B, per the player's own specification. Non-lethal intent is declared before the attack
+  roll. Suitable attacks (unarmed strikes, clubs, saps, other GM-approved attacks) deal full damage.
+  Unsuitable attacks (most slashing/piercing weapons, ranged attacks, damaging spells, fire/acid/poison)
+  deal half damage. A creature reduced to 0 HP by a declared non-lethal attack is Unconscious, Stable,
+  and alive — no death saves. The GM has final discretion on which bucket a given attack falls into.
+  Placed after Revival Exhaustion (both deal with the 0-HP moment) and added to the top jump-list, same
+  as every other section on the page.
+- **Why:** The player supplied the exact mechanic; no independent design judgment was made beyond where
+  to slot it in and matching the page's existing collapsed-callout format (worked examples plus an
+  explicit 2024 RAW comparison line, same as every other section).
+- **Status:** Active.
+
+---
 
 ## D-2026-08-27-hub-rename-and-restructure · rename the site, restructure the home page, add a generated Reference section, and open Arc 2
 
