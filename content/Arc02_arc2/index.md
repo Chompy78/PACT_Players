@@ -1,6 +1,8 @@
 ---
-title: Arc02
+title: "Arc 2: Among Strangers"
 ---
+
+The party leave Amble indentured to the Iron Coin Guild, bound for Stoneharbour — a coast none of them have ever seen.
 
 ## Arc-wide Handouts
 
@@ -10,4 +12,4 @@ title: Arc02
 
 ## Chapters
 
-No chapters have been added yet.
+- [[Arc02_arc2/Chapter_1/index|Ch. 1: Among Strangers]]
