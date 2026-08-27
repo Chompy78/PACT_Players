@@ -12,6 +12,8 @@ A prosperous working port of three or four thousand people, on a coast none of t
 
 It runs on the tide and on other people's cargo. Grain, salt, wool and fish come off the boats and go into warehouses; rope and barrels and sailcloth get made and sold back to the ships. The Iron Coin Guild keeps a branch here — a converted counting-house in the Guild Quarter — with the indentures' barracks on its Warehouse Row edge.
 
+![[stoneharbour_map.jpeg|Stoneharbour, and its districts|750]]
+
 ## The districts
 
 ### Harbourfront
