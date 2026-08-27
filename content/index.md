@@ -9,8 +9,6 @@ Welcome to the Amble Player Hub. Here you'll find the maps, sketches, stories, a
 
 **New here?** Start with [[Amble_Campaign/Campaign_Pitch|No One Stays a Child]] — the campaign pitch and premise.
 
-**Before Session 1:** read your [[Arc01_prelude/Shared-History-Handout|Shared History]] — three memories your characters share, worth printing and keeping beside your character sheet.
-
 ## Player tools
 
 **Ask the campaign assistant.** [Ask it a question](https://homeserver.tailc5803f.ts.net:8443) — it searches this site and answers from what it finds, with links to the pages it used. No login, nothing to install, works on a phone. It only knows what's published here, so it can't spoil anything you haven't seen.
