@@ -11,6 +11,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 - [Growing Up Together](#growing-up-together)
 - [Building a Child (Sessions 1-2)](#building-a-child-sessions-1-2)
 - [Initiative Uses Wisdom, Not Dexterity](#initiative-uses-wisdom-not-dexterity)
+- [Critical Hits](#critical-hits)
 - [Short Rests and Long Rests](#short-rests-and-long-rests)
 - [Stable Characters](#stable-characters)
 - [Revival Exhaustion](#revival-exhaustion)
@@ -58,6 +59,15 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > Everyone — players and NPCs/monsters alike — rolls initiative as d20 + Wisdom modifier (plus any bonus that would normally apply), not Dexterity.
 >
 > *2024 RAW: initiative is a Dexterity check (d20 + Dexterity modifier).*
+
+## Critical Hits
+
+> [!note]- Details
+> A natural 20 on an attack roll is always a critical hit. Roll all the attack's damage dice twice and add them together, then add relevant modifiers once — not doubled. Any other damage dice tied to the same attack (like a Rogue's Sneak Attack) get rolled twice as well.
+>
+> This applies to NPCs and monsters exactly the same way it applies to player characters — nobody at the table gets a different crit rule depending on which side of the initiative order they're on.
+>
+> *Same as 2024 RAW. An early Unearthed Arcana playtest packet proposed replacing this with "add maximum weapon damage instead of rolling twice" and barring spell attacks from critting at all, but both changes were reversed before the final Player's Handbook shipped — the published rule is unchanged from 2014. This section exists for the same reason Initiative Uses Wisdom, Not Dexterity does above: stated explicitly so nobody assumes a different rule applies across the table.*
 
 ## Short Rests and Long Rests
 
