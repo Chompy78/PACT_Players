@@ -16,7 +16,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 - [Stable Characters Can Join a Rest](#stable-characters-can-join-a-rest)
 - [Revival Exhaustion](#revival-exhaustion)
 - [Inspiration](#inspiration)
-- [Drinking a Potion — Bonus Action](#drinking-a-potion-bonus-action)
+- [Drinking a Potion — Bonus Action](#drinking-a-potion--bonus-action)
 - [Medium Armor Strength Requirement](#medium-armor-strength-requirement)
 - [Heavy Armor Strength Requirement](#heavy-armor-strength-requirement)
 - [Advancement](#advancement)
