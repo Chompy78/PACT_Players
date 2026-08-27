@@ -4,7 +4,7 @@ description: The table rules specific to this campaign — where they differ fro
 draft: false
 ---
 
-PACT runs on standard **D&D 2024** rules. Where something below doesn't mention a rule explicitly, assume the normal 2024 version applies. Everything on this page is specific to this table, not a general D&D reference.
+The Amble campaign runs on standard **D&D 2024** rules. Where something below doesn't mention a rule explicitly, assume the normal 2024 version applies. Everything on this page is specific to this table, not a general D&D reference.
 
 ## Growing Up Together
 
