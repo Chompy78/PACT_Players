@@ -17,3 +17,7 @@ Stoneharbour is a working port on a coast none of them has ever seen — bigger 
 ## Chapters
 
 - [[Arc02_arc2/Chapter_1/index|Ch. 1: Indentured]]
+
+## Arc02 Among Strangers Banner
+
+![[arc02-among-strangers-banner.webp|Arc02 Among Strangers Banner]]
