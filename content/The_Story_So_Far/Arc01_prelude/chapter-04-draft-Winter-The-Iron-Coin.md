@@ -11,13 +11,13 @@ Two winters later we found out, and the answer came with a price on it, written 
 
 * * *
 
-Two winters. That's the whole of it, and I could tell you almost nothing about the first one. What I remember is small and stupid and mine: Fenwick got a bakery apprenticeship and came home smelling of yeast for a year; Moss stopped being the tallest of us by accident and started being the tallest of us on purpose; Skylar learned to do a thing with her hands that made the air go cold, and practised it on us, constantly, until we stopped flinching. Wren was fifteen and no longer the village terror, which is not the same as calm. She still slept in the cubby some nights and at the shrine on others, and if you wanted to know anything at all about anyone in Amble, she was still the one you asked.
+Two winters. That's the whole of it, and I could tell you almost nothing about the first one. What I remember is small and stupid and mine: Fenwick got a bakery apprenticeship and came home smelling of yeast for a year; Moss stopped being the tallest of us by accident and started being the tallest of us on purpose; Skylar learned to do a thing with her hands that made the air go cold, and practised it on us, constantly, until we stopped flinching. Wren was no longer the village terror, which is not the same as calm. She still slept in the cubby some nights and at the shrine on others, and if you wanted to know anything at all about anyone in Amble, she was still the one you asked.
 
 The apprenticeships were real by then — not the pretend kind, not the ones the adults invented to keep us out from underfoot. We had masters, and a bad week's work behind us, and a few coppers each to show for it. And that winter, for the first time in our lives, we were allowed into the tavern.
 
 Not to drink — let's be honest about the size of the victory. We were allowed to sit at a table by the fire like people, and eat hot food out of the kitchen, and be spoken to by adults as though our answers might be worth the time it took to hear them. After eight years of being shooed out of doorways, it felt enormous.
 
-It was the coldest winter any of us could remember. Minus five outside and falling, roads gone treacherous, the window frosted over so thick you couldn't see the street. Half the village hadn't come out of their houses at all that morning, and nobody thought anything of it, because that is what winter is for.
+It was the coldest winter any of us could remember. Cold enough to crack a bucket left out overnight, and falling further, roads gone treacherous, the window frosted over so thick you couldn't see the street. Half the village hadn't come out of their houses at all that morning, and nobody thought anything of it, because that is what winter is for.
 
 I have gone back over that morning more times than I can count, looking for the moment we should have known. It isn't there; there is only a warm room, and Wren drawing in spilled flour on the table because she was eating and couldn't be bothered getting her books out of her satchel, and Bram coughing.
 
@@ -29,7 +29,7 @@ Bram was seventeen and would tell you so twice. He'd picked something up off the
 
 The bartender laughed at him from across the room without even looking up. *You're not getting an ale, Bram.*
 
-He drank the tea, and complained that it tasted like plants, and Moss said that was the point, and Bram went on coughing and spluttering into it in the corner in a way that was, at the time, only funny.
+He drank the tea, and complained that it tasted like plants, and Moss said that was the point, and Bram went on coughing into it in the corner in a way that was, at the time, only funny.
 
 Wren finished her breakfast and said Mother Yela hadn't been up yet. She'd stayed at the shrine the night before, same as most nights, and when she woke there'd been no sign of her, and the fire had gone out — which was the part that bothered her, because Wren had put a log on it herself that morning. She said it the way you say a thing you've already decided isn't important. *Probably should go back and check. Maybe after breakfast.*
 
@@ -65,7 +65,7 @@ It did not once occur to any of us that the healer might already be lying on his
 
 * * *
 
-Anders ran back into town for him, and got as far as Corr's front door, and hammered on it hard enough to bring a shout from somewhere down the street to stop that racket — and hard enough to bring down the icicles over the doorway onto his own head. Two small puncture wounds and no witnesses, and he has told that story a great many times since, and it improves every year.
+Anders ran back into town for him, and got as far as Corr's front door, and hammered on it hard enough that somebody down the street shouted at him to stop that racket — and hard enough to bring down the icicles over the doorway onto his own head. Two small puncture wounds and no witnesses, and he has told that story a great many times since, and it improves every year.
 
 Nobody answered. The shutters were closed, as everyone's were in that weather. So he fetched Archer out of the warm, told him to keep watch, and let himself in, because most people in Amble didn't lock their doors and Old Corr never had.
 
@@ -81,7 +81,7 @@ They found him in his bed. When Anders shook him a faint dust lifted off him and
 
 And he nodded, and went back to sleep.
 
-They carried him between them the few hundred yards to the shrine, and it took ten minutes, because the snow was deep and the ground under it was ice and Anders is not a large person. They went down once, and Old Corr landed on top of him, and they got up and kept going and got him inside, and the door opened on the two of them hauling a body in out of the white, and Anders — who had been carrying the village healer through a blizzard for ten minutes — was asked immediately whether he'd killed him.
+They carried him between them the few hundred yards to the shrine, and it took ten minutes, because the snow was deep and the ground under it was ice and Anders is not a large person. They went down once, and Old Corr landed on top of him, and they got up and kept going. The door opened on the two of them hauling a body in out of the white. Anders had been carrying the village healer through a blizzard for ten minutes, and the first thing anybody asked him was whether he'd killed him.
 
 ![[chapter-04-carrying-old-corr-ignoremd.jpeg|Carrying Old Corr through the snow|750]]
 
@@ -99,13 +99,13 @@ Fenwick suggested beer. He was told he didn't need beer.
 
 * * *
 
-Here is a thing about being sixteen that I had not understood until I tried to write it down. You can be told that people are dying, and hear it, and repeat it accurately to another person, and still not have it touch you at all.
+Here is a thing about being sixteen that I did not understand until much later. You can be told that people are dying, and hear it, and repeat it accurately to another person, and still not have it touch you at all.
 
 Back at the inn we caught the tail of a conversation at the next table: somebody's cousin had ridden in a few days back looking white-faced and wrong. And the sickness out on the farms, which we'd been half-hearing about for a week, turned out to have killed people. Actual people, some of them already dead.
 
 Moss said that didn't sound good. And then, because it was still bitterly cold outside and there was still a fire and we were still sixteen, we spent the next hour trying to steal Archer an ale.
 
-The plan had three parts and every part of it was Anders. Moss would talk to the bar staff, being large and conversational and hard to see around. Anders would go round the back. Fenwick would do whatever Fenwick does. It is important to record that Skylar took no part in this at all — she sat at a table with a clear view of the bar and watched us the entire time, purely for the pleasure of it, and when we got caught she told us she'd enjoyed watching us fail entertainingly at getting ale, which is the single most Skylar sentence ever spoken in Amble.
+The plan had three parts, and all three of them were Anders's idea. Moss would talk to the bar staff, being large and conversational and hard to see around. Anders would go round the back. Fenwick would do whatever Fenwick does. It is important to record that Skylar took no part in this at all — she sat at a table with a clear view of the bar and watched us the entire time, purely for the pleasure of it, and when we got caught she told us she'd enjoyed watching us fail entertainingly at getting ale, which is the single most Skylar sentence ever spoken in Amble.
 
 We got caught. Anders got sent home. He was standing outside in the snow being indignant about it when a rider came up the road into the village — mud to the knee, looking like she hadn't slept in a day.
 
@@ -139,7 +139,7 @@ There was one thing that might help, she said, and she said it like a woman repe
 
 She was going to stay, she said, when someone asked whether she oughtn't get out. This was her home, and Mother Yela was the one who'd set her up in the first place, and she was staying to look after her. Then she went out to the wood heap for more wood, because she'd been awake for a day and a half and there was nothing else useful left to do.
 
-I didn't know that yet, standing in that room. But that was the last time anybody in Amble was offered a clean way out of this and turned it down for a good reason.
+I didn't know that yet, standing in that room. But nobody in Amble was ever again offered a clean way out of this and turned it down for a good reason. Nell was the last.
 
 * * *
 
@@ -177,7 +177,7 @@ Moss quietly asked whether he could take a jar and collect some of the dust off 
 
 That morning another dozen people were down with it. One of them was Fenwick's father. One of them was Archer's mother. Councilman Pike was down. Bram's father was down, and nobody said out loud that this was the first genuinely difficult thing about it, and everybody thought it.
 
-We searched Old Corr's house because it was the only thing left that resembled a plan. His books were the books of a village healer — bones, births, fevers, the ordinary catastrophes — and there was nothing in them about a plague that turns people into dust, because why would there be. Anders took some herbs and then spent several minutes clarifying, at length and to nobody in particular, that this was not robbing.
+We searched Old Corr's house because it was the only thing left that resembled a plan. His books were the books of a village healer — bones, births, fevers, the ordinary catastrophes — and there was nothing in them about a plague that turns people into dust, because why would there be. Anders took some herbs and then spent several minutes clarifying, to nobody in particular, that this was not robbing.
 
 We went back to the tavern and worked the room instead. The barkeep remembered the ashen rider: came in a day or two after Marek and Thale did, ate a meal, sat with nobody, left. Riders usually do. We asked Marek where he was headed and he said the city, and Moss said *you're always headed to the city, aren't you*, and Marek said he was a procurer, which is a word that means nothing and is meant to.
 
@@ -189,11 +189,11 @@ None of us could prove a thing. All of us were certain. There is a particular ki
 
 Marek and Thale had a guest room upstairs at the inn. The first attempt to get up there was so bad it doesn't deserve the word attempt. After that we did it properly, which is to say we finally did it as Wren had been telling us to for two days, because Wren had spent her entire life getting into places she wasn't wanted and had frankly been waiting for the rest of us to catch up.
 
-Anders and Wren went up the outside wall. Moss and Bram braced them at the bottom and stood ready to catch anything that came down. Fenwick went inside to the bar and did an extremely loud impression of a boy trying to steal beer, which required no acting whatsoever and which drew every eye in the room. Caspian, who is pale enough to disappear against snow and has never once let us forget the nickname he got for it, took the front as lookout with Skylar alongside him.
+Anders and Wren went up the outside wall. Moss and Bram braced them at the bottom and stood ready to catch anything that came down. Fenwick went inside to the bar and did an extremely loud impression of a boy trying to steal beer, which required no acting whatsoever and which drew every eye in the room. Caspian, who is pale enough to disappear against snow, took the front as lookout with Skylar alongside him.
 
 The window was iced shut, and they chipped at it, one and then the other, until Wren got a nail under the frame and it gave.
 
-Inside there was a table, and a side drawer in the table, and a small carved chest sitting in the drawer. And then a large blaring noise started up, and did not stop, and Wren stood frozen with her hands over her ears — because whatever else Wren is, she was fifteen, and none of us had thought for a second that a guild man might ward his own room. She got hold of the chest and threw it out of the window to Moss standing below, and then both of them came out after it, and we ran.
+Inside there was a table, and a side drawer in the table, and a small carved chest sitting in the drawer. And then a large blaring noise started up, and did not stop, and Wren stood frozen with her hands over her ears. She was fifteen. None of us had thought for a second that a guild man might ward his own room. She got hold of the chest and threw it out of the window to Moss standing below, and then both of them came out after it, and we ran.
 
 At the cubby, in the dark, we got it open. There was a pearl inside.
 
@@ -231,7 +231,7 @@ It did not bring back anyone who had already gone.
 
 Fenwick went to his father with a cup and the answer was no. It had been no for a while. He asked twice, because you do, and then he stopped asking.
 
-Some people we saved and some people had already died and the difference between the two groups came down to a matter of hours, and there was nothing in it that made any sense or served any purpose. Bram's father survived, incidentally. Nobody had put him near the top of anyone's list, and nobody had left him off it either, and I want that recorded, because we were sixteen and it would have been very easy to go the other way and we didn't.
+Some people we saved and some people had already died and the difference between the two groups came down to a matter of hours, and there was nothing in it that made any sense or served any purpose. Bram's father survived. Nobody had put him near the top of anyone's list, and nobody had left him off it either, and I want that recorded, because we were sixteen and it would have been very easy to go the other way and we didn't.
 
 By morning most of the village was going to live.
 
@@ -251,7 +251,7 @@ Fenwick asked whether there was no price on human life. Moss answered before Tha
 
 The village could not pay. It was, Thale said, beyond the village's capacity to compensate the guild in coin.
 
-So they indentured us instead. Seven years, six of us, to be discharged in full by our labour, subject to service credits and penalties and any further debts incurred under the guild schedule — a phrase he read out without looking up. With interest, over the seven years, the debt came to something near fifty thousand gold.
+So they indentured us instead. Seven years, six of us, to be discharged in full by our labour, subject to service credits and penalties and any further debts incurred under the guild schedule — a phrase he read out without looking up. Seven hundred and fifty gold apiece on the books, and the seven years to work off what the books did not say.
 
 Anders asked what would happen to that town, whether they'd get another one, and Thale said probably not — and then, pleasantly, without looking up from the paperwork: "Don't worry. It's only a town of ten thousand people."
 
@@ -263,7 +263,7 @@ Fenwick said he'd always been told not to sign anything he couldn't understand f
 
 Caspian went first, because Moss nominated him as the ringleader and nobody argued, and then Archer, and then Skylar, and then the rest of us. Thale told each of us to show a shoulder. He had a stamp, and the stamp was hot, and an iron coin burned itself into the skin of every one of us in turn. Moss screamed. Anders yelled and then signed, and a small magical light passed over the contract as he did it, sealing whatever it was we had just agreed to.
 
-Fenwick, having been branded and indentured at sixteen years of age, looked at the little gnome official holding the paperwork and asked whether they had the brand in a smaller size. "It's good that you can keep your sense of humour," Thale told him. "You'll need it where you're going."
+Fenwick, sixteen and freshly branded, asked Thale whether the brand came in a smaller size. "It's good that you can keep your sense of humour," Thale told him. "You'll need it where you're going."
 
 ![[chapter-04-the-branding-ignoremd.jpeg|An iron coin, burned into the shoulder|750]]
 
@@ -295,7 +295,7 @@ He put them down in front of us.
 
 "Here you go, adults."
 
-Moss told him to put it on the guild's tab, and Anders — who had been doing sums in his head since the moment Thale said the number — worked out that we now owed fifty thousand and three gold pieces.
+Moss told him to put it on the guild's tab, and Anders — who had been doing sums in his head since the moment Thale said the number — worked out that we now owed seven hundred and fifty gold each and three gold pieces between us.
 
 Later, Marek took us aside — Thale had disappeared off somewhere, which I suspect was deliberate on both their parts — and gave each of us a second iron coin, unbranded, to carry. One for showing, he said, and one on your shoulder for when you'd rather not. There's a cost to replace them. Don't incur it.
 
@@ -307,20 +307,28 @@ Ten thousand people, from Thale, to make six children sign. Nobody at all, from 
 
 * * *
 
-We left in the morning. It was still snowing.
+We left in the morning. It was still snowing. The guild caravan had come through in the night — two wagons and a handful of riders in grey coats, with Corvin Thale already mounted at the head of it, waiting.
 
-The people we'd saved were too weak to come and see us go — that was the thing nobody had thought about. Most of them wouldn't be properly on their feet for weeks. So the crowd that gathered to watch six teenagers walk out of Amble under guild escort was thin, and it was mostly the families of the people we hadn't got to in time, and they cried, and our own families weren't there at all, because our own families were the ones lying at home recovering.
+The people we'd saved were too weak to come and see us go — that was the thing nobody had thought about. Most of them wouldn't be properly on their feet for weeks. So the crowd that gathered to watch six teenagers walk out of Amble under guild escort was thin, and half of it was children: the ones who had lived, out at the front, watching us go as though we were an adventure leaving town. Behind them stood the few adults who could manage the standing, and they were mostly the families of the people we hadn't got to in time, and they cried. Our own families weren't there at all, because our own families were the ones lying at home recovering.
 
 Fenwick looked at the size of the crowd and said there weren't many people here, for how many we saved. Then he said he didn't know how he felt about that, and nobody offered to help him work it out, because none of us could have.
+
+The mentors had come out too, Yalen Fane among them, and one of them told us we were guildfolk now and would be respected wherever we went. We have thought about that sentence a great deal since. Old Piper was there as well, upright and untouched — the fever had apparently declined to argue with him — and given what his nonsense had done for the village, that seemed only fair. Marek bade us farewell and rode off the opposite way. We'd never once been going the same way as Marek, even when we were.
 
 Bram shook each of our hands. He'd wanted to come — he'd asked, and been told no, and he was seventeen and free and staying in a village where his father was still alive and still his father. "I have to admit," he said, "I'm a bit jealous."
 
 Fenwick told him not to be.
 
-"No," Bram said. "I'm glad I'm not indentured. I've heard stories." We were assigned to Stoneharbour, which none of us had ever seen, on a coast none of us had ever seen either.
+"No," Bram said. "I'm glad I'm not indentured. I've heard stories." We were assigned to Stoneharbour, which none of us had ever seen.
+
+As we passed the shrine, the bell rang. One note, unhurried, the same note it had rung our whole lives. Mother Yela was dead, and Wren was walking out beside us, and there was nobody left in that building to ring anything. We didn't go and look.
 
 The road out of Amble goes up before it goes anywhere, and there is a point near the top where the whole village fits between two fenceposts if you turn around — the shrine, the inn, the council tree, the cubby up in the branches that we built out of stolen planks when we were eight and never once got around to finishing.
 
-Every one of us turned around. Nobody said anything. Then Skylar started walking again, and the rest of us followed her, the way we always had, and the snow came down and filled in the prints behind us before we'd got a hundred yards.
+Every one of us turned around.
+
+Old Marn was standing at the treeline, well back from everybody. He was the only man in Amble who had ever worn the guild's coin. None of us knew that until that morning, and none of us has been able to forget it since. He lifted one hand. That was all. When we looked again he was gone.
+
+Then Skylar started walking again, and the rest of us followed her, the way we always had, and the snow came down and filled in the prints behind us before we'd got a hundred yards.
 
 ![[chapter-04-leaving-amble-ignoremd.jpeg|The road out of Amble, and the snow filling in behind them|750]]
