@@ -19,5 +19,7 @@ Neat and unremarkable: Guild grey worn correctly, cuffs kept clean despite the i
 
 Procedural, unhurried, never raised, and courteous. He greets people, learns their names and uses them, offers a chair, notices a cough and says so.
 
-*Reference page for the campaign assistant. Source: PACT-campaign Arc02 reference.*
+In Chapter 5 he gives the party their first real job, a courier round, and afterwards records the killing in the lane as a fatality against Moss and explains that an unauthorised death has to be paid for.
+
+*Reference page for the campaign assistant. Source: PACT-campaign Arc02 reference; Published Chapter 5.*
 

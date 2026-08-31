@@ -17,5 +17,7 @@ Weathered and spare, in plain grey robes gone soft with washing. Plain and unhur
 
 He looks to be in his sixties and is genuinely older, in the unhurried way of Halden elves.
 
-*Reference page for the campaign assistant. Source: PACT-campaign Arc02 reference.*
+In Chapter 5 he keeps the shrine out on the green fringe of Stoneharbour, where Moss spends his one day off a week.
+
+*Reference page for the campaign assistant. Source: PACT-campaign Arc02 reference; Published Chapter 5.*
 

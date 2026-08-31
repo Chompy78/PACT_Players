@@ -19,5 +19,7 @@ Older than the rest by a few hard years, with a small scratched tally on the ins
 
 Dry, low and sparing. She doesn't waste warmth, but she doesn't lie to the new ones either.
 
-*Reference page for the campaign assistant. Source: PACT-campaign Arc02 reference.*
+In Chapter 5 she explains the guild's grade system and how an indenture actually ends, and marks something small on the inside of her bunk-frame every morning without explaining it. She is indentured like the rest of them.
+
+*Reference page for the campaign assistant. Source: PACT-campaign Arc02 reference; Published Chapter 5.*
 

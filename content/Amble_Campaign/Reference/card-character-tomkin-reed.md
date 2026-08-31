@@ -17,5 +17,7 @@ Tomkin Reed is about 15 years old.
 
 Small and quick-grinned, and the easiest of the bunk room to like. Warm, funny and generous — the one who saves you a seat at mess.
 
-*Reference page for the campaign assistant. Source: PACT-campaign Arc02 reference.*
+In Chapter 5 he saves the party a seat at mess on their first night in the Stoneharbour barracks.
+
+*Reference page for the campaign assistant. Source: PACT-campaign Arc02 reference; Published Chapter 5.*
 

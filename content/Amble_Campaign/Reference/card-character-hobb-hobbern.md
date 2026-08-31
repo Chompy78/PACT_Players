@@ -19,5 +19,7 @@ Broad and scarred-handed, a quartermaster's leather apron over Guild grey, and r
 
 Gruff, blunt and fundamentally fair. He swears at the work, never at the person, and gives credit out loud when it is earned.
 
-*Reference page for the campaign assistant. Source: PACT-campaign Arc02 reference.*
+In Chapter 5 he runs the party's work rosters and teaches them the basics of guild work. The party find him a patient teacher, more patient than any mentor they had at home.
+
+*Reference page for the campaign assistant. Source: PACT-campaign Arc02 reference; Published Chapter 5.*
 

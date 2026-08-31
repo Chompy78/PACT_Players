@@ -43,6 +43,7 @@ Growing up in Amble — four seasons, and the people who filled them.
 - [[Amble_Campaign/Reference/card-chapter-02|Chapter 2 — Summer: Market Day]]
 - [[Amble_Campaign/Reference/card-chapter-03|Chapter 3 — Autumn: Who to Believe]]
 - [[Amble_Campaign/Reference/card-chapter-04|Chapter 4 — Winter: The Iron Coin]]
+- [[Amble_Campaign/Reference/card-chapter-05|Chapter 5 — The Rounds]]
 
 ### Mentors of Amble
 
@@ -84,6 +85,9 @@ The town's own authorities, separate from the Guild.
 
 - [[Amble_Campaign/Reference/card-character-halvard-stroud|Halvard Stroud]]
 - [[Amble_Campaign/Reference/card-character-hesper-tuck|Hesper Tuck]]
+- [[Amble_Campaign/Reference/card-character-juna-sennet|Juna Sennet]]
+- [[Amble_Campaign/Reference/card-character-odalys-praed|Odalys Praed]]
+- [[Amble_Campaign/Reference/card-character-old-sabine|Old Sabine]]
 - [[Amble_Campaign/Reference/card-character-petra-whitlock|Petra Whitlock]]
 - [[Amble_Campaign/Reference/card-character-selwyn-aske|Selwyn Aske]]
 - [[Amble_Campaign/Reference/card-character-wystan-dorn|Wystan Dorn]]
@@ -99,10 +103,13 @@ The town's own authorities, separate from the Guild.
 Fellow indentured workers sharing the barracks block.
 
 - [[Amble_Campaign/Reference/card-character-corley-finn|Corley Finn]]
+- [[Amble_Campaign/Reference/card-character-ordis-kemp|Ordis Kemp]]
 - [[Amble_Campaign/Reference/card-character-sena-voll|Sena Voll]]
 - [[Amble_Campaign/Reference/card-character-tomkin-reed|Tomkin Reed]]
 
 ### Around Stoneharbour
 
+- [[Amble_Campaign/Reference/card-character-cass-tiller|Cass Tiller]]
 - [[Amble_Campaign/Reference/card-character-dela-brant|Dela Brant]]
+- [[Amble_Campaign/Reference/card-character-fluffy|Fluffy]]
 - [[Amble_Campaign/Reference/card-character-tobin-brant|Tobin Brant]]

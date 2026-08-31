@@ -19,5 +19,7 @@ Warm and tired, flour to the elbows, with a cook's forearms and a cook's memory 
 
 Brisk kindness that never asks for thanks. She remembers what each of them orders without being told.
 
-*Reference page for the campaign assistant. Source: PACT-campaign Arc02 reference.*
+In Chapter 5 she feeds the party free bowls of hot food on their first courier round, over her server's objections, and offers them a standing arrangement: a meal for a bit of work, or a guild discount.
+
+*Reference page for the campaign assistant. Source: PACT-campaign Arc02 reference; Published Chapter 5.*
 
