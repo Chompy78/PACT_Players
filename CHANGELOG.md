@@ -3,6 +3,20 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-08-31 · Chapter 5 "The Rounds" published, Arc 2's Story So Far opened, and its cast carded** —
+  the first Arc 2 chapter goes live at `content/The_Story_So_Far/Arc02_among_strangers/`, with a new arc
+  index matching Arc 1's pattern and the parent index's "Nothing written up yet" placeholder replaced by
+  the link. Drafted in the Amble Story project from a session-5 transcript built by merging three
+  independent pipeline runs, then corrected against this campaign's own Arc 2 canon. Four commits:
+  `149bd0b` the chapter and indexes, `447a764` the cards, `afc0861` a placement correction (Skylar was at
+  the markets, not the tavern), `a9df436` an expanded dance and the removal of two pieces of game-mechanics
+  language from the prose. **Reference cards:** seven new (Old Sabine, Odalys Praed, Juna Sennet, Ordis
+  Kemp, Cass Tiller, Fluffy, and Chapter 5) plus Chapter 5 lines on seven existing Arc 2 cards — knowledge
+  base now 47 character cards and 5 chapter cards. **One live defect fixed:** Corley Finn's card had said
+  "human, about 16" since 2026-08-27; he is a half-elf of twenty, so the agent had been answering that
+  wrongly for four days. **The cookshop dog is now carded as Fluffy**, reversing the deliberate 2026-08-27
+  decision to withhold him — that decision protected the players' right to name him, and they named him.
+  See `D-2026-08-31-chapter-05-publish-and-fluffy-card`.
 - **2026-08-27 · Arc 2 Ch. 1 handouts published: H01/H02/H05, all ten NPC portraits, and the Schedule of
   Requisition** — pulled from the GM repo's `Arc02_among_strangers/`. **H03 (Courier Manifest) and H04
   (Letter From Amble) deliberately held back** at the player's request. `Chapter_1/` gets the Stoneharbour

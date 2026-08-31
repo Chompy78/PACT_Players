@@ -6,6 +6,11 @@
 
 ## Index
 
+- **D-2026-08-31-chapter-05-publish-and-fluffy-card** — Chapter 5 published and Arc 2's Story So Far
+  opened; the cookshop dog carded as **Fluffy**, reversing 2026-08-27's deliberate decision to withhold
+  him, because the players have now named him in a published chapter; and three earlier card exclusions
+  (the optional romantic interests) extended past on the same reasoning. Also fixed a card that had been
+  publicly wrong for four days. See full entry.
 - **D-2026-08-27-arc-banners-need-the-ignoremd-marker** — Arc banners are embedded by hand in their
   arc's `index.md`, so they must carry the `ignoremd` filename marker like any other embed-elsewhere
   image. Arc 2's didn't: `auto-handout-stub.mjs` appended a second, working banner section to the bottom
@@ -361,6 +366,36 @@ Brant" — that second answer is the audit working, not a gap.
 - **Status:** Active.
 
 ---
+
+## D-2026-08-31-chapter-05-publish-and-fluffy-card · publish Chapter 5, card its cast, and reverse the no-dog-card decision now the players have named him
+
+- **Context:** Chapter 5 was drafted in the Amble Story project and needed publishing here, labelled
+  Chapter 5. Its cast then needed carding under this repo's standing rule that a chapter card and any new
+  character cards go in whenever a chapter is drafted — otherwise the PACT Player Agent answers
+  confidently and wrongly, which is the fault the cards exist to fix.
+- **Options considered on the dog:** leave him uncarded per the Amble Story card source's explicit
+  instruction ("**The cookshop dog is deliberately NOT carded, confirmed by John 2026-08-27 — do not add
+  it.** The arc reference says in bold to let the players name it, and a card would take that off the
+  table"), or card him now.
+- **Decision:** card him, as **Fluffy**, on John's direct call.
+- **Why:** the 2026-08-27 decision was not a rule against dog cards; it was protection for the players'
+  right to name him. They exercised that right in Chapter 5 — the name is learned from a child of about
+  twelve who hauls him off Moss by the collar — so the reason for withholding is spent. The card records
+  the name as the players' own rather than assigning one.
+- **Also extended past, deliberately:** Ordis Kemp, Cass Tiller and Juna Sennet were excluded on
+  2026-08-27 as "optional romantic interests, ignorable by design", and Old Sabine and Odalys Praed would
+  count as chapter one-offs. All five are now named in a published chapter, and a player asking "who is
+  Juna?" deserves an answer. Their cards carry only what Chapter 5 states — nothing about what any of them
+  becomes later in the arc.
+- **A defect found and fixed while doing it:** Corley Finn's card had said "human, about 16" since
+  2026-08-27. He is a **half-elf of twenty** — the published chapter says so and the GM repo's Arc 2
+  `Cast.md` agrees. The error traces to the session transcript, which contradicts itself about him ("a
+  female elf" at `[0:23:32]`, "a human" at `[0:28:32]`), and the card inherited the wrong half. Worth
+  carrying forward: **cards inherit a transcript's errors exactly as prose does, and a card is worse,
+  because it is a flat assertion with no surrounding context to undercut it.** Check a transcript-stated
+  attribute against campaign canon before carding it.
+- **Status:** In force. Pushed as `149bd0b`, `447a764`, `afc0861`, `a9df436`. Knowledge base now 47
+  character cards and 5 chapter cards; the hourly `pact-player-agent-sync` picks it up.
 
 ## D-2026-08-27-house-rules-raw-annotations-and-collapse · annotate every section against actual 2024 RAW, fix 2 inaccuracies found doing it, restructure into collapsed callouts with a top quick-link list
 
