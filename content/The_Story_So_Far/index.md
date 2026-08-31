@@ -26,4 +26,4 @@ to pay.
 
 They signed the contract and walked out of Amble under guild escort, bound for Stoneharbour — a coast none of them have ever seen.
 
-Nothing written up yet. Chapters appear here after the session they cover has been played and drafted, so this will fill in as Arc 2 goes.
+- [[The_Story_So_Far/Arc02_among_strangers/chapter-05-draft-The-Rounds|Chapter 5: The Rounds]]
