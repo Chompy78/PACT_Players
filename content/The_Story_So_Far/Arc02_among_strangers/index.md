@@ -21,3 +21,17 @@ narrow lane off Warehouse Row two young thugs try for the satchel, and what answ
 than they deserved. The guild records a fatality, sets a price on it, and sends the party to a dance.
 
 [[The_Story_So_Far/Arc02_among_strangers/chapter-05-draft-The-Rounds|Read Chapter 5 — The Rounds]]
+
+## Chapter 6 — The Line We Crossed
+
+**Chapter 6 summary.** Two more months of guild routine go by — training, rosters, bunks that are never
+quite theirs — before a day off turns up something the guild never mentioned: the dockhands are on
+strike, and Factor Hobbern assigns the party to cross the picket line in their place. Two days of hauling
+under jeers end in real violence — Fenwick dunked in the harbour, Skylar turned back twice, Moss beaten
+back before finally breaking through — until Anders talks the line down rather than fighting it. A
+special-cargo assignment turns up smuggling; guard duty brings a rat fight, a harbour-monster brawl, and
+Sena Voll's sudden disappearance. In the town's rougher edge, they meet an independent information broker
+who calls himself Silas, tied loosely to Odalys Praed's network but answering to no one — and he hands
+them a lead on a goblin prisoner that isn't finished with them yet.
+
+[[The_Story_So_Far/Arc02_among_strangers/chapter-06-draft-The-Line-We-Crossed|Read Chapter 6 — The Line We Crossed]]
