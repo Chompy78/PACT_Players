@@ -229,9 +229,7 @@ The water worked, and it saved the village. Whatever else is true about that nig
 
 It did not bring back anyone who had already gone.
 
-Fenwick went to his father with a cup and the answer was no. It had been no for a while. He asked twice, because you do, and then he stopped asking.
-
-Some people we saved and some people had already died and the difference between the two groups came down to a matter of hours, and there was nothing in it that made any sense or served any purpose. Bram's father survived. Nobody had put him near the top of anyone's list, and nobody had left him off it either, and I want that recorded, because we were sixteen and it would have been very easy to go the other way and we didn't.
+Some people we saved and some people had already died, and the difference between the two groups came down to a matter of hours, and there was nothing in it that made any sense or served any purpose. Fenwick got to his father in time. So did Bram, though nobody had put his father near the top of anyone's list, and nobody had left him off it either, and I want that recorded, because we were sixteen and it would have been very easy to go the other way and we didn't.
 
 By morning most of the village was going to live.
 
