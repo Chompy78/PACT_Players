@@ -41,7 +41,7 @@ Getting it back to Bram was harder than finding it. We were still arguing about 
 
 Fenwick tried to take the whole blame himself. He was small, and loyal, and a hopeless liar. It didn't work. It was the kind of thing you remember about a person afterwards.
 
-In the end Archer carried the charm to Bram's front door. Bram's father answered instead. He was drunk before noon most days and everyone in Amble knew it. He took the charm out of Archer's hand and threw it into the yard. *That stupid goddamn charm of his*, he said, and shut the door.
+In the end Archer carried the charm to Bram's front door, Caspian beside him for backup he didn't end up needing. Bram's father answered instead. He was drunk before noon most days and everyone in Amble knew it. He took the charm out of Archer's hand and threw it into the yard. *That stupid goddamn charm of his*, he said, and shut the door.
 
 Archer picked it up again. He didn't say anything about it. He decided he'd give it to Bram himself, later, when his father wasn't there to throw it away twice.
 
@@ -87,7 +87,7 @@ We carried it back out to the wood line ourselves. Skylar and Moss did most of t
 
 It licked Skylar's hand once before it ran, and none of us have ever quite let her live that down.
 
-Archer gave Bram his charm back that same afternoon. Properly this time, on his own two feet at the front door, no father in sight. Bram said thank you like he meant it. He noticed the bruises we were all still wearing. He told us that if we ever needed anything, we should ask him.
+Archer gave Bram his charm back that same afternoon, Caspian walking there with him. Properly this time, on his own two feet at the front door, no father in sight. Bram said thank you like he meant it. He noticed the bruises we were all still wearing. He told us that if we ever needed anything, we should ask him.
 
 We didn't know yet how much that offer would end up meaning.
 
