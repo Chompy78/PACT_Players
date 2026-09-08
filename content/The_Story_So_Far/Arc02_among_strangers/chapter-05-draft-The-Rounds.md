@@ -297,6 +297,8 @@ Moss is not a dancer. He stepped on her feet, and on the feet of everyone within
 
 The field's own verdict on Moss, meanwhile, formed in real time around his dancing, and it was the only verdict that could have done him any good: not a monster. An oaf. A big, luckless, foot-flattening oaf whose terrifying goat lay in the grass all evening bothering nobody. You could see the town deciding it, and you could see it reach him, and it did more for him than anything any of us had managed all week — a slight repair, as Skylar put it on the walk home, to the reputation that comes with painting cobblestones.
 
+Somewhere in that walk back, between one lamp and the next, we saw her reach over and take his hand — just for a few steps, and let it go again before any of us had properly decided we'd seen it at all. Moss didn't say anything. Neither did we. It felt like the kind of thing you don't get to keep, if you talk about it.
+
 We walked back to the barracks with the band still going behind us, all of us, six and Wren and the goat, and I did the week's sums the guild had taught me to do. Fifty gold for a dead boy. Ten for an old woman's hands. Two coppers for a bowl, a copper to get into a dance, and five posted under a door that will never once come out of the arithmetic. We were learning what things cost in Stoneharbour. That was the lesson the rounds were for, I think, though I doubt the guild meant us to learn it all the way down.
 
 And somewhere in the town that didn't know our names, somebody who knew them exactly had already opened a ledger of their own and written us into it. They wouldn't kill us, luckily.
