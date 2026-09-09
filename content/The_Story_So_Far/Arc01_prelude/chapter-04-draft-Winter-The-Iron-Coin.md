@@ -175,7 +175,7 @@ He had put every one of us back together at some point. He had done it without e
 
 Moss quietly asked whether he could take a jar and collect some of the dust off him. He got told no.
 
-That morning another dozen people were down with it. One of them was Fenwick's father. One of them was Archer's mother. Councilman Pike was down. Bram's father was down, and nobody said out loud that this was the first genuinely difficult thing about it, and everybody thought it.
+That morning another dozen people were down with it. One of them was Fenwick's mother. One of them was Archer's father. Councilman Pike was down. Bram's father was down, and nobody said out loud that this was the first genuinely difficult thing about it, and everybody thought it.
 
 We searched Old Corr's house because it was the only thing left that resembled a plan. His books were the books of a village healer — bones, births, fevers, the ordinary catastrophes — and there was nothing in them about a plague that turns people into dust, because why would there be. Anders took some herbs and then spent several minutes clarifying, to nobody in particular, that this was not robbing.
 
@@ -229,7 +229,7 @@ The water worked, and it saved the village. Whatever else is true about that nig
 
 It did not bring back anyone who had already gone.
 
-Some people we saved and some people had already died, and the difference between the two groups came down to a matter of hours, and there was nothing in it that made any sense or served any purpose. Fenwick got to his father in time. So did Bram, though nobody had put his father near the top of anyone's list, and nobody had left him off it either, and I want that recorded, because we were sixteen and it would have been very easy to go the other way and we didn't.
+Some people we saved and some people had already died, and the difference between the two groups came down to a matter of hours, and there was nothing in it that made any sense or served any purpose. Fenwick got to his mother in time. Bram's father survived too. Nobody had put him near the top of anyone's list, and nobody had left him off it either, and I want that recorded, because we were sixteen and it would have been very easy to go the other way and we didn't.
 
 By morning most of the village was going to live.
 
