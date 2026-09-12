@@ -1,5 +1,5 @@
 ---
-title: "The Story So Far — Prelude"
+title: "Arc 1: Prelude"
 description: The Prelude's four chapters, one per season, with a short summary of each
 ---
 

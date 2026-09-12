@@ -1,5 +1,5 @@
 ---
-title: "The Story So Far — Among Strangers"
+title: "Arc 2: Among Strangers"
 description: Arc 2's chapters, one per session, with a short summary of each
 ---
 
