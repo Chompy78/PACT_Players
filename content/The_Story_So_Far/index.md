@@ -28,3 +28,4 @@ They signed the contract and walked out of Amble under guild escort, bound for S
 
 - [[The_Story_So_Far/Arc02_among_strangers/chapter-05-draft-The-Rounds|Chapter 5: The Rounds]]
 - [[The_Story_So_Far/Arc02_among_strangers/chapter-06-draft-The-Line-We-Crossed|Chapter 6: The Line We Crossed]]
+- [[The_Story_So_Far/Arc02_among_strangers/chapter-07-draft-The-Debts-We-Left-Behind|Chapter 7: The Debts We Left Behind]]
