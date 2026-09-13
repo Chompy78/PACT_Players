@@ -17,7 +17,7 @@ And Anders had a debt of his own, smaller than the guild's but louder in his ear
 
 "He's making himself sound bigger than he is," Anders said, working it out loud in the barracks. "A man that dangerous doesn't drink in a tavern that bad."
 
-We didn't argue. None of us had seen the potion, or asked what Anders had actually done with it since. That would matter later. It always did.
+We didn't argue. None of us had seen the potion again since that first night, or asked what Anders had actually done with it. That would matter later. It always did.
 
 We also heard about Sena, the same rumour we'd already lived the ending of — that she'd disappeared with a year left on her contract and nobody in the guild could say why. We knew why. We just let the guild keep guessing, because the alternative was saying it out loud, and none of us were ready to be the ones who did.
 
@@ -39,7 +39,7 @@ Inside, in flashes of lightning, Moss found Sabine tangled in her own nets, the 
 
 "Very welcome," Moss told her, which was as close as he ever got to modest.
 
-Her home was ruined behind her — nets and floor and the small good order of a life all under water now — but she was breathing, and they walked her to somewhere dry, and that, on a night like that one, counted as a win.
+Her home was ruined behind her — nets and floor and the small good order of a life all under water now — but she was breathing, and they walked her to somewhere dry, and that, this far into the night, counted as a win.
 
 * * *
 
@@ -61,7 +61,7 @@ Once the shout made it clear who we'd actually attacked, Anders tried to make it
 
 It did not land the way he'd hoped. It rarely did.
 
-We patched it over as best we could — an apology dressed up as gratitude, a story about looters that wasn't quite a lie — and Jory let it go with more grace than we'd earned, the grace of a man who'd just been reminded, twice in one hour, exactly how little his own safety was worth to people richer than him. None of us thought about it again that night. We should have.
+We patched it over as best we could — an apology dressed up as gratitude, a story about looters that wasn't quite a lie — and Jory let it go with more grace than we'd earned, the grace of a man who'd just been reminded, twice in one hour, exactly how little his own safety was worth to people richer than him. None of us thought about it again that night. We would, before long.
 
 * * *
 
@@ -77,9 +77,9 @@ Moss found an axe and went at the door with everything he had, Caspian beside hi
 
 Nobody had a good word for it. We settled on *the bilge blob* and left it there.
 
-Moss hooked the trapped sailor free with a whip of thorned vine and hauled, and the man came loose limp and unresponsive, and for one genuinely terrible moment we thought they'd killed the person they'd come to save. Moss knelt over him and pushed breath and warmth back into a chest that had stopped moving, and the man coughed, and lived, and none of us said much about how close that had actually been.
+Moss hooked the trapped sailor free with a whip of thorned vine and hauled, and the man came loose limp and unresponsive, and for one terrible moment we thought they'd killed the person they'd come to save. Moss knelt over him and pushed breath and warmth back into a chest that had stopped moving, and the man coughed, and lived, and none of us said much about how close that had actually been.
 
-The thing turned its whole slow bulk on whoever hit it hardest and forgot, entirely, that it should have been afraid of anything smaller. Anders slid blades into it from angles it never saw coming, laughing about whether a mind could even be cut in something that didn't look like it had one, and found out, startled, that it apparently did. Caspian swung his staff into it again and again, standing his ground when it lunged, going down once under its grip and coming up furious. And when it finally caught Moss and started to draw him in, arms burning where its substance touched bare skin, Moss did the only thing left to him — he became something the water didn't frighten and the blob couldn't easily hold, and a giant badger tore itself free of the thing's grip with Caspian's help on the other end of the pull.
+The thing turned its whole slow bulk on whoever hit it hardest and forgot completely that it should have been afraid of anything smaller. Anders slid blades into it from angles it never saw coming, laughing about whether a mind could even be cut in something that didn't look like it had one, and found out, startled, that it apparently did. Caspian swung his staff into it again and again, standing his ground when it lunged, going down once under its grip and coming up furious. And when it finally caught Moss and started to draw him in, arms burning where its substance touched bare skin, Moss did the only thing left to him — he became something the water didn't frighten and the blob couldn't easily hold, and a giant badger tore itself free of the thing's grip with Caspian's help on the other end of the pull.
 
 We got them all out in the end — sailor after sailor, coughing, terrified, alive — while the last of the crew abandoned ship around us into the storm. In the cargo hold, tucked where the ship's own listing had hidden it, Anders and Fenwick found one of the same fine crates they'd unloaded from this ship months before. Nobody asked why it mattered. We just carried it off the sinking ship along with everyone we'd managed to save, and left the rest of her to go down without us.
 
@@ -117,7 +117,7 @@ Anders went looking for him without the rest of us, which felt right at the time
 
 He found Fred finishing a stock-take in the armoury and put the accusation to him directly — *why'd you take the gold, Fred* — and when Fred, quite reasonably, told him to get lost, Anders reached for the one weapon he actually trusted. He told Fred, with a straight face and total conviction, that Slate himself already knew and that Fred would be excommunicated from the guild entirely if the gold wasn't returned by morning. It was a lie built from nothing, and it came out of him so smoothly it startled even him — the kind of lie that works precisely because the man telling it half-believes it too. Fred didn't believe a word of it and kept counting arrows, ignoring him entirely, which only made it worse. Somewhere in the same stretch of frustration Anders scratched Fred's name onto the warehouse's own note, in his own hand, trying to make an honest discrepancy look like someone else's crime. Then, out of pure spite, he snatched up a quiver of Fred's arrows, hurled them across the room, called him a few names we won't repeat, and stormed out.
 
-Fred, it turned out, hadn't taken anything. He'd been counting arrows the whole time, uninvolved and entirely innocent, and would go on being uninvolved and entirely innocent no matter how many names got thrown at him.
+Fred, it turned out, hadn't taken anything. He'd been counting arrows the whole time, uninvolved and entirely innocent, and would go on being uninvolved and just as innocent no matter how many names got thrown at him.
 
 "Guild reputation was already poor," was all the guild said about it afterward, quietly, in the kind of tone that meant a note was going into a file somewhere with Anders's name on it. Nobody at the table that day thought it worth arguing over. We should have. A man wrongly accused, publicly, by a guild member acting on nothing, is exactly the kind of thing a town remembers long after the guild has stopped caring.
 
@@ -147,7 +147,7 @@ A girl answered the door — thirteen, maybe fourteen, introducing herself as Ne
 
 Caspian didn't let her.
 
-He put his whole weight and strength into that door — the same strength he'd have used against a grown man twice his size, and Nessa was neither — and the door caught her hard enough that she screamed and staggered back half-stunned, one hand to her face, before turning and bolting up the narrow stairs in pain and pure animal fear. Caspian went after her at a run. None of the rest of us stopped him. That would sit differently with each of us later, in the quiet after, in ways we didn't say out loud that night.
+He put his whole weight and strength into that door — the same strength he'd have used against a grown man twice his size, and Nessa was neither — and the door caught her hard enough that she screamed and staggered back half-stunned, one hand to her face, before turning and bolting up the narrow stairs in pain and pure animal fear. Caspian went after her at a run. None of the rest of us stopped him. I have never found a good enough reason why not. That would sit differently with each of us later, in the quiet after, in ways we didn't say out loud that night.
 
 Jory woke to a stranger's weight coming through his door and did the only thing anyone half-asleep and ambushed in his own bed would do — he reached for whatever was nearest and came up swinging, shouting for Nessa to run while Caspian grappled him down and got manacles onto wrists that never once stopped fighting him. Nessa, still screaming, still terrified, threw herself at Caspian's back and hit him again and again with everything a frightened girl not yet fifteen has, which is not much in a fight and everything in a memory. Anders came up the stairs into the middle of it and helped subdue Jory rather than the girl, at least, while Fenwick braced the door below against a gathering crowd of neighbours drawn by the screaming, and Moss stood outside trying to explain to people who'd heard a child scream in her own home why that was, somehow, a misunderstanding.
 
@@ -179,6 +179,6 @@ The man from the tavern found Anders that same week and asked, plainly, after hi
 
 Jory, we were told, would be joining the barracks within the week — bonded, resentful, and entirely unwilling to pretend otherwise. He hated Caspian, Anders and Fenwick plainly and without complication — the three of them had been in that room the morning his sister was hurt, and he never once pretended otherwise around any of them. What he felt about the rest of us was murkier: guilty by association more than anything earned outright. We'd see him again. Often, probably, given how small a guild really is once you're all wearing the same brand. None of us looked forward to it, and none of us pretended we didn't deserve whatever he decided to feel about us.
 
-We went to bed that night much as we always did by then — exhausted, unpaid in anything but coin, a little more disliked than we'd been the week before, and no closer to working out whether any of it had been worth it. We didn't know yet how long a town could go on disliking you before it stopped being safe to walk through at all. We were about to find out.
+We went to bed that night much as we always did by then — exhausted, unpaid in anything but coin, a little more disliked than we'd been the week before, and no closer to working out whether any of it had been worth it. Somewhere in a guild file, our names were already collecting the kind of mark that doesn't wash off by morning. That was the week we stopped being able to pretend otherwise.
 
 <!-- tic-atn: 5 -->
