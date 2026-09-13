@@ -45,6 +45,7 @@ Growing up in Amble — four seasons, and the people who filled them.
 - [[Amble_Campaign/Reference/card-chapter-04|Chapter 4 — Winter: The Iron Coin]]
 - [[Amble_Campaign/Reference/card-chapter-05|Chapter 5 — The Rounds]]
 - [[Amble_Campaign/Reference/card-chapter-07|Chapter 7 — The Debts We Left Behind]]
+- [[Amble_Campaign/Reference/card-chapter-06|Chapter 6 — The Line We Crossed]]
 
 ### Mentors of Amble
 
