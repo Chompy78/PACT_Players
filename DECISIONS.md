@@ -6,6 +6,11 @@
 
 ## Index
 
+- **D-2026-09-12-explorer-sort-by-full-title** — The Explorer sidebar sorts sibling folders by their
+  full frontmatter `title`, not by arc number or filename — so a shared text prefix (both Arc sub-index
+  titles started "The Story So Far — ") makes the sort compare whatever comes *after* the shared part,
+  ignoring intended order entirely. Retitled both to the plain "Arc N: name" pattern already used
+  elsewhere, which sorts correctly on the leading number. See full entry.
 - **D-2026-08-31-chapter-05-publish-and-fluffy-card** — Chapter 5 published and Arc 2's Story So Far
   opened; the cookshop dog carded as **Fluffy**, reversing 2026-08-27's deliberate decision to withhold
   him, because the players have now named him in a published chapter; and three earlier card exclusions
@@ -181,6 +186,37 @@
   alphabetically after "Chapter" in folder names, or Quartz's Explorer sidebar lists them before the
   chapters. Formalized from the existing rule in `CLAUDE.md`'s Content structure section — not a new
   decision, just given a proper record here.
+
+## D-2026-09-12-explorer-sort-by-full-title · the Explorer sidebar sorts on the whole title string, so a shared text prefix defeats intended ordering
+
+- **Context:** `The_Story_So_Far/index.md` was missing its Chapter 6 link (present only on the Arc 2
+  sub-index), and separately the player reported the Explorer sidebar showing Arc 1 (Prelude) below
+  Arc 2 (Among Strangers) under "The Story So Far" — backwards from reading order. Checked directly
+  against the live site's `contentIndex.json` and the Explorer plugin's default `sortFn`
+  (`quartz-community/explorer`): folder nodes sort via `displayName.localeCompare(...)` with
+  `numeric: true`, and `displayName` for a folder comes from its own `index.md` frontmatter `title`
+  when one exists. Both Arc sub-index titles were `"The Story So Far — Prelude"` and `"The Story So
+  Far — Among Strangers"` — identical shared prefix, so the comparison fell through to "Among
+  Strangers" vs. "Prelude", and A sorts before P regardless of arc number. The same shared prefix also
+  meant the sidebar repeated "The Story So Far" at both the parent folder and each child.
+- **Options:** (1) leave the titles as-is and instead override `sortFn` in `quartz.ts` to sort by a
+  parsed arc number. (2) retitle the two sub-index pages to drop the redundant "The Story So Far —"
+  prefix, matching the "Arc N: name" pattern the top-level `Arc01_prelude`/`Arc02_arc2` folders already
+  use.
+- **Decision:** (2).
+- **Why:** A `sortFn` override is global, more code surface, and only fixes this one symptom (the
+  duplicate-prefix wording would still show up anywhere else a folder title repeats its parent's).
+  Retitling costs nothing, fixes both complaints at once (sort order, since "Arc 1" < "Arc 2"
+  numerically; and the duplicated wording), and keeps the naming consistent with the pattern already
+  used elsewhere in `content/`.
+- **Consequence:** Any future folder placed under `The_Story_So_Far/` (or any parent folder generally)
+  should give its `index.md` a `title` that doesn't restate the parent folder's own name/title as a
+  literal prefix — the Explorer sort and the sidebar's nested display both work on that full string,
+  not just the differentiating part a human would read. When two sibling folders need a strict
+  non-alphabetical order (e.g. arc chronology), lead the title with the sort key itself ("Arc 1: …",
+  "Arc 2: …") rather than relying on filename order, which the Explorer plugin ignores for folders that
+  have their own titled index page.
+- **Status:** Active.
 
 ## D-2026-08-27-arc-banners-need-the-ignoremd-marker · a banner without the marker gets a duplicate section that hides a broken embed above it
 
