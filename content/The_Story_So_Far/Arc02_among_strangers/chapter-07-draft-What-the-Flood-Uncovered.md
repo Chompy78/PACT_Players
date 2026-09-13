@@ -5,7 +5,7 @@ draft: false
 
 # Chapter 7 — What the Flood Uncovered
 
-We'd been told the bill would come. We hadn't expected it to come wearing a storm.
+We went out that night to save people. We came home having hurt some of the very ones we saved.
 
 Harvest month brought the first bruised fruit to market and, underneath it, the usual quiet traffic of things nobody official wanted named — including, we found out on a training day gone miserable with wind, one particular debt that had been waiting three months to be called in.
 
