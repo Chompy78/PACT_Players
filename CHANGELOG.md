@@ -3,6 +3,16 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-09-12 · Chapter 6 link and Story So Far sidebar order fixed** — Chapter 6 ("The Line We
+  Crossed") had been live on the built site since 8 Sep (`c1d10d1`) but was never linked from the
+  top-level `The_Story_So_Far/index.md`, only from the Arc 2 sub-index — so it was reachable only by
+  browsing into Arc 2 first, not from the Story So Far landing page. Added the missing link
+  (`4201de4`). Separately fixed the Explorer sidebar showing Arc 1 (Prelude) below Arc 2 (Among
+  Strangers): both Arc sub-index titles started with "The Story So Far — ", so the sidebar's
+  alphabetical sort was comparing "Among Strangers" against "Prelude" instead of the Arc number, and
+  the shared prefix also meant "The Story So Far" was repeated at both the parent folder and its
+  children in the sidebar. Retitled both to the existing "Arc N: name" pattern (`a83d166`), which sorts
+  correctly and drops the duplication. See `D-2026-09-12-explorer-sort-by-full-title`.
 - **2026-08-31 · Chapter 5 "The Rounds" published, Arc 2's Story So Far opened, and its cast carded** —
   the first Arc 2 chapter goes live at `content/The_Story_So_Far/Arc02_among_strangers/`, with a new arc
   index matching Arc 1's pattern and the parent index's "Nothing written up yet" placeholder replaced by
