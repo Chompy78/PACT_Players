@@ -23,7 +23,7 @@ We'd gone down to Low Quay on our one day off, all six of us, same as every week
 
 "I'd rather be a freeman than a guildman," he said back, which got him a long look and very little else.
 
-We split up after that, as you do on a day off nobody's claimed for anything else. Caspian went to wait tables at Della's cookshop, in want of a wage that wasn't already spoken for by the day he owed the guild. Fenwick, Anders, and Archer went to the tavern; Moss had already gone off with Ordis.
+We split up after that, as you do on a day off nobody's claimed for anything else. Caspian went to wait tables at Dela's cookshop, in want of a wage that wasn't already spoken for by the day he owed the guild. Fenwick, Anders, and Archer went to the tavern; Moss had already gone off with Ordis.
 
 Ordis had crossed a field for him once, back at the dance, in front of the whole town, and hadn't done anything of the kind since — not because it hadn't mattered, we understood later, but because it had, and she'd spent three careful years building a life nobody looked at twice. Whatever this was between them, it moved slowly and mostly in silence, on afternoons like this one, away from anyone who might have thought to ask about it. Moss never told us where they went. We never asked. That was its own kind of respect, we'd like to think, though it might just as easily have been that none of us knew what to say to him about it yet.
 

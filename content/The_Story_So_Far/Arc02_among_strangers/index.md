@@ -36,16 +36,16 @@ them a lead on a goblin prisoner that isn't finished with them yet.
 
 [[The_Story_So_Far/Arc02_among_strangers/chapter-06-draft-The-Line-We-Crossed|Read Chapter 6 — The Line We Crossed]]
 
-## Chapter 7 — The Debts We Left Behind
+## Chapter 7 — What the Flood Uncovered
 
 **Chapter 7 summary.** A storm swamps Low Quay, and the party are sent to help before they've properly
 dried out from the last one. They pull Sabine free of her flooding hovel, mistake a stranger's rescue
 of a soup kitchen's stock for looting and come out of it badly, then board the grounded ship Kestrel to
 fight off something living in its bilge. On the way back to the barracks, a fallen rafter has pinned
-Della's boy Toby to his own flooding kitchen floor, and freeing him costs Fenwick his rolling pin and
+Dela's boy Toby to his own flooding kitchen floor, and freeing him costs Fenwick his rolling pin and
 Moss the last of his strength. A warehouse theft investigation turns up not a thief but a net-hauler
 quietly stealing to fund his sister's training and repair a storm-damaged shrine — and it is the party
-who hand him over, his sister left in Della's care alongside Toby. Along the way, Anders frames an
+who hand him over, his sister left in Dela's care alongside Toby. Along the way, Anders frames an
 innocent guild member out of pure frustration. Low Quay starts to notice the party, and not kindly.
 
-[[The_Story_So_Far/Arc02_among_strangers/chapter-07-draft-The-Debts-We-Left-Behind|Read Chapter 7 — The Debts We Left Behind]]
+[[The_Story_So_Far/Arc02_among_strangers/chapter-07-draft-What-the-Flood-Uncovered|Read Chapter 7 — What the Flood Uncovered]]
