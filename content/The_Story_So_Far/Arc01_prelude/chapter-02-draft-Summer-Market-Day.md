@@ -43,7 +43,7 @@ We were still arguing about whether that counted as brave or stupid when the bel
 
 Not the ordinary bells. The wrong ones — fast, panicked, the kind that meant something rather than announced it. Someone shouted trolls, and half the market ran the wrong direction to get a better look, and we were part of that half, because we were twelve and had not yet learned better.
 
-We watched from Caspian's tree. Five adventurers went out to meet two trolls at the wood line. Old Piper told it as a ballad. It was ugly. One of the fighters got thrown clean across the clearing with his chest opened up before anyone could blink. A healer's hands lit up gold and closed it again. Someone's magic came out in sparks instead of fire, hitting a troll four times before it noticed. And then the one everyone was shouting for — Captain Vesk, sword too big for anyone sensible to carry — walked up to the second troll like he was annoyed at it, and nearly took its arm off in one motion.
+We watched from Caspian's tree. Five adventurers went out to meet two trolls at the wood line. It was ugly. Old Piper, who told tales in the tavern for coin, made a ballad of it afterward. One of the fighters got thrown clean across the clearing with his chest opened up before anyone could blink. A healer's hands lit up gold and closed it again. Someone's magic came out in sparks instead of fire, hitting a troll four times before it noticed. And then the one everyone was shouting for — Captain Vesk, sword too big for anyone sensible to carry — walked up to the second troll like he was annoyed at it, and nearly took its arm off in one motion.
 
 Caspian shot an arrow from the tree. Missed by a mile. Missed again. Got told off by name, in front of everyone, by an adult who definitely used to be a child once and had clearly forgotten it.
 
@@ -75,7 +75,7 @@ We chased him through half the market — over Moss's potato stall, past Marek, 
 
 Caspian got there first, or got there loudest — already running before he'd finished deciding to. He shoved the kid half clear and took a horse's shoulder for it, flat on his back before he'd even registered falling. Skylar went down a breath later, caught by the same wave of spooked animals, and for a second neither of them could tell which way was up.
 
-I remember the sound more than I remember deciding to run toward it. I remember Wren already moving, faster than any of us, hauling the child the rest of the way to safety while the two of them were still getting up off the ground. I remember Bram hauling on the reins of the last, worst animal like it weighed nothing, and it did not weigh nothing.
+I remember the sound more than I remember deciding to run toward it. I remember Wren already moving, faster than any of us, hauling the child the rest of the way to safety while Caspian and Skylar were still getting up off the ground. I remember Bram hauling on the reins of the last, worst animal like it weighed nothing, and it did not weigh nothing.
 
 The thief didn't get far after that. Enough adults had noticed by then that he threw the ledger down and put his hands up rather than find out what happened next.
 
@@ -107,10 +107,10 @@ It hit the side of the shed instead of the rats, and the shed — old, dry, exac
 
 Skylar went straight home and got into bed still smelling of smoke, which fooled nobody. Her brother knew. Her sister knew. Everybody's little brother, it turned out, knew everything, and most of it wasn't true — by morning the story going round blamed some other girl entirely, over a harvest-queen contest that had never happened, and everyone believed it without checking, because that's how Amble's rumours had always worked and none of us had thought to question it before.
 
-Fenwick wasn't with us either. In all the scrambling, nobody thought to check where he'd got to. Moss, Anders, and Caspian made it back to the cubby and spent an hour failing to invent a version of the night where we hadn't been there. A bear. Somebody's escaped goat. Nothing we came up with survived contact with our own parents the next morning, and none of us needed it to. Every lie held. Every single one of us got away with it completely.
+Fenwick wasn't with us either. In all the scrambling, nobody thought to check where he'd got to. Moss, Anders, and Caspian made it back to the cubby and spent an hour failing to invent a version of the night where we hadn't been there. A bear. Somebody's escaped goat. Nothing we came up with would have survived contact with our own parents the next morning, and none of it needed to. Every lie held. Every single one of us got away with it completely.
 
 We didn't know it yet, but that was the last secret we ever kept that didn't matter.
 
-Amble buried the old cart shed's ashes the way it buried most things that summer — quietly, and quickly, and without asking too many questions it didn't want the answers to. Moss started learning the woods properly that season. Skylar went looking for someone who could teach her more than a cantrip. Fenwick kept training with Bram, since Marek forgot his name every single time he passed through, and never once let that stop him asking again.
+Amble buried the old cart shed's ashes the way it buried most things that summer — quietly, and quickly, and without asking too many questions it didn't want the answers to. Moss started learning the woods properly that season. Skylar went looking for someone who could teach her more than a cantrip. Fenwick kept training with Bram, since Marek forgot his name every single time he passed through — and Fenwick never once let that stop him asking again.
 
 We were still twelve. We wouldn't be for very much longer.

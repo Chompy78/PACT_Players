@@ -31,7 +31,7 @@ The bartender laughed at him from across the room without even looking up. *You'
 
 He drank the tea, and complained that it tasted like plants, and Moss said that was the point, and Bram went on coughing into it in the corner in a way that was, at the time, only funny.
 
-Wren finished her breakfast and said Mother Yela hadn't been up yet. She'd stayed at the shrine the night before, same as most nights, and when she woke there'd been no sign of her, and the fire had gone out — which was the part that bothered her, because Wren had put a log on it herself that morning. She said it the way you say a thing you've already decided isn't important. *Probably should go back and check. Maybe after breakfast.*
+Wren finished her breakfast and said Mother Yela hadn't been up yet. Wren had stayed at the shrine the night before, same as most nights, and when she woke there'd been no sign of Mother Yela, and the fire had gone out — which was the part that bothered her, because Wren had put a log on it herself before she'd gone to sleep. She said it the way you say a thing you've already decided isn't important. *Probably should go back and check. Maybe after breakfast.*
 
 Moss said she should definitely check. So she went, and Moss went with her, and then Fenwick went, and then Bram hauled himself up coughing to come too on the theory that Mother Yela might have better tea. Then Anders, because Anders was always going wherever the rest of us went, and by the time anyone counted, everyone was standing up.
 
@@ -101,7 +101,7 @@ Fenwick suggested beer. He was told he didn't need beer.
 
 Here is a thing about being sixteen that I did not understand until much later. You can be told that people are dying, and hear it, and repeat it accurately to another person, and still not have it touch you at all.
 
-Back at the inn we caught the tail of a conversation at the next table: somebody's cousin had ridden in a few days back looking white-faced and wrong. And the sickness out on the farms, which we'd been half-hearing about for a week, turned out to have killed people. Actual people, some of them already dead.
+Back at the inn we caught the tail of a conversation at the next table: somebody's cousin had ridden in a few days back looking white-faced and wrong. And the sickness out on the farms, which we'd been half-hearing about for a week, turned out to be killing people. Actual people, some of them already dead.
 
 Moss said that didn't sound good. And then, because it was still bitterly cold outside and there was still a fire and we were still sixteen, we spent the next hour trying to steal Archer an ale.
 
@@ -157,7 +157,7 @@ Marek said the nearest one was probably in the main city, weeks away on winter r
 
 And then Old Piper started up in the corner.
 
-Old Piper was the blind man who told tall tales in the tavern for coin, and every one of them was rubbish, and everyone knew it, and everyone bought him a drink anyway. He'd been telling the same stories since we were eight. That night he had opinions about Grey Fever, and he shared all of them: that it came around every few decades and took thousands; that it had come from the dwarves after some ancient business nobody could name; that the only cure was a royal ale served exclusively to the dwarven king. Fenwick pointed out that we'd never once believed a word out of this man's mouth, and Anders said it was frankly humiliating that a random drunk in a pub knew more about the pearl than the actual healer did.
+Old Piper was the blind man who told tall tales in the tavern for coin, and every one of them was rubbish, and everyone knew it, and everyone bought him a drink anyway. He'd been telling the same stories since we were eight. That night he had opinions about Grey Fever, and he shared all of them: that it came around every few decades and took thousands; that it had come from the dwarves after some ancient business nobody could name; that the only cure was a royal ale served exclusively to the dwarven king. Fenwick pointed out that we'd never once believed a word out of this man's mouth, and Anders said it was frankly humiliating that a random drunk in a pub knew more about Grey Fever than the actual healer did.
 
 Somewhere in the middle of all that nonsense, Old Piper also said that if you ever got hold of a Silver Drop, you didn't need to give it to anyone. You threw it down a well. It would clean the water, and the water would do the rest.
 
@@ -179,7 +179,7 @@ That morning another dozen people were down with it. One of them was Fenwick's m
 
 We searched Old Corr's house because it was the only thing left that resembled a plan. His books were the books of a village healer — bones, births, fevers, the ordinary catastrophes — and there was nothing in them about a plague that turns people into dust, because why would there be. Anders took some herbs and then spent several minutes clarifying, to nobody in particular, that this was not robbing.
 
-We went back to the tavern and worked the room instead. The barkeep remembered the ashen rider: came in a day or two after Marek and Thale did, ate a meal, sat with nobody, left. Riders usually do. We asked Marek where he was headed and he said the city, and Moss said *you're always headed to the city, aren't you*, and Marek said he was a procurer, which is a word that means nothing and is meant to.
+We went back to the tavern and worked the room instead. The barkeep remembered the ashen rider: came in a day or two after Marek and Thale did, ate a meal, sat with nobody, left. Riders usually do. We asked Marek where he himself was headed and he said the city, and Moss said *you're always headed to the city, aren't you*, and Marek said he was a procurer, which is a word that means nothing and is meant to.
 
 We watched him and Thale arguing about something across the room. Twice.
 
@@ -203,7 +203,7 @@ I have thought a great deal since about how quiet all of us went, and how briefl
 
 Everything after that happened in about four minutes, and I can only give it to you in pieces. Moss took the pearl and ran for Nell's house, because Nell was the only one of us who'd know what to do with it. Anders stayed at the cubby with the empty box, being loud, being obvious, being a decoy. Neither of those plans survived contact with two grown men who had been robbed.
 
-Marek and Thale came after us. They were not remotely slow, and they were not remotely amateur, and Thale started casting.
+Marek and Thale came after us. They were not remotely slow, and they were not remotely amateur, and Thale started casting — and Moss stopped mid-stride as though the snow itself had closed around his legs.
 
 Brambleback went for Thale while Moss was still held, because that is what Brambleback does and has always done, and Thale put a dagger into him without breaking stride and the goat went down in the snow. I want to say plainly that we all thought that was the end of him. It wasn't — Moss called him back, later, the way he always could, and Brambleback has been aggressively present at every disaster since. But for about a minute in the dark none of us knew that, and Moss made a sound I have not heard from him before or since.
 
@@ -223,7 +223,7 @@ Then he told us it would only last a day, and went jogging after Thale — and F
 
 * * *
 
-There is no clean way to tell this next part, so I'll just tell it. They ran the water. All of them, back and forth from the well in the dark and the snow with buckets and pots and whatever would hold it, to the inn first where most of the sick had been gathered, and then out to the houses. Fenwick got to his own front door and found his mother alive when he'd already privately buried her, and said *hey Mum* in a voice that I am told did not sound like his. Moss went for his family. There was a list, and everyone had one, and everybody's list had an order to it that nobody discussed then or afterwards.
+There is no clean way to tell this next part, so I'll just tell it. We ran the water. All of us, back and forth from the well in the dark and the snow with buckets and pots and whatever would hold it, to the inn first where most of the sick had been gathered, and then out to the houses. Fenwick got to his own front door and found his mother alive when he'd already privately buried her, and said *hey Mum* in a voice that I am told did not sound like his. Moss went for his family. There was a list, and everyone had one, and everybody's list had an order to it that nobody discussed then or afterwards.
 
 The water worked, and it saved the village. Whatever else is true about that night, that is true: Amble is still there because a drunk told a story and a sixteen-year-old halfling did something stupid with it.
 
@@ -235,7 +235,7 @@ By morning most of the village was going to live.
 
 * * *
 
-They came for us that evening, and we knew they would, and we spent the last free hours of our lives sitting up in the cubby arguing about it. Anders wanted to run. Leave Amble, that night, all of us. He was talked out of it by the observation that six teenagers with no supplies would last about a day and a half in that weather. Then he suggested poisoning Thale with the jar of plague dust he had somehow still not been talked out of collecting, and after that he suggested charging the guild twenty thousand gold for the privilege of drinking out of our well, and it was Moss, in the end, who said we should just explain ourselves. Which was, he pointed out, easier.
+They would come for us that evening, and we knew it, and we spent that evening — the last free hours of our lives — sitting up in the cubby arguing about it. Anders wanted to run. Leave Amble, that night, all of us. He was talked out of it by the observation that six teenagers with no supplies would last about a day and a half in that weather. Then he suggested poisoning Thale with plague dust, assuming anyone could actually get their hands on any, and after that he suggested charging the guild twenty thousand gold for the privilege of drinking out of our well, and it was Moss, in the end, who said we should just explain ourselves. Which was, he pointed out, easier.
 
 We already knew what was coming. Anders said it out loud: *the guild's going to want recompense for what we did.* And then: *how are we going to pay them back?* And then, into the dark, the thing that decided the next seven years of all our lives — *we could offer to work for them.*
 

@@ -27,7 +27,7 @@ We found Wren at the bridge. One of the bridges. Amble had three, by her count, 
 
 Skylar went up first. Girl talk, she called it. That meant the rest of us stood back and pretended not to listen.
 
-It didn't take long. Wren had borrowed the charm to draw it. Just for five minutes, she said, which by her own account had turned into a whole morning. Wren drew everything. She had a sketchbook on her somewhere at all times, and Bram never let her hold the charm if she asked properly.
+It didn't take long. Wren had borrowed the charm to draw it. Just for five minutes, she said, which by her own account had turned into a whole morning. Wren drew everything. She had a sketchbook on her somewhere at all times, and Bram never let her hold the charm even if she asked properly.
 
 She'd lost it out past the old shrine, near the wood line. She'd been sitting there drawing when she should have been looking at something else. A dead sheep, not fifty feet away. Throat torn open, only half of it eaten. Nothing eats like that. Not wolves.
 

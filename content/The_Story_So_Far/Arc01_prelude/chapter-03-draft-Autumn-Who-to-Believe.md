@@ -7,7 +7,7 @@ draft: false
 
 We were still twelve. We wouldn't be for very much longer.
 
-That was how we left it last time, half a joke and half a warning, and two years took the joke out of it — real apprenticeships this time, not the pretend kind. Competent, barely, and not yet named, which felt less like an achievement and more like being handed a chore nobody had explained properly. Wren ran the cubby house like she owned it, because as far as any of us could tell, she did, with Mother Yela's harsh-but-mostly-absent blessing. Fenwick and Archer weren't with us that autumn — apprenticeships pull in different directions, and there were whole weeks by then when the group was whoever happened to be free. None of us thought of it as anyone leaving. It only looks that way from here.
+That was how we left it last time, half a joke and half a warning, and two years took the joke out of it — real apprenticeships this time, not the pretend kind. Competent, barely, and not yet named as anyone's apprentice, which felt less like an achievement and more like being handed a chore nobody had explained properly. Wren ran the cubby house like she owned it, because as far as any of us could tell, she did, with Mother Yela's harsh-but-mostly-absent blessing. Fenwick and Archer weren't with us that autumn — apprenticeships pull in different directions, and there were whole weeks by then when the group was whoever happened to be free. None of us thought of it as anyone leaving. It only looks that way from here.
 
 Bram — never one of us, exactly, but never quite not, either — grew into the size his father had always seemed to be daring him toward, and got quieter as he grew. Being loud had stopped working for him somewhere along the line. And sometimes, if you were out past the tree line at the right hour, you'd catch the fey creature we'd saved back when we were eight — bigger now, bolder, in no particular hurry to bolt at the sight of us. It had stopped being afraid of us before we'd stopped being afraid of most things. None of us thought much about what that meant. Not yet.
 
@@ -33,7 +33,7 @@ She also found a burial token. Old Martha's, specifically — buried with her no
 
 * * *
 
-Back at the cubby, the sketchbook did more work than any of us had managed on our own. Caspian read the ground outside it — kid-sized footprints, a dog's, nothing adult, nothing that explained why she'd have dropped her things at the tree line and walked on. Anders pressed his face to Councilman Pike's window and established that Councilman Pike was at home, making lunch. Moss got as far as the sandwiches.
+Back at the cubby, the sketchbook did more work than any of us had managed on our own. Caspian read the ground outside the cubby — kid-sized footprints, a dog's, nothing adult, nothing that explained why she'd have dropped her things at the tree line and walked on. Anders pressed his face to Councilman Pike's window and established that Councilman Pike was at home, making lunch. Moss got as far as making sandwiches.
 
 The second sketchbook was the one that mattered. Mother Yela handed it over when Skylar and Caspian passed by again — the larger one, the one Wren carried less often, for more careful drawings — and what was in it made the back of our necks go cold: a page of four faces, drawn with more care than any of them probably deserved. Bram. Councilman Pike. Rennick the miller. Halloway the tanner. The four people in Amble who'd made Wren's life hardest. Behind it, a page torn out — more violently than Wren ever tore anything.
 
@@ -67,7 +67,7 @@ They followed him at a careful distance and watched him vanish into the tannery.
 
 They knew that shed. Everyone their age knew it. It was one of the places you played when you were nine and wanted a roof no adult had a claim on.
 
-Bram stayed on the road to watch it. Getting near the shed took Anders and Skylar three quarters of an hour — the dogs started up whenever anyone came within a certain distance of the wall, so they went in, and backed off, and waited, and went in again, until at last they came up on it and nothing barked at all. They covered the last of it on their stomachs through wet leaves.
+Bram stayed on the road to keep watch. Getting near the shed took Anders and Skylar three quarters of an hour — the dogs started up whenever anyone came within a certain distance of the wall, so they went in, and backed off, and waited, and went in again, until at last they came up on it and nothing barked at all. They covered the last of it on their stomachs through wet leaves.
 
 The shed had been worked on. New timber in places, and none of the sag either of them remembered. Skylar got to the window first and saw nothing whatsoever through it, because the inside was dark and she had ordinary eyes.
 
@@ -97,9 +97,9 @@ We got there just after six, dusk properly settling in, to find Bram already dow
 
 Bram didn't make a sound when the blade caught him. He just went down, and got back up anyway, which told us more about him in that half-second than six years of watching what his father did to him ever had.
 
-It went badly for a while, in the particular way these things do when everyone arrives out of breath and out of order. There were two dogs, at first — we're sure of that much, even if none of us ever agreed afterward on exactly what happened to the second one. It came out of the treeline at the edge of the light so fast that by the time any of us properly registered it, it already had the dog by the scruff and was gone again, back into the dark, the two of them snarling and scrabbling into the woods together like neither had ever been there at all. Bigger now than the thing we'd carried home at eight. Steadier with it, too. It didn't fight the man in hide armour. It didn't fight Halloway. This was never its fight, not really — it just paid what it owed and left.
+It went badly for a while, in the particular way these things do when everyone arrives out of breath and out of order. There were two dogs, at first — we're sure of that much, even if none of us ever agreed afterward on exactly what happened to the second one. Something came out of the treeline at the edge of the light so fast that by the time any of us properly registered it, it already had the dog by the scruff and was gone again, back into the dark, the two of them snarling and scrabbling into the woods together like neither had ever been there at all. Bigger now than the thing we'd carried home at eight. Steadier with it, too. It didn't fight the man in hide armour. It didn't fight Halloway. This was never its fight, not really — it just paid what it owed and left.
 
-Anders slipped around the back to reach Wren while the stranger and the one dog left kept the rest of us busy. Caspian put the dog down first — good, clean, over fast. Brambleback went down not long after, caught wrong by the same dog before it fell, and for one genuinely awful second the joke about goat curry for dinner didn't feel like a joke at all.
+Anders slipped around the back to reach Wren while the stranger and the one remaining dog kept the rest of us busy. Caspian put the dog down first — good, clean, over fast. Brambleback went down not long after, caught wrong by the same dog before it fell, and for one genuinely awful second a joke about goat curry for dinner didn't feel like a joke at all.
 
 Halloway panicked. He grabbed a torch and set to burning the pages he'd torn out of her book and kept as insurance against exactly this — Wren's evidence, going up in smoke in front of us — until Caspian got to it and stamped it out underfoot, singed but legible, seconds before it would have been ash.
 
@@ -113,7 +113,7 @@ The creature had held still for a moment before it went. Right at the edge of th
 
 ![[chapter-03-fey-creature-lime-pits-ignoremd.jpeg|The fey creature, at the edge of the light|750]]
 
-We found the body in the back of his wagon almost by accident, looking for rope to tie him with. Recently dead — days, not weeks — nobody any of us recognised. Nobody said much about it out loud. There wasn't a joke big enough to cover that one, and for the first time all day, nobody tried to find one.
+We found the body in the back of Halloway's wagon almost by accident, looking for rope to tie him with. Recently dead — days, not weeks — nobody any of us recognised. Nobody said much about it out loud. There wasn't a joke big enough to cover that one, and for the first time all day, nobody tried to find one.
 
 * * *
 
@@ -123,7 +123,7 @@ Old Corr healed us as he always had, moving from one to the next with the same u
 
 Bram's cheek didn't close clean, even under Old Corr's hands — a mark he'd carry from now on. The rest of us carried something out of that day too. His would just happen to show.
 
-Some of the adults scolded us for not asking for help sooner. We'd heard that particular tune before and knew all the words. Skylar gave the questioner a look that needed no translation. Marek, of everyone, was the one who actually nodded at us afterward and said, "Well done" — gruffly, like the words cost him something, immediately undercut by how rude he'd been about everything else all day. We told him so. He filed it away for later. He seemed to file everything away for later. Bram lingered near him a moment longer than the rest of us did before heading home. None of us thought anything of it at the time.
+Some of the adults scolded us for not asking for help sooner. We'd heard that particular tune before and knew all the words. Skylar gave them a look that needed no translation. Marek, of everyone, was the one who actually nodded at us afterward and said, "Well done" — gruffly, like the words cost him something, immediately undercut by how rude he'd been about everything else all day. We told him so. He filed it away for later. He seemed to file everything away for later. Bram lingered near him a moment longer than the rest of us did before heading home. None of us thought anything of it at the time.
 
 The council sent Halloway off to a larger town for proper sentencing, once the ledger and the body made the matter impossible to argue with. Nobody ever caught the man in hide armour, or his dogs. Nobody ever explained how Old Martha's burial token had ended up in a dead girl's — a missing girl's, we mean, Wren was very much alive, we're not sure why that's the mistake our minds keep wanting to make — how it had ended up in Wren's collection at all, three months after it should have gone into the ground with her. We asked. Nobody had an answer that held together. We stopped asking, eventually, the way you stop pulling at a thread once you're afraid of what unravels.
 
