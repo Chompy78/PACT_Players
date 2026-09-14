@@ -127,6 +127,8 @@ I try, Moss said. He does try, and he is a nice person. I didn't know yet how mu
 
 Fenwick, there for the delivery, asked whether the household ever had old cooking things to part with — pans, utensils, anything past mending. Cass refused him on the spot. Cass did the serving in that house, and, we'd learn, the worrying too: they were a cookhouse, Cass said, they used their things — and had Dela been giving out free food again? The bowls were empty, which proved nothing, though Cass plainly thought it proved something. Dela made Fenwick a smaller promise instead: anything that broke, she'd set aside for him, if it couldn't be mended first — there was someone in the house with a handy little mending spell, and even her kindness came with a catch built in. She took our parcel into the back and came out with the token, then called after us as we left that a bit of table service would cover a meal if we were ever hungry and short of coin, and that a bowl was only two coppers anyway with the guild discount. Even Cass allowed that was fair. Discount for more than one, Dela added. Cass shut the door on it.
 
+![[chapter-05-two-coppers-a-bowl-ignoremd.png|Dela's cookshop, and a dog with nowhere else to be|750]]
+
 The Ropewalks were next, and the Ropewalks picked our pockets.
 
 It was children — a crowd of them, out of the lanes and around us before we'd finished being charmed by it. Skylar, who notices everything, noticed nothing, twice, which we would never have let her forget if the day had stayed the kind of day you joke about. One of them had her purse away clean. The rest mobbed us for coppers with their hands out, and by the time Fenwick had been grabbed and released and Moss had walked twenty yards with an entire child attached to his leg, Moss's purse was gone as well — a gold or so of Skylar's, about the same of his, everything either of them had drawn down. Then, on some signal we never caught, they were gone, all but one, who turned at the corner and shouted back that the place we were looking for was just down that street — which it was. Thanks for the tip, miss! We'd been robbed by the most helpful guides we'd had all day. Fenwick found that harder to forgive than the purses.
@@ -156,6 +158,8 @@ She'd taken a loan from the guild for the frame, she said, when her last one was
 I've still got my hands, she said.
 
 She showed us her hands.
+
+![[chapter-05-ive-still-got-my-hands-ignoremd.png|I've still got my hands, she said|750]]
 
 She meant it for comfort. That is the part I have never got out from under — she held up two hands going stiff at every knuckle, fingers that no longer fully answered, forty years of net-mending written into every joint, and she offered them to us as the good news, and Moss, who knows hands, who was an herbalist's whole apprenticeship by then, looked at them and said nothing at all. He told her instead that we'd be careful with the frame — extra careful, all the way back — so that the option was always there. She smiled at him properly then.
 
@@ -218,6 +222,8 @@ Fenwick was on his knees by the first boy with the healer's kit open before the 
 Fenwick went through their pockets anyway. Five coppers, between the two of them. The first boy was still holding his club.
 
 Five coppers, and the clubs.
+
+![[chapter-05-the-crate-he-could-not-set-down-ignoremd.png|Nowhere left in that lane to set it down clean|750]]
 
 * * *
 
@@ -292,6 +298,8 @@ Ordis had put three years into being nobody in that guild, on purpose, with the 
 Just one dance, she said. And the pause after it did the persuading.
 
 Moss is not a dancer. He stepped on her feet, and on the feet of everyone within range, and at one point nearly went over entirely, taking half a line of strangers with him, and Ordis watched all of it with the expression of a woman confirming a measurement she had already taken. She didn't laugh at him. She didn't spare him either. One dance — that had been the whole of the ask — and when it ended she went back to the edges, back to the place she'd spent three quiet years learning to disappear into, and that was all. I knew even then not to call it sweet.
+
+![[chapter-05-one-dance-ignoremd.png|Just one dance|750]]
 
 The field's own verdict on Moss, meanwhile, formed in real time around his dancing, and it was the only verdict that could have done him any good: not a monster. An oaf. A big, luckless, foot-flattening oaf whose terrifying goat lay in the grass all evening bothering nobody. You could see the town deciding it, and you could see it reach him, and it did more for him than anything any of us had managed all week — a slight repair, as Skylar put it on the walk home, to the reputation that comes with painting cobblestones.
 

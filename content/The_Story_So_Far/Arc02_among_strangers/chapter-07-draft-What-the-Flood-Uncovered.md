@@ -41,6 +41,8 @@ Inside, in flashes of lightning, Moss found Sabine tangled in her own nets, the 
 
 Her home was ruined behind her — nets and floor and the small good order of a life all under water now — but she was breathing, and they walked her to somewhere dry.
 
+![[chapter-07-thread-by-thread-ignoremd.png|Thread by thread, out of her own nets|750]]
+
 * * *
 
 We found the next trouble a few streets on, at a converted net shed the locals called the Long Table, where a soup kitchen fed whoever Low Quay couldn't otherwise feed. Figures moved in and out of it in the dark, hauling sacks and crates, and someone inside shouted for everyone to grab what they could and not worry about the rest.
@@ -95,9 +97,13 @@ The man's name was Halder Kest, and he shook Caspian's hand afterward like he me
 
 We went back to help finish the main wall once Halder's house was secure, Moss himself again by then, tired down to the bone. It was there that Moss, hauling a sandbag too heavy for one person at the wall's furthest dark end, away from the lanterns and the shouting, found Ordis beside him — soaked through, working without a word to anyone, the way she always seemed to be doing the hardest job in the quietest corner of any night this town had. Neither of them said anything for the length of three or four bags. Then, low enough that it barely carried past the two of them, Ordis said: "Don't shout my name. Just pull." He didn't. When the wall held and the others had already moved on ahead, out of earshot, she looked at him for a moment too long to be nothing. "…You're alright, you know that?" And then she was already moving toward the next rope, gone before either of them had to decide what to do with it.
 
+![[chapter-07-just-pull-ignoremd.png|Don't shout my name. Just pull.|750]]
+
 We didn't see her again that night. Moss didn't mention her, and none of us asked. Some things you let stay exactly as private as they were handed to you.
 
 Exhausted, aching, half-drowned ourselves, we started back toward the barracks — and walked, out of nothing but tired habit, straight past Brant's cookshop, where Dela ran her kitchen with Toby at her side. He wasn't her son by blood — nobody's, as far as any of us had ever heard, just a boy she'd taken in years back and never once made feel like a debt — but he worked that kitchen like the place belonged to him twice over, which, in every way that mattered, it did. A scream reached us before we'd even registered the broken roofline above it. Inside, a fallen rafter had come down across Toby's arm, pinning him to the floor while Dela hauled uselessly at a beam far heavier than she was, and somewhere in the black water pooling around him something had gotten to his skin as well — he was screaming from two different kinds of pain by the time we got there, and it took Fenwick's own rolling pin, wedged in as a lever, and every ounce of strength Moss had left in him, to shift the beam enough to drag Toby clear.
+
+![[chapter-07-the-beam-ignoremd.png|Every ounce of strength Moss had left|750]]
 
 Dela barely thanked us before she'd loaded him onto a cart and was gone into the dark toward the guild medic, promising free meals for a month over her shoulder as she went. We didn't hold her to it. We didn't need to. We fell into our own cots not long after, half of the others already there and unconscious before we'd even got our boots off, and slept the kind of sleep that doesn't dream because it doesn't have room to.
 
@@ -153,6 +159,8 @@ Jory woke to a stranger's weight coming through his door and did the only thing 
 
 It took a stolen blanket thrown over Nessa to finally still her, sobbing, on the floor. It took Jory seeing his sister subdued and his own wrists bound to finally stop fighting and simply ask, in a voice gone flat with exhaustion, who we even were.
 
+![[chapter-07-who-we-even-were-ignoremd.png|Who we even were|750]]
+
 "Why did you take the gold?" Anders asked him, once there was room in the noise for a question at all.
 
 Jory didn't argue, and didn't lie either. He'd taken it — the coin, the nails, the pitch, the oil, all of it — to pay for the shrine's repairs and, quietly, for whatever kept his sister fed and safe while he worked himself half to death doing right by a town that had never once done the same for him. He signed a confession Anders wrote out on the spot, in a house that still smelled of fear, with his sister crying somewhere behind him and a crowd of his own neighbours outside already calling us guild thugs through the door.
@@ -170,6 +178,8 @@ That same day, at his own leisure, Anders finally opened the fine little crate h
 Jory stood before a guild hearing a few days later, charged with theft against the very people whose gold had paid to keep his sister fed. The costs assigned against him ran to a small fortune once fees and interest were added, though the hearing did grant one grim mercy — a partial forgiveness, in recognition of the excessive violence the guild's own people had used arresting him. It wasn't enough to clear the debt outright. He was indentured within the week, the same as the rest of us already were, and asked for the whole of what remained of his new debt to go toward his sister's care. Nessa, with no other guardian and nowhere else to go, became a ward of Dela's household that same afternoon — the same household already holding Toby, taken in the same way, years before, for reasons nobody had ever needed to write down. Dela's kitchen had a way of collecting people the town had nowhere else to put. Now it held two more, and both of them there because of what we'd done to their family.
 
 Dela still spoke to us afterward. She was still, in her own tired way, thankful we'd been there that night. But something in her had gone quietly war-weary around us that hadn't been there before — no more free meals slipped across the counter without being asked, no more warmth in it that didn't have to be earned twice over now. We noticed. We didn't ask her to explain it. We already knew.
+
+![[chapter-07-twice-over-ignoremd.png|Twice over, and no bowl came unasked|750]]
 
 Our own reviews, when they came, didn't spare us either — new marks entered quietly against each of our names, the kind that follow a person's file rather than a single evening. We had, technically, saved sailors and a boy's arm and a family of eight, and none of it weighed as much on the guild's own ledger as one girl's scream through a door we shouldn't have forced.
 

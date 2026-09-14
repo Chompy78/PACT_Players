@@ -29,6 +29,8 @@ Ordis had crossed a field for him once, back at the dance, in front of the whole
 
 Once, coming back from wherever they'd been, we saw her straighten his collar where it had gone crooked, quick and businesslike, as if it were a habit she'd fallen into without ever deciding to. Moss didn't say anything about it either. He just smiled the rest of the way back — the private kind he doesn't usually let anyone catch him at. This time somebody did.
 
+![[chapter-06-the-collar-ignoremd.png|A collar straightened, quick and businesslike|750]]
+
 Skylar went sketching, as she always did when she had an hour and nowhere she had to be. Wren went with her — had been going with her most weeks since Stoneharbour, a quieter presence than either of them let on, sitting close enough to see the page and saying almost nothing while Skylar worked. Wren was the one who found the good spots, more often than not — a gap between two warehouses that caught the evening light just right, a low wall above the tideline where you could watch the boats come in without anybody bothering you. She never explained how she knew where to look for them. She just always seemed to. She'd chosen this the same as the rest of us had — the guild admin work, the un-branded freedom that came with it — and it still meant something, most weeks, that of everyone she could have spent an hour with, she spent it with Skylar.
 
 * * *
@@ -53,6 +55,8 @@ It hadn't been a problem before — dockhands had always come and gone through s
 
 Skylar tried to talk her way through first, walking straight at the line as she did most things, telling them plainly she wasn't the one they should be angry at. *"No further, missy,"* someone told her, and meant it, and she found out how much a hundred people meant it when she tried anyway and simply couldn't move. Caspian went with her, both of them shoving, both of them shoved back twice as hard, and the two of them gave it up rather than come to real blows with people who had done nothing to deserve them. She tried once more later, with a borrowed face instead of brute force, and got no further for it — the line knew its own, however they were dressed, and turned her away a second time without ever letting on how they'd known.
 
+![[chapter-06-no-further-missy-ignoremd.png|No further, missy|750]]
+
 Anders went a different way. He found the man who seemed to be leading the line and talked at him with the relentless good cheer of someone convinced that any problem could be solved if you were simply willing enough to keep talking, offering himself as a legal representative to a man who wanted nothing from him but to leave. It earned him a tomato in the ear for his trouble, thrown with real accuracy, and a great deal more laughter from the soldiers watching from behind the crowd, who found the whole business considerably funnier than either side actually walking it out did.
 
 Fenwick and Anders tried going over instead of through, and Fenwick paid for it. Three of the line's angrier men caught him on the rise, dragged him toward the water and half under before he broke free — going into the harbour rather than staying in their hands, which by the standards of that morning counted as the better outcome. He climbed out on the guarded side soaking and furious and, from what we could tell shouting up at us from below, entirely unheard.
@@ -60,6 +64,8 @@ Fenwick and Anders tried going over instead of through, and Fenwick paid for it.
 It was watching that happen — watching Fenwick actually taken, actually hurt, by people whose only crime was wanting to be paid — that put Moss over the edge of patience he hadn't known he had. He went at the line himself after that, straight on, no negotiation in him at all, and the line held. A blow from somewhere he never saw caught him hard across the leg. Three of the biggest men on the picket, men who had done this work with their hands their whole lives and looked it, planted themselves in front of him and simply would not move. For one uncertain stretch it looked as though he wouldn't get through at all — Caspian pushing at his back the whole time and neither of them making any ground — and then, somehow, between one shove and the next, he did, and was gone from the crowd's edge before we'd properly registered he'd left it.
 
 We got through in the end, all of us, one way or another, the way we mostly did. It wasn't the guards who let us — it was the guards who *made* us, shoving a path clear for the day's other new workers and pulling us through in the gap they made, which felt like the smallest possible mercy and probably was. We didn't feel like winners walking through. We felt like the reason a hundred people were angrier than they'd been that morning.
+
+![[chapter-06-the-line-we-crossed-ignoremd.png|The line they crossed, not the line they beat|750]]
 
 * * *
 
@@ -100,6 +106,8 @@ The rest of the guard shift passed without incident, which by then felt less lik
 It was around then that we noticed Sena had gone quiet in a different way than usual — grumpier, shorter with everyone, the kind of tired that sits behind the eyes rather than in the shoulders. Nobody thought much of it at the time. There wasn't much room left that week for thinking about anyone but ourselves.
 
 One morning, not long after, her bunk was simply empty. Nobody in the barracks said where she'd gone, or whether *gone* was even the right word for it, and none of us thought to ask before it was too late to matter. We found out, piecing it together the way you do after the fact, that she'd refused to cross the line herself — refused to be what we'd been, that whole strike — and that refusing had cost her whatever was left of the year she had before her contract ended. We never saw her again. I still think of that bunk sometimes — made, and empty, before any of us were awake enough to notice it happening.
+
+![[chapter-06-the-made-bunk-ignoremd.png|A bunk made before anyone else was awake|750]]
 
 We didn't talk about it much, afterward. There wasn't a version of the conversation that didn't end with someone pointing out that we'd done exactly what she wouldn't, and gotten paid for it. Nobody was ready to hear that out loud yet. Some of us still aren't.
 
