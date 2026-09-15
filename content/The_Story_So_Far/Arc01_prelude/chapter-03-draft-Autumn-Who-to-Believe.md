@@ -79,6 +79,8 @@ Then the light reached the shelf. Jars of chemicals, a whole row of them, every 
 
 The floor was scored with cart ruts. Fresh ones, and far too many of them for a shed nobody used.
 
+![[chapter-03-light-reaches-shelf-ignoremd.png|Then the light reached the shelf|750]]
+
 The charcoal was the last thing they found. A small pack of sketching sticks, drawn all over in Wren's own careless hand, with her name on it, claiming it.
 
 Neither of them said much on the walk back down. There wasn't much to say that wouldn't have made it worse.
@@ -92,6 +94,8 @@ He would say "well done" to us before the day was over. None of us had forgotten
 Caspian and Moss were already back at the cubby, empty-handed and footsore, by the time the others made it in from the tannery — which meant it took a good ten minutes of everyone talking over everyone else before anyone thought to ask what Caspian had seen on the road home. The cart again. The tanner's, definitely, but not the tanner driving it — the stranger had the reins, dogs trotting alongside, Halloway beside him, headed back out along the road that forked toward the lime pits. Gone four in the afternoon by then, autumn light already starting to lean long and gold across the fields. None of us needed telling twice.
 
 Bram didn't wait for a plan. He saw a farmhorse in a paddock we were passing, vaulted onto it with more determination than skill, and went thundering off down the road bareback, half falling off it twice in the first hundred feet and refusing, out of sheer stubbornness, to actually fall. The rest of us ran. We ran until our lungs burned and our legs stopped feeling like they belonged to us, and Moss's goat, Brambleback, trotted along beside him gamely enough for a creature that had no earthly reason to be involved in any of this.
+
+![[chapter-03-bram-doesnt-wait-ignoremd.png|Bram didn't wait for a plan|750]]
 
 We got there just after six, dusk properly settling in, to find Bram already down in the dirt with a fresh gash laid open across his face, and Wren — tied, gagged, very much alive — bound to the side of the old lime-pit shed.
 

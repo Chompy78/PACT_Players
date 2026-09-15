@@ -163,6 +163,8 @@ Somewhere in the middle of all that nonsense, Old Piper also said that if you ev
 
 We laughed at that too. We laughed at all of it.
 
+![[chapter-04-old-pipers-tall-tale-ignoremd.png|Old Piper's tale about a well|750]]
+
 * * *
 
 Old Corr died the next morning.
@@ -326,6 +328,8 @@ The road out of Amble goes up before it goes anywhere, and there is a point near
 Every one of us turned around.
 
 Old Marn was standing at the treeline, well back from everybody. He was the only man in Amble who had ever worn the guild's coin. None of us knew that until that morning, and none of us has been able to forget it since. He lifted one hand. That was all. When we looked again he was gone.
+
+![[chapter-04-old-marn-treeline-ignoremd.png|Old Marn at the treeline|750]]
 
 Then Skylar started walking again, and the rest of us followed her, the way we always had, and the snow came down and filled in the prints behind us before we'd got a hundred yards.
 
