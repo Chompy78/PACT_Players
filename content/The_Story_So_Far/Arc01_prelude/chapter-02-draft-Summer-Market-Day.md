@@ -39,6 +39,8 @@ Marek had a table, a ledger, and a line of applicants who didn't look like the s
 
 Then a boy not much older than us signed his name on a page that glowed faintly, bared his shoulder, and let Marek press something into it that left a mark none of us had the nerve to ask about. He looked taller walking away than he had walking up.
 
+![[chapter-02-iron-coin-first-seen-ignoremd.png|A boy signs his name, and is branded|750]]
+
 We were still arguing about whether that counted as brave or stupid when the bells started.
 
 Not the ordinary bells. The wrong ones — fast, panicked, the kind that meant something rather than announced it. Someone shouted trolls, and half the market ran the wrong direction to get a better look, and we were part of that half, because we were twelve and had not yet learned better.
@@ -78,6 +80,8 @@ Caspian got there first, or got there loudest — already running before he'd fi
 I remember the sound more than I remember deciding to run toward it. I remember Wren already moving, faster than any of us, hauling the child the rest of the way to safety while Caspian and Skylar were still getting up off the ground. I remember Bram hauling on the reins of the last, worst animal like it weighed nothing, and it did not weigh nothing.
 
 The thief didn't get far after that. Enough adults had noticed by then that he threw the ledger down and put his hands up rather than find out what happened next.
+
+![[chapter-02-into-the-horses-ignoremd.png|Into the horses, to reach the child first|750]]
 
 Wren got sweets bought for her by three different relieved strangers before the afternoon was out. Caspian and Skylar both came away scraped and bruised, each with a story they'd tell forever, and neither of them minded much which one they'd got.
 
