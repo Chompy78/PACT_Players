@@ -44,11 +44,18 @@ something serious or seeing how you react.
 >
 > | | |
 > |---|---|
-> | A charm — a small useful thing that works | **about 250 GP** |
-> | A ring, a lamp, something with a real effect | **about 600 GP** |
-> | **A +1 weapon or armour** | **about 1,900 GP** |
+> | A pot that boils on a word, a lamp that lights itself | **under 100 GP** — a luxury, not a legend |
+> | A lamp that has not needed oil in eleven years | **150–250 GP** |
+> | A working tool: rope that will not fray, a saw that will not blunt | **350–600 GP** |
+> | Boots that do not tire you, a cloak that sheds rain and smoke, a bag that holds more than it should | **700–1,400 GP** |
+> | **A +1 Cloak of Protection, a +1 shield — anything that makes you harder to hurt** | **about 1,900 GP, the same as a +1 sword** |
+> | **A +1 weapon** | **about 1,900 GP** |
 > | **A +2** | **about 4,250 GP** |
 > | **A +3** | **about 6,800 GP, and nobody will sell you one** |
+>
+> **The rule of thumb everybody uses: a convenience is cheap and a bonus is dear.** A pot that boils is a
+> nice thing a comfortable household might own. **Anything that makes you harder to kill costs what a
+> sword costs**, because it has to work every second of every day against anything that comes at you.
 >
 > **A +1 sword costs more than buying a person out of an indenture.** Everybody in Stoneharbour knows
 > roughly what these things cost and nobody has ever held one, which is a normal state of affairs.

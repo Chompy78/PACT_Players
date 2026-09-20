@@ -252,9 +252,13 @@ they'd actually know. See [[What_Your_Character_Knows|What Your Character Knows]
 >
 > **What an item takes**, committed for as long as it exists:
 >
-> | A charm or small useful item | A potion | +1 | +2 | +3 |
-> |---:|---:|---:|---:|---:|
-> | 4–14 | **1, back when somebody drinks it** | **30** | **60** | **120** |
+> | A household trick — a pot that boils | A standing convenience — the lamp that never needs oil | A working tool — rope that won't fray | A serious item with no numbers — boots that don't tire you | A potion | **+1 / +2 / +3** |
+> |---:|---:|---:|---:|---:|---:|
+> | **1** | **2–3** | **4–8** | **10–20** | **1, back when drunk** | **30 / 60 / 120** |
+>
+> **A convenience is cheap; a number is expensive.** A **+1 Cloak of Protection costs what a +1 sword
+> costs** — it isn't clever, it's *constant*: ready every second of every day against anything. If an
+> item's entry has a bonus in it, price it like a weapon of the same step.
 >
 > **Two bills, to two different people.**
 >
