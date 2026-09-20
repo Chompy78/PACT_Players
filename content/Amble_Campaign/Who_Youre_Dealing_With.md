@@ -31,6 +31,11 @@ character has been able to walk.
 > all day, and most of them are quietly good at reading people, because that is what keeps a small
 > business alive.
 >
+> **And a Guild factor is not a clerk who got promoted.** The Guild does not send bookkeepers to run
+> branches in port towns. Whoever holds that desk was chosen for being able to handle what a port town
+> produces, and most of them did something else first. **Being courteous is not the same as being
+> harmless**, and the ones who never raise their voice have usually never needed to.
+>
 > **The useful habit: assume the person in front of you is better at their own life than you are.** Ask
 > them things. It costs nothing and they know an astonishing amount.
 
@@ -67,9 +72,6 @@ character has been able to walk.
 > **You cannot tell by looking.** The watchman worth 56 and the guardsman worth 178 wear the same
 > uniform, drink in the same room, and are twelve years apart. The quiet man at the end of the bar is
 > more likely to be dangerous than the loud one.
->
-> **Guild factors are not clerks.** People who run branches in port towns have usually done something
-> else first, and are chosen for being able to handle what a port town produces.
 >
 > **None of this is permanent, and that is the real point.** You gain in a year what a working adult
 > gains in five — you are being stretched and they are not. **Within a few years you will pass the town
