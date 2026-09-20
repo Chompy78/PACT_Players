@@ -50,6 +50,8 @@ describe where a character *starts*, not a wall.
   in ten have a cantrip, why healing costs a fortune, and how much magic a town actually holds
 - [[The_Iron_Coin_Guild|The Iron Coin Guild]] — what the indenture actually says, and what it costs to
   find out
+- [[Money_and_Prices|Money and Prices]] — what people earn, what things cost, and why 25 gold a month is
+  not as much as it sounds
 - More pages will get the same treatment as the campaign goes on.
 
 ---

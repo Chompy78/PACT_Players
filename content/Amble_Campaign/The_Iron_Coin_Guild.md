@@ -79,4 +79,4 @@ The Guild is the largest thing in your characters' lives. This page is what they
 
 ---
 
-See also: [[Stoneharbour|Stoneharbour]] · [[What_Your_Character_Knows|What Your Character Knows]] · [[The_Story_So_Far/Arc01_prelude/chapter-04-draft-Winter-The-Iron-Coin|Chapter 4: The Iron Coin]]
+See also: [[Money_and_Prices|Money and Prices]] · [[Stoneharbour|Stoneharbour]] · [[What_Your_Character_Knows|What Your Character Knows]] · [[The_Story_So_Far/Arc01_prelude/chapter-04-draft-Winter-The-Iron-Coin|Chapter 4: The Iron Coin]]
