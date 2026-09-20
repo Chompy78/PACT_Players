@@ -6,13 +6,15 @@ draft: false
 
 # Stoneharbour
 
-![[arc02_among_strangers_banner.webp|Stoneharbour|750]]
+![[Arc02_arc2/arc02-among-strangers-banner.webp|Stoneharbour|750]]
 
-A prosperous working port of three or four thousand people, on a coast none of the party had ever seen before they were sent there. Amble is a village of three hundred where everyone knows everyone; Stoneharbour is ten times that, and knows none of them.
+A prosperous working port of **about ten thousand people**, on a coast none of the party had ever seen before they were sent there. Amble is a village of three hundred where everyone knows everyone; Stoneharbour is thirty times that, and knows none of them.
+
+Another five hundred or so are in the town on any given day without living there — crews ashore, carters, people in for the market — and the garrison and the two naval vessels are counted separately again.
 
 It runs on the tide and on other people's cargo. Grain, salt, wool and fish come off the boats and go into warehouses; rope and barrels and sailcloth get made and sold back to the ships. The Iron Coin Guild keeps a branch here — a converted counting-house in the Guild Quarter — with the indentures' barracks on its Warehouse Row edge.
 
-![[stoneharbour_map.jpeg|Stoneharbour, and its districts|750]]
+![[stoneharbour-map.jpeg|Stoneharbour, and its districts|750]]
 
 ## The districts
 
@@ -62,7 +64,7 @@ The town's daily general market, laid out in tiers up a wide stair, with shops b
 - **The Block** — the butcher; nothing wasted
 - **Threadneedle** — tailor and clothier, mending cheap for regulars
 - **Last & Awl** — a cobbler; busy every Marketday
-- **Pressman's Corner** — a bookshop and lending library, the nearest thing the town has to a school
+- **Pressman's Corner** — a bookshop and lending library; where anybody past school age goes to keep reading
 - **Dorn's Steady Hand** — the spell shop, upper tier
 - **The Telling Stone** — a worn flat stone where a storyteller works most evenings for coin in a hat
 - **The Painted Board** — a puppet-and-players' stage doing broad comedy and pointed satire
@@ -96,9 +98,36 @@ Above the town, quieter than the rest of it.
 - **The Quiet Ground** — the burial ground, terraced into the hillside below the shrine
 - **The Wayside Stone** — a worn standing stone off the main path, a minor wayside shrine
 
+### Kingshold & the Naval Wharf
+
+The Crown's own corner, walled off from the streets and gated. Around **380 under arms** — the garrison, the Naval Wharf and two vessels — and they are counted separately from the town's own people.
+
+- **The Wharf itself** — walled, gated and warded; ordinary magic at an unusual scale, re-cut twice a year under contract
+- **The garrison** — Colonel Stane commands; the soldiers drink in town but are not of it
+- **What you can see from the street** — a gate, a wall, a lot of uniforms, and nothing else. The town's opinion of Kingshold is that it does not concern them, and Kingshold's opinion of the town is much the same
+
+### Outside the Walls
+
+About **450 people** who work the land the town eats from.
+
+- **Market gardens and the commons** — vegetables, grazing, the town's milk
+- **Two mills**, and the kilns
+- **The reason the town can be fed at all** in a bad season, which is a thing everybody understands and nobody thanks anyone for
+
 ### Old Stone
 
 The oldest quarter. Nobody has had reason to take you there yet.
+
+## The town works
+
+The unglamorous half of Stoneharbour, and the half you notice only when it stops.
+
+- **The Conduit and the cisterns** — the town's water, brought in and held in four cisterns past Shrine Hill. Low Quay draws from the Cistern Steps; everyone else is closer to a standpipe than they think
+- **The gaol** — small, and not where you want a night
+- **Ellery Ward** — the town's infirmary. A bonesetter and a physician are cheap; anything magical is not, see [[Peoples_and_Magic#how-common-is-magic|Peoples and Magic]]
+- **The Shrine School** — letters and numbers for children whose families can spare them, run off Shrine Hill
+- **The Barrel & Draw** — the town brewery, and the reason small beer is cheaper than clean water in some streets
+- **The Breaker's Yard** — where ships that will not sail again are taken apart, and where a surprising amount of the town's timber comes from
 
 ## Who runs what
 
@@ -106,6 +135,17 @@ The oldest quarter. Nobody has had reason to take you there yet.
 - **Captain Halvard Stroud** — the Watch
 - **Hesper Tuck** — head of the Harbour Concord, the working waterfront's own association
 - **Selwyn Aske** — shrine-keeper, Shrine Hill
+- **Colonel Stane** — Kingshold and the garrison; the Crown's authority, not the town's
+- **Odalys Praed** — the organised underworld belongs to her, and people say her name quietly even in the open
 - **The Iron Coin Guild, Stoneharbour Branch** — a separate power to all of the above, and the one the party answers to
+
+## Who can actually arrest you
+
+Worth knowing before you find out the hard way.
+
+- **The Watch** (Stroud) — the town's law, in the streets, for anything a townsperson would call a crime. They can hold you, and the **Petty Bench** hears small claims and minor debts
+- **Guild security** — not the law, but inside Guild property and over Guild indentures they act as though they are, and mostly nobody argues
+- **The Harbour Concord** (Tuck) — not the law at all, but on the working waterfront its say carries further than the Watch's on a busy morning
+- **Kingshold** — the Crown's soldiers have no authority in the town and do not want any, until something touches the Crown
 
 *Reference page for players and the campaign assistant. Everything here is the town as anyone living in it would know it.*

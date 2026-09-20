@@ -48,6 +48,8 @@ describe where a character *starts*, not a wall.
   cost, who holds them up, and what happens when that person dies
 - [[Peoples_and_Magic#how-common-is-magic|Peoples and Magic → How Common Is Magic?]] — why three people
   in ten have a cantrip, why healing costs a fortune, and how much magic a town actually holds
+- [[The_Iron_Coin_Guild|The Iron Coin Guild]] — what the indenture actually says, and what it costs to
+  find out
 - More pages will get the same treatment as the campaign goes on.
 
 ---
