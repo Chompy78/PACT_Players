@@ -24,6 +24,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 - [How Checks Actually Play Out](#how-checks-actually-play-out)
 - [Group Checks and Expert Checks](#group-checks-and-expert-checks)
 - [How Hard Is Hard?](#how-hard-is-hard)
+- [Magic Items — Whose Breath Is In It](#magic-items--whose-breath-is-in-it)
 
 ## Growing Up Together
 
@@ -215,3 +216,109 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > - **Extreme (28)** — the domain of genuine specialists, and rare even for them. *Forging a Guild seal convincing enough to fool the officer who issues them. Slipping expert restraints, unseen, with no tools. Talking down a mob that's already moving. Tracking one person through a crowded market by scent alone. Holding a structural beam long enough for everyone else to clear it.*
 > - **Heroic (33)** — an epic feat, the kind stories get told about. This one genuinely isn't reachable early in your character's career, no matter how good the roll — it opens up as your character grows in power. *Turning a battle's tide single-handed. Talking a tyrant into surrendering everything, with nothing but words. Carrying someone who can't swim across a flooded district. Reading a forged contract's one true clause at a glance, mid-negotiation. Holding up a collapsing structure long enough for a crowd to escape.*
 > - **Godly (37)** — generally beyond anything mortal. If your GM ever actually calls for a roll at this tier, treat it as a genuine "for the ages" moment. *Turning back a river by main force. Talking Death itself into reconsidering a bargain already struck. Surviving a fall that would kill a god. Rewriting a warded contract's true terms by hand, in front of its own keeper. Holding up a collapsing keep long enough for every soul inside to escape.*
+
+## Magic Items — Whose Breath Is In It
+
+**Three tiers of knowledge.** Read the one your character has and stop there — we trust you to play what
+they'd actually know. See [[What_Your_Character_Knows|What Your Character Knows]].
+
+> [!info]- ⚪ COMMON — anyone who grew up in Halden knows this
+> **Nobody makes a magic thing and walks away from it. Somebody holds it up.** There is a person behind
+> every enchanted object — usually alive, usually named, often local — and the thing works because they
+> do.
+>
+> **When that person dies, the thing goes quiet.** Not at once. A small charm is dead inside a month; a
+> famous sword can take a year. Somebody else can take it up before then, and often does.
+>
+> **The trade that does this is called binding**, and binders charge what most people consider a
+> scandalous amount for what looks like a night of candles and muttering. There are perhaps five in a town
+> the size of Stoneharbour.
+>
+> **A potion of healing costs 50 gold because of what's in it**, not because the brewer is greedy — one
+> ingredient is rare, perishable, comes down the coast in ice, and the recipe is a family's secret.
+>
+> **You cannot buy a great weapon.** Not because of the price. The good ones have to be *made* of
+> something, and that something isn't for sale.
+>
+> **Half the charms sold in a market are worthless.** They look identical to real ones for a month or two,
+> and by then whoever sold it has moved on.
+
+> [!tip]- 🔵 TRAINED — a character proficient in Arcana knows the numbers
+> **Everyone has two totals of the same size.** The AP on your sheet, and the same number again as
+> **breath** — what you can hold up in the world. Most people never use it.
+>
+> *(The street says **stock** and **breath**. Politer people say **measure** and **bearing**. A clerk
+> writes **lifeforce** and nobody says that aloud.)*
+>
+> **What an item takes**, committed for as long as it exists:
+>
+> | A charm or small useful item | A potion | +1 | +2 | +3 |
+> |---:|---:|---:|---:|---:|
+> | 4–14 | **1, back when somebody drinks it** | **30** | **60** | **120** |
+>
+> **Two bills, to two different people.**
+>
+> - **The breath** — free if it's your own. About **50 gold a point** from someone whose word is worth
+>   something: a temple, a guild, a master with a reputation to lose. **5–10 a point** from a stranger,
+>   because your sword is only as good as the life holding it up.
+> - **The rite** — to the binder. About **a tenth of the item's points, in gold**; half again if the
+>   breath belongs to whoever made the object, **three times** if it belongs to a stranger to it. An
+>   object takes its maker's life easily and a stranger's hard. The multiplier is on money, not waiting.
+>
+> **How long:** a charm an hour, a ring an evening, **a +1 half a day**, a +2 a day or two, a +3 about
+> five days. Never more than a week.
+>
+> **Why a binder can't do it often:** the rite spends *his* breath, equal to the item's points, back at
+> **one a day**, and he must have that much free to start. A binder fresh off a great work is no use for
+> months; a modest one can never make a +2 or +3 at all.
+>
+> **Materials set the ceiling.** Good steel takes **+1**. A **+2** needs star-iron or old-kingdom steel —
+> buyable, dearly. A **+3** needs something not sold anywhere.
+>
+> **Attunement is unchanged** — 4 AP for the first slot, 10 for two, 18 for three, and three is as many as
+> almost anyone has.
+>
+> **Fading is about a month per 10 points** after the holder dies, and any maker with spare breath can
+> take up the holding before it finishes. This is why the impressive items belong to temples, guilds and
+> families: institutions don't die.
+>
+> **Getting your own breath back:**
+>
+> | Item destroyed | Released with the item present | Released without it |
+> |---|---|---|
+> | free, at once | a binder, one night, ~a tenth of its points in gold | a temple or master, several days, **five times the fee**, back **at a point a day** |
+>
+> **Nothing is ever lost permanently** — but you can't simply change your mind, which is precisely why a
+> promise to hold something is worth paying for.
+>
+> **Two trades you cannot learn: binding and brewing.** Taught master-to-apprentice, not on the AP ladder.
+> **You may own anything. You may not make it.**
+
+> [!warning]- 🟣 RARE — expertise in Arcana, or a binder's own apprentice
+> **A proving.** A second binder can test a piece for a small fee and tell you whether there is breath in
+> it, roughly how much, and whether whoever put it there is still alive. **An evening's work, and the only
+> honest protection a buyer has.** Ask for one before you pay for anything.
+>
+> **Marks.** A binder of standing stamps his work, and the mark is worth more than the object — which is
+> why forging one is a serious crime and why a marked piece from a dead binder still sells well.
+>
+> **Reading a fade.** A thing that is dying tells you, if you know the signs: it works, then it works
+> less, and it never breaks or flares. **A blade whose holder died last spring is still a fine blade
+> today** and will be ordinary steel by winter. Knowing how far along it is tells you when its holder
+> died, which is sometimes the only witness you have.
+>
+> **A relic carries a ladder** — *"30 / 60 / 120"* — and works at the highest rung anybody is actually
+> holding. You can wake one part-way now and finish it later. **One holder per item**, and holding is not
+> carrying: the holder can be a hundred miles from whoever swings it.
+>
+> **A pledging.** Several people giving a piece of themselves to one item none of them will ever carry. It
+> needs a master or a temple, consecrated ground, **every giver present**, a full day, and five times the
+> usual fee. A village might do it twice in a century, for a champion. **The item stands while any one of
+> them lives** — which is how a thing outlasts its makers.
+>
+> **And the part nobody advertises: the cheapest way to end a magic item is to end the person holding it.**
+> Not the sword. The smith three towns away who has never touched it.
+
+---
+
+See also: [[What_Your_Character_Knows|What Your Character Knows]] · [[Peoples_and_Magic|Peoples and Magic]] · [[Character_Advancement|Character Advancement]]
