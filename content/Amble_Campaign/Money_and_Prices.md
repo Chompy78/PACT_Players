@@ -40,6 +40,20 @@ something serious or seeing how you react.
 > **40 GP** to lift a disease, **50 GP** for a potion of healing. See
 > [[Peoples_and_Magic#how-common-is-magic|Peoples and Magic]].
 >
+> **What an enchanted thing costs**, if you were mad enough to ask
+>
+> | | |
+> |---|---|
+> | A charm — a small useful thing that works | **about 250 GP** |
+> | A ring, a lamp, something with a real effect | **about 600 GP** |
+> | **A +1 weapon or armour** | **about 1,900 GP** |
+> | **A +2** | **about 4,250 GP** |
+> | **A +3** | **about 6,800 GP, and nobody will sell you one** |
+>
+> **A +1 sword costs more than buying a person out of an indenture.** Everybody in Stoneharbour knows
+> roughly what these things cost and nobody has ever held one, which is a normal state of affairs.
+> Enchanted weapons belong to the Crown, to temples, to guilds, and to old families — not to people.
+>
 > **A docker earning 2 SP a day would work two hundred and fifty days for one potion.** That is not an
 > exaggeration for effect. That is the arithmetic, and it is why people do desperate things when somebody
 > they love is hurt.
@@ -55,6 +69,15 @@ something serious or seeing how you react.
 > **Real money to someone who has none — and it costs you exactly one month of progress.** Both of those
 > are true at once, which is the whole difficulty of it.
 >
+> **Why an enchanted thing costs what it does**, and it is not the binder getting rich: most of the price
+> is **somebody agreeing to hold it up for the rest of their life.** The work itself is an afternoon. The
+> materials for a +1 are a hundred gold. The rest is a person. See
+> [[House_Rules#magic-items--whose-breath-is-in-it|House Rules → Magic Items]].
+>
+> **Which is why commissioning one for yourself is far cheaper than buying one** — if you hold it
+> yourself, you are not renting anybody. A +1 made to your own order runs **about 900 GP and a week**
+> rather than 1,900: the blade, the materials, and the binder's fee. Still more than your whole debt.
+>
 > **A shopkeeper's margin is thinner than yours.** A cookshop like Dela's grosses maybe 45 GP a month and
 > keeps 3–5 GP of it once stock, fuel, rent and three people's keep are paid. **In a bad month, nothing.**
 > That is a business everyone in the street calls successful.
@@ -67,6 +90,11 @@ something serious or seeing how you react.
 > **Which is why debt is the ordinary condition, not a disgrace.** Half of Low Quay owes somebody. The
 > Guild is only the largest and most patient of the creditors, and the only one that writes everything
 > down.
+>
+> **Nobody sells a great weapon, at any price.** Not because of the gold — because a +3 has to be made of
+> something that is not for sale, and because holding one up is most of what a master has. The handful in
+> the kingdom are inherited, granted or taken. **If somebody offers to sell you one, that is the
+> interesting fact, not the sword.**
 >
 > **And why a windfall is dangerous.** Somebody who suddenly has twenty gold has no way to explain it, no
 > safe place to keep it, and a great many new friends. Money in this town is mostly evidence.

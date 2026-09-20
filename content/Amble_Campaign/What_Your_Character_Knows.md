@@ -52,6 +52,8 @@ describe where a character *starts*, not a wall.
   find out
 - [[Money_and_Prices|Money and Prices]] — what people earn, what things cost, and why 25 gold a month is
   not as much as it sounds
+- [[Words_People_Use|Words People Use]] — the local vocabulary, from *stock* and *breath* to what people
+  mean by a *sliver*
 - More pages will get the same treatment as the campaign goes on.
 
 ---
