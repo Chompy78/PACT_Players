@@ -37,6 +37,8 @@ We fought scattered and desperate for what felt like a long time and probably wa
 
 Nobody said very much, standing there afterward. We'd gone out to check a bell and nearly lost someone to a dog.
 
+![[chapter-08-the-alpha-in-the-dark-ignoremd.png|For one full heartbeat it actually worked|750]]
+
 * * *
 
 We rested only as long as we had to before Caspian, on his feet again and stubborn about it, said we should track them to wherever they'd gone to ground — if only to be able to tell the shrine, honestly, that the threat had moved on rather than simply scattered. Half an hour's tracking brought us to an abandoned den under a stand of trees, empty, the pack long gone. There were old bones scattered through it, and — more curious than anything — a handful of small, bright things the wolves seemed to have dragged in over time and kept, the way some animals apparently just did. Fenwick declared, with total conviction, that this made them thieves as much as predators, and nobody argued the point hard enough to spoil it for him.
@@ -97,6 +99,8 @@ We wanted, badly, to march straight up the hill and start pointing fingers. Moss
 
 Moss left Brambleback curled at the foot of Wren's cot before we went anywhere, on the theory that she'd want something familiar and warm there when she finally opened her eyes. None of us argued with the theory.
 
+![[chapter-08-left-at-the-door-ignoremd.png|Left at the door|750]]
+
 * * *
 
 The shrine's senior keeper received us kindly enough, warm even, right up until we asked directly about Hesk. She didn't deny what we already half-knew — that he was one of the older, more superstitious voices among them, quick to blame outsiders for whatever the season had taken from them, and that Wren's name had come up in his mouth more than once and never gently. She wouldn't say he'd hurt anyone. She said, carefully, that the shrine survived people like him the same way it survived every other hard winter, by simply continuing, and that whatever had happened to Wren hadn't happened on the shrine's own ground where anyone there could have stopped it.
@@ -104,6 +108,8 @@ The shrine's senior keeper received us kindly enough, warm even, right up until 
 We asked to look around anyway. The grounds were too much ground to search together in any useful time, so we split — Moss and Ordis one way, the rest of us another — covering more of it than we could have walked together. Somewhere among the garden paths and the quiet places a girl who liked to draw might choose to sit unbothered, one of us came across a scatter of crayons in the dirt, dropped or knocked from someone's hand and never picked back up. It was the first real mark of where she'd actually been. We gathered back together to look at it, and none of us said much, because there wasn't much a handful of crayons could tell you except that something had gone wrong exactly there.
 
 We went home with more certainty than we'd arrived with and nothing we could call proof.
+
+![[chapter-08-what-the-crayons-told-us-ignoremd.png|What the crayons told us|750]]
 
 * * *
 
@@ -127,6 +133,8 @@ We pulled the hoods back once it was over. Strangers, mostly — human, unremark
 
 "Don't touch the tiefling again," he told him, low and even, and it worked exactly as well as that kind of thing usually does. The man went pale and swore he understood. Caspian put him back under anyway, not ungently, and we left all three of them tied at the shrine's own door for someone to find in the morning — a message with no signature, the only kind we could afford to send.
 
+![[chapter-08-we-told-you-to-stay-out-of-here-ignoremd.png|We told you to stay out of here|750]]
+
 * * *
 
 Wren never asked how the men who'd hurt her ended up unconscious outside the shrine's own front door, and we never told her the whole of it. She looked at us differently after, in a way we hadn't earned cleanly and didn't examine too closely, for fear of what we might find if we did.
@@ -134,5 +142,7 @@ Wren never asked how the men who'd hurt her ended up unconscious outside the shr
 The morning brought its own smaller reckoning first — Anders woke with his own face smeared in grease, some small justice finally catching up with him after weeks of Fred going unpunished for the manure and the rest of it, and the laughter that followed was the first easy one we'd had in days. News came with it that Fred's own contract had gone up for sale, debts finally outrunning him the way they eventually outran everyone in the guild's arithmetic, and nobody at our table pretended to feel sorry about it.
 
 We were still together. We were, for the first time in a while, a little more trusted than we'd been the week before — not by the guild, not by the shrine, but by the one person whose trust had actually cost us something to earn. That mattered more than we let ourselves say out loud.
+
+![[chapter-08-a-meal-for-a-bit-of-work-ignoremd.png|A meal for a bit of work|750]]
 
 <!-- tic-atn: 3 -->
