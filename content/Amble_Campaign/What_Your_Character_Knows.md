@@ -46,7 +46,8 @@ describe where a character *starts*, not a wall.
 
 - [[House_Rules#magic-items--whose-breath-is-in-it|House Rules → Magic Items]] — what enchanted things
   cost, who holds them up, and what happens when that person dies
-- [[Peoples_and_Magic|Peoples and Magic]] — how common magic is, and who can do it
+- [[Peoples_and_Magic#how-common-is-magic|Peoples and Magic → How Common Is Magic?]] — why three people
+  in ten have a cantrip, why healing costs a fortune, and how much magic a town actually holds
 - More pages will get the same treatment as the campaign goes on.
 
 ---
