@@ -54,6 +54,8 @@ describe where a character *starts*, not a wall.
   not as much as it sounds
 - [[Words_People_Use|Words People Use]] — the local vocabulary, from *stock* and *breath* to what people
   mean by a *sliver*
+- [[Who_Youre_Dealing_With|Who You're Dealing With]] — what ordinary working people are actually capable
+  of, and why starting a fight is a bad plan
 - More pages will get the same treatment as the campaign goes on.
 
 ---
