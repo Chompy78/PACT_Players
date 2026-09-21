@@ -62,6 +62,9 @@ describe where a character starts, not a wall.
 - [[Who_Youre_Dealing_With|Who You're Dealing With]] — what ordinary working people can do
 - [[Words_People_Use|Words People Use]] — the local vocabulary
 - [[What_Lives_Around_Here|What Lives Around Here]] — animals and worse, and what they fight like
+- [[The_Town_After_Dark|The Town After Dark]] — the Watch, the lamps and the dogs
+- [[Hurt_And_What_To_Do|Hurt, and What to Do About It]] — injury, recovery and what it costs
+- [[Selling_What_You_Should_Not_Have|Selling What You Should Not Have]] — pawn and fencing
 
 ---
 

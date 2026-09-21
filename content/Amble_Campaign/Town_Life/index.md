@@ -11,3 +11,6 @@ answer is probably here.
 - [[The_Iron_Coin_Guild|The Iron Coin Guild]] — what your indenture actually says
 - [[Who_Youre_Dealing_With|Who You're Dealing With]] — what ordinary working people can do
 - [[Words_People_Use|Words People Use]] — the local vocabulary
+- [[The_Town_After_Dark|The Town After Dark]] — who is out at night, and where the lamps are
+- [[Hurt_And_What_To_Do|Hurt, and What to Do About It]] — what a bonesetter fixes and what only money will
+- [[Selling_What_You_Should_Not_Have|Selling What You Should Not Have]] — pawn, fencing, and who takes a cut
