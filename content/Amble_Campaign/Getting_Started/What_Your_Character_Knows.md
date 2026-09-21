@@ -17,7 +17,7 @@ there.
 > **It is not always accurate**, and where the world believes something wrong, this tier says the wrong
 > thing on purpose.
 
-> [!tip]- 🔵 TRAINED — proficient in **both** skills the box names, or **expertise in one of them**
+> [!tip]- 🔵 TRAINED — proficient in **both** skills the box names
 > The real numbers and the real mechanism. **Each box names two skills** — Arcana for magic and enchanted
 > things, Investigation for money, contracts and paperwork, Insight for reading people, History for the
 > old kingdom and its relics. **Two proficiencies or one expertise**, because those cost about the same to

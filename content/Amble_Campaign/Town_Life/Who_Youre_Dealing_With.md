@@ -39,7 +39,7 @@ character has been able to walk.
 > **The useful habit: assume the person in front of you is better at their own life than you are.** Ask
 > them things. It costs nothing and they know an astonishing amount.
 
-> [!tip]- 🔵 TRAINED — proficient in **Insight** and **History**, or **expertise in Insight**
+> [!tip]- 🔵 TRAINED — proficient in **Insight** and **History**
 > **The rough ladder, in the same AP your own character is built with:**
 >
 > | Who | About |

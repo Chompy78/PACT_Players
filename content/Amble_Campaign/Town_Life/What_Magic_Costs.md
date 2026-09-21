@@ -73,7 +73,7 @@ everyday goods, see [[Money_and_Prices|Money and Prices]].
 > **A +1 sword costs more than buying a person out of an indenture.** Everyone knows roughly what these
 > cost. Almost nobody has ever held one.
 
-> [!tip]- 🔵 TRAINED — proficient in **Arcana** and **Investigation**, or **expertise in Arcana**
+> [!tip]- 🔵 TRAINED — proficient in **Arcana** and **Investigation**
 > **Every enchanted thing is priced by the breath in it** — the points somebody commits for as long as
 > the thing exists — at about **55 gold a point**, plus the object itself.
 >

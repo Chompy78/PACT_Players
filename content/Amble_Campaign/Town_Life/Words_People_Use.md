@@ -38,7 +38,7 @@ None of this is secret. All of it is worth knowing before somebody uses it at yo
 >
 > **Short** — what they call a person afterwards. *"She's short now, and she'll be short till she dies."*
 
-> [!tip]- 🔵 TRAINED — proficient in **Arcana** and **Insight**, or **expertise in Arcana**
+> [!tip]- 🔵 TRAINED — proficient in **Arcana** and **Insight**
 > **The register split is real and worth hearing.** *Stock* is a bench word — timber and rope both come in
 > stock, and a sliver is literally what comes off a piece of it under a blade. **A dealer who says a woman
 > has stock on her has called a living person inventory, and nobody in the room notices.** Shrine Hill and

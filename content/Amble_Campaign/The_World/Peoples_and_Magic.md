@@ -52,7 +52,7 @@ Amble is a small village, but the wider world it sits in is not just one kind of
 > **When spellwork shows at all**, it's only in the moment of casting — a muted warm gold or a dull
 > silver, nothing sharper. Enchanted things otherwise look like ordinary, well-made objects.
 
-> [!tip]- 🔵 TRAINED — proficient in **Arcana** and **History**, or **expertise in Arcana**
+> [!tip]- 🔵 TRAINED — proficient in **Arcana** and **History**
 > **The reason three in ten have a cantrip is arithmetic.** A cantrip costs **4 AP**, once, and never
 > again. An ordinary person gains roughly **8 AP a year** in their twenties, less as they get older — so
 > **a cantrip is about five months of an ordinary life.** Almost anybody can afford one eventually, which

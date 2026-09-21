@@ -320,7 +320,7 @@ they'd actually know. See [[What_Your_Character_Knows|What Your Character Knows]
 > **Half the charms sold in a market are worthless.** They look identical to real ones for a month or two,
 > and by then whoever sold it has moved on.
 
-> [!tip]- 🔵 TRAINED — proficient in **Arcana** and **Investigation**, or **expertise in Arcana**
+> [!tip]- 🔵 TRAINED — proficient in **Arcana** and **Investigation**
 > **Everyone has two totals of the same size.** The AP on your sheet, and the same number again as
 > **breath** — what you can hold up in the world. Most people never use it.
 >

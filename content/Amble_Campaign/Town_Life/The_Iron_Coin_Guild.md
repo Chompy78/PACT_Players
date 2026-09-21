@@ -28,7 +28,7 @@ The Guild is the largest thing in your characters' lives. This page is what they
 > **An indenture is not a prisoner.** They walk the streets, they drink where they like, they're paid. What
 > they cannot do is leave.
 
-> [!tip]- 🔵 TRAINED — proficient in **Investigation** and **Insight**, or **expertise in Investigation**
+> [!tip]- 🔵 TRAINED — proficient in **Investigation** and **Insight**
 > **The terms the party signed, in plain numbers:**
 >
 > | | |
