@@ -15,6 +15,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 - [Short Rests and Long Rests](#short-rests-and-long-rests)
 - [Stable Characters Can Join a Rest](#stable-characters-can-join-a-rest)
 - [Revival Exhaustion](#revival-exhaustion)
+- [Nothing Dies at 0 Hit Points](#nothing-dies-at-0-hit-points)
 - [Non-Lethal Attacks](#non-lethal-attacks)
 - [Called Shots](#called-shots)
 - [Inspiration](#inspiration)
@@ -100,6 +101,36 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 >
 > *2024 RAW doesn't penalise going to 0 hit points and being healed back up at all — no exhaustion is gained. (RAW does the opposite for an actual death: a creature that dies and is later resurrected comes back with 1 fewer exhaustion level than it had, not more.) The "a Long Rest removes one level" part above is standard RAW, unchanged — this section's only real house rule is the exhaustion gain itself.*
 
+## Nothing Dies at 0 Hit Points
+
+> [!note]- Details
+> **A creature reduced to 0 hit points does not die. It goes down, exactly as you would** — unconscious,
+> out of the fight, and alive unless something further happens to it. Bandits, guards, dogs, wolves, hired
+> knives, and the man giving the orders.
+>
+> **So killing is a choice somebody makes out loud, not a side effect of winning.** If you want an enemy
+> dead, you have to decide to make him dead while he is lying there, and say so.
+>
+> **How it runs at the table:**
+>
+> - **Important NPCs use the full rules you do** — death saving throws, stabilising, all of it.
+> - **Everyone else simply drops, and is alive and stable when the fight ends**, unless someone
+>   deliberately finishes them or the situation plainly kills them: drowning, a fire, a night in a ditch
+>   in winter.
+> - **A deliberate killing blow on a downed creature works the way it does for a player character.** No
+>   roll. Say it out loud.
+> - **Huge damage still kills outright** — damage left over after you hit 0 that equals your hit point
+>   maximum, as normal.
+> - **Things that were never alive** — undead, constructs, oozes, swarms — are destroyed at 0 as usual.
+>
+> **What this means for you in practice:** every fight now has an afterwards. People wake up. They
+> remember faces, they talk, and some of them come looking. **The Watch treats a dead body very
+> differently from a broken jaw**, and so does everyone else in Stoneharbour.
+>
+> *2024 RAW: a monster dies the moment it drops to 0 hit points — falling unconscious and rolling death
+> saves is offered as the GM's option, not the default. This table takes that option, for everybody, all
+> the time.*
+
 ## Non-Lethal Attacks
 
 > [!note]- Details
@@ -121,7 +152,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 >
 > *Example: a punch, a club or a sap still deals full damage. An arrow, a spear thrust or a sword slash deals half. **A Fire Bolt deals none — it cannot be pulled at all**, unless your GM lets you call a shot for it, at disadvantage, for half. A sword's pommel or the flat of the blade may be allowed at full damage — ask before you swing.*
 >
-> *2024 RAW: any melee attack can be declared non-lethal at the moment it reduces a creature to 0 hit points — decided after damage is rolled, with no penalty. Ranged attacks and spells can't normally knock a creature out at all. This house rule moves the declaration earlier (before the attack roll), lets weapons that aren't built for it try at half damage, keeps RAW's "spells can't" for damaging magic, and adds the called shot as a deliberate, costly exception.*
+> *2024 RAW: any melee attack can be declared non-lethal at the moment it reduces a creature to 0 hit points — decided after damage is rolled, with no penalty. Ranged attacks and spells can't normally knock a creature out at all. This house rule moves the declaration earlier (before the attack roll), lets weapons that aren't built for it try at half damage, keeps RAW's "spells can't" for damaging magic, and adds pulling the blow as a deliberate, costly exception.*
 
 ## Called Shots
 
