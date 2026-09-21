@@ -61,6 +61,7 @@ describe where a character starts, not a wall.
 - [[The_Iron_Coin_Guild|The Iron Coin Guild]] — what your indenture says and what it costs to find out
 - [[Who_Youre_Dealing_With|Who You're Dealing With]] — what ordinary working people can do
 - [[Words_People_Use|Words People Use]] — the local vocabulary
+- [[What_Lives_Around_Here|What Lives Around Here]] — animals and worse, and what they fight like
 
 ---
 
