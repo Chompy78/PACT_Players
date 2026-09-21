@@ -29,10 +29,17 @@ there.
 > and History* tells you what a soldier is really worth; *Investigation and Insight* tells you what a
 > contract is really for; *Arcana and Investigation* tells you how a trade prices itself.
 >
-> **One character has to hold both halves.** A party cannot pool a rare box between them — the rogue's
-> expertise plus the wizard's proficiency is two people who each know half of something, and half of this
-> is worth nothing. **That is the point of the tier**: rare knowledge belongs to a person who went deep in
-> one thing and wide in another, which is rare precisely because most people do one or the other.
+> **You can absolutely work it out between you — it just takes longer.**
+>
+> - **One character holding both halves knows it *now*.** On the spot, mid-conversation, while the person
+>   is still standing in front of them. **That speed is what the tier is actually worth.**
+> - **Two characters with a half each can get there too**, over a conversation somewhere quiet — comparing
+>   what each of you knows until the shape of it appears. **Tell your GM you're doing it and they'll play
+>   it as a scene**, not a lookup.
+>
+> **So rare knowledge is not a locked door, it is a delay.** And a delay is expensive at exactly the
+> moment it matters: the difference between knowing what a price means while you are being quoted it, and
+> working it out that evening after you have already paid.
 >
 > **Or an in-fiction reason**: an apprenticeship, a teacher, a year in the right archive. **If you're not
 > sure whether your character has this, ask — the answer is usually yes if you can say who taught them.**
