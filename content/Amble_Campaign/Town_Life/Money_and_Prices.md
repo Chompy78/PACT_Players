@@ -87,7 +87,7 @@ something serious or seeing how you react.
 > exaggeration for effect. That is the arithmetic, and it is why people do desperate things when somebody
 > they love is hurt.
 
-> [!tip]- 🔵 TRAINED — proficient in **Investigation**, or raised in a trade or a shop
+> [!tip]- 🔵 TRAINED — proficient in **Investigation** and **Insight**, or **expertise in Investigation**
 > **Your 25 GP a month is not what it looks like.** A dockhand earns about 6 GP a month. You are credited
 > at roughly five times that — and then charged your keep at a matching rate, so the two columns cancel to
 > about **2 GP left over**. The Guild books your labour at a skilled-adjacent rate *and* your bed and meals
@@ -111,7 +111,7 @@ something serious or seeing how you react.
 > keeps 3–5 GP of it once stock, fuel, rent and three people's keep are paid. **In a bad month, nothing.**
 > That is a business everyone in the street calls successful.
 
-> [!warning]- 🟣 RARE — **expertise in Investigation *and* proficiency in Insight**, or **expertise in both**
+> [!warning]- 🟣 RARE — **expertise in both Investigation and Insight**
 > **Almost nobody in this town accumulates anything.** The wage ladder and the price ladder are set
 > against each other so that an ordinary working life ends roughly where it began. Saving happens by
 > going without, and going without is how people end up ill.

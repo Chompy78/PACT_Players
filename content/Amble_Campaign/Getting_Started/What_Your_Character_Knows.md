@@ -17,17 +17,22 @@ there.
 > **It is not always accurate**, and where the world believes something wrong, this tier says the wrong
 > thing on purpose.
 
-> [!tip]- 🔵 TRAINED — you are proficient in the skill the box names
-> The real numbers and the real mechanism. **Each box says which skill it wants** — Arcana for magic and
-> enchanted things, Investigation for money, contracts and paperwork, Insight for reading people, History
-> for the old kingdom and its relics, Medicine for healing. **If your character has the proficiency, this is simply something they know** — you
+> [!tip]- 🔵 TRAINED — proficient in **both** skills the box names, or **expertise in one of them**
+> The real numbers and the real mechanism. **Each box names two skills** — Arcana for magic and enchanted
+> things, Investigation for money, contracts and paperwork, Insight for reading people, History for the
+> old kingdom and its relics. **Two proficiencies or one expertise**, because those cost about the same to
+> get and describe the same kind of person: somebody who was actually taught this. **If your character has the proficiency, this is simply something they know** — you
 > don't need to roll for it and you don't need to ask.
 
-> [!warning]- 🟣 RARE — expertise in one skill *and* proficiency in a second
-> The part a specialist would charge you for, and **it is deliberately hard to reach**: every rare box
-> wants **expertise in its main skill *and* proficiency in a second one** — or expertise in both. *Insight
-> and History* tells you what a soldier is really worth; *Investigation and Insight* tells you what a
-> contract is really for; *Arcana and Investigation* tells you how a trade prices itself.
+> [!warning]- 🟣 RARE — **expertise in both** of the box's skills
+> The part a specialist would charge you for, and **it is meant to be out of reach for most characters**:
+> a rare box wants **expertise in both** of its skills. *Insight and History* tells you what a soldier is
+> really worth; *Investigation and Insight* tells you what a contract is really for; *Arcana and
+> Investigation* tells you how a trade prices itself.
+>
+> **Expertise twice over is a serious commitment** — in this system it is a real slice of everything your
+> character has ever earned, spent on going deep rather than broad, twice. **Most people never do it
+> once.**
 >
 > **You can absolutely work it out between you — it just takes longer.**
 >

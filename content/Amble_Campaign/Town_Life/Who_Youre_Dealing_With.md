@@ -39,7 +39,7 @@ character has been able to walk.
 > **The useful habit: assume the person in front of you is better at their own life than you are.** Ask
 > them things. It costs nothing and they know an astonishing amount.
 
-> [!tip]- 🔵 TRAINED — proficient in **Insight** or **Athletics**
+> [!tip]- 🔵 TRAINED — proficient in **Insight** and **History**, or **expertise in Insight**
 > **The rough ladder, in the same AP your own character is built with:**
 >
 > | Who | About |
@@ -64,7 +64,7 @@ character has been able to walk.
 > knowledge, his hands, and being very hard to lie to. **They are not fighters. They are simply
 > formidable people.**
 
-> [!warning]- 🟣 RARE — **expertise in Insight *and* proficiency in History**, or **expertise in both**
+> [!warning]- 🟣 RARE — **expertise in both Insight and History**
 > **Assume you lose any fight you start in Stoneharbour.** That is the honest reading of the table above.
 > Not "it will be hard" — assume you lose. The exceptions are a lone drunk, a boy your own age, and
 > somebody who is already hurt.

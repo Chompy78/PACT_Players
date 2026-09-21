@@ -28,7 +28,7 @@ The Guild is the largest thing in your characters' lives. This page is what they
 > **An indenture is not a prisoner.** They walk the streets, they drink where they like, they're paid. What
 > they cannot do is leave.
 
-> [!tip]- 🔵 TRAINED — proficient in **Investigation**, or you have read your own contract
+> [!tip]- 🔵 TRAINED — proficient in **Investigation** and **Insight**, or **expertise in Investigation**
 > **The terms the party signed, in plain numbers:**
 >
 > | | |
@@ -57,7 +57,7 @@ The Guild is the largest thing in your characters' lives. This page is what they
 > **Your contract copy isn't with you.** The certified copy went to your registered household of record
 > back in Amble. The Guild holds the archive copy. A replacement can be had, for a fee.
 
-> [!warning]- 🟣 RARE — **expertise in Investigation *and* proficiency in Insight**, or **expertise in both**
+> [!warning]- 🟣 RARE — **expertise in both Investigation and Insight**
 > **A buyout figure is not printed anywhere**, deliberately. The contract names the parts — outstanding
 > debt, administrative closure, training recovery, placement recovery — and leaves the sum to Guild
 > Records, who quote from current schedules on request. **Expect the number to be well above the debt

@@ -320,7 +320,7 @@ they'd actually know. See [[What_Your_Character_Knows|What Your Character Knows]
 > **Half the charms sold in a market are worthless.** They look identical to real ones for a month or two,
 > and by then whoever sold it has moved on.
 
-> [!tip]- 🔵 TRAINED — proficient in **Arcana**
+> [!tip]- 🔵 TRAINED — proficient in **Arcana** and **Investigation**, or **expertise in Arcana**
 > **Everyone has two totals of the same size.** The AP on your sheet, and the same number again as
 > **breath** — what you can hold up in the world. Most people never use it.
 >
@@ -375,7 +375,7 @@ they'd actually know. See [[What_Your_Character_Knows|What Your Character Knows]
 > **Two trades you cannot learn: binding and brewing.** Taught master-to-apprentice, not on the AP ladder.
 > **You may own anything. You may not make it.**
 
-> [!warning]- 🟣 RARE — **expertise in Arcana *and* proficiency in Investigation**, or **expertise in both**
+> [!warning]- 🟣 RARE — **expertise in both Arcana and Investigation**
 > **A proving.** A second binder can test a piece for a small fee and tell you whether there is breath in
 > it, roughly how much, and whether whoever put it there is still alive. **An evening's work, and the only
 > honest protection a buyer has.** Ask for one before you pay for anything.

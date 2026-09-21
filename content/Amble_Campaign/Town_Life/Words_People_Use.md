@@ -38,7 +38,7 @@ None of this is secret. All of it is worth knowing before somebody uses it at yo
 >
 > **Short** — what they call a person afterwards. *"She's short now, and she'll be short till she dies."*
 
-> [!tip]- 🔵 TRAINED — proficient in **Arcana**, or you grew up around the trade
+> [!tip]- 🔵 TRAINED — proficient in **Arcana** and **Insight**, or **expertise in Arcana**
 > **The register split is real and worth hearing.** *Stock* is a bench word — timber and rope both come in
 > stock, and a sliver is literally what comes off a piece of it under a blade. **A dealer who says a woman
 > has stock on her has called a living person inventory, and nobody in the room notices.** Shrine Hill and
@@ -53,7 +53,7 @@ None of this is secret. All of it is worth knowing before somebody uses it at yo
 > **"He's carrying more sword than he's got breath for"** — a sergeant's phrase, meaning a man is using
 > something too fine for him. It is usually said about a fool, and occasionally about something worse.
 
-> [!warning]- 🟣 RARE — **expertise in Arcana *and* proficiency in Insight**, or **expertise in both**
+> [!warning]- 🟣 RARE — **expertise in both Arcana and Insight**
 > **The dealers have no softer word for what they sell.** They say *sliver* across a bar in the same voice
 > they use for the weather, and that is worse than a euphemism would be — they are not embarrassed enough
 > to have invented one.
