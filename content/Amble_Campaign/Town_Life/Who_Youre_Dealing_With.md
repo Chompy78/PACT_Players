@@ -14,14 +14,14 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > things nobody mentions.
 >
 > Thirty years at the anvil is also thirty years of arguing about price. Your smith knows what iron costs
-> this month, what you paid last time, and every version of the line you are about to open with.
+> this month and what you paid last time.
 >
 > Sailors have been up a mast in bad weather since they were twelve. They climb anything, swim in seas
 > that would kill you, and have eaten worse than you have ever seen. None of that makes them fighters.
 > One could still throw you into the harbour without putting his drink down.
 >
 > Seven years on the Watch is seven years of being hit by people who did not want to be arrested. Guards
-> wear armour, rarely work alone, and have had worse nights than this one.
+> wear armour and rarely work alone.
 >
 > Shopkeepers, cooks, net-menders and clerks are expert at what they do every day, and most of them read
 > people well, because that is what keeps a small business alive.
@@ -32,9 +32,8 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > Ask people things. They know an enormous amount and it costs nothing to find out.
 
 > [!tip]- 🔵 TRAINED — proficient in **Insight** and **History**
-> Here is roughly where people sit, counted in the same advancement points your own character is built
-> from. Your party are around 100 each. These are not combat ratings: most of what is in them is trade
-> skill, endurance and knowing things.
+> Your party are around 100 AP each. Here is what everyone else in town is carrying. These are not combat
+> ratings — most of it is trade skill, endurance and knowing things.
 >
 > | Who | Advancement points |
 > |---|---:|
@@ -61,9 +60,9 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > You cannot tell by looking. The watchman worth 56 and the guardsman worth 178 wear the same uniform and
 > drink in the same room, twelve years apart.
 >
-> This does not last. You gain in a year what a working adult gains in five, because you are being
-> stretched and they are not. In a few years you will pass the town guard, the sailor and the Crown
-> regular, having never drilled a day. Some of them already know that.
+> None of this lasts. You gain in a year what a working adult gains in five. In a few years you will pass
+> the guardsman, the sailor and the Crown regular, having never drilled a day. Some of them know it
+> already.
 
 ---
 

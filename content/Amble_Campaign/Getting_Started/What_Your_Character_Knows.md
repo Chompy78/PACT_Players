@@ -7,7 +7,7 @@ draft: false
 Some of what's here is common knowledge. Some of it you'd only know if you'd been taught. A little of it
 perhaps a dozen people in a city could tell you.
 
-Rather than hide the deep material, we've labelled it. Read what your character would know and stop there.
+We've labelled it rather than hidden it. Read what your character would know and stop there.
 
 ## The three tiers
 
@@ -18,9 +18,8 @@ Rather than hide the deep material, we've labelled it. Read what your character 
 > purpose.
 
 > [!tip]- 🔵 TRAINED — proficient in **both** skills the box names
-> The real numbers and how things actually work. Each box names two skills: Arcana for magic and enchanted
-> things, Investigation for money, contracts and paperwork, Insight for reading people, History for the old
-> kingdom and its relics.
+> The real numbers and how things actually work. Each box names the two skills it wants — Arcana for
+> magic, Investigation for money and paperwork, Insight for people, History for the old kingdom.
 >
 > You need both, because the useful part of this tier is what the two together tell you. Expertise counts
 > as proficiency, so a specialist only needs ordinary proficiency in the second skill.
@@ -35,8 +34,8 @@ Rather than hide the deep material, we've labelled it. Read what your character 
 > while the person is still standing in front of them. Two characters with one skill each can work it out
 > over a quiet conversation — tell your GM and they'll play it as a scene.
 >
-> So rare knowledge is a delay rather than a locked door, and a delay costs you at the moment it matters:
-> knowing what a price means while you're being quoted it, or working it out that evening after you paid.
+> So it is a delay, not a locked door. The cost is timing: knowing what a price means while you are being
+> quoted it, instead of working it out that evening after you paid.
 
 ## The one thing we ask
 

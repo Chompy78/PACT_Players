@@ -35,9 +35,9 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > | A hall lamp, light at will, for good | 25 GP |
 > | A cold-box, food keeps | 45 GP |
 >
-> None of it needs attunement, none of it runs out, and none of it helps in a fight. A well-off family
-> owns the pot. A rich one lights the hall and keeps the cold-box. A docker owns none of it: eighteen gold
-> is three months of his wage.
+> None of it needs attunement and none of it runs out. A well-off family owns the pot; a rich one lights
+> the hall and keeps the cold-box. Eighteen gold is three months of a docker's wage, so he owns none of
+> it.
 >
 > ### Charms, a spell in a bead
 >
@@ -69,12 +69,11 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > | A +2 anything | 4,250 GP, and it needs stock that is not sold here |
 > | A +3 anything | about 6,800 GP, and nobody will sell you one at any price |
 >
-> A +1 sword costs more than buying a person out of an indenture. Everyone knows roughly what these cost.
-> Almost nobody has ever held one.
+> A +1 sword costs more than buying somebody out of an indenture. Most people never see one.
 
 > [!tip]- 🔵 TRAINED — proficient in **Arcana** and **Investigation**
-> Enchanted things are priced by the breath in them: the points somebody commits for as long as the thing
-> exists, at about 55 gold a point, plus the object itself.
+> An enchanted thing is priced by the breath in it — the points somebody has committed for as long as it
+> exists — at about 55 gold a point, plus whatever the object itself is worth.
 >
 > | The thing | Points |
 > |---|---|
