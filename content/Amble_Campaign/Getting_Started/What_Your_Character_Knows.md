@@ -23,14 +23,16 @@ there.
 > for the old kingdom and its relics, Medicine for healing. **If your character has the proficiency, this is simply something they know** — you
 > don't need to roll for it and you don't need to ask.
 
-> [!warning]- 🟣 RARE — expertise, two proficiencies, or a specialist's own training
-> The part a specialist would charge you for. **Every rare box names what opens it**, and there are two
-> ways in:
+> [!warning]- 🟣 RARE — expertise in one skill *and* proficiency in a second
+> The part a specialist would charge you for, and **it is deliberately hard to reach**: every rare box
+> wants **expertise in its main skill *and* proficiency in a second one** — or expertise in both. *Insight
+> and History* tells you what a soldier is really worth; *Investigation and Insight* tells you what a
+> contract is really for; *Arcana and Investigation* tells you how a trade prices itself.
 >
-> - **Expertise** — doubled proficiency in the one skill that matters, or
-> - **Two proficiencies** — because some things are only obvious when you know both halves. *Insight and
->   History* tells you what a soldier is worth; *Investigation and Insight* tells you what a contract is
->   really for; *Arcana and Investigation* tells you how a trade prices itself.
+> **One character has to hold both halves.** A party cannot pool a rare box between them — the rogue's
+> expertise plus the wizard's proficiency is two people who each know half of something, and half of this
+> is worth nothing. **That is the point of the tier**: rare knowledge belongs to a person who went deep in
+> one thing and wide in another, which is rare precisely because most people do one or the other.
 >
 > **Or an in-fiction reason**: an apprenticeship, a teacher, a year in the right archive. **If you're not
 > sure whether your character has this, ask — the answer is usually yes if you can say who taught them.**

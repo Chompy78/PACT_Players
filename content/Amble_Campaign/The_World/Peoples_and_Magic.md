@@ -69,7 +69,7 @@ Amble is a small village, but the wider world it sits in is not just one kind of
 > most lives top out somewhere near **240–260 AP**. Someone far beyond that has been stretched harder than
 > an ordinary life stretches anybody — which is one reason adventurers make people uneasy.
 
-> [!warning]- 🟣 RARE — **expertise in Arcana**, or **proficiency in both Arcana and History**
+> [!warning]- 🟣 RARE — **expertise in Arcana *and* proficiency in History**, or **expertise in both**
 > **You can count a town's magic, and it is a small number.** Stoneharbour — ten thousand people — has
 > perhaps **five** who can do real work: a couple of practitioners, a binder or two, whoever the Shrine
 > keeps. Each can brew about one potion a day and the whole town absorbs maybe a hundred and fifty a year.

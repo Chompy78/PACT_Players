@@ -97,7 +97,7 @@ everyday goods, see [[Money_and_Prices|Money and Prices]].
 > **And the choice the prices are really offering you:** a daily ward-bead and six one-use ward-beads
 > both cost 350 gold. **Six beads are better value and worse in a crisis.**
 
-> [!warning]- 🟣 RARE — **expertise in Arcana**, or **proficiency in both Arcana and Investigation**
+> [!warning]- 🟣 RARE — **expertise in Arcana *and* proficiency in Investigation**, or **expertise in both**
 > **A spent bead is worth keeping.** Refilling costs the binder's fee alone — fifteen or twenty gold —
 > because the points were never lost, only lent. **A party who keep their spent charms and find a
 > friendly binder are buying them at a sixth of the price for the rest of their lives.**

@@ -57,7 +57,7 @@ The Guild is the largest thing in your characters' lives. This page is what they
 > **Your contract copy isn't with you.** The certified copy went to your registered household of record
 > back in Amble. The Guild holds the archive copy. A replacement can be had, for a fee.
 
-> [!warning]- 🟣 RARE — **expertise in Investigation**, or **proficiency in both Investigation and Insight**
+> [!warning]- 🟣 RARE — **expertise in Investigation *and* proficiency in Insight**, or **expertise in both**
 > **A buyout figure is not printed anywhere**, deliberately. The contract names the parts — outstanding
 > debt, administrative closure, training recovery, placement recovery — and leaves the sum to Guild
 > Records, who quote from current schedules on request. **Expect the number to be well above the debt

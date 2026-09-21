@@ -53,7 +53,7 @@ None of this is secret. All of it is worth knowing before somebody uses it at yo
 > **"He's carrying more sword than he's got breath for"** — a sergeant's phrase, meaning a man is using
 > something too fine for him. It is usually said about a fool, and occasionally about something worse.
 
-> [!warning]- 🟣 RARE — **expertise in Arcana**, or **proficiency in both Arcana and Insight**
+> [!warning]- 🟣 RARE — **expertise in Arcana *and* proficiency in Insight**, or **expertise in both**
 > **The dealers have no softer word for what they sell.** They say *sliver* across a bar in the same voice
 > they use for the weather, and that is worse than a euphemism would be — they are not embarrassed enough
 > to have invented one.

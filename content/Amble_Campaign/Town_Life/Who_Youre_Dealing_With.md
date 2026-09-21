@@ -64,7 +64,7 @@ character has been able to walk.
 > knowledge, his hands, and being very hard to lie to. **They are not fighters. They are simply
 > formidable people.**
 
-> [!warning]- 🟣 RARE — **expertise in Insight**, or **proficiency in both Insight and History**
+> [!warning]- 🟣 RARE — **expertise in Insight *and* proficiency in History**, or **expertise in both**
 > **Assume you lose any fight you start in Stoneharbour.** That is the honest reading of the table above.
 > Not "it will be hard" — assume you lose. The exceptions are a lone drunk, a boy your own age, and
 > somebody who is already hurt.

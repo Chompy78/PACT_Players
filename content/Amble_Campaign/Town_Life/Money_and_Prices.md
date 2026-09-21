@@ -111,7 +111,7 @@ something serious or seeing how you react.
 > keeps 3–5 GP of it once stock, fuel, rent and three people's keep are paid. **In a bad month, nothing.**
 > That is a business everyone in the street calls successful.
 
-> [!warning]- 🟣 RARE — **expertise in Investigation**, or **proficiency in both Investigation and Insight**
+> [!warning]- 🟣 RARE — **expertise in Investigation *and* proficiency in Insight**, or **expertise in both**
 > **Almost nobody in this town accumulates anything.** The wage ladder and the price ladder are set
 > against each other so that an ordinary working life ends roughly where it began. Saving happens by
 > going without, and going without is how people end up ill.
