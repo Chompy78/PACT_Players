@@ -3,6 +3,19 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-09-22 · Arc 2 Chs. 2–4 (campaign Chs. 6–8) handouts published** — pulled from the GM repo.
+  `Chapter_2/` ("The Line") gets all five of Ch6's props. `Chapter_3/` ("The Night of the Long Gale")
+  gets Ch7's H01–H04; the GM file `H03_Apothecary_Chit.png` is really the rebuilt dropped tally, so it
+  was published as `H03-The-Dropped-Tally.png`. **Ch7 H05 (Brant medical Notice of Charge) held back**:
+  it is marked GM-facing/glimpsed and seeds the Brant debt that has not reached the table yet.
+  `Chapter_4/` ("Kin") gets only H01, the Shrine Hill signs page. **Watch out:** the GM repo's
+  2026-09-15 reorder swapped `08_Chapter_8.md` and `09_Chapter_9.md` but not their handout folders, so
+  the real Ch8 props sit in the GM's `Chapter_9/`, and its `Chapter_8/` holds the unplayed Brant
+  recovery forms. Ch8's H02 (threat on Wren's ledger page, which shows a "Brant, added on" line), H03
+  (Tam's Notice of Contract Transfer), H04 (Wren's ledger, which records Tam's sale) and H05 (Sanctum
+  contract) are held back: Session B, with Tam's night, is not played yet. Home page and the Arc 2
+  index now link all four chapters.
+
 - **2026-09-12 · Chapter 6 link and Story So Far sidebar order fixed** — Chapter 6 ("The Line We
   Crossed") had been live on the built site since 8 Sep (`c1d10d1`) but was never linked from the
   top-level `The_Story_So_Far/index.md`, only from the Arc 2 sub-index — so it was reachable only by

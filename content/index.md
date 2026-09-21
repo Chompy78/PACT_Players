@@ -48,7 +48,7 @@ The campaign written up as connected short stories, one chapter per session — 
 They signed the contract and walked out of Amble under guild escort. Whatever comes next happens somewhere none of them have ever been.
 
 - [[Arc02_arc2/index|Arc overview]]
-- [[Arc02_arc2/Chapter_1/index|Ch. 1: Indentured — Handouts]]
+- Chapter handouts: [[Arc02_arc2/Chapter_1/index|1]] · [[Arc02_arc2/Chapter_2/index|2]] · [[Arc02_arc2/Chapter_3/index|3]] · [[Arc02_arc2/Chapter_4/index|4]]
 - [[Arc02_arc2/NPCs/index|NPCs]] · [[Arc02_arc2/Maps/index|Maps]] · [[Arc02_arc2/Misc/index|Misc]]
 
 ## Past arcs

@@ -17,3 +17,6 @@ Stoneharbour is a working port on a coast none of them has ever seen — bigger 
 ## Chapters
 
 - [[Arc02_arc2/Chapter_1/index|Ch. 1: Indentured]]
+- [[Arc02_arc2/Chapter_2/index|Ch. 2: The Line]]
+- [[Arc02_arc2/Chapter_3/index|Ch. 3: The Night of the Long Gale]]
+- [[Arc02_arc2/Chapter_4/index|Ch. 4: Kin]]
