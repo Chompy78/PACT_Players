@@ -21,7 +21,7 @@ of it is secret, and all of it is worth knowing before somebody uses it at you.
 > | **a proving** | having a second binder test a piece to see if there is anything really in it. An evening's work and a small fee, and the only protection a buyer has |
 > | **in keeping** | what a temple or guild does with something it holds up for somebody else. *"The Shrine holds three in its keeping."* |
 > | **a sliver** | a piece of a life, cut out of somebody and sold. Everybody knows the Low Quay deals in them. Nobody respectable admits to buying one, and the people who sell had run out of other ideas |
-> | **short** | what they call a person afterwards. *"She's short now, and she'll be short till she dies."* |
+> | **short** | what somebody is called after selling a sliver. Nothing to do with height. *"She's short now, and she'll be short till she dies."* |
 >
 > A sliver gets talked about the way people talk about any nasty, legal-ish trade: quietly, and with a
 > change of subject.

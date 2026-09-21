@@ -10,33 +10,33 @@ character could walk.
 Read the box your character qualifies for — see [[What_Your_Character_Knows|What Your Character Knows]].
 
 > [!info]- ⚪ COMMON — no proficiency needed
-> A tradesman is the best person in the room at his own work, and usually good at two or three things
-> nobody mentions.
+> Whatever a person does all day, they are better at it than you are, and usually better at two or three
+> things nobody mentions.
 >
-> A master smith has thirty years at the anvil and thirty years of arguing about price. He knows what
-> iron costs this month and what you paid last time. He reads customers all day, and he has heard every
-> version of your opening line.
+> Thirty years at the anvil is also thirty years of arguing about price. Your smith knows what iron costs
+> this month, what you paid last time, and every version of the line you are about to open with.
 >
-> A sailor has been up a mast in bad weather since he was twelve. He climbs anything, swims in seas that
-> would kill you, and has eaten worse than you have ever seen. He is not a fighter. He could still throw
-> you into the harbour without putting his drink down.
+> Sailors have been up a mast in bad weather since they were twelve. They climb anything, swim in seas
+> that would kill you, and have eaten worse than you have ever seen. None of that makes them fighters.
+> One could still throw you into the harbour without putting his drink down.
 >
-> A town guardsman has spent seven years being hit by people who did not want to be arrested. He is in
-> armour, he is rarely alone, and he has had worse nights than this one.
+> Seven years on the Watch is seven years of being hit by people who did not want to be arrested. Guards
+> wear armour, rarely work alone, and have had worse nights than this one.
 >
-> Shopkeepers, cooks, net-menders and clerks are all expert at what they do every day. Most of them are
-> quietly good at reading people too, because that is what keeps a small business alive.
+> Shopkeepers, cooks, net-menders and clerks are expert at what they do every day, and most of them read
+> people well, because that is what keeps a small business alive.
 >
 > A Guild factor is not a clerk who got promoted. The Guild does not send bookkeepers to run branches in
 > port towns, and most factors did something else first.
 >
-> The useful habit is to ask people things. They know an enormous amount and it costs nothing to find out.
+> Ask people things. They know an enormous amount and it costs nothing to find out.
 
 > [!tip]- 🔵 TRAINED — proficient in **Insight** and **History**
-> Here is roughly where people sit, measured in the same advancement points your own character is built
-> from. Your party are around 100 each.
+> Here is roughly where people sit, counted in the same advancement points your own character is built
+> from. Your party are around 100 each. These are not combat ratings: most of what is in them is trade
+> skill, endurance and knowing things.
 >
-> | Who | About |
+> | Who | Advancement points |
 > |---|---:|
 > | A deckhand, a couple of years in | 44 |
 > | A watchman of two years | 56 |
@@ -48,12 +48,11 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > | An elite King's guard | 284 |
 > | A landed knight | 327 |
 >
-> A sailor who has never been in a real fight is worth more than any of you. A town guardsman is worth
-> nearly two of you and is wearing armour.
+> A sailor who has never been in a real fight has more behind him than any of you. A guardsman has nearly
+> twice what you have, and armour on top.
 >
-> Most of those totals are not combat. The sailor's is climbing, swimming and endurance. The smith's is
-> his craft, his trade knowledge and being very hard to lie to. They are not fighters. They are just
-> formidable people.
+> The sailor's total is climbing, swimming and endurance. The smith's is his craft, his trade knowledge
+> and being very hard to lie to. Neither is a fighter. They are simply formidable people.
 
 > [!warning]- 🟣 RARE — **expertise in both Insight and History**
 > On the numbers above, a fight your party starts in Stoneharbour is one you lose. The exceptions are a
