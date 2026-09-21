@@ -30,63 +30,62 @@ Amble is a small village, but the wider world it sits in is not just one kind of
 
 ## How Common Is Magic?
 
-**Three tiers of knowledge.** Read the one your character has and stop there — see
-[[What_Your_Character_Knows|What Your Character Knows]].
+Read the box your character qualifies for — see [[What_Your_Character_Knows|What Your Character Knows]].
 
 > [!info]- ⚪ COMMON — no proficiency needed
-> **Small magic is ordinary.** It's an unevenly-spread talent, like a good singing voice or a strong arm.
-> Roughly **three people in ten** can manage at least a small cantrip, often untrained and a little
+> Small magic is ordinary. It is an unevenly-spread talent, like a good singing voice or a strong arm.
+> Roughly three people in ten can manage at least a small cantrip, often untrained and a little
 > informally, and most extended families have someone who can do a little something. A magical convenience
 > — a pot that keeps food hot on its own — is a real luxury, but a real one people actually own.
 >
-> **Real spellcasting is a trade**, with a spellbook and years behind it. A trained caster's early tricks
+> Real spellcasting is a trade, with a spellbook and years behind it. A trained caster's early tricks
 > are worth paying for and turn nobody's head; plenty of small towns have someone who can do that much.
 > It's only when a caster's power grows serious that people start to talk. A bare handful of names per
 > nation carry power worth a ruler's attention, and magic that could reshape a life in one stroke is close
 > to unheard of outside a few very old hands.
 >
-> **Healing is the expensive kind.** Closing a wound costs about **15 gold** — seventy-five days of a
-> docker's whole wage. Lifting a disease is **40**. A potion of healing is **50**. Light, warmth, a lamp
-> that doesn't need oil: those are ordinary. **Anything that mends a person is not.**
+> Healing is the expensive kind. Closing a wound costs about 15 gold, which is seventy-five days of a
+> docker's wage. Lifting a disease is 40, and a potion of healing is 50. Light, warmth and a lamp that
+> never needs oil are ordinary. Anything that mends a person is not.
 >
-> **When spellwork shows at all**, it's only in the moment of casting — a muted warm gold or a dull
+> When spellwork shows at all, it is only in the moment of casting — a muted warm gold or a dull
 > silver, nothing sharper. Enchanted things otherwise look like ordinary, well-made objects.
 
 > [!tip]- 🔵 TRAINED — proficient in **Arcana** and **History**
-> **The reason three in ten have a cantrip is arithmetic.** A cantrip costs **4 AP**, once, and never
-> again. An ordinary person gains roughly **8 AP a year** in their twenties, less as they get older — so
-> **a cantrip is about five months of an ordinary life.** Almost anybody can afford one eventually, which
-> is exactly why so many people have one and why nobody is impressed.
+> The reason three in ten have a cantrip is arithmetic. A cantrip costs 4 AP once and never again, and an
+> ordinary person gains roughly 8 AP a year in their twenties, less as they get older. So a cantrip is
+> about five months of an ordinary life. Almost anybody can afford one eventually, which is why so many
+> people have one and why nobody is impressed.
 >
-> **Real casting is a career's worth, not a season's.** The ranks climb steeply — the first is cheap, the
-> fourth is most of what a working life accumulates — so a trained caster is somebody who spent their
-> twenties on this **instead of** everything else, and had a teacher willing to take them.
+> Real casting is a career's worth rather than a season's. The ranks climb steeply: the first is cheap,
+> the fourth is most of what a working life accumulates. A trained caster spent their twenties on this
+> instead of everything else, and had a teacher willing to take them.
 >
-> **This is also why healing is dear and light is cheap.** Both are magic. Only one of them is gated
-> behind years of training, a teacher, and ingredients that come down the coast in ice.
+> That is also why healing is dear and light is cheap. Both are magic. Only one is gated behind years of
+> training, a teacher, and ingredients that come down the coast in ice.
 >
-> **And why the very powerful are usually old.** Capability is bought with a lifetime's accumulation, and
-> most lives top out somewhere near **240–260 AP**. Someone far beyond that has been stretched harder than
-> an ordinary life stretches anybody — which is one reason adventurers make people uneasy.
+> It is why the very powerful are usually old, too. Capability is bought with a lifetime's accumulation
+> and most lives top out near 240 to 260 AP. Someone far beyond that has been stretched harder than an
+> ordinary life stretches anybody, which is one reason adventurers make people uneasy.
 
 > [!warning]- 🟣 RARE — **expertise in both Arcana and History**
-> **You can count a town's magic, and it is a small number.** Stoneharbour — ten thousand people — has
-> perhaps **five** who can do real work: a couple of practitioners, a binder or two, whoever the Shrine
-> keeps. Each can brew about one potion a day and the whole town absorbs maybe a hundred and fifty a year.
-> **There is no room for a sixth**, which is why the trade guards its recipes.
+> You can count a town's magic and it is a small number. Stoneharbour has ten thousand people and perhaps
+> five who can do real work: a couple of practitioners, a binder or two, whoever the Shrine keeps. Each
+> can brew about one potion a day, and the whole town absorbs maybe a hundred and fifty a year. There is
+> no room for a sixth, which is why the trade guards its recipes.
 >
-> **Most of the town's enchantment is already spoken for.** A maker can only hold up so much at once, and
+> Most of the town's enchantment is already spoken for. A maker can only hold up so much at once, and
 > what they hold is mostly useful rather than impressive: the Navy's gate-wards, a chandler's cold-store
-> charms, a lamp in a shop that hasn't needed oil in eleven years. **Whatever is left over is the entire
-> stock of enchanted weapons in Stoneharbour, and it is a handful.**
+> charms, a lamp that has not needed oil in eleven years. Whatever is left over is the whole stock of
+> enchanted weapons in Stoneharbour, and it is a handful.
 >
-> **Accumulation slows with age, and that is the real ceiling.** Eight points a year in your twenties,
-> three in your forties, one or two after that. A master is not someone who worked harder; a master is
-> someone who was **stretched** — hard problems, real danger, work that could fail — for thirty years
-> running. Most people are never stretched at all after about thirty, and stop growing.
+> Accumulation slows with age, and that is the real ceiling: eight points a year in your twenties, three
+> in your forties, one or two after that. A master is not someone who worked harder. A master is someone
+> who kept being stretched by hard problems, real danger and work that could fail, for thirty years. Most
+> people stop being stretched at all around thirty, and stop growing.
 >
-> **The old kingdom's relics are a different case entirely.** They were made when there were more hands
-> and more of the right materials, and most of what survives doesn't work any more. See
+> The old kingdom's relics are a different case. They were made when there were more hands and more of
+> the right materials, and most of what survives does not work any more. See
 > [[House_Rules#magic-items--whose-breath-is-in-it|House Rules → Magic Items]] for why, and what can be
 > done about it.
 
