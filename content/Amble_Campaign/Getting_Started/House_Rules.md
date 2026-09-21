@@ -111,7 +111,9 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 >
 > **Some attacks simply cannot do it.** **Fire, poison, acid, psychic, necrotic, lightning and most damaging spells cannot knock anybody out at all.** You cannot gently set somebody on fire.
 >
-> **A pulled shot is the way round that** — an arrow through the leg, a scorching ray to the weapon hand. **Roll the attack at disadvantage** and it deals **half damage** like any unsuitable attack. **Your GM decides whether the fiction supports it**, and for a fireball the answer is no. *(See [Called Shots](#called-shots) — disadvantage buys restraint, advantage buys an effect.)*
+> **Pulling the blow is the way round that** — an arrow through the leg, a scorching ray to the weapon hand. **Roll the attack at disadvantage** and it deals **half damage** like any unsuitable attack. **Your GM decides whether the fiction supports it**, and for a fireball the answer is no.
+>
+> **This is not a called shot.** A called shot spends *Advantage* to add an effect. Pulling the blow accepts *Disadvantage* to take damage away. **One or the other on an attack, never both.**
 >
 > **Reducing a creature to 0 HP this way** leaves it Unconscious, Stable, and alive — not dying, no death saves, **and that holds even for someone important**. A creature dropped by ordinary damage is a different matter.
 >
@@ -124,14 +126,10 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 ## Called Shots
 
 > [!note]- Details
-> **You can spend a die for something other than hitting harder.**
+> **Spend Advantage to aim for a specific part of a creature**, instead of using it to hit more reliably.
 >
-> | You pay | You get |
-> |---|---|
-> | **Advantage** | a **called shot** — aim for a specific part, below |
-> | **Disadvantage** | a **pulled shot** — make an unsuitable attack non-lethal, at half damage |
->
-> **One per attack.** You cannot buy an effect and pull the blow at the same time.
+> *(Not the same thing as [pulling the blow](#non-lethal-attacks), which accepts Disadvantage to hit
+> somebody less hard. **One or the other on an attack, never both.**)*
 >
 > ### Calling a shot
 >
