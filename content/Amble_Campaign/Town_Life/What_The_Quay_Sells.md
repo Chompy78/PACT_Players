@@ -1,12 +1,8 @@
 ---
 title: What the Quay Sells
 description: Slivers — what people say they are, what they cost, and what nobody can tell you.
-draft: true
+draft: false
 ---
-
-> [!danger] This page is gated
-> It is hidden until the GM turns it on. If you are reading it, either you were told to, or something has
-> gone wrong with the site.
 
 Everybody in Low Quay knows the trade exists. Almost nobody can tell you anything true about it.
 
@@ -27,6 +23,9 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 >
 > What it does for the buyer, nobody will explain properly. It works. That is as much as the street will
 > tell you, and the people who say more are usually selling.
+
+<!-- GATED — not published. Remove these comment markers to reveal the trained and rare tiers.
+     Everything below was written 2026-09-22 and is ready to go live unchanged.
 
 > [!tip]- 🔵 TRAINED — proficient in **Investigation** and **Insight**
 > The money is the clearest thing about it. **A seller gets about fifty gold** for a piece of themselves,
@@ -51,6 +50,9 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 >
 > And the part nobody says out loud: there is no record anywhere of a seller getting better. Not one. The
 > trade is entirely in one direction, and everybody in it knows.
+
+
+-->
 
 ---
 
