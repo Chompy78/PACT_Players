@@ -37,18 +37,19 @@ See [[What_Your_Character_Knows|What Your Character Knows]].
 >
 > | | Young | Usual | The one in a hundred |
 > |---|---|---|---|
-> | Dog | 15 | 30 | a fighting dog, 70 |
-> | Yard mastiff | 40 | 60 | 110 |
+> | Dog | 15 | 30 | a fighting dog, 45 |
+> | Yard mastiff | 25 | 45 | 70 |
 > | Rats, a swarm | — | 40 | — |
-> | Boar | 50 | 80 | an old tusker, 160 |
-> | Wolf | 45 | 70 | the one that leads, 140 |
-> | Black bear | 90 | 120 | — |
-> | Brown bear | — | 200 | one that has been shot at before, 280 |
-> | Dire wolf | 150 | 220 | 330 |
-> | Giant crab, harbour eel | — | 60 | — |
-> | Giant spider | — | 80 | — |
+> | Boar | 30 | 45 | an old tusker, 100 |
+> | Wolf | 30 | 45 | the one that leads, 100 |
+> | Black bear | 50 | 70 | — |
+> | Brown bear | — | 100 | one that has been shot at before, 150 |
+> | Dire wolf | 70 | 100 | 150 |
+> | Giant crab, harbour eel | — | 45 | — |
+> | Giant spider | — | 70 | — |
 >
-> One wolf is not the problem. Five and a leader are worth more than the five of you.
+> One wolf is not the problem. Five and a leader are worth more than the five of you — **numbers matter
+> more than size in a fight here**, because nothing on either side has much blood to spare.
 >
 > A boar keeps going for a moment after it should have dropped. A spider's bite is worse an hour later
 > than it is at the time.
@@ -80,11 +81,11 @@ See [[What_Your_Character_Knows|What Your Character Knows]].
 > | | Young | Usual | The one in a hundred |
 > |---|---|---|---|
 > | Kobold | — | 30 | — |
-> | Goblin | 30 | 50 | a chief, 130 |
-> | Hobgoblin | 70 | 110 | a serjeant, 200 |
-> | Orc raider | 80 | 120 | a boat's leader, 240 |
-> | Bugbear | 100 | 150 | 260 |
-> | Ogre | 180 | 230 | 330 |
+> | Goblin | 30 | 45 | a chief, 150 |
+> | Hobgoblin | 45 | 70 | a serjeant, 180 |
+> | Orc raider | 45 | 70 | a boat's leader, 180 |
+> | Bugbear | 70 | 100 | 180 |
+> | Ogre | 100 | 150 | 220 |
 >
 > Goblins and kobolds fight in numbers and disengage constantly. Hobgoblins do not run, which makes a
 > small band of them worse than a large band of goblins.
@@ -113,9 +114,9 @@ See [[What_Your_Character_Knows|What Your Character Knows]].
 > [!tip]- 🔵 TRAINED — proficient in **Religion** and **Medicine**
 > | | Usual |
 > |---|---|
-> | Skeleton | 60 |
-> | Zombie | 60 |
-> | Ghoul | 130 |
+> | Skeleton | 45 |
+> | Zombie | 45 |
+> | Ghoul | 100 |
 >
 > A skeleton comes apart under a club and shrugs off a blade. A zombie gets back up unless you are
 > thorough. A ghoul's scratch leaves a person unable to move for a few moments, which is long enough.
@@ -142,10 +143,10 @@ See [[What_Your_Character_Knows|What Your Character Knows]].
 > [!tip]- 🔵 TRAINED — proficient in **Nature** and **Athletics**
 > | | Usual |
 > |---|---|
-> | Shark | 110 |
-> | Harbour eel | 60 |
-> | Giant crab | 60 |
-> | A swarm of something small and biting | 40 |
+> | Shark | 70 |
+> | Harbour eel | 45 |
+> | Giant crab | 45 |
+> | A swarm of something small and biting | 45 |
 >
 > Cold water is the real number: a person has minutes, not hours, and strong swimmers drown the same as
 > anyone. Anything you fight in water fights better than you do.
