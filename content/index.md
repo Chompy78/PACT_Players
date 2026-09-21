@@ -7,7 +7,7 @@ description: Handouts, maps, and lore revealed during play
 
 Welcome to the Amble Player Hub. Here you'll find the maps, sketches, stories, and odd little discoveries your characters uncover as they grow up in and around the village of Amble. Some pages may feel familiar, some may raise new questions, and many secrets are still waiting to be revealed — but every piece belongs to the story you've lived together.
 
-**New here?** Start with [[Amble_Campaign/Campaign_Pitch|No One Stays a Child]] — the campaign pitch and premise.
+**New here?** Start with [[Amble_Campaign/Getting_Started/Campaign_Pitch|No One Stays a Child]] — the campaign pitch and premise.
 
 ## Player tools
 
@@ -17,17 +17,17 @@ Ask it whatever you like — *"who is Marek?"*, *"what's the Silver Drop?"*, *"w
 
 **Look someone up.** [[Amble_Campaign/Reference/index|Reference]] — a short page for each character and each chapter, if you just want to check who someone is or what happened when.
 
-**What things cost, and who you're up against.** [[Amble_Campaign/Money_and_Prices|Money and Prices]] ·
-[[Amble_Campaign/What_Magic_Costs|What Magic Costs]] ·
-[[Amble_Campaign/The_Iron_Coin_Guild|The Iron Coin Guild]] ·
-[[Amble_Campaign/Who_Youre_Dealing_With|Who You're Dealing With]] ·
-[[Amble_Campaign/Words_People_Use|Words People Use]]
+**What things cost, and who you're up against.** [[Amble_Campaign/Town_Life/Money_and_Prices|Money and Prices]] ·
+[[Amble_Campaign/Town_Life/What_Magic_Costs|What Magic Costs]] ·
+[[Amble_Campaign/Town_Life/The_Iron_Coin_Guild|The Iron Coin Guild]] ·
+[[Amble_Campaign/Town_Life/Who_Youre_Dealing_With|Who You're Dealing With]] ·
+[[Amble_Campaign/Town_Life/Words_People_Use|Words People Use]]
 
 **What your character would know.** Some pages are split into ⚪ common, 🔵 trained and 🟣 rare knowledge —
 read the box your character has and leave the rest.
-[[Amble_Campaign/What_Your_Character_Knows|How that works]].
+[[Amble_Campaign/Getting_Started/What_Your_Character_Knows|How that works]].
 
-**Spending your advancement.** Your character isn't locked into a class progression — you earn Advancement Points and spend them on what fits your character. [[Amble_Campaign/Character_Advancement|Read more]].
+**Spending your advancement.** Your character isn't locked into a class progression — you earn Advancement Points and spend them on what fits your character. [[Amble_Campaign/Getting_Started/Character_Advancement|Read more]].
 
 ## Campaign
 

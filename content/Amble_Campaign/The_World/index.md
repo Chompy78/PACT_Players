@@ -1,0 +1,10 @@
+---
+title: The World
+description: Amble, Stoneharbour, the wider kingdom, and who lives in it.
+---
+
+- [[Amble|Amble]] — the village: geography, landmarks, and what every child there knows
+- [[Stoneharbour|Stoneharbour]] — the port town of Arc 2, its districts and who runs what
+- [[Peoples_and_Magic|Peoples and Magic]] — who you'll meet, and how common magic really is
+- [[Wider_World_Kids|What Lies Beyond Amble?]] — the world as a child of Amble understands it
+- [[World Map|World Map]] — *nothing on it yet*

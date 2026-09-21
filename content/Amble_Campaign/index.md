@@ -8,12 +8,12 @@ Handouts and reference material that apply to the entire campaign, not just one 
 ## Getting Started
 
 - [[Campaign_Pitch|No One Stays a Child]] — the campaign pitch and premise
-- [[Character_Advancement|A Note on Character Advancement]]
-- [[House_Rules|House Rules]] — every table rule, including magic items
 - **[[What_Your_Character_Knows|What Your Character Knows]]** — ⚪🔵🟣, how this wiki marks common, trained
   and rare knowledge, and the one thing we ask of you
+- [[House_Rules|House Rules]] — every table rule, including magic items
+- [[Character_Advancement|A Note on Character Advancement]]
 
-## Living in Stoneharbour
+## [[Town_Life/index|Town Life]]
 
 The practical pages — what things cost, who you are dealing with, and what the words mean.
 
@@ -28,12 +28,12 @@ The practical pages — what things cost, who you are dealing with, and what the
 - **[[Words_People_Use|Words People Use]]** — the local vocabulary, from *stock* and *breath* to what
   people mean by a *sliver*
 
-## The World
+## [[The_World/index|The World]]
 
 - [[Amble|Amble]] — the village itself: geography, landmarks, and the customs every kid there grows up knowing
-- [[Wider_World_Kids|What Lies Beyond Amble?]] — what a child in Amble actually knows about the world outside it
 - [[Stoneharbour]] — the port town of Arc 2: its districts, its trades, and who runs what
 - [[Peoples_and_Magic|Peoples and Magic]] — who you'll meet growing up here, and how common magic really is
+- [[Wider_World_Kids|What Lies Beyond Amble?]] — what a child in Amble actually knows about the world outside it
 - [[World Map]] — *nothing on it yet*
 
 ## Reference
@@ -46,4 +46,4 @@ The practical pages — what things cost, who you are dealing with, and what the
 
 ## Stoneharbour Map
 
-![[stoneharbour-map.jpeg|Stoneharbour Map|750]]
+![[The_World/stoneharbour-map.jpeg|Stoneharbour Map|750]]
