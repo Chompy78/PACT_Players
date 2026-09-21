@@ -56,6 +56,8 @@ describe where a character *starts*, not a wall.
   mean by a *sliver*
 - [[Who_Youre_Dealing_With|Who You're Dealing With]] — what ordinary working people are actually capable
   of, and why starting a fight is a bad plan
+- [[What_Magic_Costs|What Magic Costs]] — hiring a caster or a binder, and what charms, potions and
+  enchanted gear cost
 - More pages will get the same treatment as the campaign goes on.
 
 ---

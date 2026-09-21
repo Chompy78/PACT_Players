@@ -36,26 +36,48 @@ something serious or seeing how you react.
 > | Passage on a coaster, one leg of the coast | about 1 GP |
 > | A question answered at Guild Records | **1 CP, per question** |
 >
+> **Everyday goods, in a Stoneharbour market**
+>
+> | Food and lodging | | Clothes and kit | |
+> |---|---:|---|---:|
+> | A bowl at Dela's | **2 CP** | Common clothes | 5 SP |
+> | The same anywhere else | 4–5 CP | A cloak | 5 SP |
+> | Small beer, a mug | 1 CP | Boots | 1 GP |
+> | A mug of ale | 4 CP | Boots resoled | 3 SP |
+> | A cheap bed | 5 CP | A plain knife | 1 GP |
+> | A room at an inn | 5 SP | A backpack | 2 GP |
+> | A day's rations | 5 SP | A bedroll | 1 GP |
+>
+> | Tools and travel | | Weapons and armour | |
+> |---|---:|---|---:|
+> | 50 feet of rope | 1 GP | A club | 1 SP |
+> | A lantern | 5 GP | A spear | 1 GP |
+> | A flask of oil | 1 SP | A dagger | 2 GP |
+> | A tinderbox | 5 SP | A shortbow | 25 GP |
+> | A crowbar | 2 GP | A shield | 10 GP |
+> | Passage on a coaster, one leg | 1 GP | Leather armour | 10 GP |
+> | A mule | 8 GP | Studded leather | 45 GP |
+> | A riding horse | 50 GP | A chain shirt | 50 GP |
+>
+> *Anything not listed uses the standard price from the rulebook. Nothing here is a house rule — it is
+> just the stuff that comes up most.*
+>
+> **Small services**
+>
+> | | |
+> |---|---:|
+> | A letter written or read for you | 5 CP |
+> | A bonesetter — a limb set and splinted | 1 SP, or 3 SP for a bad one |
+> | A physician's visit | 1 GP |
+> | A question answered at Guild Records | **1 CP, per question** |
+> | A night in the Watch House's cells | free, and you will wish it were not |
+>
 > **And what a healer charges**, because it is the number that ruins people: **15 GP** to close a wound,
 > **40 GP** to lift a disease, **50 GP** for a potion of healing. See
 > [[Peoples_and_Magic#how-common-is-magic|Peoples and Magic]].
 >
-> **What an enchanted thing costs**, if you were mad enough to ask
->
-> | | |
-> |---|---|
-> | A pot that boils on a word, a lamp that lights itself | **under 100 GP** — a luxury, not a legend |
-> | A lamp that has not needed oil in eleven years | **150–250 GP** |
-> | A working tool: rope that will not fray, a saw that will not blunt | **350–600 GP** |
-> | Boots that do not tire you, a cloak that sheds rain and smoke, a bag that holds more than it should | **700–1,400 GP** |
-> | **A +1 Cloak of Protection, a +1 shield — anything that makes you harder to hurt** | **about 1,900 GP, the same as a +1 sword** |
-> | **A +1 weapon** | **about 1,900 GP** |
-> | **A +2** | **about 4,250 GP** |
-> | **A +3** | **about 6,800 GP, and nobody will sell you one** |
->
-> **The rule of thumb everybody uses: a convenience is cheap and a bonus is dear.** A pot that boils is a
-> nice thing a comfortable household might own. **Anything that makes you harder to kill costs what a
-> sword costs**, because it has to work every second of every day against anything that comes at you.
+> **For anything magical — a charm, a potion, a binder's fee, a healer's casting — see
+> [[What_Magic_Costs|What Magic Costs]].**
 >
 > **A +1 sword costs more than buying a person out of an indenture.** Everybody in Stoneharbour knows
 > roughly what these things cost and nobody has ever held one, which is a normal state of affairs.
