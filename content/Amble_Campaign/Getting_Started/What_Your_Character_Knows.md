@@ -1,88 +1,67 @@
 ---
 title: What Your Character Knows
-description: How this wiki marks common, trained and rare knowledge — and the one thing we ask of you.
+description: How this wiki marks common, trained and rare knowledge, and the one thing we ask of you.
 draft: false
 ---
 
-Some of what's on this wiki is common knowledge. Some of it is the sort of thing you only know if you've
-been taught. A little of it is the sort of thing perhaps a dozen people in a city could tell you.
+Some of what's here is common knowledge. Some of it you'd only know if you'd been taught. A little of it
+perhaps a dozen people in a city could tell you.
 
-**Rather than hide the deep material, we've labelled it.** Read what your character would know, and stop
-there.
+Rather than hide the deep material, we've labelled it. Read what your character would know and stop there.
 
 ## The three tiers
 
 > [!info]- ⚪ COMMON — no proficiency needed
 > What anybody who grew up here would know. Street wisdom, market talk, the version your mother told you.
-> **It is not always accurate**, and where the world believes something wrong, this tier says the wrong
-> thing on purpose.
+>
+> It isn't always accurate. Where the world believes something wrong, this tier says the wrong thing on
+> purpose.
 
 > [!tip]- 🔵 TRAINED — proficient in **both** skills the box names
-> The real numbers and the real mechanism. **Each box names two skills** — Arcana for magic and enchanted
-> things, Investigation for money, contracts and paperwork, Insight for reading people, History for the
-> old kingdom and its relics. **You need proficiency in both** — one on its own is not enough, because the
-> useful part of this tier is what the two together tell you. *(Expertise counts as proficiency, so a
-> specialist only needs ordinary proficiency in the second skill.)*
+> The real numbers and how things actually work. Each box names two skills: Arcana for magic and enchanted
+> things, Investigation for money, contracts and paperwork, Insight for reading people, History for the old
+> kingdom and its relics.
 >
-> **If your character has both, this is simply something they know** — you don't need to roll for it and
-> you don't need to ask.
+> You need both, because the useful part of this tier is what the two together tell you. Expertise counts
+> as proficiency, so a specialist only needs ordinary proficiency in the second skill.
+>
+> If your character has both, this is simply something they know. No roll, no asking.
 
 > [!warning]- 🟣 RARE — **expertise in both** of the box's skills
-> The part a specialist would charge you for, and **it is meant to be out of reach for most characters**:
-> a rare box wants **expertise in both** of its skills. *Insight and History* tells you what a soldier is
-> really worth; *Investigation and Insight* tells you what a contract is really for; *Arcana and
-> Investigation* tells you how a trade prices itself.
+> The part a specialist would charge you for. Expertise in both skills is a serious investment and most
+> characters will never qualify for any of these boxes.
 >
-> **Expertise twice over is a serious commitment** — in this system it is a real slice of everything your
-> character has ever earned, spent on going deep rather than broad, twice. **Most people never do it
-> once.**
+> You can still get there together. One character with both skills knows it on the spot, mid-conversation,
+> while the person is still standing in front of them. Two characters with one skill each can work it out
+> over a quiet conversation — tell your GM and they'll play it as a scene.
 >
-> **You can absolutely work it out between you — it just takes longer.**
->
-> - **One character holding both halves knows it *now*.** On the spot, mid-conversation, while the person
->   is still standing in front of them. **That speed is what the tier is actually worth.**
-> - **Two characters with a half each can get there too**, over a conversation somewhere quiet — comparing
->   what each of you knows until the shape of it appears. **Tell your GM you're doing it and they'll play
->   it as a scene**, not a lookup.
->
-> **So rare knowledge is not a locked door, it is a delay.** And a delay is expensive at exactly the
-> moment it matters: the difference between knowing what a price means while you are being quoted it, and
-> working it out that evening after you have already paid.
->
-> **Or an in-fiction reason**: an apprenticeship, a teacher, a year in the right archive. **If you're not
-> sure whether your character has this, ask — the answer is usually yes if you can say who taught them.**
+> So rare knowledge is a delay rather than a locked door, and a delay costs you at the moment it matters:
+> knowing what a price means while you're being quoted it, or working it out that evening after you paid.
 
 ## The one thing we ask
 
-**We trust you.** Nobody is checking your sheet before you open a page, and there's no penalty for having
-read something.
+We trust you. Nobody checks your sheet before you open a page, and there's no penalty for having read
+something.
 
-**What matters is what your character says and does at the table.** If your fighter has never held a
-spellbook, they don't get to explain the going rate for a binder's rite — even if you, the player, read
-it here this morning. Play the gap. It's usually more fun anyway: *"I don't know, but I know a man who
-does"* is the beginning of an adventure.
+What matters is what your character says and does at the table. If your fighter has never held a
+spellbook, they don't get to quote the going rate for a binder's rite, even if you read it here this
+morning. Play the gap. It's usually more fun: *"I don't know, but I know a man who does"* is the start of
+an adventure.
 
-**And if your character would plausibly have learned something in play — they watched a proving, a binder
-explained it, they grew up next door to one — then they know it.** Tell the GM and it's yours. These tiers
-describe where a character *starts*, not a wall.
+If your character would plausibly have learned something in play — they watched a proving, a binder
+explained it, they grew up next door to one — then they know it. Tell the GM and it's yours. These tiers
+describe where a character starts, not a wall.
 
 ## Where the tiers appear
 
 - [[House_Rules#magic-items--whose-breath-is-in-it|House Rules → Magic Items]] — what enchanted things
-  cost, who holds them up, and what happens when that person dies
-- [[Peoples_and_Magic#how-common-is-magic|Peoples and Magic → How Common Is Magic?]] — why three people
-  in ten have a cantrip, why healing costs a fortune, and how much magic a town actually holds
-- [[The_Iron_Coin_Guild|The Iron Coin Guild]] — what the indenture actually says, and what it costs to
-  find out
-- [[Money_and_Prices|Money and Prices]] — what people earn, what things cost, and why 25 gold a month is
-  not as much as it sounds
-- [[Words_People_Use|Words People Use]] — the local vocabulary, from *stock* and *breath* to what people
-  mean by a *sliver*
-- [[Who_Youre_Dealing_With|Who You're Dealing With]] — what ordinary working people are actually capable
-  of, and why starting a fight is a bad plan
-- [[What_Magic_Costs|What Magic Costs]] — hiring a caster or a binder, and what charms, potions and
-  enchanted gear cost
-- More pages will get the same treatment as the campaign goes on.
+  cost and who holds them up
+- [[Peoples_and_Magic#how-common-is-magic|Peoples and Magic]] — how common magic is, and who can do it
+- [[Money_and_Prices|Money and Prices]] — wages, prices, and where the money actually goes
+- [[What_Magic_Costs|What Magic Costs]] — hiring a caster or a binder, and what charms and gear cost
+- [[The_Iron_Coin_Guild|The Iron Coin Guild]] — what your indenture says and what it costs to find out
+- [[Who_Youre_Dealing_With|Who You're Dealing With]] — what ordinary working people can do
+- [[Words_People_Use|Words People Use]] — the local vocabulary
 
 ---
 
