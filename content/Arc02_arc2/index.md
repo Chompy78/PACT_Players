@@ -13,6 +13,7 @@ Stoneharbour is a working port on a coast none of them has ever seen — bigger 
 - [[Arc02_arc2/NPCs/index|NPCs]]
 - [[Arc02_arc2/Maps/index|Maps]]
 - [[Arc02_arc2/Misc/index|Misc]]
+- [[Arc02_arc2/Guild_Ledger|The Guild Ledger]] — what each of you owes the Iron Coin
 
 ## Chapters
 
