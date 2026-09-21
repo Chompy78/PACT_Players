@@ -33,7 +33,7 @@ Amble is a small village, but the wider world it sits in is not just one kind of
 **Three tiers of knowledge.** Read the one your character has and stop there — see
 [[What_Your_Character_Knows|What Your Character Knows]].
 
-> [!info]- ⚪ COMMON — anyone knows this
+> [!info]- ⚪ COMMON — no proficiency needed
 > **Small magic is ordinary.** It's an unevenly-spread talent, like a good singing voice or a strong arm.
 > Roughly **three people in ten** can manage at least a small cantrip, often untrained and a little
 > informally, and most extended families have someone who can do a little something. A magical convenience
@@ -52,7 +52,7 @@ Amble is a small village, but the wider world it sits in is not just one kind of
 > **When spellwork shows at all**, it's only in the moment of casting — a muted warm gold or a dull
 > silver, nothing sharper. Enchanted things otherwise look like ordinary, well-made objects.
 
-> [!tip]- 🔵 TRAINED — proficient in Arcana
+> [!tip]- 🔵 TRAINED — proficient in **Arcana**
 > **The reason three in ten have a cantrip is arithmetic.** A cantrip costs **4 AP**, once, and never
 > again. An ordinary person gains roughly **8 AP a year** in their twenties, less as they get older — so
 > **a cantrip is about five months of an ordinary life.** Almost anybody can afford one eventually, which
@@ -69,7 +69,7 @@ Amble is a small village, but the wider world it sits in is not just one kind of
 > most lives top out somewhere near **240–260 AP**. Someone far beyond that has been stretched harder than
 > an ordinary life stretches anybody — which is one reason adventurers make people uneasy.
 
-> [!warning]- 🟣 RARE — expertise in Arcana, or trained by a practitioner
+> [!warning]- 🟣 RARE — **expertise in Arcana**, or **proficiency in both Arcana and History**
 > **You can count a town's magic, and it is a small number.** Stoneharbour — ten thousand people — has
 > perhaps **five** who can do real work: a couple of practitioners, a binder or two, whoever the Shrine
 > keeps. Each can brew about one potion a day and the whole town absorbs maybe a hundred and fifty a year.

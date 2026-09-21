@@ -12,7 +12,7 @@ something serious or seeing how you react.
 **Three tiers of knowledge.** Read the one your character has — see
 [[What_Your_Character_Knows|What Your Character Knows]].
 
-> [!info]- ⚪ COMMON — anyone living here knows what things cost
+> [!info]- ⚪ COMMON — no proficiency needed
 > **What people earn in a day**
 >
 > | | |
@@ -34,7 +34,7 @@ something serious or seeing how you react.
 > | Boots resoled at Last & Awl | 3 SP |
 > | A plain knife | 1 GP |
 > | Passage on a coaster, one leg of the coast | about 1 GP |
-> | A question answered at Guild Records | **1 CP, per question** |
+> | Guild Records — a clerk's time | **1 GP an hour, minimum 1 SP** |
 >
 > **Everyday goods, in a Stoneharbour market**
 >
@@ -69,7 +69,7 @@ something serious or seeing how you react.
 > | A letter written or read for you | 5 CP |
 > | A bonesetter — a limb set and splinted | 1 SP, or 3 SP for a bad one |
 > | A physician's visit | 1 GP |
-> | A question answered at Guild Records | **1 CP, per question** |
+> | Guild Records — a clerk's time | **1 GP an hour, minimum 1 SP** |
 > | A night in the Watch House's cells | free, and you will wish it were not |
 >
 > **And what a healer charges**, because it is the number that ruins people: **15 GP** to close a wound,
@@ -87,7 +87,7 @@ something serious or seeing how you react.
 > exaggeration for effect. That is the arithmetic, and it is why people do desperate things when somebody
 > they love is hurt.
 
-> [!tip]- 🔵 TRAINED — you have looked at your own ledger and thought about it
+> [!tip]- 🔵 TRAINED — proficient in **Investigation**, or raised in a trade or a shop
 > **Your 25 GP a month is not what it looks like.** A dockhand earns about 6 GP a month. You are credited
 > at roughly five times that — and then charged your keep at a matching rate, so the two columns cancel to
 > about **2 GP left over**. The Guild books your labour at a skilled-adjacent rate *and* your bed and meals
@@ -111,7 +111,7 @@ something serious or seeing how you react.
 > keeps 3–5 GP of it once stock, fuel, rent and three people's keep are paid. **In a bad month, nothing.**
 > That is a business everyone in the street calls successful.
 
-> [!warning]- 🟣 RARE — you have worked out where the money actually goes
+> [!warning]- 🟣 RARE — **expertise in Investigation**, or **proficiency in both Investigation and Insight**
 > **Almost nobody in this town accumulates anything.** The wage ladder and the price ladder are set
 > against each other so that an ordinary working life ends roughly where it began. Saving happens by
 > going without, and going without is how people end up ill.

@@ -10,7 +10,7 @@ character has been able to walk.
 **Three tiers of knowledge.** Read the one your character has — see
 [[What_Your_Character_Knows|What Your Character Knows]].
 
-> [!info]- ⚪ COMMON — anyone who has lived among working people knows this
+> [!info]- ⚪ COMMON — no proficiency needed
 > **A tradesman is not "an NPC with a hammer". He is the best in the room at his own thing, and usually
 > at three other things nobody mentions.**
 >
@@ -39,7 +39,7 @@ character has been able to walk.
 > **The useful habit: assume the person in front of you is better at their own life than you are.** Ask
 > them things. It costs nothing and they know an astonishing amount.
 
-> [!tip]- 🔵 TRAINED — you have sized people up professionally, or spent time around soldiers
+> [!tip]- 🔵 TRAINED — proficient in **Insight** or **Athletics**
 > **The rough ladder, in the same AP your own character is built with:**
 >
 > | Who | About |
@@ -64,7 +64,7 @@ character has been able to walk.
 > knowledge, his hands, and being very hard to lie to. **They are not fighters. They are simply
 > formidable people.**
 
-> [!warning]- 🟣 RARE — you have been trained to judge this, or you have been on the wrong end of it
+> [!warning]- 🟣 RARE — **expertise in Insight**, or **proficiency in both Insight and History**
 > **Assume you lose any fight you start in Stoneharbour.** That is the honest reading of the table above.
 > Not "it will be hard" — assume you lose. The exceptions are a lone drunk, a boy your own age, and
 > somebody who is already hurt.

@@ -299,7 +299,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 **Three tiers of knowledge.** Read the one your character has and stop there — we trust you to play what
 they'd actually know. See [[What_Your_Character_Knows|What Your Character Knows]].
 
-> [!info]- ⚪ COMMON — anyone who grew up in Halden knows this
+> [!info]- ⚪ COMMON — no proficiency needed
 > **Nobody makes a magic thing and walks away from it. Somebody holds it up.** There is a person behind
 > every enchanted object — usually alive, usually named, often local — and the thing works because they
 > do.
@@ -320,7 +320,7 @@ they'd actually know. See [[What_Your_Character_Knows|What Your Character Knows]
 > **Half the charms sold in a market are worthless.** They look identical to real ones for a month or two,
 > and by then whoever sold it has moved on.
 
-> [!tip]- 🔵 TRAINED — a character proficient in Arcana knows the numbers
+> [!tip]- 🔵 TRAINED — proficient in **Arcana**
 > **Everyone has two totals of the same size.** The AP on your sheet, and the same number again as
 > **breath** — what you can hold up in the world. Most people never use it.
 >
@@ -375,7 +375,7 @@ they'd actually know. See [[What_Your_Character_Knows|What Your Character Knows]
 > **Two trades you cannot learn: binding and brewing.** Taught master-to-apprentice, not on the AP ladder.
 > **You may own anything. You may not make it.**
 
-> [!warning]- 🟣 RARE — expertise in Arcana, or a binder's own apprentice
+> [!warning]- 🟣 RARE — **expertise in Arcana**, or **proficiency in both Arcana and Investigation**
 > **A proving.** A second binder can test a piece for a small fee and tell you whether there is breath in
 > it, roughly how much, and whether whoever put it there is still alive. **An evening's work, and the only
 > honest protection a buyer has.** Ask for one before you pay for anything.

@@ -10,7 +10,7 @@ everyday goods, see [[Money_and_Prices|Money and Prices]].
 **Three tiers of knowledge** — read the one your character has, see
 [[What_Your_Character_Knows|What Your Character Knows]].
 
-> [!info]- ⚪ COMMON — what anybody could find out by asking
+> [!info]- ⚪ COMMON — no proficiency needed
 >
 > ### Hiring somebody to do magic for you
 >
@@ -73,7 +73,7 @@ everyday goods, see [[Money_and_Prices|Money and Prices]].
 > **A +1 sword costs more than buying a person out of an indenture.** Everyone knows roughly what these
 > cost. Almost nobody has ever held one.
 
-> [!tip]- 🔵 TRAINED — proficient in Arcana: how the prices are actually worked out
+> [!tip]- 🔵 TRAINED — proficient in **Arcana**
 > **Every enchanted thing is priced by the breath in it** — the points somebody commits for as long as
 > the thing exists — at about **55 gold a point**, plus the object itself.
 >
@@ -97,7 +97,7 @@ everyday goods, see [[Money_and_Prices|Money and Prices]].
 > **And the choice the prices are really offering you:** a daily ward-bead and six one-use ward-beads
 > both cost 350 gold. **Six beads are better value and worse in a crisis.**
 
-> [!warning]- 🟣 RARE — expertise, or you have stood on the other side of the counter
+> [!warning]- 🟣 RARE — **expertise in Arcana**, or **proficiency in both Arcana and Investigation**
 > **A spent bead is worth keeping.** Refilling costs the binder's fee alone — fifteen or twenty gold —
 > because the points were never lost, only lent. **A party who keep their spent charms and find a
 > friendly binder are buying them at a sixth of the price for the rest of their lives.**

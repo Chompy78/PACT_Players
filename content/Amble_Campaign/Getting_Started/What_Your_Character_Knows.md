@@ -17,16 +17,23 @@ there.
 > **It is not always accurate**, and where the world believes something wrong, this tier says the wrong
 > thing on purpose.
 
-> [!tip]- 🔵 TRAINED — you are proficient in the relevant skill
-> The real numbers and the real mechanism. Arcana for magic and enchanted things; History for the old
-> kingdom and its relics; Medicine for healing and what a potion actually does; Nature, Religion and the
-> rest the same way. **If your character has the proficiency, this is simply something they know** — you
+> [!tip]- 🔵 TRAINED — you are proficient in the skill the box names
+> The real numbers and the real mechanism. **Each box says which skill it wants** — Arcana for magic and
+> enchanted things, Investigation for money, contracts and paperwork, Insight for reading people, History
+> for the old kingdom and its relics, Medicine for healing. **If your character has the proficiency, this is simply something they know** — you
 > don't need to roll for it and you don't need to ask.
 
-> [!warning]- 🟣 RARE — expertise, or a specialist's own training
-> The part a specialist would charge you for. Doubled proficiency in the skill, or an in-fiction reason:
-> an apprenticeship, a teacher, a year in the right archive. **If you're not sure whether your character
-> has this, ask — the answer is usually yes if you can say who taught them.**
+> [!warning]- 🟣 RARE — expertise, two proficiencies, or a specialist's own training
+> The part a specialist would charge you for. **Every rare box names what opens it**, and there are two
+> ways in:
+>
+> - **Expertise** — doubled proficiency in the one skill that matters, or
+> - **Two proficiencies** — because some things are only obvious when you know both halves. *Insight and
+>   History* tells you what a soldier is worth; *Investigation and Insight* tells you what a contract is
+>   really for; *Arcana and Investigation* tells you how a trade prices itself.
+>
+> **Or an in-fiction reason**: an apprenticeship, a teacher, a year in the right archive. **If you're not
+> sure whether your character has this, ask — the answer is usually yes if you can say who taught them.**
 
 ## The one thing we ask
 

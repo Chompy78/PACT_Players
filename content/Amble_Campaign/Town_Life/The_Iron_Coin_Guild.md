@@ -9,7 +9,7 @@ The Guild is the largest thing in your characters' lives. This page is what they
 **Three tiers of knowledge.** Read the one your character has and stop there — see
 [[What_Your_Character_Knows|What Your Character Knows]].
 
-> [!info]- ⚪ COMMON — anyone in Halden knows this
+> [!info]- ⚪ COMMON — no proficiency needed
 > **The Iron Coin Guild is everywhere, and mostly people are glad of it.** It lends money where no bank
 > would, moves cargo the length of the kingdom, insures voyages, and keeps branches in towns too small to
 > interest anyone else. Where the Guild goes, trade follows.
@@ -28,7 +28,7 @@ The Guild is the largest thing in your characters' lives. This page is what they
 > **An indenture is not a prisoner.** They walk the streets, they drink where they like, they're paid. What
 > they cannot do is leave.
 
-> [!tip]- 🔵 TRAINED — your character has read their own contract, or is proficient in Investigation
+> [!tip]- 🔵 TRAINED — proficient in **Investigation**, or you have read your own contract
 > **The terms the party signed, in plain numbers:**
 >
 > | | |
@@ -49,14 +49,15 @@ The Guild is the largest thing in your characters' lives. This page is what they
 > the Service Term.* **Paying it off does not end the seven years.** Those are two separate things, and
 > the contract says so plainly to anyone who gets that far.
 >
-> **Information costs money.** Debt statements, ledger histories, certified copies, archive searches, an
-> appointment to have the contract explained, filing an appeal — each has a fee. Small ones, mostly.
-> Nothing is free.
+> **Information costs money, and it is charged by the clerk's time: 1 GP an hour, minimum 1 SP.** A
+> question answered across the counter is a silver; an afternoon of somebody pulling ledgers is four gold.
+> Statements, ledger histories, certified copies, archive searches, an appointment to have your contract
+> explained, filing an appeal — **all of it is somebody's hour, and nothing is free.**
 >
 > **Your contract copy isn't with you.** The certified copy went to your registered household of record
 > back in Amble. The Guild holds the archive copy. A replacement can be had, for a fee.
 
-> [!warning]- 🟣 RARE — expertise in Investigation, or somebody who has worked the other side of the desk
+> [!warning]- 🟣 RARE — **expertise in Investigation**, or **proficiency in both Investigation and Insight**
 > **A buyout figure is not printed anywhere**, deliberately. The contract names the parts — outstanding
 > debt, administrative closure, training recovery, placement recovery — and leaves the sum to Guild
 > Records, who quote from current schedules on request. **Expect the number to be well above the debt
