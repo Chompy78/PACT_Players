@@ -296,29 +296,26 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 
 ## Magic Items — Whose Breath Is In It
 
-**Three tiers of knowledge.** Read the one your character has and stop there — we trust you to play what
-they'd actually know. See [[What_Your_Character_Knows|What Your Character Knows]].
+Read the box your character qualifies for — see [[What_Your_Character_Knows|What Your Character Knows]].
 
 > [!info]- ⚪ COMMON — no proficiency needed
-> **Nobody makes a magic thing and walks away from it. Somebody holds it up.** There is a person behind
-> every enchanted object — usually alive, usually named, often local — and the thing works because they
-> do.
+> Nobody makes a magic thing and walks away from it. Somebody holds it up. There is a person behind every
+> enchanted object, usually alive and usually local, and the thing works because they do.
 >
-> **When that person dies, the thing goes quiet.** Not at once. A small charm is dead inside a month; a
+> When that person dies, the thing goes quiet. Not at once: a small charm is dead inside a month, a
 > famous sword can take a year. Somebody else can take it up before then, and often does.
 >
-> **The trade that does this is called binding**, and binders charge what most people consider a
-> scandalous amount for what looks like a night of candles and muttering. There are perhaps five in a town
-> the size of Stoneharbour.
+> The trade is called binding, and binders charge what most people think is a scandalous amount for what
+> looks like a night of candles and muttering. There are perhaps five in a town this size.
 >
-> **A potion of healing costs 50 gold because of what's in it**, not because the brewer is greedy — one
-> ingredient is rare, perishable, comes down the coast in ice, and the recipe is a family's secret.
+> A potion of healing costs 50 gold because of what is in it, not because the brewer is greedy. One
+> ingredient is rare and perishable, comes down the coast in ice, and the recipe is a family's secret.
 >
-> **You cannot buy a great weapon.** Not because of the price. The good ones have to be *made* of
-> something, and that something isn't for sale.
+> You cannot buy a great weapon, and not because of the price. The good ones have to be made of
+> something, and that something is not for sale.
 >
-> **Half the charms sold in a market are worthless.** They look identical to real ones for a month or two,
-> and by then whoever sold it has moved on.
+> Half the charms sold at market are worthless. They look identical to real ones for a month or two, and
+> by then whoever sold it has moved on.
 
 > [!tip]- 🔵 TRAINED — proficient in **Arcana** and **Investigation**
 > **Everyone has two totals of the same size.** The AP on your sheet, and the same number again as
