@@ -16,6 +16,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 - [Stable Characters Can Join a Rest](#stable-characters-can-join-a-rest)
 - [Revival Exhaustion](#revival-exhaustion)
 - [Non-Lethal Attacks](#non-lethal-attacks)
+- [Called Shots](#called-shots)
 - [Inspiration](#inspiration)
 - [Drinking a Potion — Bonus Action](#drinking-a-potion--bonus-action)
 - [Medium Armor Strength Requirement](#medium-armor-strength-requirement)
@@ -110,7 +111,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 >
 > **Some attacks simply cannot do it.** **Fire, poison, acid, psychic, necrotic, lightning and most damaging spells cannot knock anybody out at all.** You cannot gently set somebody on fire.
 >
-> **The called shot is the way round that** — an arrow through the leg, a scorching ray to the weapon hand. **Roll the attack at disadvantage** and it deals **half damage** like any unsuitable attack. **Your GM decides whether the fiction supports it**, and for a fireball the answer is no.
+> **A pulled shot is the way round that** — an arrow through the leg, a scorching ray to the weapon hand. **Roll the attack at disadvantage** and it deals **half damage** like any unsuitable attack. **Your GM decides whether the fiction supports it**, and for a fireball the answer is no. *(See [Called Shots](#called-shots) — disadvantage buys restraint, advantage buys an effect.)*
 >
 > **Reducing a creature to 0 HP this way** leaves it Unconscious, Stable, and alive — not dying, no death saves, **and that holds even for someone important**. A creature dropped by ordinary damage is a different matter.
 >
@@ -119,6 +120,49 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > *Example: a punch, a club or a sap still deals full damage. An arrow, a spear thrust or a sword slash deals half. **A Fire Bolt deals none — it cannot be pulled at all**, unless your GM lets you call a shot for it, at disadvantage, for half. A sword's pommel or the flat of the blade may be allowed at full damage — ask before you swing.*
 >
 > *2024 RAW: any melee attack can be declared non-lethal at the moment it reduces a creature to 0 hit points — decided after damage is rolled, with no penalty. Ranged attacks and spells can't normally knock a creature out at all. This house rule moves the declaration earlier (before the attack roll), lets weapons that aren't built for it try at half damage, keeps RAW's "spells can't" for damaging magic, and adds the called shot as a deliberate, costly exception.*
+
+## Called Shots
+
+> [!note]- Details
+> **You can spend a die for something other than hitting harder.**
+>
+> | You pay | You get |
+> |---|---|
+> | **Advantage** | a **called shot** — aim for a specific part, below |
+> | **Disadvantage** | a **pulled shot** — make an unsuitable attack non-lethal, at half damage |
+>
+> **One per attack.** You cannot buy an effect and pull the blow at the same time.
+>
+> ### Calling a shot
+>
+> 1. **You must already have Advantage** — hidden, flanking, a spell, however you got it.
+> 2. **Say it before you roll.** *"I'm going for the ogre's eye."*
+> 3. **Spend the Advantage: roll one d20 instead of two.** You are trading a better chance to hit for the
+>    chance of doing something extra.
+> 4. **Hit normally.** Miss and nothing happens at all. Hit and you deal **normal damage** — a called shot
+>    never adds damage.
+> 5. **The target rolls a Constitution save**, DC **10 or half the damage you dealt, whichever is higher**.
+> 6. **On a failure, the effect below applies.**
+>
+> **So the harder you hit, the harder it is to shrug off.** A 7-damage arrow is a DC 10 save. A
+> 34-damage critical is DC 17.
+>
+> | Where you aimed | On a failed save |
+> |---|---|
+> | **Head** | no Reactions until the start of your next turn |
+> | **Eye** | **Blinded** until the start of your next turn |
+> | **Arm or hand** | drops one held object |
+> | **Leg** | Speed reduced by 10 feet until the end of its next turn |
+> | **Wing** | Flying Speed halved until the end of its next turn |
+> | **Mouth or throat** | **cannot speak** until its next turn — *no verbal components* |
+> | **Tentacle or tail** | one attack tied to it is unavailable until its next turn |
+> | **Unusual anatomy** | the GM suppresses something appropriate |
+>
+> **The creature has to actually have the part** — no wing shots on a wolf — and a GM may rule something
+> Gargantuan simply too big for it to matter.
+>
+> *This is a community rule with a year of playtesting behind it, adopted as written. It costs a real
+> resource, which is why there's no other limit on it: miss, and you gave up Advantage for nothing.*
 
 ## Inspiration
 
