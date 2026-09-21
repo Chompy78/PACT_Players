@@ -7,8 +7,10 @@ draft: false
 Stoneharbour is a working port. Most of what you meet has two legs and a grievance — for those, see
 [[Who_Youre_Dealing_With|Who You're Dealing With]]. This page is for the rest.
 
-**Three kinds of thing, and different characters know about different ones.** Read the boxes your
-character qualifies for — see [[What_Your_Character_Knows|What Your Character Knows]].
+**Different characters know about different things.** Each section below wants its own pair of skills —
+or the right kind of character. **If your character is built as a ranger or druid, the beast boxes are
+simply yours**, skills or not, and the same goes for the other sections. See
+[[What_Your_Character_Knows|What Your Character Knows]].
 
 ## Beasts
 
@@ -31,7 +33,7 @@ character qualifies for — see [[What_Your_Character_Knows|What Your Character 
 >
 > The rule everybody's grandmother says: *it is not the wolf you can see.*
 
-> [!tip]- 🔵 TRAINED — proficient in **Nature** and **Survival**
+> [!tip]- 🔵 TRAINED — proficient in **Nature** and **Survival**, or built as a **ranger or druid**
 > What things fight like, in the same advancement points your character is built from. Your party are
 > around 100 each.
 >
@@ -53,7 +55,7 @@ character qualifies for — see [[What_Your_Character_Knows|What Your Character 
 > A boar keeps going for a moment after it should have dropped. A spider's bite is worse an hour later
 > than it is at the time.
 
-> [!warning]- 🟣 RARE — **expertise in both Nature and Survival**
+> [!warning]- 🟣 RARE — **expertise in both Nature and Survival**, or a **ranger or druid** with either one
 > Animals gain by being stretched, the same way you do. A wolf that has hunted six winters is not the wolf
 > born last spring, and the one leading the pack survived what killed the rest.
 >
@@ -76,7 +78,7 @@ character qualifies for — see [[What_Your_Character_Knows|What Your Character 
 >
 > Nobody in town has seen any of this. Everybody in town has an opinion about it.
 
-> [!tip]- 🔵 TRAINED — proficient in **History** and **Survival**
+> [!tip]- 🔵 TRAINED — proficient in **History** and **Survival**, or built as a **fighter, barbarian or paladin**
 > | | Young | Usual | The one in a hundred |
 > |---|---|---|---|
 > | Kobold | — | 30 | — |
@@ -92,7 +94,7 @@ character qualifies for — see [[What_Your_Character_Knows|What Your Character 
 > Orcs close the distance faster than you expect on the first round. Plan for it or be in melee before
 > your bow matters.
 
-> [!warning]- 🟣 RARE — **expertise in both History and Survival**
+> [!warning]- 🟣 RARE — **expertise in both History and Survival**, or a **soldier's background and either one**
 > These are people, with leaders and reasons. A war band has a chief because somebody killed the last one,
 > and it holds together exactly as long as the chief is standing.
 >
@@ -110,7 +112,7 @@ character qualifies for — see [[What_Your_Character_Knows|What Your Character 
 > If you ever see one that does, it is not a monster story, it is a disaster, and somebody caused it.
 > Shrine Hill will want to know before the Watch does.
 
-> [!tip]- 🔵 TRAINED — proficient in **Religion** and **Medicine**
+> [!tip]- 🔵 TRAINED — proficient in **Religion** and **Medicine**, or built as a **cleric or paladin**
 > | | Usual |
 > |---|---|
 > | Skeleton | 60 |
@@ -122,11 +124,62 @@ character qualifies for — see [[What_Your_Character_Knows|What Your Character 
 >
 > None of these are people. Nothing on this list can be talked to, spared or arrested.
 
-> [!warning]- 🟣 RARE — **expertise in both Religion and Medicine**
+> [!warning]- 🟣 RARE — **expertise in both Religion and Medicine**, or a **cleric** with either one
 > Bodies do not do this on their own. Something made it happen, and the making leaves marks a physician
 > can read: what was taken, how recently, and whether the person was alive at the time.
 >
 > The practical question is never the corpse. It is who benefited, and whether they are still nearby.
+
+## Out on the water
+
+> [!info]- ⚪ COMMON — no proficiency needed
+> Every sailor knows somebody who saw something. Most of it was a log, a seal or a whale.
+>
+> The things that actually kill people at sea are cold, rope, weather and falling. In that order, every
+> year, without fail.
+>
+> Sharks follow the grain ships in summer. Nobody swims off the Narrows after the Herring Hall has thrown
+> its scraps.
+
+> [!tip]- 🔵 TRAINED — proficient in **Nature** and **Athletics**, or built as a **sailor or ranger**
+> | | Usual |
+> |---|---|
+> | Shark | 110 |
+> | Harbour eel | 60 |
+> | Giant crab | 60 |
+> | A swarm of something small and biting | 40 |
+>
+> Cold water is the real number: a person has minutes, not hours, and strong swimmers drown the same as
+> anyone. Anything you fight in water fights better than you do.
+
+> [!warning]- 🟣 RARE — **expertise in both Nature and Athletics**, or years at sea
+> The old crews will tell you the deep water past the shelf is a different country, and they are not being
+> poetic. Nobody on this coast has business out there and the ones who went are not available for comment.
+>
+> Nothing has ever come out of it into Stoneharbour's harbour. That is worth remembering as a fact rather
+> than a comfort.
+
+## Made things, and magic that bites
+
+> [!info]- ⚪ COMMON — no proficiency needed
+> Wards are ordinary here. The Naval Wharf has them, the Guild strongroom has them, and every one of them
+> was put there by a person you could go and talk to.
+>
+> A ward does not attack you. It stops you, it marks you, or it tells somebody. That is what they are for.
+
+> [!tip]- 🔵 TRAINED — proficient in **Arcana** and **Investigation**, or built as a **wizard, sorcerer or warlock**
+> There are no constructs walking around Stoneharbour. What exists is worked things: a gate-seal, a lock
+> that resents you, a chest that will not open for the wrong hand.
+>
+> All of it is held up by somebody living, which means all of it can be asked about, bought off or
+> outlived. See [[What_Magic_Costs|What Magic Costs]].
+
+> [!warning]- 🟣 RARE — **expertise in both Arcana and Investigation**
+> A ward that has outlived its maker is the interesting one. Either somebody took up holding it, or it is
+> not the kind of magic that needs anybody.
+>
+> The second kind exists. You will not be told what it is made of, and the people who could tell you have
+> good reasons not to.
 
 ---
 
