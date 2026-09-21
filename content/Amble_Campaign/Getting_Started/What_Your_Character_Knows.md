@@ -20,9 +20,12 @@ there.
 > [!tip]- 🔵 TRAINED — proficient in **both** skills the box names
 > The real numbers and the real mechanism. **Each box names two skills** — Arcana for magic and enchanted
 > things, Investigation for money, contracts and paperwork, Insight for reading people, History for the
-> old kingdom and its relics. **Two proficiencies or one expertise**, because those cost about the same to
-> get and describe the same kind of person: somebody who was actually taught this. **If your character has the proficiency, this is simply something they know** — you
-> don't need to roll for it and you don't need to ask.
+> old kingdom and its relics. **You need proficiency in both** — one on its own is not enough, because the
+> useful part of this tier is what the two together tell you. *(Expertise counts as proficiency, so a
+> specialist only needs ordinary proficiency in the second skill.)*
+>
+> **If your character has both, this is simply something they know** — you don't need to roll for it and
+> you don't need to ask.
 
 > [!warning]- 🟣 RARE — **expertise in both** of the box's skills
 > The part a specialist would charge you for, and **it is meant to be out of reach for most characters**:
