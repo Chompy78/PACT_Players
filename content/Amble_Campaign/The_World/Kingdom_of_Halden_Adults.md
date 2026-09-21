@@ -1,7 +1,7 @@
 ---
 title: The Kingdom of Halden
 description: The kingdom Amble belongs to — its crown, its border region, and the nearest real town.
-draft: true
+draft: false
 ---
 
 <!-- Reveal gate: this page is deliberately draft:true, not "unfinished." It holds adult/older-teen-level

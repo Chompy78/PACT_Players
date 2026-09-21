@@ -34,6 +34,7 @@ The practical pages — what things cost, who you are dealing with, and what the
 - [[Stoneharbour]] — the port town of Arc 2: its districts, its trades, and who runs what
 - [[Peoples_and_Magic|Peoples and Magic]] — who you'll meet growing up here, and how common magic really is
 - [[Wider_World_Kids|What Lies Beyond Amble?]] — what a child in Amble actually knows about the world outside it
+- [[Kingdom_of_Halden_Adults|The Kingdom of Halden]] — the kingdom itself, now that you have seen more of it than Amble
 - [[World Map]] — *nothing on it yet*
 
 ## Reference

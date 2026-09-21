@@ -106,15 +106,19 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 >
 > **Suitable attacks deal full damage.** Unarmed strikes, clubs, saps, and similar attacks the GM agrees are reasonably non-lethal by nature deal normal damage even when declared non-lethal.
 >
-> **Unsuitable attacks deal half damage.** Most slashing and piercing weapons, ranged attacks, and damaging spells — along with fire, acid, poison, and similar damage types — deal half damage when used non-lethally. You're deliberately pulling a weapon that isn't built for it.
+> **Unsuitable attacks deal half damage.** Most slashing and piercing weapons, thrown weapons, bows and crossbows — you're deliberately pulling a weapon that wasn't built for it.
 >
-> **Reducing a creature to 0 HP this way** leaves it Unconscious, Stable, and alive — not dying, no death saves.
+> **Some attacks simply cannot do it.** **Fire, poison, acid, psychic, necrotic, lightning and most damaging spells cannot knock anybody out at all.** You cannot gently set somebody on fire.
+>
+> **The called shot is the way round that** — an arrow through the leg, a scorching ray to the weapon hand. **Roll the attack at disadvantage** and it deals **half damage** like any unsuitable attack. **Your GM decides whether the fiction supports it**, and for a fireball the answer is no.
+>
+> **Reducing a creature to 0 HP this way** leaves it Unconscious, Stable, and alive — not dying, no death saves, **and that holds even for someone important**. A creature dropped by ordinary damage is a different matter.
 >
 > **The GM has final say** on whether a given attack counts as suitable (full damage) or unsuitable (half damage) for non-lethal use.
 >
-> *Example: a punch, a club, or a sap swung non-lethally still deals full damage. An arrow, a spear thrust, a sword slash, or a Fire Bolt deals half damage if declared non-lethal. A sword's pommel or the flat of its blade may be allowed at full damage at the GM's discretion — ask before you swing.*
+> *Example: a punch, a club or a sap still deals full damage. An arrow, a spear thrust or a sword slash deals half. **A Fire Bolt deals none — it cannot be pulled at all**, unless your GM lets you call a shot for it, at disadvantage, for half. A sword's pommel or the flat of the blade may be allowed at full damage — ask before you swing.*
 >
-> *2024 RAW: any melee attack can be declared non-lethal at the moment it reduces a creature to 0 hit points — decided after damage is rolled, with no damage penalty either way. Ranged attacks and spells can't normally knock a creature out at all. This house rule moves the declaration earlier (before the attack roll, not after seeing the result) and extends non-lethal intent to any attack type — at the cost of half damage for anything that isn't inherently suited to it.*
+> *2024 RAW: any melee attack can be declared non-lethal at the moment it reduces a creature to 0 hit points — decided after damage is rolled, with no penalty. Ranged attacks and spells can't normally knock a creature out at all. This house rule moves the declaration earlier (before the attack roll), lets weapons that aren't built for it try at half damage, keeps RAW's "spells can't" for damaging magic, and adds the called shot as a deliberate, costly exception.*
 
 ## Inspiration
 
