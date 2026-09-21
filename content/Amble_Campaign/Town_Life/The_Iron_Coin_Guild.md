@@ -12,9 +12,9 @@ draft: false
 > interest anyone else. Where the Guild goes, trade follows.
 >
 > It recruits in villages. A factor comes through with a table, a ledger and a good coat, and takes
-> on people with no prospects — a seven-year indenture, and in exchange they feed you, house you, train
-> you and find you work. Families sign their children to it. **It is a normal thing to do, not a scandal**,
-> and for plenty of people it has genuinely been the way out.
+> on people with no prospects. A seven-year indenture, and in exchange they feed you, house you, train you
+> and find you work. Families sign their children to it. It is a normal thing to do, not a scandal, and
+> for plenty of people it has been the way out.
 >
 > Its word is good. That is the whole business. The Guild honours its contracts to the letter, which
 > sounds like a comfort until you have read one.
