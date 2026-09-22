@@ -135,6 +135,10 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > points were never lost, only lent. Find a friendly binder and you are buying charms at a sixth of the
 > price.
 >
+> **But a refill needs a maker, a day and a town.** You cannot do it on the road, in the field, or the
+> morning after you needed it. That is the whole reason to own something that refills itself: not that it
+> is cheaper, but that it is full when you are three days from anywhere.
+>
 > A daily charm refills at dawn out of its maker's life, not yours. One whose maker has died works once
 > more and then never again.
 >
