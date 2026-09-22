@@ -47,6 +47,11 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 >
 > ### Things that only last a season
 >
+> **How to tell household magic from the real thing: can you aim it?** A lamp in a wall is furniture. The
+> same light in your hand, where you choose to put it, is a spell — and spells cost a piece of somebody.
+> If nobody ever rolls, it cannot hurt or help anyone, and you would not notice it failing in a fight,
+> it is household magic and it is cheap.
+>
 > **Anything meant to last three months can be made by anybody with the Art** — a hedge-witch, an
 > apothecary, the woman in your village who does this. No binder, no paperwork, no holder.
 >
