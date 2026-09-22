@@ -38,12 +38,16 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > | A pot that boils | 18 GP |
 > | Clothes that mend their own tears, permanently | 165 GP |
 > | A lamp-bead | 20 GP |
-> | A hall lamp, light at will, for good | 25 GP |
+> | A self-lighting lamp — the wick catches on a word, still burns oil | 25 GP |
+> | A fireless lamp — light with no oil at all, like Dorn's | 165 GP |
 > | A cold-box, food keeps | 45 GP |
 >
-> None of it needs attunement and none of it runs out. A well-off family owns the pot; a rich one lights
-> the hall and keeps the cold-box. Eighteen gold is three months of a docker's wage, so he owns none of
-> it.
+> None of it needs attunement and none of it runs out. A well-off family owns the pot and the cold-box.
+> Eighteen gold is three months of a docker's wage, so he owns none of it.
+>
+> **Lighting a house without fire is a different order of money.** Six fireless lamps is about a thousand
+> gold, which is a year of a merchant household's whole income. The genuinely rich do it. The comfortable
+> light one good room and use candles everywhere else.
 >
 > ### Things that only last a season
 >
