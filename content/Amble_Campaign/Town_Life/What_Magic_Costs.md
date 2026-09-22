@@ -34,9 +34,9 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 >
 > | | |
 > |---|---:|
-> | A needle that mends | 15 GP |
+> | A needle that mends, for the season | 20 GP |
 > | A pot that boils | 18 GP |
-> | Clothes that mend their own tears | 20 GP |
+> | Clothes that mend their own tears, permanently | 165 GP |
 > | A lamp-bead | 20 GP |
 > | A hall lamp, light at will, for good | 25 GP |
 > | A cold-box, food keeps | 45 GP |
@@ -47,10 +47,13 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 >
 > ### Things that only last a season
 >
-> **How to tell household magic from the real thing: can you aim it?** A lamp in a wall is furniture. The
-> same light in your hand, where you choose to put it, is a spell — and spells cost a piece of somebody.
-> If nobody ever rolls, it cannot hurt or help anyone, and you would not notice it failing in a fight,
-> it is household magic and it is cheap.
+> **How to tell household magic from the real thing.** Household magic is one small fixed trick — warming,
+> chilling, cleaning, lighting a flame, a sound, a bloom — always the same one, with no choice about it.
+> **A lamp in a wall is furniture. The same light in your hand, where you choose to put it, is a spell**,
+> and spells cost a piece of somebody.
+>
+> The quick test: **can you aim it?** If not, and nobody ever rolls, and you would not notice it failing
+> in a fight, it is household magic and it is cheap.
 >
 > **Anything meant to last three months can be made by anybody with the Art** — a hedge-witch, an
 > apothecary, the woman in your village who does this. No binder, no paperwork, no holder.
