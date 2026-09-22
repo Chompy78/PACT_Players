@@ -62,6 +62,9 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > It also means nothing seasonal can be inherited or resold. **If an old thing still works, a binder made
 > it**, and that is worth noticing.
 >
+> **There is no seasonal +1.** Anything that puts a number on your sheet needs a binder however long it is
+> meant to last. The cheap seasonal trade is charms, wards and tools.
+>
 > ### Charms, a spell in a bead
 >
 > | | | Uses |
