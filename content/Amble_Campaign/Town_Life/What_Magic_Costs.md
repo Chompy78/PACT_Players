@@ -24,6 +24,12 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 >
 > Ask for a proving before you buy anything. Half the charms sold at market do nothing at all.
 >
+> **And ask whether it is bought clean or on a string.** A proving tells you there is breath in a thing
+> and whether whoever put it there is alive. It cannot tell you the terms. Something **bought clean** has
+> a holder who was paid once and is bound; something **on a string** has one being paid by the year, and
+> it stops working when the payments do. Ask who holds it, ask to see the bond, and remember that the
+> person who can switch your sword off may not be the person selling it to you.
+>
 > ### Household magic
 >
 > | | |
