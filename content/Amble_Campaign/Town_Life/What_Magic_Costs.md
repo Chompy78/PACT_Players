@@ -50,11 +50,15 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > **Anything meant to last three months can be made by anybody with the Art** — a hedge-witch, an
 > apothecary, the woman in your village who does this. No binder, no paperwork, no holder.
 >
-> | | |
-> |---|---:|
-> | A fall-charm for the season | under 20 GP |
-> | A ward-bead to midwinter | 30 GP |
-> | Two seasons instead of one | about a third of the permanent price |
+> | | Permanent | For the season |
+> |---|---:|---:|
+> | A fall-charm | 70 GP | **~15 GP** |
+> | A ward-bead | 120 GP | **~20 GP** |
+> | Rope that will not fray | 250 GP | **~35 GP** |
+>
+> The reason it is so much cheaper: most of a permanent price is renting somebody's life for good. **A
+> seasonal thing borrows it and gives it back**, so all you pay for is the object, the materials and
+> somebody's day.
 >
 > **This is the magic most people actually own.** Amble has no binder and never has, and Amble still has
 > charms, because somebody makes them fresh each spring.
