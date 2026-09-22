@@ -30,6 +30,22 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > it stops working when the payments do. Ask who holds it, ask to see the bond, and remember that the
 > person who can switch your sword off may not be the person selling it to you.
 >
+> ### The penny trade
+>
+> Small comforts, used once, gone by themselves. No binder, no paperwork, and cheap enough to buy on a
+> whim.
+>
+> | | |
+> |---|---:|
+> | **A warming stone — one hot meal, anywhere** | **2 SP** |
+> | A cooling bead — one jug kept cold for a day | 3 SP |
+> | A cleaning charm — one garment, one stain | 1 SP |
+> | A chip that sweetens a cask of bad water | 5 SP |
+> | The same made to last the season — a stone that warms every meal till spring | 3–5 GP |
+>
+> A carter on the north road pays two silver for a hot dinner without lighting a fire. A rich house buys
+> them by the dozen at midwinter. A docker has held one, at a wedding, and remembers it.
+>
 > ### Household magic
 >
 > | | |
