@@ -151,6 +151,10 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > **The cheapest useful rung is once a year**, and it is the one households buy: a charm that works at
 > midwinter or at a naming, sits on a shelf the rest of the time, and gets inherited.
 >
+> **What a price actually pays for**, when somebody quotes you one: **50 gold a point** to the person
+> whose life holds the thing up, **about a tenth of that again** to the binder for the rite, and the cost
+> of the object itself. A once-a-day ward-bead is 28 points, so 1,400 plus 140 plus the bead.
+>
 > Having something made costs about half what buying it does, if you supply the breath yourself. You pay
 > the object, the materials and the binder's fee, and you do not rent a stranger's life. What it costs you
 > instead is that those points stay committed for as long as the thing exists.
