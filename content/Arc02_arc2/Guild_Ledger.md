@@ -8,7 +8,7 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Moss
 
-**Owed: 752 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 752 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
@@ -19,7 +19,7 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Caspian
 
-**Owed: 732 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 732 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
@@ -30,7 +30,7 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Archer
 
-**Owed: 702 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 702 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
@@ -40,7 +40,7 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Anders
 
-**Owed: 709.5 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 709.5 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
@@ -51,7 +51,7 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Fenwik
 
-**Owed: 702 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 702 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
@@ -61,7 +61,7 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Skylar
 
-**Owed: 702 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 702 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
