@@ -127,8 +127,8 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > the object, the materials and the binder's fee, and you do not rent a stranger's life. What it costs you
 > instead is that those points stay committed for as long as the thing exists.
 >
-> A daily ward-bead and six one-use ward-beads both cost 350 gold. Six beads are better value and worse in
-> a crisis.
+> **A seasonal ward-bead and three one-use ward-beads both cost about 350 gold. Three beads are better
+> value and worse in a crisis.**
 
 > [!warning]- 🟣 RARE — **expertise in both Arcana and Investigation**
 > Keep your spent beads. Refilling costs the binder's fee alone, fifteen or twenty gold, because the
