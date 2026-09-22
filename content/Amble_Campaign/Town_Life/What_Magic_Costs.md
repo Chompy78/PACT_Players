@@ -45,6 +45,23 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > the hall and keeps the cold-box. Eighteen gold is three months of a docker's wage, so he owns none of
 > it.
 >
+> ### Things that only last a season
+>
+> **Anything meant to last three months can be made by anybody with the Art** — a hedge-witch, an
+> apothecary, the woman in your village who does this. No binder, no paperwork, no holder.
+>
+> | | |
+> |---|---:|
+> | A fall-charm for the season | under 20 GP |
+> | A ward-bead to midwinter | 30 GP |
+> | Two seasons instead of one | about a third of the permanent price |
+>
+> **This is the magic most people actually own.** Amble has no binder and never has, and Amble still has
+> charms, because somebody makes them fresh each spring.
+>
+> It also means nothing seasonal can be inherited or resold. **If an old thing still works, a binder made
+> it**, and that is worth noticing.
+>
 > ### Charms, a spell in a bead
 >
 > | | | Uses |
