@@ -19,13 +19,14 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Caspian
 
-**Owed: 702 GP** · 5 years 8 months of the term left
+**Owed: 732 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
 | Opening account (full recruitment, signed Ch. 1: Indentured) | 750 GP |
 | Repaid from surplus, 16 months | −48 GP |
-| **Owed** | **702 GP** |
+| Training, your share (30%) | +30 GP |
+| **Owed** | **732 GP** |
 
 ## Archer
 
@@ -39,13 +40,14 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Anders
 
-**Owed: 702 GP** · 5 years 8 months of the term left
+**Owed: 709.5 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
 | Opening account (full recruitment, signed Ch. 1: Indentured) | 750 GP |
 | Repaid from surplus, 16 months | −48 GP |
-| **Owed** | **702 GP** |
+| Training, your share (30%) | +7.5 GP |
+| **Owed** | **709.5 GP** |
 
 ## Fenwik
 
