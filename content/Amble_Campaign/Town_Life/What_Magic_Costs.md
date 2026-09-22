@@ -80,8 +80,8 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > | A tongue, you understand anything spoken | 70 GP | one |
 > | A step, you are 120 feet away | 120 GP | one |
 > | A ward-bead, a blow that would have hit you does not | 120 GP | one |
-> | A daily ward-bead | 350 GP | once a day |
-> | A courier's stride | 350 GP | three times a day |
+> | A ward-bead, four times a year | 350 GP | seasonal |
+> | A courier's stride | 350 GP | once a week |
 >
 > Single-use charms need no attunement and cost nothing to carry. The ones that refill every day cost six
 > times as much and do need a slot.
@@ -108,15 +108,20 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > | The thing | Points |
 > |---|---|
 > | Household magic, below cantrip and no use in a fight | none. Materials and an evening |
-> | A spell, one use | spell level × 1, and the points come back when it is spent |
-> | A spell, once a day | spell level × 3, committed for good |
-> | A spell, three times a day | spell level × 6 |
+> | A spell, one use | spell level × 1, and the point comes back when it is spent |
+> | A spell, once a year / season / month / week | × 2 / 3 / 4 / 6, committed for good |
+> | A spell, once a day | **× 10** |
+> | A spell, three times a day | × 20 |
 > | A cantrip at will | 3 |
 > | A tool with no spell in it | 4–20, by how much work it saves |
 > | Anything that puts a number on your sheet | 30 / 60 / 120 for +1 / +2 / +3 |
 >
-> A step is a 2nd-level spell used once, so 2 points and 120 gold. A daily ward-bead is the same spell
-> three times over: 6 points, 350 gold.
+> A step is a 2nd-level spell used once, so 2 points and 120 gold. The same spell once a season is 6
+> points and 350; once a day it is 20 points and about 1,130 — because a daily charm is a free casting
+> every day for the rest of your life, and that is worth roughly half a +1 sword.
+>
+> **The cheapest useful rung is once a year**, and it is the one households buy: a charm that works at
+> midwinter or at a naming, sits on a shelf the rest of the time, and gets inherited.
 >
 > Having something made costs about half what buying it does, if you supply the breath yourself. You pay
 > the object, the materials and the binder's fee, and you do not rent a stranger's life. What it costs you
