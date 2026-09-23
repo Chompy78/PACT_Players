@@ -3,6 +3,11 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-09-24 · House Rules: non-lethal attacks simplified** — synced from the GM repo's
+  `D-2026-09-24-non-lethal-tier-by-damage-type`. The tier now comes from the damage type (bludgeoning and
+  force full, slashing, piercing, thunder, lightning, cold and psychic half, fire, acid, poison, necrotic and
+  radiant impossible), the worst part of a hit sets its tier, and **"pulling the blow" is removed** along with
+  its Called Shots cross-reference.
 - **2026-09-22 · Arc 2 Chs. 2–4 (campaign Chs. 6–8) handouts published** — pulled from the GM repo.
   `Chapter_2/` ("The Line") gets all five of Ch6's props. `Chapter_3/` ("The Night of the Long Gale")
   gets Ch7's H01–H04; the GM file `H03_Apothecary_Chit.png` is really the rebuilt dropped tally, so it

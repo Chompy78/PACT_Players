@@ -136,31 +136,30 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > [!note]- Details
 > **Declare it before you roll.** A non-lethal attack has to be declared *before* the attack roll — you're announcing intent, not deciding after the fact once you see how much damage landed.
 >
-> **Suitable attacks deal full damage.** Unarmed strikes, clubs, saps, and similar attacks the GM agrees are reasonably non-lethal by nature deal normal damage even when declared non-lethal.
+> **What you hit with decides the damage, and it comes straight from the damage type printed on the weapon or spell.** There is no judgement call.
 >
-> **Unsuitable attacks deal half damage.** Most slashing and piercing weapons, thrown weapons, bows and crossbows — you're deliberately pulling a weapon that wasn't built for it.
+> | | Damage | What lands here |
+> |---|---|---|
+> | **Suitable** | **Full** | **Bludgeoning** — fists, clubs, maces, staffs, saps, slings, grapples, shield bashes, a thrown club or hammer. **Force spells** — raw pressure, a magical shove. |
+> | **Unsuitable** | **Half** | **Slashing and piercing** — swords, axes, daggers, spears, bows, crossbows, darts, javelins, a thrown handaxe. **Thunder, lightning, cold and psychic spells.** |
+> | **Impossible** | **None** | **Fire, acid, poison, necrotic and radiant** — the things that burn, eat, poison, rot or sear. You cannot gently set somebody on fire. |
 >
-> **Some attacks simply cannot do it.** **Fire, poison, acid, psychic, necrotic, lightning and most damaging spells cannot knock anybody out at all.** You cannot gently set somebody on fire.
+> **Ranged follows the same rule.** A bow is piercing, so half. A sling is bludgeoning, so full. Spells that deal no damage at all, like sleep, aren't attacks and sit outside this rule.
 >
-> **Pulling the blow is the way round that** — an arrow through the leg, a scorching ray to the weapon hand. **Roll the attack at disadvantage** and it deals **half damage** like any unsuitable attack. **Your GM decides whether the fiction supports it**, and for a fireball the answer is no.
+> **There is no way to make an impossible attack non-lethal.** A fireball is a fireball.
 >
-> **This is not a called shot.** A called shot spends *Advantage* to add an effect. Pulling the blow accepts *Disadvantage* to take damage away. **One or the other on an attack, never both.**
+> **Extra damage counts, and the worst part sets the tier for the whole hit.** Sneak Attack and rage copy your weapon's type, so they keep its tier: a club sneak attack is full, a rapier sneak attack is half. A rider of a lesser tier drags the whole hit down: a club plus a cold rider is half, all of it. **A rider in the impossible tier, like Divine Smite, Hex or a flame tongue's fire, makes the whole attack impossible.** Smite is your choice, so you just don't use it. Hex, or a lit flame tongue, blocks a non-lethal attack until you end it.
 >
 > **Reducing a creature to 0 HP this way** leaves it Unconscious, Stable, and alive — not dying, no death saves, **and that holds even for someone important**. A creature dropped by ordinary damage is a different matter.
 >
-> **The GM has final say** on whether a given attack counts as suitable (full damage) or unsuitable (half damage) for non-lethal use.
+> *Example: a punch, a club or a sling stone deals full damage. An arrow, a spear thrust or a sword slash deals half. A Magic Missile deals full. A Fire Bolt deals none, and neither does a Divine Smite, so a paladin who wants a prisoner puts the smite away.*
 >
-> *Example: a punch, a club or a sap still deals full damage. An arrow, a spear thrust or a sword slash deals half. **A Fire Bolt deals none — it cannot be pulled at all**, unless your GM lets you call a shot for it, at disadvantage, for half. A sword's pommel or the flat of the blade may be allowed at full damage — ask before you swing.*
->
-> *2024 RAW: any melee attack can be declared non-lethal at the moment it reduces a creature to 0 hit points — decided after damage is rolled, with no penalty. Ranged attacks and spells can't normally knock a creature out at all. This house rule moves the declaration earlier (before the attack roll), lets weapons that aren't built for it try at half damage, keeps RAW's "spells can't" for damaging magic, and adds pulling the blow as a deliberate, costly exception.*
+> *2024 RAW: any melee attack can be declared non-lethal at the moment it reduces a creature to 0 hit points — decided after damage is rolled, with no penalty. Ranged attacks and spells can't normally knock a creature out at all. This house rule moves the declaration earlier (before the attack roll), sorts every weapon and spell by its damage type, and lets attacks that aren't built for it try at half damage.*
 
 ## Called Shots
 
 > [!note]- Details
 > **Spend Advantage to aim for a specific part of a creature**, instead of using it to hit more reliably.
->
-> *(Not the same thing as [pulling the blow](#non-lethal-attacks), which accepts Disadvantage to hit
-> somebody less hard. **One or the other on an attack, never both.**)*
 >
 > ### Calling a shot
 >
