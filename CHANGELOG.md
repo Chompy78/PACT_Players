@@ -3,6 +3,9 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-09-24 · House Rules: Called Shots** — synced from the GM repo's
+  `D-2026-09-24-called-shot-eye-and-spent-advantage`. The eye shot now gives attack rolls at disadvantage
+  instead of Blinded, and the Advantage a called shot spends can't also count for Sneak Attack.
 - **2026-09-24 · House Rules: non-lethal attacks simplified** — synced from the GM repo's
   `D-2026-09-24-non-lethal-tier-by-damage-type`. The tier now comes from the damage type (bludgeoning and
   force full, slashing, piercing, thunder, lightning, cold and psychic half, fire, acid, poison, necrotic and

@@ -166,7 +166,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > 1. **You must already have Advantage** — hidden, flanking, a spell, however you got it.
 > 2. **Say it before you roll.** *"I'm going for the ogre's eye."*
 > 3. **Spend the Advantage: roll one d20 instead of two.** You are trading a better chance to hit for the
->    chance of doing something extra.
+>    chance of doing something extra. **The Advantage is used up:** it can't also count for something else that needs it, such as Sneak Attack.
 > 4. **Hit normally.** Miss and nothing happens at all. Hit and you deal **normal damage** — a called shot
 >    never adds damage.
 > 5. **The target rolls a Constitution save**, DC **10 or half the damage you dealt, whichever is higher**.
@@ -178,7 +178,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > | Where you aimed | On a failed save |
 > |---|---|
 > | **Head** | no Reactions until the start of your next turn |
-> | **Eye** | **Blinded** until the start of your next turn |
+> | **Eye** | **Attack rolls at disadvantage** until the start of your next turn |
 > | **Arm or hand** | drops one held object |
 > | **Leg** | Speed reduced by 10 feet until the end of its next turn |
 > | **Wing** | Flying Speed halved until the end of its next turn |
