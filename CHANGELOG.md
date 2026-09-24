@@ -3,6 +3,11 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-09-24 · House Rules: non-lethal attacks leave 1 HP and Unconscious, plus wording fixes** — synced from
+  the GM repo's `D-2026-09-24-non-lethal-leaves-one-hp-unconscious`. A non-lethal drop now leaves a creature at
+  1 HP and Unconscious (wakes after 1d4 hours or on any healing; any damage takes it to 0), so no death saves
+  and no exhaustion. The manacle Grapple uses the ordinary DC, manacles fit Small and Medium creatures, the
+  Called Shot DC uses damage actually dealt, and hit dice are spent during a rest.
 - **2026-09-24 · House Rules: Manacles — Binding a Creature** — synced from the GM repo's
   `D-2026-09-24-manacles-binding-a-creature`. A grapple, then one action per pair of manacles, each save at
   Advantage, so three successes to bind a conscious creature. Hands and legs do different things.

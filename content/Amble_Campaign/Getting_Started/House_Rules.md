@@ -86,7 +86,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > - You need at least 1 hit point to begin a Long Rest (except a stable character at 0 hit points — see Stable Characters Can Join a Rest below). *Same as 2024 RAW.*
 > - After finishing a Long Rest, you must wait at least 16 hours before starting another one. *Same as 2024 RAW — this replaced 2014's flat "once per 24-hour period" rule. Practically similar, but it's a cooldown after the rest ends rather than a calendar-day cap, so a stretch of later and later nights can push it further than a straight 24-hour rule would.*
 >
-> Finishing a Long Rest restores half your total hit dice (rounded down, minimum 1) — same amount as usual — but, same as a Short Rest, you have to actually spend them to heal, one at a time. It doesn't auto-heal you to full. *2024 RAW restores all hit points and all spent hit dice automatically; not having to spend them manually is the one thing this page changes here.*
+> Finishing a Long Rest restores half your total hit dice (rounded down, minimum 1) — same amount as usual — but, same as a Short Rest, you have to actually spend them to heal, one at a time, during a rest and not in the middle of a fight. It doesn't auto-heal you to full. *2024 RAW restores all hit points and all spent hit dice automatically; not having to spend them manually is the one thing this page changes here.*
 
 ## Stable Characters Can Join a Rest
 
@@ -98,7 +98,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 ## Revival Exhaustion
 
 > [!note]- Details
-> Whenever a character drops to 0 hit points and is later revived to 1 or more — by any means, healing magic, a potion, a natural death-save recovery — they gain one level of exhaustion. This stacks with any exhaustion they already have, and follows the standard exhaustion track, which means enough of it really can kill a character. A Long Rest still removes one level, as normal.
+> Whenever a character drops to 0 hit points and is later revived to 1 or more — by any means, healing magic, a potion, a natural death-save recovery — they gain one level of exhaustion. This stacks with any exhaustion they already have, and follows the standard exhaustion track, which means enough of it really can kill a character. A Long Rest still removes one level, as normal. **A creature left at 1 HP by a non-lethal attack was never at 0, so it gains no exhaustion.**
 >
 > *2024 RAW doesn't penalise going to 0 hit points and being healed back up at all — no exhaustion is gained. (RAW does the opposite for an actual death: a creature that dies and is later resurrected comes back with 1 fewer exhaustion level than it had, not more.) The "a Long Rest removes one level" part above is standard RAW, unchanged — this section's only real house rule is the exhaustion gain itself.*
 
@@ -151,7 +151,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 >
 > **Extra damage counts, and the worst part sets the tier for the whole hit.** Sneak Attack and rage copy your weapon's type, so they keep its tier: a club sneak attack is full, a rapier sneak attack is half. A rider of a lesser tier drags the whole hit down: a club plus a cold rider is half, all of it. **A rider in the impossible tier, like Divine Smite, Hex or a flame tongue's fire, makes the whole attack impossible.** Smite is your choice, so you just don't use it. Hex, or a lit flame tongue, blocks a non-lethal attack until you end it.
 >
-> **Reducing a creature to 0 HP this way** leaves it Unconscious, Stable, and alive — not dying, no death saves, **and that holds even for someone important**. A creature dropped by ordinary damage is a different matter.
+> **A non-lethal attack that would take a creature to 0 HP leaves it at 1 HP and Unconscious instead.** It never reaches 0, so there are no death saves — **and that holds even for someone important** — and no Revival Exhaustion. It stays Unconscious for **1d4 hours**, or until it receives **any healing**. **Any damage at all takes it to 0**, and then the ordinary 0 HP rules apply, which is how a prisoner gets killed. A creature dropped by ordinary damage is a different matter.
 >
 > *Example: a punch, a club or a sling stone deals full damage. An arrow, a spear thrust or a sword slash deals half. A Magic Missile deals full. A Fire Bolt deals none, and neither does a Divine Smite, so a paladin who wants a prisoner puts the smite away.*
 >
@@ -170,7 +170,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 >    chance of doing something extra. **The Advantage is used up:** it can't also count for something else that needs it, such as Sneak Attack.
 > 4. **Hit normally.** Miss and nothing happens at all. Hit and you deal **normal damage** — a called shot
 >    never adds damage.
-> 5. **The target rolls a Constitution save**, DC **10 or half the damage you dealt, whichever is higher**.
+> 5. **The target rolls a Constitution save**, DC **10 or half the damage you actually dealt, whichever is higher** (after any halving for a non-lethal attack).
 > 6. **On a failure, the effect below applies.**
 >
 > **So the harder you hit, the harder it is to shrug off.** A 7-damage arrow is a DC 10 save. A
@@ -198,11 +198,13 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > [!note]- Details
 > **Manacles are for the aftermath of a fight, not a way to take a fighter out of it.** Binding a creature that is still resisting takes three steps, each its own action, and the target gets a save at each one.
 >
+> **Manacles fit Small and Medium creatures only**, as in the book.
+>
 > **Willing, Unconscious or Incapacitated:** no roll. Each pair of manacles takes one action to put on.
 >
 > **Conscious and unwilling:** three separate actions, in order.
 >
-> 1. **Grapple.** The ordinary Grapple. The target saves with Strength or Dexterity, its choice, against **8 + your proficiency bonus + your Strength or Dexterity modifier**.
+> 1. **Grapple.** The ordinary Grapple. The target saves with Strength or Dexterity, its choice, against **the ordinary Grapple DC** from the book.
 > 2. **First pair.** Put manacles on **either the hands or the legs**. You must still be grappling it. The same save and DC, **at Advantage**.
 > 3. **Second pair.** The other pair. The same save and DC, **at Advantage**.
 >
