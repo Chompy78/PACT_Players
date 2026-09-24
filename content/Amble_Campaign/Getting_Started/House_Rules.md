@@ -18,6 +18,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 - [Nothing Dies at 0 Hit Points](#nothing-dies-at-0-hit-points)
 - [Non-Lethal Attacks](#non-lethal-attacks)
 - [Called Shots](#called-shots)
+- [Manacles — Binding a Creature](#manacles--binding-a-creature)
 - [Inspiration](#inspiration)
 - [Drinking a Potion — Bonus Action](#drinking-a-potion--bonus-action)
 - [Medium Armor Strength Requirement](#medium-armor-strength-requirement)
@@ -191,6 +192,31 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 >
 > *This is a community rule with a year of playtesting behind it, adopted as written. It costs a real
 > resource, which is why there's no other limit on it: miss, and you gave up Advantage for nothing.*
+
+## Manacles — Binding a Creature
+
+> [!note]- Details
+> **Manacles are for the aftermath of a fight, not a way to take a fighter out of it.** Binding a creature that is still resisting takes three steps, each its own action, and the target gets a save at each one.
+>
+> **Willing, Unconscious or Incapacitated:** no roll. Each pair of manacles takes one action to put on.
+>
+> **Conscious and unwilling:** three separate actions, in order.
+>
+> 1. **Grapple.** The ordinary Grapple. The target saves with Strength or Dexterity, its choice, against **8 + your proficiency bonus + your Strength or Dexterity modifier**.
+> 2. **First pair.** Put manacles on **either the hands or the legs**. You must still be grappling it. The same save and DC, **at Advantage**.
+> 3. **Second pair.** The other pair. The same save and DC, **at Advantage**.
+>
+> **Three successes are needed.** If a save succeeds, that pair doesn't go on and the grapple holds, so you can try again next turn. Pairs already on stay on. If the target breaks the grapple, start again from step 1. **Allies can do steps in the same round**: one holds while others bind.
+>
+> | Bound | Effect |
+> |---|---|
+> | **Hands** | No weapon attacks, no using items, no spells with somatic or material components. Speed is unchanged. It can still run, kick for 1 damage, and cast spells that need only words. |
+> | **Legs** | Speed drops to 10 feet, and it can't Dash or Disengage. It can still fight. |
+> | **Both** | **Restrained.** |
+>
+> **Getting out** takes an action and uses the manacles' own escape numbers from the book. **A creature with bound hands can't pick its own lock**, so freeing them takes an ally or a check to slip or break the manacles. A guard nearby can stop the attempt.
+>
+> **The same rules apply to NPCs binding you.** If a Watch patrol or a Guild party drops you with a non-lethal attack, they can bind you exactly like this. Being bound is a rescue or a consequence, not the end of the game.
 
 ## Inspiration
 
