@@ -1,6 +1,6 @@
 ---
 title: What Lives Around Here
-description: Dogs, wolves, raiders and worse, and how dangerous each of them actually is.
+description: Dogs, wolves, bandits, raiders and worse, and how dangerous each of them actually is.
 draft: false
 ---
 
@@ -29,6 +29,14 @@ See [[What_Your_Character_Knows|What Your Character Knows]].
 > Under the wharves there are crabs the size of dogs, and in the Narrows after dark there are eels. Both
 > are food, if you are quick and somebody else goes first.
 >
+> **Snakes come in with southern cargo** and turn up in a bale weeks later. Dockers kill them with a hook
+> and do not make a story of it.
+>
+> **Stirges** live in the marsh past the fields — a thing the size of a fist that lands on you and drinks.
+> One is revolting. Six is how people die in the marsh.
+>
+> **Gulls** are a joke until you are on a roof with something they want, and then they are not.
+>
 > The rule everybody's grandmother says: *it is not the wolf you can see.*
 
 > [!tip]- 🔵 TRAINED — proficient in **Nature** and **Survival**
@@ -39,7 +47,11 @@ See [[What_Your_Character_Knows|What Your Character Knows]].
 > |---|---|---|---|
 > | Dog | 15 | 30 | a fighting dog, 45 |
 > | Yard mastiff | 25 | 45 | 70 |
+> | Giant rat | — | 30 | — |
 > | Rats, a swarm | — | 40 | — |
+> | Venomous snake | — | 30 | — |
+> | Stirge | — | 30 | — |
+> | Gulls or hawks, a swarm | — | 40 | — |
 > | Boar | 30 | 45 | an old tusker, 100 |
 > | Wolf | 30 | 45 | the one that leads, 100 |
 > | Black bear | 50 | 70 | — |
@@ -53,6 +65,12 @@ See [[What_Your_Character_Knows|What Your Character Knows]].
 >
 > A boar keeps going for a moment after it should have dropped. A spider's bite is worse an hour later
 > than it is at the time.
+>
+> **The small poisonous things are the ones that catch people out.** A snake or a stirge has almost no
+> fight in it — one good hit finishes either — but a snake's bite keeps working after the snake is dead,
+> and a stirge that has attached is draining you every round until somebody pulls it off. **A swarm cannot
+> be stabbed.** Rats in a cellar shrug off blades, clubs and arrows alike; what beats them is fire, water
+> and a door.
 
 > [!warning]- 🟣 RARE — **expertise in both Nature and Survival**
 > Animals gain by being stretched, the same way you do. A wolf that has hunted six winters is not the wolf
@@ -102,6 +120,44 @@ See [[What_Your_Character_Knows|What Your Character Knows]].
 >
 > Raids are seasonal and predictable. They come when their own food runs out, which is late winter and
 > not summer, and they come by water where the coast lets them land.
+
+## On the roads, and people who do this for a living
+
+> [!info]- ⚪ COMMON — no proficiency needed
+> **The roads between towns are not patrolled.** Kingshold watches the coast and the Watch watches
+> Stoneharbour, and between the two there is nobody. Carters travel in company and pay for it.
+>
+> **Bandits want the cargo, not a fight.** They show themselves in numbers, take what is on the cart, and
+> let you walk. The ones who kill people are rare and are hunted properly when they do.
+>
+> **A press gang is worse in a way that has nothing to do with damage.** They carry nets and clubs, they
+> are not trying to hurt you, and if they take you you are on a ship in the morning and there is no
+> paperwork to appeal.
+>
+> For everybody who lives in town — dockers, watchmen, thugs on the Quay — see
+> [[Who_Youre_Dealing_With|Who You're Dealing With]].
+
+> [!tip]- 🔵 TRAINED — proficient in **Insight** and **Survival**
+> | | Usual | The one in a hundred |
+> |---|---|---|
+> | Bandit | 70 | — |
+> | The one giving orders | — | 170 |
+> | Press gang, each of four | 70 | — |
+> | Smuggler | 80 | — |
+>
+> **A bandit band is its leader and nothing else.** The rest are worth about as much as a dock thug, they
+> know it, and they are watching to see whether the leader is winning. **A leader who is losing runs at
+> about half** — and takes the band with him.
+>
+> A press gang fights to take you standing up, which means nets, clubs and grapples rather than blades.
+> **You can lose to them without taking much damage at all**, and that is the danger.
+
+> [!warning]- 🟣 RARE — **expertise in both Insight and Survival**
+> Banditry is a season and an economy, not a character flaw. It goes up when the harvest fails and when a
+> company lays off a crew, and the people doing it were carters last year.
+>
+> Which means it can be talked to. A band that has not killed anybody yet has a great deal to lose by
+> starting, and the leader is the one person there doing arithmetic.
 
 ## The dead, and things that should not be
 

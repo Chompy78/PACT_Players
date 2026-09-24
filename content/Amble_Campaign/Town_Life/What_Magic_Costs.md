@@ -133,20 +133,33 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > An enchanted thing is priced by the breath in it — the points somebody has committed for as long as it
 > exists — at about 55 gold a point, plus whatever the object itself is worth.
 >
-> | The thing | Points |
+> **Two numbers make every price.** How big the working is, and how often it goes off.
+>
+> **How big** — a spell doubles with every level, so the top end is brutal:
+>
+> | Spell level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+> |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+> | **Size** | 1 | 2 | 4 | 8 | 16 | 32 | 64 | 128 | 256 |
+>
+> **How often** — multiply the size by this:
+>
+> | | one use | a year | a season | a month | a week | **a day** | three a day | at will |
+> |---|---:|---:|---:|---:|---:|---:|---:|---:|
+> | **×** | 1 | 2 | 3 | 4 | **7** | **14** | 28 | **100** |
+>
+> A one-use charm's point **comes back when it is spent**. Everything above one use is committed for as
+> long as the thing exists.
+>
+> | Other things | Points |
 > |---|---|
 > | Household magic, below cantrip and no use in a fight | none. Materials and an evening |
-> | A spell, one use | spell level × 1, and the point comes back when it is spent |
-> | A spell, once a year / season / month / week | × 2 / 3 / 4 / 6, committed for good |
-> | A spell, once a day | **× 10** |
-> | A spell, three times a day | × 20 |
-> | A cantrip at will | 3 |
+> | A cantrip at will, if it does no damage | 3 |
 > | A tool with no spell in it | 4–20, by how much work it saves |
 > | Anything that puts a number on your sheet | 30 / 60 / 120 for +1 / +2 / +3 |
 >
 > A step is a 2nd-level spell used once, so 2 points and 120 gold. The same spell once a season is 6
-> points and 350; once a day it is 20 points and about 1,130 — because a daily charm is a free casting
-> every day for the rest of your life, and that is worth roughly half a +1 sword.
+> points and 350; **once a day it is 28 points and about 1,540** — because a daily charm is a free casting
+> every day for the rest of your life, and that is worth roughly a +1 sword.
 >
 > **The cheapest useful rung is once a year**, and it is the one households buy: a charm that works at
 > midwinter or at a naming, sits on a shelf the rest of the time, and gets inherited.
@@ -161,6 +174,42 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 >
 > **A seasonal ward-bead and three one-use ward-beads both cost about 350 gold. Three beads are better
 > value and worse in a crisis.**
+>
+> ### A flaming sword, and everything like it
+>
+> Plenty of enchanted things do not cast a spell and do not put a plus on your sheet. A blade that burns.
+> Boots that walk up a wall. A rope that ties itself. **Those are priced by asking one question: is it
+> always true, or does it happen when you make it happen?**
+>
+> **Always true** is graded against a +1 weapon, which is one unit and thirty points:
+>
+> | | Units | Points | Gold |
+> |---|---:|---:|---:|
+> | A rope of climbing, gloves that grip anything | ¼ | 8 | 440 |
+> | A bag that holds a room, goggles that see in the dark | ½ | 15 | 825 |
+> | **A +1 weapon** — the thing everything else is measured against | **1** | **30** | 1,650 |
+> | A blade that comes back when you throw it · a helm that means you cannot be surprised | 1 | 30 | 1,650 |
+> | Slippers that walk on walls | 1 | 30 | 1,650 |
+> | **A blade that is always aflame**, an extra 1d6 on every hit | 1½ | 45 | 2,475 |
+> | Bracers that catch arrows out of the air | 1½ | 45 | 2,475 |
+>
+> **Happens when you make it happen** is priced like a spell — size by frequency. A blade that dances
+> beside you once a day is a 4th-level working used daily: 8 × 14 = 112 points, **6,160 gold**, and thirty
+> more if it is also a +1.
+>
+> **Which is why famous weapons do their trick rarely.** Every story about a blade that dances says it
+> danced *once*. Not because the smith was mean, but because "once a day" costs fourteen times "once", and
+> **at will costs a hundred times** — no living person can hold that much.
+>
+> ### Nothing here takes anything from you permanently
+>
+> **Committing breath is not spending it.** People say a maker "puts their life into" a thing, and it is a
+> fair way to talk, but nothing in the world burns a point of anybody's life away for good. The points are
+> tied up for as long as the object exists, and they come home: **at once if it is destroyed, or in a night
+> if a binder unties the knot properly.** A holder who has committed forty points is not a smaller person.
+> They are a person with forty points already promised.
+>
+> **The one exception is the one you should be frightened of, and it is not honest work.**
 
 > [!warning]- 🟣 RARE — **expertise in both Arcana and Investigation**
 > Keep your spent beads. Refilling costs the binder's fee alone, fifteen or twenty gold, because the
