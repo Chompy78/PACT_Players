@@ -299,7 +299,7 @@ Moss told him to put it on the guild's tab, and Anders — who had been doing su
 
 Later, Marek took us aside — Thale had disappeared off somewhere, which I suspect was deliberate on both their parts — and gave each of us a second iron coin, unbranded, to carry. One for showing, he said, and one on your shoulder for when you'd rather not. There's a cost to replace them. Don't incur it.
 
-And then he said the thing that has never once let me alone. He said not to worry too much about the other town — that they hadn't really needed it, that it was insurance the guild had sold them in case Grey Fever ever came their way, and that it likely never would have.
+And then he said the thing that has never once let me alone. He said not to worry too much about the other town. They hadn't really needed it, he said. It was insurance the guild had sold them in case Grey Fever ever came their way, and it likely never would have.
 
 Ten thousand people, from Thale, to make six children sign. Nobody at all, from Marek, to make six children feel better about having signed. I have no way of knowing which of them was lying, and I have had years to work on it, and I am no longer certain either of them knew.
 

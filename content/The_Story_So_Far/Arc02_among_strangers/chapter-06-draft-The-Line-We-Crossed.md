@@ -105,7 +105,7 @@ The rest of the guard shift passed without incident, which by then felt less lik
 
 It was around then that we noticed Sena had gone quiet in a different way than usual — grumpier, shorter with everyone, the kind of tired that sits behind the eyes rather than in the shoulders. Nobody thought much of it at the time. There wasn't much room left that week for thinking about anyone but ourselves.
 
-One morning, not long after, her bunk was simply empty. Nobody in the barracks said where she'd gone, or whether *gone* was even the right word for it, and none of us thought to ask before it was too late to matter. We found out, piecing it together the way you do after the fact, that she'd refused to cross the line herself — refused to be what we'd been, that whole strike — and that refusing had cost her whatever was left of the year she had before her contract ended. We never saw her again. I still think of that bunk sometimes — made, and empty, before any of us were awake enough to notice it happening.
+One morning, not long after, her bunk was simply empty. Nobody in the barracks said where she'd gone, or whether *gone* was even the right word for it, and none of us thought to ask before it was too late to matter. We found out later that Sena had refused to cross the picket line. She wouldn't do what we'd done. She only had a year left on her contract, and she still wouldn't. We never saw her again. I still think of that bunk sometimes — made, and empty, before any of us were awake enough to notice it happening.
 
 ![[chapter-06-the-made-bunk-ignoremd.png|A bunk made before anyone else was awake|750]]
 
