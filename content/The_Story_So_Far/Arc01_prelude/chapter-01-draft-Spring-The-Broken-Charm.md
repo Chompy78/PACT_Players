@@ -67,7 +67,7 @@ For the first time that day, it felt like something that mattered.
 
 We went back after dark. None of us were supposed to. We took a stolen lantern, a blanket, and more food than we needed.
 
-It came back for the meat. Wary. Limping worse than before. Then it looked up at us — all of us, together — and something passed between it and every one of us at once. A leg caught in an iron trap. Pain. Being alone with it.
+It came back for the meat. Wary. Limping worse than before. Then it looked up at us — all of us, together — and it spoke to us without making a sound, straight into every one of our heads at once. A leg caught in an iron trap. The pain of it. The long hours of being alone with it.
 
 We didn't ask for that. It just arrived, the way real fear does, uninvited.
 

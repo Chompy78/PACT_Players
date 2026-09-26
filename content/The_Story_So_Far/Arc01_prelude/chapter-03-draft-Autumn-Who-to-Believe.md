@@ -85,7 +85,7 @@ The charcoal was the last thing they found. A small pack of sketching sticks, dr
 
 Neither of them said much on the walk back down. There wasn't much to say that wouldn't have made it worse.
 
-They took the ledger straight to Marek, because he was the only adult in Amble who had been anywhere else. He turned the pages, said none of the names meant a thing to him, and asked what exactly they expected him to do about it. Anders offered him a copper piece each. Marek said his rate was ten gold a day. Then he told them Wren was a girl who ran off all the time, that they should go and bother their parents instead, and that they could step outside and discuss it properly — and once they were outside he shut the door on them and had it locked.
+They took the ledger straight to Marek, because he was the only adult in Amble who had been anywhere else. He turned the pages, said none of the names meant a thing to him, and asked what exactly they expected him to do about it. Anders offered him a copper piece each. Marek said his rate was ten gold a day. Then he told them Wren was a girl who ran off all the time, and that they should go and bother their parents instead. They could step outside and discuss it properly, he said. Once they were outside, he shut the door on them and locked it.
 
 He would say "well done" to us before the day was over. None of us had forgotten this part when he did.
 

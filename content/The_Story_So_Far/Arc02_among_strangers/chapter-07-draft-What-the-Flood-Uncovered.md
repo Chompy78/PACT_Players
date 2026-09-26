@@ -7,7 +7,7 @@ draft: false
 
 We went out that night to save people. We came home having hurt some of the very ones we saved.
 
-Harvest month brought the first bruised fruit to market, and underneath it, same as always, the usual quiet traffic of things nobody official wanted named.
+It was harvest month, and the market smelled of the first bruised fruit. Underneath the fruit stalls, same as always, people were quietly buying and selling things nobody official wanted to hear about.
 
 * * *
 
