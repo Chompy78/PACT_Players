@@ -203,7 +203,7 @@ She had a small knife, barely a dagger. She lunged at the elk with it, and where
 
 Skylar put darts of light into her from the doorway, and so did Archer, and she went down. Not all the way. She was hurt, moderately, and getting up. Caspian had got back on his feet and pressed a hand to his own chest, and the pain that had been there eased enough for him to keep moving. He went in among the swordsmen, who were between him and the woman, and did what he could. Fenwick came in behind him and hit things with a rolling pin that now weighed a good deal more than it used to.
 
-It went badly for a long time. I can't give it to you in order. Nobody at the table could, either.
+It went badly for a long time. I can't give it to you in order. Nobody who was there can.
 
 We remember the woman vanishing. Fenwick was standing right in front of her, and then he wasn't looking at her, and she was standing beside Anders, who was still trying to get up, and she stabbed him. Anders went down again. It happened to him more than once. Three times, maybe four. Nobody has the count, and Anders least of all. She caught Skylar with the knife, and we saw the lines come into her face. Fenwick was aged by it too, slightly, and so was Moss, and it left each of us she touched a little older than we should have been.
 
@@ -237,7 +237,7 @@ The crowd outside had reached the door. We could hear it, an animal noise.
 
 "There are prisoners in here," Moss said.
 
-We all knew it. Slate had said it, and the contract said it, and we'd been told to bring them out. But anyone who went through the doors in the walls was going to find the mob on the other side when they came out again. John had said as much, in his flat way. If we went in to look for prisoners, we wouldn't be leaving without meeting the people outside.
+We all knew it. Slate had said it, and the contract said it, and we'd been told to bring them out. But anyone who went through the doors in the walls was going to find the mob on the other side when they came out again. It was plain from the noise outside. If we went in to look for prisoners, we wouldn't be leaving without meeting the people outside.
 
 So we chose. Anders said he was going to set them free. Moss said he was with him. Fenwick threw Anders a light crossbow and took one for himself. Caspian said he'd go because there were people to save. Skylar told us the mob was almost on us. She said she was going to take the hit and run, and Archer said he'd go with her.
 
@@ -247,7 +247,7 @@ The rest of us went through a door and down into a cellar. The door shut behind 
 
 There were six prisoners in the cellar, chained to the wall and drugged. Two of them had the Guild brand on their shoulders, and we all looked at that a good while. Anders unlocked what he could. None of them woke. We were still getting the shackles off when the mob came down the stairs.
 
-Caspian tried to hold the entrance. He called up vines across the opening and they held for a moment, and the first people to reach them cursed and tore through. There were so many of them. John told us afterwards there were about two hundred. Maybe that's high. We weren't in a position to count. Some of them weren't villagers at all. There were fighters among them who knew exactly what they were doing, and who'd been around long enough to know all our tricks and a few we hadn't thought of. Skylar worked out afterwards that some of them were the thieves' guild's own. The Ropewalks, it turned out, had friends.
+Caspian tried to hold the entrance. He called up vines across the opening and they held for a moment, and the first people to reach them cursed and tore through. There were so many of them. Afterwards we heard there had been about two hundred of them. Maybe that's high. We weren't in a position to count. Some of them weren't villagers at all. There were fighters among them who knew exactly what they were doing, and who'd been around long enough to know all our tricks and a few we hadn't thought of. Skylar worked out afterwards that some of them were the thieves' guild's own. The Ropewalks, it turned out, had friends.
 
 Anders chained himself to the wall and tried to look unconscious. They saw him at once. Moss tried to become something small and go somewhere high. It made no difference. Fenwick, who'd been holding one last piece of cleverness, let it go and stood in the light as himself. He said it was all right, that it was just him, and that we should go. Then the mob got to us, and none of us were in a state to stop it.
 
