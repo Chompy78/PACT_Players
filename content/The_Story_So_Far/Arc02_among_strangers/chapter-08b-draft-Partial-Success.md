@@ -61,7 +61,7 @@ The next morning the job board had a single line for us: *See Slate.*
 
 It was pouring. That's what I remember, more than anything else. Rain on the courtyard and rain on the office window. That, and how uncommon it was. A message like that came maybe once a month, or once every two, and only when a job had something awkward inside it.
 
-Factor Slate had the door shut and a bowl on his desk. "Would anyone like an apple?" he said, as though the bowl were full. It held one. Fenwick said yes. Anders, who was closer, said yes faster, and the apple was in his bag before either of them had finished the word. Slate looked at the empty bowl for a moment, as if the Guild had let him down personally. Fenwick took it hard.
+Factor Slate had the door shut and a bowl of apples on his desk. "Would anyone like an apple?" he said. Fenwick said yes. Anders, who was closer, said yes faster, and the apple was in his bag before either of them had finished the word. Fenwick took his time choosing one, and took it hard.
 
 Slate said that, given how some of us were with excessive force, he'd thought this job would be right up our alley. Then he slid a paper across the desk, and we all read it, in a room that smelled of wet wool.
 
@@ -83,7 +83,7 @@ Nobody said anything for a moment.
 
 Slate told us, quite gently, that our standing in the Guild was not particularly high. We were, in other words, what the Guild could afford to lose. Moss said so out loud, which saved Slate the trouble. Caspian mentioned that a certain family home and a certain door still counted against him, and Slate did not disagree.
 
-One clause on the paper said we should take an inventory of goods recovered. Anders read it twice and decided that Fred would be the one to suffer for it, and looked happier for the first time all morning.
+Clause five said we had to take an inventory of the goods we recovered. Inventory was Fred's department. Anders read the clause twice, and for the first time all morning he looked happy.
 
 We were allowed our normal gear from the stores. Anders said, pleasantly, that after the business with the borrowed goods he wouldn't be taking anything at all, and he went down to make sure everyone knew it. He wrote his name and the date in the ledger, and then he ruled a line straight through the space where the items would go, and signed under it, so that nobody could add anything afterwards. The clerk read this. The clerk's name, we learnt, was Lovis, and he did not enjoy it. "If you want something, write it down," Lovis said. "If you don't want anything, don't write anything. Don't waste my time." Anders thanked him warmly and said it was so nobody would forge his signature, and Lovis gave him a look that lasted a good deal longer than anything he'd said.
 
