@@ -3,6 +3,9 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-09-30 · House Rules: Three Failed Death Saves — a Permanent Injury** — synced from the GM repo's
+  `D-2026-09-30-three-failed-death-saves-permanent-injury`. A third failed death save leaves you stable at 0 HP
+  with a permanent injury instead of dead. Not yet pushed.
 - **2026-09-24 · House Rules: non-lethal attacks leave 1 HP and Unconscious, plus wording fixes** — synced from
   the GM repo's `D-2026-09-24-non-lethal-leaves-one-hp-unconscious`. A non-lethal drop now leaves a creature at
   1 HP and Unconscious (wakes after 1d4 hours or on any healing; any damage takes it to 0), so no death saves

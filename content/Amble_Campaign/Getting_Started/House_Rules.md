@@ -15,6 +15,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 - [Short Rests and Long Rests](#short-rests-and-long-rests)
 - [Stable Characters Can Join a Rest](#stable-characters-can-join-a-rest)
 - [Revival Exhaustion](#revival-exhaustion)
+- [Three Failed Death Saves — a Permanent Injury](#three-failed-death-saves--a-permanent-injury)
 - [Nothing Dies at 0 Hit Points](#nothing-dies-at-0-hit-points)
 - [Non-Lethal Attacks](#non-lethal-attacks)
 - [Called Shots](#called-shots)
@@ -101,6 +102,25 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > Whenever a character drops to 0 hit points and is later revived to 1 or more — by any means, healing magic, a potion, a natural death-save recovery — they gain one level of exhaustion. This stacks with any exhaustion they already have, and follows the standard exhaustion track, which means enough of it really can kill a character. A Long Rest still removes one level, as normal. **A creature left at 1 HP by a non-lethal attack was never at 0, so it gains no exhaustion.**
 >
 > *2024 RAW doesn't penalise going to 0 hit points and being healed back up at all — no exhaustion is gained. (RAW does the opposite for an actual death: a creature that dies and is later resurrected comes back with 1 fewer exhaustion level than it had, not more.) The "a Long Rest removes one level" part above is standard RAW, unchanged — this section's only real house rule is the exhaustion gain itself.*
+
+## Three Failed Death Saves — a Permanent Injury
+
+> [!note]- Details
+> **If you collect a third failed death saving throw, you do not die. You become stable at 0 hit points and
+> take a permanent injury instead.**
+>
+> - **The injury comes from what put you down** — a crushed hand, a lost eye, a bad leg, a scar that
+>   breathes wrong in the cold. You and the GM choose it together, and it has a **real mechanical cost**
+>   (for example disadvantage on one kind of check), written on your sheet.
+> - **It is permanent.** Resting does not remove it. Only very powerful, rare magic or a great story can.
+> - **It stacks.** Another third failure means another injury. **Revival Exhaustion still applies** when you
+>   are brought back to 1 hit point.
+> - **You can still die** from huge damage (leftover damage equal to your hit point maximum), from effects
+>   that say they kill, or from someone deliberately finishing you off while you are down and saying so out
+>   loud. Only the dice stop killing you.
+>
+> *2024 RAW: three failed death saves means death. This table swaps that for a lasting injury, and keeps
+> death for choices and for overwhelming damage.*
 
 ## Nothing Dies at 0 Hit Points
 
