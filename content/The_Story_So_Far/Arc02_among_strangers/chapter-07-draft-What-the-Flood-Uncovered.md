@@ -125,7 +125,7 @@ He found Fred finishing a stock-take in the armoury and put the accusation to hi
 
 Fred, it turned out, hadn't taken anything. He'd been counting arrows the whole time, uninvolved and entirely innocent, and would go on being uninvolved and just as innocent no matter how many names got thrown at him.
 
-All the guild had to say about it afterward was that guild reputation had already been poor — said quietly, in the kind of tone that meant a note was going into a file somewhere with Anders's name on it. Nobody at the table that day thought it worth arguing over. We should have. A man wrongly accused, publicly, by a guild member acting on nothing, is exactly the kind of thing a town remembers long after the guild has stopped caring.
+All the guild had to say about it afterward was that guild reputation had already been poor — said quietly, in the kind of tone that meant a note was going into a file somewhere with Anders's name on it. Nobody in the room that day thought it worth arguing over. We should have. A man wrongly accused, publicly, by a guild member acting on nothing, is exactly the kind of thing a town remembers long after the guild has stopped caring.
 
 * * *
 
@@ -135,7 +135,7 @@ We found our answer canvassing the streets nearby, in the shape of one unusually
 
 "Is it Jory?" Fenwick asked, already knowing.
 
-It was Jory — the same man who'd saved a woman's life while we cracked one of his own men's skulls open first and asked questions after, the same man we'd wrongly accused of looting the night before.
+It was Jory — the same man who'd saved a woman's life while we cracked one of his own men's skulls first and asked questions after, the same man we'd wrongly accused of looting the night before.
 
 * * *
 

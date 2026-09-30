@@ -259,7 +259,7 @@ They beat us until the room went dark.
 
 Skylar reached the Guild with Archer at her shoulder. She could only hobble, and every time she thought about having left the others in that building she tried to hobble faster. Once she was sure nobody was following, she stopped and wrapped what she was carrying properly in a strip of cloak. She got a few odd looks. She walked straight through the Guild gate, and straight to Slate. Archer went in with her and stood by the door, and said nothing.
 
-He looked at her and asked where the rest of the party was. She said she thought they'd been caught by a mob. Slate asked why a mob would be after the rest of us. She reminded him about the goat and the cobblestones. She said she thought we might have done it again, and upset the thieves' guild a bit more. Or rather one of us had.
+He looked at her and asked where the others were. She said she thought they'd been caught by a mob. Slate asked why a mob would be after the rest of us. She reminded him about the goat and the cobblestones. She said she thought we might have done it again, and upset the thieves' guild a bit more. Or rather one of us had.
 
 "You attacked a child?" Slate asked.
 
@@ -307,7 +307,7 @@ He said that in some ways we'd achieved the objective. We'd dealt with the woman
 
 "We forgot to inventory the goods," Fenwick said, very sorry about it.
 
-Slate said that was understandable. The main objective had been achieved, which was a mark in our favour. We'd also recovered the prisoners, which was good. Anders said the Guild members, sorry, the Guild members. However, Slate said, the situation in the Ropewalks, and with Odalys, was not good.
+Slate said that was understandable. The main objective had been achieved, which was a mark in our favour. We'd also recovered the prisoners, which was good. However, Slate said, the situation in the Ropewalks, and with Odalys, was not good.
 
 He didn't tell us what she'd done. He told us she'd like to meet us.
 
@@ -359,7 +359,7 @@ It was Anders who spoke last. He said he would go on taking nothing from the sto
 
 The last thing that week was gossip. It came round the barracks in the usual way, sideways, from someone who'd heard it from someone else. Lovis at the stores, the clerk who'd hated Anders for drawing a line through a page of his ledger, was not, it turned out, particularly good friends with Fred.
 
-Anders said he'd take it, and thanked whoever it was. It was, in the whole of that week, the only piece of news that had come to us for free. He said it with his hands in his sleeves. When he passed the pen, Brambleback backed away from him, and kept backing until the wall stopped him.
+Anders said he'd take it, and thanked whoever it was. It was, in the whole of that week, the only piece of news that had come to us for free. He said it with his hands in his sleeves. When he passed the goat pen, Brambleback backed away from him, and kept backing until the wall stopped him.
 
 We didn't know yet how long the Ropewalks would remember us.
 
