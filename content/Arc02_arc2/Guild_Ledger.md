@@ -8,14 +8,15 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Moss
 
-**Grade I** · **Owed: 752 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 759.5 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
 | Opening account (full recruitment, signed Ch. 1: Indentured) | 750 GP |
 | Repaid from surplus, 16 months | −48 GP |
 | Settlement & Exposure — Unauthorised Death (1) (Ch. 1: Indentured) | +50 GP |
-| **Owed** | **752 GP** |
+| Training, your share (30%) | +7.5 GP |
+| **Owed** | **759.5 GP** |
 
 ## Caspian
 
@@ -40,14 +41,14 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Anders
 
-**Grade I** · **Owed: 709.5 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 754.5 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
 | Opening account (full recruitment, signed Ch. 1: Indentured) | 750 GP |
 | Repaid from surplus, 16 months | −48 GP |
-| Training, your share (30%) | +7.5 GP |
-| **Owed** | **709.5 GP** |
+| Training, your share (30%) | +52.5 GP |
+| **Owed** | **754.5 GP** |
 
 ## Fenwik
 
