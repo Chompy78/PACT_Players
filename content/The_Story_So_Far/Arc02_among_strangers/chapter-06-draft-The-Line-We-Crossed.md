@@ -7,7 +7,7 @@ draft: false
 
 We found out what paying meant sooner than we expected.
 
-Two more months went by the way months went by then: counted in coin, not in seasons. Training in the mornings, the roster in the afternoons, and every evening the same tired walk back to bunks that were never quite ours. We learned the shortcuts. We learned which cookhouse did the best food, which turned out to be Dela's — the one from the courier round, the one that still fed us better than it had to. We learned that a normal animal cost three silver a month to keep in the barracks and a magical one cost double, which none of us thought was fair, and none of us were asked whether we thought it was fair. Moss now had two animals under that roof and paid for both without complaint.
+Two more months went by the way months went by then: counted in coin, not in seasons. Training in the mornings, the roster in the afternoons, and every evening the same tired walk back to bunks that were never quite ours. We learnt the shortcuts. We learnt which cookhouse did the best food, which turned out to be Dela's — the one from the courier round, the one that still fed us better than it had to. We learnt that a normal animal cost three silver a month to keep in the barracks and a magical one cost double, which none of us thought was fair, and none of us were asked whether we thought it was fair. Moss now had two animals under that roof and paid for both without complaint.
 
 Corley told us how to make a bunk properly, and disapproved of how we did it anyway. Every morning, across the room, Sena — the same Sena from that first night — kept doing what she'd always done: writing something small in a notebook before anyone else was awake, and putting it away before anyone could ask what. We still never asked. She was quiet in the particular way that meant she'd decided quiet was safer, and we were sixteen and busy and let her be quiet. Four years served by the time we arrived; one left, by the time any of this mattered.
 
@@ -87,7 +87,7 @@ We split into pairs to walk the rounds: Caspian and Anders together; Archer and 
 
 They weren't. Nobody had an answer better than that.
 
-The rats turned on him for interfering. One took a bite out of Moss hard enough to put him briefly on the ground; the other came at Fenwick with teeth bared before a bolt of raw force from Archer's hand ended it outright. Fenwick knelt by Moss afterward with the little kit every one of us had learned to carry by then, and gave up some of his own strength to put some back into him — not much, but enough that Moss was back on his feet before either of them had to think too hard about how close that bite had come to being worse.
+The rats turned on him for interfering. One took a bite out of Moss hard enough to put him briefly on the ground; the other came at Fenwick with teeth bared before a bolt of raw force from Archer's hand ended it outright. Fenwick knelt by Moss afterward with the little kit every one of us had learnt to carry by then, and gave up some of his own strength to put some back into him — not much, but enough that Moss was back on his feet before either of them had to think too hard about how close that bite had come to being worse.
 
 They should have left it there. Curiosity being what it is, they didn't. Fenwick shifted the gangplank aside to get a better look into the water beneath the boat, and the whole boat lurched under something far larger than a rat climbing aboard from underneath it.
 

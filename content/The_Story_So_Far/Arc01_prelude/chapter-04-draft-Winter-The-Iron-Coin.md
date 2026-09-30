@@ -11,7 +11,7 @@ Two winters later we found out, and the answer came with a price on it, written 
 
 * * *
 
-Two winters. That's the whole of it, and I could tell you almost nothing about the first one. What I remember is small and stupid and mine: Fenwick got a bakery apprenticeship and came home smelling of yeast for a year; Moss stopped being the tallest of us by accident and started being the tallest of us on purpose; Skylar learned to do a thing with her hands that made the air go cold, and practised it on us, constantly, until we stopped flinching. Wren was no longer the village terror, which is not the same as calm. She still slept in the cubby some nights and at the shrine on others, and if you wanted to know anything at all about anyone in Amble, she was still the one you asked.
+Two winters. That's the whole of it, and I could tell you almost nothing about the first one. What I remember is small and stupid and mine: Fenwick got a bakery apprenticeship and came home smelling of yeast for a year; Moss stopped being the tallest of us by accident and started being the tallest of us on purpose; Skylar learnt to do a thing with her hands that made the air go cold, and practised it on us, constantly, until we stopped flinching. Wren was no longer the village terror, which is not the same as calm. She still slept in the cubby some nights and at the shrine on others, and if you wanted to know anything at all about anyone in Amble, she was still the one you asked.
 
 The apprenticeships were real by then — not the pretend kind, not the ones the adults invented to keep us out from underfoot. We had masters, and a bad week's work behind us, and a few coppers each to show for it. And that winter, for the first time in our lives, we were allowed into the tavern.
 

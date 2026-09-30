@@ -43,7 +43,7 @@ Then a boy not much older than us signed his name on a page that glowed faintly,
 
 We were still arguing about whether that counted as brave or stupid when the bells started.
 
-Not the ordinary bells. The wrong ones — fast, panicked, the kind that meant something rather than announced it. Someone shouted trolls, and half the market ran the wrong direction to get a better look, and we were part of that half, because we were twelve and had not yet learned better.
+Not the ordinary bells. The wrong ones — fast, panicked, the kind that meant something rather than announced it. Someone shouted trolls, and half the market ran the wrong direction to get a better look, and we were part of that half, because we were twelve and had not yet learnt better.
 
 We watched from Caspian's tree. Five adventurers went out to meet two trolls at the wood line. It was ugly. Old Piper, who told tales in the tavern for coin, made a ballad of it afterward. One of the fighters got thrown clean across the clearing with his chest opened up before anyone could blink. A healer's hands lit up gold and closed it again. Someone's magic came out in sparks instead of fire, hitting a troll four times before it noticed. And then the one everyone was shouting for — Captain Vesk, sword too big for anyone sensible to carry — walked up to the second troll like he was annoyed at it, and nearly took its arm off in one motion.
 
