@@ -47,6 +47,7 @@ Growing up in Amble — four seasons, and the people who filled them.
 - [[Amble_Campaign/Reference/card-chapter-07|Chapter 7 — What the Flood Uncovered]]
 - [[Amble_Campaign/Reference/card-chapter-06|Chapter 6 — The Line We Crossed]]
 - [[Amble_Campaign/Reference/card-chapter-08|Chapter 8 — Unsafe Alone]]
+- [[Amble_Campaign/Reference/card-chapter-08b|Chapter 8b — Partial Success]]
 
 ### Mentors of Amble
 
@@ -90,6 +91,7 @@ The town's own authorities, separate from the Guild.
 - [[Amble_Campaign/Reference/card-character-hesk|Hesk]]
 - [[Amble_Campaign/Reference/card-character-hesper-tuck|Hesper Tuck]]
 - [[Amble_Campaign/Reference/card-character-juna-sennet|Juna Sennet]]
+- [[Amble_Campaign/Reference/card-character-lovis|Lovis]]
 - [[Amble_Campaign/Reference/card-character-odalys-praed|Odalys Praed]]
 - [[Amble_Campaign/Reference/card-character-old-sabine|Old Sabine]]
 - [[Amble_Campaign/Reference/card-character-petra-whitlock|Petra Whitlock]]
