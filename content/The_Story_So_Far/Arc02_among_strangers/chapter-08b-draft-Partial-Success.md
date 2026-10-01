@@ -387,10 +387,8 @@ It was Anders who spoke last. He said he would go on taking nothing from the sto
 
 The last thing that week was gossip. It came round the barracks sideways, from someone who'd heard it from someone else: Lovis at the stores, the clerk who hated Anders for ruling a line through his ledger, was no friend of Fred's.
 
-Anders was delighted. Lovis and Fred were the two men in the Guild he most wanted something on, and he'd been handed it for free. It was the only good news we'd had all week.
+That evening Anders went to see Brambleback. The goat took one look at him and backed away, and kept backing until the wall stopped him. Anders stood there with his hands in his sleeves. Brambleback would butt a stranger in the street, but he had never once backed away from one of us.
 
-That evening he went to see Brambleback. The goat took one look at him and backed away, and kept backing until the wall stopped him. Anders stood there with his hands in his sleeves.
-
-We didn't know yet how long the Ropewalks would remember us.
+We didn't understand yet what the problem was. We put it down to the week.
 
 <!-- tic-atn: 0 -->
