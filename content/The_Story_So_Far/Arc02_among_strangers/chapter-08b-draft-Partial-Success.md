@@ -87,7 +87,11 @@ Clause five said we had to take an inventory of the goods we recovered. Inventor
 
 We were allowed our normal gear from the stores. Anders said, pleasantly, that after the business with the borrowed goods he wouldn't be taking anything at all, and he went down to make sure everyone knew it. He wrote his name and the date in the ledger, and then he ruled a line straight through the space where the items would go, and signed under it, so that nobody could add anything afterwards. The clerk read this. The clerk's name, we learnt, was Lovis, and he did not enjoy it. "If you want something, write it down," Lovis said. "If you don't want anything, don't write anything. Don't waste my time." Anders thanked him warmly and said it was so nobody would forge his signature, and Lovis gave him a look that lasted a good deal longer than anything he'd said.
 
-We stood behind Anders with no equipment at all and waited. Better gear meant a promotion, and a promotion meant a reputation of seven. Fenwick had four. Archer and Skylar had three. Anders and Moss had two, which Anders took as proof that he'd been right to refuse everything. Nobody offered to lend us so much as a spear.
+The rest of us stood behind Anders with no equipment and nothing to do. Caspian asked Lovis how far off we were from better gear. Lovis said it took a promotion, and a promotion took a reputation of seven, and he turned the ledger round so we could see. Fenwick had four. Archer and Skylar had three. Anders and Moss had two.
+
+"Two more than I expected," Anders said.
+
+Nobody offered to lend us a spear.
 
 * * *
 
@@ -95,9 +99,9 @@ We walked out to the Ropewalks in the rain. Caspian asked whether we were going 
 
 Caspian took a crowbar from the stores, on the principle that a door was probably involved. Nobody asked what had happened to the last team's crowbar. Someone else offered a grappling hook, and nobody wanted it. Someone joked that we already had a portable ram, or a goat. Moss said that if it came to it he could become an elk and run the door down, and we all thought that was a wonderful idea. It was, in fact, a very poor one, and we'd find that out in a couple of hours.
 
-The Ropewalks are long, low, and dirty, all rope sheds and drying lines and things hung out that ought to have been kept indoors. People there watch strangers as a matter of course. They watched us more than usual. Within minutes we'd noticed that a handful of them had picked us out and were keeping an eye on us without pretending otherwise. Mostly it was recognition.
+The Ropewalks are long, low and dirty: rope sheds and drying lines and things hung out that ought to have been kept indoors. People there watch strangers as a matter of course. They watched us more than usual. A handful of them picked us out within minutes and kept watching without pretending otherwise, and most of that was for Moss. He and Brambleback were known here. Moss was walking down the middle of the street with a large half-painted goat, which is not a way to be stealthy.
 
-Moss and Brambleback were known. Moss had been walking down the middle of the street with a large half-painted goat, which is not a way to be stealthy. Someone suggested dyeing the goat. Caspian suggested red, which got him a look. Then Moss said if we wanted to be sneaky, the smartest thing was for him to go one way and the rest of us to go the other, and every eye in the district would follow the giant. It was a genuinely good idea. We're honestly not sure whether we did it. Our memory says we talked it over and kept walking together, but it may be that he wandered off for a while, and nobody thought to ask.
+Someone suggested dyeing the goat. Caspian suggested red, which got him a look. Then Moss said if we wanted to be sneaky, the smartest thing was for him to go one way and the rest of us to go the other, and every eye in the district would follow the giant. It was a genuinely good idea. We're honestly not sure whether we did it. Our memory says we talked it over and kept walking together, but it may be that he wandered off for a while, and nobody thought to ask.
 
 Two kids came up asking for change. Anders gave them a copper each, and offered another if they'd tell him what was in the warehouse, the one where all the people were kept. "Which one?" the kids said. There were three, apparently. Anders offered three copper for three warehouses, and the kids wanted silver, and none of us had any. Fenwick said he barely had shoes. Then Anders told them we were looking for some new friends. One of the kids said he'd had a friend once. He'd died, a while ago. He said it flatly and left it there, and after that he stood well clear of Brambleback.
 
