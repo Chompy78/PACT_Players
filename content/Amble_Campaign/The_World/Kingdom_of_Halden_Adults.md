@@ -4,11 +4,10 @@ description: The kingdom Amble belongs to — its crown, its border region, and 
 draft: false
 ---
 
-<!-- Reveal gate: this page is deliberately draft:true, not "unfinished." It holds adult/older-teen-level
-     world knowledge (the kingdom's name, its ruler, Amble's region, the nearest real town, and rumor of
-     two neighboring lands) that a young child in Amble wouldn't yet know or think to ask about. Flip
-     draft to false — and add the reciprocal [[Kingdom_of_Halden]] links back in from Amble.md and
-     Wider_World.md — when the campaign reaches the point this should become common player knowledge. -->
+<!-- Gate OPENED 2026-09-22 on John's call ("kingdom of halden is now available") and this note corrected
+     2026-10-01, because it still told a reader the page was draft:true when the frontmatter above says
+     false. It is published, linked from both indexes, and as of 2026-10-01 cross-linked from Amble.md and
+     Wider_World_Kids.md as the original note asked. Nothing here is gated any more — history only. -->
 
 Ask a grown-up in Amble what's past the crossroads and you'll get an actual answer, not just a story.
 

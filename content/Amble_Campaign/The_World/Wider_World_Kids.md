@@ -20,4 +20,4 @@ There's a feeling, lately, that the world outside is paying Amble more attention
 
 ---
 
-See also: [[Amble|Amble]] · [[Arc01_prelude/NPCs/index|NPCs of Amble]]
+See also: [[Amble|Amble]] · [[Arc01_prelude/NPCs/index|NPCs of Amble]] · [[Kingdom_of_Halden_Adults|The Kingdom of Halden]]

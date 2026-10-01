@@ -63,4 +63,4 @@ The first loaf of the season is left on the Council Tree's roots "for the villag
 
 ---
 
-See also: [[Arc01_prelude/NPCs/index|NPCs of Amble]] · [[Arc01_prelude/Maps/index|Maps]] · [[Wider_World_Kids|What Lies Beyond Amble?]]
+See also: [[Arc01_prelude/NPCs/index|NPCs of Amble]] · [[Arc01_prelude/Maps/index|Maps]] · [[Wider_World_Kids|What Lies Beyond Amble?]] · [[Kingdom_of_Halden_Adults|The Kingdom of Halden]]
