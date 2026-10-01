@@ -263,7 +263,7 @@ They beat us until the room went dark.
 
 Skylar reached the Guild with Archer at her shoulder. She could only hobble, and every time she thought about having left the others in that building she tried to hobble faster. Once she was sure nobody was following, she stopped and wrapped what she was carrying properly in a strip of cloak. She got a few odd looks. She walked straight through the Guild gate, and straight to Slate. Archer went in with her and stood by the door, and said nothing.
 
-He looked at her and asked where the others were. She said she thought they'd been caught by a mob. Slate asked why a mob would be after the rest of us. She reminded him about the goat and the cobblestones. She said she thought we might have done it again, and upset the thieves' guild a bit more. Or rather one of us had.
+He looked at her and asked where the others were. She said she thought they'd been caught by a mob. Slate asked why a mob would be after the rest of us. She reminded him about the goat and the cobblestones. She said she thought we might have done it again, and upset the Ropewalks a bit more. Or rather one of us had.
 
 "You attacked a child?" Slate asked.
 
