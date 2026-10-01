@@ -120,6 +120,7 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > |---|---:|
 > | A sword that glows | 200 GP |
 > | Rope that will not fray | 250 GP |
+> | A registry pen and its book | 110 GP, and every office has one |
 > | A rope of climbing | 500 GP |
 > | A bag of holding | 740 GP, and nobody is selling |
 > | A +1 weapon or shield | 1,900 GP |

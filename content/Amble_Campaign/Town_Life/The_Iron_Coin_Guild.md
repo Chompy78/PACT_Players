@@ -51,6 +51,24 @@ draft: false
 >
 > Your contract copy is not with you. The certified copy went to your registered household back in Amble
 > and the Guild holds the archive copy. A replacement can be had, for a fee.
+>
+> ### The pen and the book are made as a pair
+>
+> **Every register that matters is enchanted, and all it does is refuse other ink.** The Guild's
+> bonded-stores book, the customs ledger, the harbourmaster's berth list, a contract book — each has **one
+> pen**, and ink from any other pen beads up and runs off the page. It costs about 110 gold, which is why any
+> office that keeps records at all has one and a market trader does not.
+>
+> **So nobody here forges an entry. They steal the pen.** Copying a hand is pointless — the page will not
+> take it. **Every clerk's real security is a locked drawer**, and the small ordinary object nobody would
+> search you for is worth more than the book.
+>
+> **What a pen cannot stop is a knife.** A leaf comes out easily enough — **and the stub stays, and the
+> numbering does not lie about what is missing.** If you ever need a record gone, think about fire and about
+> page numbers, not about handwriting.
+>
+> **Which is also why small thefts are provable here.** When a count comes up short and nothing in the book
+> has been altered, the shortfall *is* the evidence, and it is exactly what was taken.
 
 > [!warning]- 🟣 RARE — **expertise in both Investigation and Insight**
 > No buyout figure is printed anywhere, deliberately. The contract names the parts: outstanding debt,
