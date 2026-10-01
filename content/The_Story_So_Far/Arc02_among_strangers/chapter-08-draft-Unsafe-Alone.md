@@ -61,13 +61,13 @@ She'd sold off nearly everything since the flood — her nets, her tools, most o
 
 "You keep your money hidden, you hear me," Fenwick told her on the way out, and meant it more than the joke he wrapped around it.
 
-Wren had come with us, quiet at the edges of it, and it was in the crush of the market afterward that we lost track of her for the length of about two streets. When we caught up she was standing very still, holding a scrap of paper someone had thrust at her and walked off without a word. It said, in plain, ugly letters, that tieflings weren't welcome at the shrine and shouldn't come back.
+Wren had tagged along with us, hanging back a bit the way she did, and somewhere in the crush of the market we lost her for a couple of streets — you know how it gets down there. When we found her again she'd gone very still, holding a scrap of paper somebody had shoved at her and walked off without so much as a word. Ugly little thing, it said — plain as anything — that tieflings weren't welcome up at the shrine and shouldn't bother coming back.
 
-Moss read it over her shoulder and went very quiet in the particular way he did when he was angrier than he had words for yet.
+Moss read it over her shoulder and went quiet in that particular way of his, the way he only ever got when he was too angry to actually say anything yet.
 
-"You may have brought some of this on yourself," he said eventually, not looking at her, "not being as careful as you thought you were being." It came out harsher than he meant it, and he heard it land that way, and didn't take it back so much as soften around the edges of it. "I mean go careful. Not go quiet. There's a difference, and you're allowed both."
+"You might've brought a bit of this on yourself, you know," he said eventually, not quite looking at her, "not being as careful as you thought." It came out rougher than he meant it to — we could all hear that — and rather than take it back he just sort of softened round the edges of it instead. "I mean go careful. Not go quiet. There's a difference, and you're allowed both, alright?"
 
-Wren folded the note small enough to disappear into a pocket and said it probably wasn't worth taking seriously — whoever had handed it to her hadn't looked like a keeper, hadn't looked like anyone from the shrine at all. We let her believe that, mostly because none of us had anything better to offer her instead.
+Wren folded the note away small enough to vanish into a pocket and said it probably wasn't worth taking seriously anyway — whoever handed it to her hadn't looked like a keeper, hadn't looked like anyone from the shrine at all, really. We let her believe that. Mostly because none of us had anything better to give her instead.
 
 * * *
 
