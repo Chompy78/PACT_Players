@@ -337,7 +337,11 @@ Skylar said it hadn't been a group decision.
 
 Odalys said it didn't matter whose decision it was. Fair enough, the people at the tannery had been mixed up in some dodgy business, and they'd known the risks. But she'd have expected a little more effort to do the right thing. There was an understanding between the Guild and the underworld, she said. Nobody killed anybody. It was an unwritten agreement, and it had just been damaged.
 
-Caspian said he'd used non-lethal force on the men at the front. Skylar said so had she. Fenwick said he'd done the same. Odalys asked what we had to say in our defence, and Archer explained how he'd used the firebolt, which was not very gentle. Anders said we had announced ourselves as Guild members. Skylar said he had not. He'd told them the Guild would come and kill them if they stayed. Anders said they'd attacked him first. He said he'd only spoken to them at the start, and everyone had told him he was drunk.
+Odalys asked what we had to say for ourselves. Caspian, Skylar and Fenwick said they'd used non-lethal force on the men at the front. Archer said he'd used fire, which was not very gentle. Anders said we'd announced ourselves as Guild members.
+
+"You told them the Guild would come and kill them if they stayed," Skylar said.
+
+"They attacked first," said Anders. "And everyone told me I was drunk."
 
 Then she looked at us, one by one, and gave a single nod to Caspian, Skylar and Fenwick. It was for having tried, at least, to honour the agreement. It was the only kind thing she said. Anders, Archer and Moss were told plainly that they weren't welcome in the Ropewalks, except on Guild business, and only on Guild business.
 
