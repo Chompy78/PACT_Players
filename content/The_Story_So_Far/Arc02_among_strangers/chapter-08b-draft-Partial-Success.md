@@ -385,9 +385,11 @@ The Guild had its own opinion of us, of course, and it had shifted. It hadn't sh
 
 It was Anders who spoke last. He said he would go on taking nothing from the stores, or borrow Fenwick's basic gear when he had to. And when Fenwick was promoted, he'd get his trunk at the end of his bed and fill it with all the good things a grade two could keep there. It was the first thing any of us had laughed at in days.
 
-The last thing that week was gossip. It came round the barracks in the usual way, sideways, from someone who'd heard it from someone else. Lovis at the stores, the clerk who'd hated Anders for drawing a line through a page of his ledger, was not, it turned out, particularly good friends with Fred.
+The last thing that week was gossip. It came round the barracks sideways, from someone who'd heard it from someone else: Lovis at the stores, the clerk who hated Anders for ruling a line through his ledger, was no friend of Fred's.
 
-Anders said he'd take it, and thanked whoever it was. It was, in the whole of that week, the only piece of news that had come to us for free. He said it with his hands in his sleeves. When he passed the goat pen, Brambleback backed away from him, and kept backing until the wall stopped him.
+Anders was delighted. Lovis and Fred were the two men in the Guild he most wanted something on, and he'd been handed it for free. It was the only good news we'd had all week.
+
+That evening he went to see Brambleback. The goat took one look at him and backed away, and kept backing until the wall stopped him. Anders stood there with his hands in his sleeves.
 
 We didn't know yet how long the Ropewalks would remember us.
 
