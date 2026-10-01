@@ -87,11 +87,11 @@ Clause five said we had to take an inventory of the goods we recovered. Inventor
 
 We were allowed our normal gear from the stores. Anders said, pleasantly, that after the business with the borrowed goods he wouldn't be taking anything at all, and he went down to make sure everyone knew it. He wrote his name and the date in the ledger, and then he ruled a line straight through the space where the items would go, and signed under it, so that nobody could add anything afterwards. The clerk read this. The clerk's name, we learnt, was Lovis, and he did not enjoy it. "If you want something, write it down," Lovis said. "If you don't want anything, don't write anything. Don't waste my time." Anders thanked him warmly and said it was so nobody would forge his signature, and Lovis gave him a look that lasted a good deal longer than anything he'd said.
 
-We stood behind Anders with no equipment at all and waited. Fenwick, for the record, stood a little taller in the Guild's eyes than any of us. Anders and Moss stood a little lower. Whatever the Guild was counting, it was well short of enough to get us better gear, and nobody offered us any.
+We stood behind Anders with no equipment at all and waited. Better gear meant a promotion, and a promotion meant a reputation of seven. Fenwick had four. Archer and Skylar had three. Anders and Moss had two, which Anders took as proof that he'd been right to refuse everything. Nobody offered to lend us so much as a spear.
 
 * * *
 
-We walked out to the Ropewalks in the rain. Caspian asked whether we were going to hit the place right away, or wait, or watch first. The contract said it could be done whenever we liked, at the discretion of the members. We didn't know a great deal, but we knew we'd rather count her people before we met them, so it was settled: watch first.
+We walked out to the Ropewalks in the rain. Caspian asked whether we were going to hit the place right away, or wait, or watch first. The contract said it could be done whenever we liked, at the discretion of the members. We didn't know how many people the woman at the tannery had, and we'd rather count them before we met them. So it was settled: watch first.
 
 Caspian took a crowbar from the stores, on the principle that a door was probably involved. Nobody asked what had happened to the last team's crowbar. Someone else offered a grappling hook, and nobody wanted it. Someone joked that we already had a portable ram, or a goat. Moss said that if it came to it he could become an elk and run the door down, and we all thought that was a wonderful idea. It was, in fact, a very poor one, and we'd find that out in a couple of hours.
 
