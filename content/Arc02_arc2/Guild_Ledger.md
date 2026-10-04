@@ -8,7 +8,7 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Moss
 
-**Grade I** · **Owed: 925.4 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 1,010.4 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
@@ -19,8 +19,8 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 | Lost equipment - Session 8 (Ch. 8: Kin) | +2 GP |
 | Animal upkeep: Fluffy: 0.2 GP a month for 13 months (Ch. 5: Indentured) | +2.6 GP |
 | Animal upkeep: Brambleback: 0.6 GP a month for 13 months (Ch. 5: Indentured) | +7.8 GP |
-| Training, your share (30%) | +127.5 GP |
-| **Owed** | **925.4 GP** |
+| Training, your share (50%) | +212.5 GP |
+| **Owed** | **1,010.4 GP** |
 
 ## Caspian
 
@@ -36,19 +36,19 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Archer
 
-**Grade I** · **Owed: 758 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 773 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
 | Opening account (full recruitment, signed Ch. 5: Indentured) | 750 GP |
 | Repaid from surplus, 16 months | −48 GP |
 | Unauthorised death - ropewalks session 8 (Ch. 8: Kin) | +33.5 GP |
-| Training, your share (30%) | +22.5 GP |
-| **Owed** | **758 GP** |
+| Training, your share (50%) | +37.5 GP |
+| **Owed** | **773 GP** |
 
 ## Anders
 
-**Grade I** · **Owed: 828.5 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 883.5 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
@@ -57,12 +57,12 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 | Unauthorised death - ropewalks session 8 (Ch. 8: Kin) | +33.5 GP |
 | Lost equipment - Session 8 (Ch. 8: Kin) | +3 GP |
 | Goods not returned x3 (Ch. 8: Kin) | +7.5 GP |
-| Training, your share (30%) | +82.5 GP |
-| **Owed** | **828.5 GP** |
+| Training, your share (50%) | +137.5 GP |
+| **Owed** | **883.5 GP** |
 
 ## Fenwik
 
-**Grade I** · **Owed: 751 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 781 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
@@ -70,17 +70,17 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 | Repaid from surplus, 16 months | −48 GP |
 | advance for rolling pin (Ch. 8: Kin) | +1 GP |
 | Lost equipment - Session 8 (Ch. 8: Kin) | +3 GP |
-| Training, your share (30%) | +45 GP |
-| **Owed** | **751 GP** |
+| Training, your share (50%) | +75 GP |
+| **Owed** | **781 GP** |
 
 ## Skylar
 
-**Grade I** · **Owed: 929.6 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 1,079.6 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
 | Opening account (full recruitment, signed Ch. 5: Indentured) | 750 GP |
 | Repaid from surplus, 16 months | −48 GP |
 | Animal upkeep: 0.2 GP a month for 13 months (Ch. 5: Indentured) | +2.6 GP |
-| Training, your share (30%) | +225 GP |
-| **Owed** | **929.6 GP** |
+| Training, your share (50%) | +375 GP |
+| **Owed** | **1,079.6 GP** |
