@@ -216,19 +216,21 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 ## Manacles — Binding a Creature
 
 > [!note]- Details
-> **Manacles are for the aftermath of a fight, not a way to take a fighter out of it.** Binding a creature that is still resisting takes three steps, each its own action, and the target gets a save at each one.
+> **Manacles are for the aftermath of a fight, not a way to take a fighter out of it.** Binding one limb-set of a creature that is still resisting (both wrists, or both ankles) takes three steps, each its own action, and the target gets a save at each one. **Binding the other limb-set too costs the same again.**
 >
 > **Manacles fit Small and Medium creatures only**, as in the book.
 >
-> **Willing, Unconscious or Incapacitated:** no roll. Each pair of manacles takes one action to put on.
+> **Willing, Unconscious or Incapacitated:** no roll. Each manacle (one limb) takes one action to put on.
 >
-> **Conscious and unwilling:** three separate actions, in order.
+> **Conscious and unwilling:** three separate actions, in order, to bind **one** limb-set — hands or legs, not both. **One manacle action binds one limb — a wrist or an ankle — never the matching pair at once.**
 >
 > 1. **Grapple.** The ordinary Grapple. The target saves with Strength or Dexterity, its choice, against **the ordinary Grapple DC** from the book.
-> 2. **First pair.** Put manacles on **either the hands or the legs**. You must still be grappling it. The same save and DC, **at Advantage**.
-> 3. **Second pair.** The other pair. The same save and DC, **at Advantage**.
+> 2. **First limb.** Put a manacle on **one wrist, or one ankle** — whichever limb-set you're binding. You must still be grappling it. The same save and DC, **at Advantage**.
+> 3. **Second limb.** A second manacle on **the matching wrist or ankle**. The same save and DC, **at Advantage**.
 >
-> **Three successes are needed.** If a save succeeds, that pair doesn't go on and the grapple holds, so you can try again next turn. Pairs already on stay on. If the target breaks the grapple, start again from step 1. **Allies can do steps in the same round**: one holds while others bind.
+> **Three successes bind one limb-set — both wrists, or both ankles.** If a save succeeds, that manacle doesn't go on and the grapple holds, so you can try again next turn. A manacle already on stays on. If the target breaks the grapple, start that limb-set's remaining steps again from the grapple. **Allies can do steps in the same round**: one holds while others bind.
+>
+> **To reach fully Restrained — both limb-sets bound — do the whole three-step sequence again for the other limb-set**, including a fresh Grapple. **Six actions in total, not three.**
 >
 > | Bound | Effect |
 > |---|---|

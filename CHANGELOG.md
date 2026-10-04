@@ -3,6 +3,10 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-10-04 · House Rules: Manacles clarified — one action binds one limb** — synced from the GM repo's
+  `D-2026-09-24-manacles-binding-a-creature`'s 2026-10-04 addendum. Three actions bind **one** limb-set
+  (both wrists, or both ankles), not the whole creature; reaching Restrained means doing the whole
+  three-step sequence again for the other limb-set — six actions in total, not three.
 - **2026-09-30 · House Rules: Three Failed Death Saves — a Permanent Injury** — synced from the GM repo's
   `D-2026-09-30-three-failed-death-saves-permanent-injury`. A third failed death save leaves you stable at 0 HP
   with a permanent injury instead of dead. Not yet pushed.
