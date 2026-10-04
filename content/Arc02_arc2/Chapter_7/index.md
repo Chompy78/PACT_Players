@@ -1,5 +1,5 @@
 ---
-title: "Ch. 3: The Night of the Long Gale"
+title: "Ch. 7: The Night of the Long Gale"
 noStubPages: true
 ---
 

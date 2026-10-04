@@ -50,7 +50,7 @@ The campaign written up as connected short stories, one chapter per session — 
 They signed the contract and walked out of Amble under guild escort. Whatever comes next happens somewhere none of them have ever been.
 
 - [[Arc02_arc2/index|Arc overview]]
-- Chapter handouts: [[Arc02_arc2/Chapter_1/index|1]] · [[Arc02_arc2/Chapter_2/index|2]] · [[Arc02_arc2/Chapter_3/index|3]] · [[Arc02_arc2/Chapter_4/index|4]]
+- Chapter handouts: [[Arc02_arc2/Chapter_5/index|5]] · [[Arc02_arc2/Chapter_6/index|6]] · [[Arc02_arc2/Chapter_7/index|7]] · [[Arc02_arc2/Chapter_8/index|8]]
 - [[Arc02_arc2/NPCs/index|NPCs]] · [[Arc02_arc2/Maps/index|Maps]] · [[Arc02_arc2/Misc/index|Misc]]
 
 ## Past arcs

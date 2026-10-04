@@ -1,5 +1,5 @@
 ---
-title: "Ch. 4: Kin"
+title: "Ch. 8: Kin"
 noStubPages: true
 ---
 

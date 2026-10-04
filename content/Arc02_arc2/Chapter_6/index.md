@@ -1,5 +1,5 @@
 ---
-title: "Ch. 2: The Line"
+title: "Ch. 6: The Line"
 noStubPages: true
 ---
 
