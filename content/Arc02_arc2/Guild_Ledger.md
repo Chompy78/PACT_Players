@@ -3,7 +3,7 @@ title: The Guild Ledger
 description: What each of you owes the Iron Coin Guild, as the Stoneharbour branch keeps it.
 ---
 
-> [!info] As of Ch. 4: Kin
+> [!info] As of Ch. 8: Kin
 > Copied from the Stoneharbour branch's books. The Guild takes your surplus against the debt each month; anything else it adds or takes off is itemised under your name.
 
 ## Moss
@@ -12,13 +12,13 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 | | |
 |---|--:|
-| Opening account (full recruitment, signed Ch. 1: Indentured) | 750 GP |
+| Opening account (full recruitment, signed Ch. 5: Indentured) | 750 GP |
 | Repaid from surplus, 16 months | −48 GP |
-| Settlement & Exposure — Unauthorised Death (1) (Ch. 1: Indentured) | +50 GP |
-| Unauthorised death - ropewalks session 8 (Ch. 4: Kin) | +33.5 GP |
-| Lost equipment - Session 8 (Ch. 4: Kin) | +2 GP |
-| Animal upkeep: Fluffy: 0.2 GP a month for 13 months (Ch. 1: Indentured) | +2.6 GP |
-| Animal upkeep: Brambleback: 0.6 GP a month for 13 months (Ch. 1: Indentured) | +7.8 GP |
+| Settlement & Exposure — Unauthorised Death (1) (Ch. 5: Indentured) | +50 GP |
+| Unauthorised death - ropewalks session 8 (Ch. 8: Kin) | +33.5 GP |
+| Lost equipment - Session 8 (Ch. 8: Kin) | +2 GP |
+| Animal upkeep: Fluffy: 0.2 GP a month for 13 months (Ch. 5: Indentured) | +2.6 GP |
+| Animal upkeep: Brambleback: 0.6 GP a month for 13 months (Ch. 5: Indentured) | +7.8 GP |
 | Training, your share (30%) | +127.5 GP |
 | **Owed** | **925.4 GP** |
 
@@ -28,10 +28,10 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 | | |
 |---|--:|
-| Opening account (full recruitment, signed Ch. 1: Indentured) | 750 GP |
+| Opening account (full recruitment, signed Ch. 5: Indentured) | 750 GP |
 | Repaid from surplus, 16 months | −48 GP |
-| Lost equipment - Session 8 (Ch. 4: Kin) | +2 GP |
-| Animal upkeep: 0.2 GP a month for 13 months (Ch. 1: Indentured) | +2.6 GP |
+| Lost equipment - Session 8 (Ch. 8: Kin) | +2 GP |
+| Animal upkeep: 0.2 GP a month for 13 months (Ch. 5: Indentured) | +2.6 GP |
 | **Owed** | **706.6 GP** |
 
 ## Archer
@@ -40,9 +40,9 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 | | |
 |---|--:|
-| Opening account (full recruitment, signed Ch. 1: Indentured) | 750 GP |
+| Opening account (full recruitment, signed Ch. 5: Indentured) | 750 GP |
 | Repaid from surplus, 16 months | −48 GP |
-| Unauthorised death - ropewalks session 8 (Ch. 4: Kin) | +33.5 GP |
+| Unauthorised death - ropewalks session 8 (Ch. 8: Kin) | +33.5 GP |
 | Training, your share (30%) | +22.5 GP |
 | **Owed** | **758 GP** |
 
@@ -52,11 +52,11 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 | | |
 |---|--:|
-| Opening account (full recruitment, signed Ch. 1: Indentured) | 750 GP |
+| Opening account (full recruitment, signed Ch. 5: Indentured) | 750 GP |
 | Repaid from surplus, 16 months | −48 GP |
-| Unauthorised death - ropewalks session 8 (Ch. 4: Kin) | +33.5 GP |
-| Lost equipment - Session 8 (Ch. 4: Kin) | +3 GP |
-| Goods not returned x3 (Ch. 4: Kin) | +7.5 GP |
+| Unauthorised death - ropewalks session 8 (Ch. 8: Kin) | +33.5 GP |
+| Lost equipment - Session 8 (Ch. 8: Kin) | +3 GP |
+| Goods not returned x3 (Ch. 8: Kin) | +7.5 GP |
 | Training, your share (30%) | +82.5 GP |
 | **Owed** | **828.5 GP** |
 
@@ -66,10 +66,10 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 | | |
 |---|--:|
-| Opening account (full recruitment, signed Ch. 1: Indentured) | 750 GP |
+| Opening account (full recruitment, signed Ch. 5: Indentured) | 750 GP |
 | Repaid from surplus, 16 months | −48 GP |
-| advance for rolling pin (Ch. 4: Kin) | +1 GP |
-| Lost equipment - Session 8 (Ch. 4: Kin) | +3 GP |
+| advance for rolling pin (Ch. 8: Kin) | +1 GP |
+| Lost equipment - Session 8 (Ch. 8: Kin) | +3 GP |
 | Training, your share (30%) | +45 GP |
 | **Owed** | **751 GP** |
 
@@ -79,8 +79,8 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 | | |
 |---|--:|
-| Opening account (full recruitment, signed Ch. 1: Indentured) | 750 GP |
+| Opening account (full recruitment, signed Ch. 5: Indentured) | 750 GP |
 | Repaid from surplus, 16 months | −48 GP |
-| Animal upkeep: 0.2 GP a month for 13 months (Ch. 1: Indentured) | +2.6 GP |
+| Animal upkeep: 0.2 GP a month for 13 months (Ch. 5: Indentured) | +2.6 GP |
 | Training, your share (30%) | +225 GP |
 | **Owed** | **929.6 GP** |
