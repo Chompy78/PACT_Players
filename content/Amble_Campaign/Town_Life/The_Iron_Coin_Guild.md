@@ -4,7 +4,7 @@ description: Who the Guild is, what your indenture actually says, and what it co
 draft: false
 ---
 
-**Your own account:** [[Arc02_arc2/Guild_Ledger|The Guild Ledger]] — what each of you owes the branch, itemised.
+**Your own account:** [[Amble_Campaign/Your_Character/Guild_Ledger|The Guild Ledger]] — what each of you owes the branch, itemised.
 
 **Three tiers of knowledge.** Read the one your character has and stop there — see
 [[What_Your_Character_Knows|What Your Character Knows]].

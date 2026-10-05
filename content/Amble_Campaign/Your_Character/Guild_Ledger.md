@@ -20,6 +20,7 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 | Contract paid: Margit Farrow, the Ropewalks tannery (Ch. 8: Kin) | −8 GP |
 | Animal upkeep: Fluffy: 0.2 GP a month for 13 months (Ch. 5: Indentured) | +2.6 GP |
 | Animal upkeep: Brambleback: 0.6 GP a month for 13 months (Ch. 5: Indentured) | +7.8 GP |
+| Advance: 2 GP a month from Ch. 9: Something Wrong to Ch. 12: Assets | not yet counting |
 | Training, your share (50%) | +212.5 GP |
 | **Owed** | **1,002.4 GP** |
 

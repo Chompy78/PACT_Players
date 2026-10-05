@@ -23,7 +23,7 @@ Ask it whatever you like — *"who is Marek?"*, *"what's the Silver Drop?"*, *"w
 [[Amble_Campaign/Town_Life/Who_Youre_Dealing_With|Who You're Dealing With]] ·
 [[Amble_Campaign/Town_Life/Words_People_Use|Words People Use]]
 
-**What you owe.** [[Arc02_arc2/Guild_Ledger|The Guild Ledger]] — your account with the Iron Coin, as the Stoneharbour branch keeps it: what you signed for, what your work has paid off, and anything charged against your name.
+**Your account and your character.** [[Amble_Campaign/Your_Character/index|Your Character]] — the pages about you. Start with [[Amble_Campaign/Your_Character/Guild_Ledger|The Guild Ledger]] — your account with the Iron Coin, as the Stoneharbour branch keeps it: what you signed for, what your work has paid off, and anything charged against your name.
 
 **What your character would know.** Some pages are split into ⚪ common, 🔵 trained and 🟣 rare knowledge —
 read the box your character has and leave the rest.

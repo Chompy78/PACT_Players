@@ -28,6 +28,14 @@ The practical pages — what things cost, who you are dealing with, and what the
 - **[[Words_People_Use|Words People Use]]** — the local vocabulary, from *stock* and *breath* to what
   people mean by a *sliver*
 
+## [[Your_Character/index|Your Character]]
+
+The pages that are about you, not the world.
+
+- **[[Guild_Ledger|The Guild Ledger]]** — what each of you owes the Iron Coin, itemised, with every charge and payment
+- **[[Reference/card-list-the-party|The Party]]** — all six of you on one page
+- Advancement, what your character knows and the house rules are listed on the page too
+
 ## [[The_World/index|The World]]
 
 - [[Amble|Amble]] — the village itself: geography, landmarks, and the customs every kid there grows up knowing
