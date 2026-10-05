@@ -29,3 +29,6 @@ They signed the contract and walked out of Amble under guild escort, bound for S
 - [[The_Story_So_Far/Arc02_among_strangers/chapter-05-draft-The-Rounds|Chapter 5: The Rounds]]
 - [[The_Story_So_Far/Arc02_among_strangers/chapter-06-draft-The-Line-We-Crossed|Chapter 6: The Line We Crossed]]
 - [[The_Story_So_Far/Arc02_among_strangers/chapter-07-draft-What-the-Flood-Uncovered|Chapter 7: What the Flood Uncovered]]
+- [[The_Story_So_Far/Arc02_among_strangers/chapter-08-draft-Unsafe-Alone|Chapter 8: Unsafe Alone]]
+- [[The_Story_So_Far/Arc02_among_strangers/chapter-08b-draft-Partial-Success|Chapter 8b: Partial Success]]
+- [[The_Story_So_Far/Arc02_among_strangers/chapter-09-draft-Watch-and-Learn|Chapter 9: Watch and Learn]]

@@ -49,3 +49,44 @@ who hand him over, his sister left in Dela's care alongside Toby. Along the way,
 innocent guild member out of pure frustration. Low Quay starts to notice the party, and not kindly.
 
 [[The_Story_So_Far/Arc02_among_strangers/chapter-07-draft-What-the-Flood-Uncovered|Read Chapter 7 — What the Flood Uncovered]]
+
+## Chapter 8 — Unsafe Alone
+
+**Chapter 8 summary.** Two months of guild routine pass before Wren reports that Shrine Hill's alarm
+bell is ringing. The party helps drive off a wolf pack that killed a calf, then learns that an older
+shrine keeper, Hesk, resents Wren for exposing him skimming the shrine's own donations. Days later Wren
+fails to return to the barracks overnight and is found beaten outside the guild gates. Barred from guild
+or Watch involvement, the party sets a decoy at her usual sketching spot after dark and drives off three
+hooded attackers who warn her to stay away from the shrine — strangers, unmasked but unidentified, though
+the party strongly suspects Hesk had a hand in it. Afterwards, the party's standing with Wren improves,
+for the first time costing them something real to earn.
+
+[[The_Story_So_Far/Arc02_among_strangers/chapter-08-draft-Unsafe-Alone|Read Chapter 8 — Unsafe Alone]]
+
+## Chapter 8b — Partial Success
+
+**Chapter 8b summary.** Factor Slate hands the party a lawful-killing contract: travel to the Ropewalks
+and deal with a woman running an illegal trade out of a derelict tannery, freeing any prisoners she
+holds. They scout first, get shaken down twice by local toughs, and fight their way in to find six
+chained, drugged prisoners, two branded by the Guild itself. The woman falls to Anders and Caspian
+together and is beheaded on Skylar's order, but freeing the prisoners costs the party dearly: a mob,
+stirred up by the Ropewalks' own fighters, catches them in the cellar and beats them unconscious before
+the Guild can reach them. Slate calls it a win. Anders walks away from his own near-death with a lasting
+mark — cold hands, a streak of white hair, and animals that no longer come near him without hesitation.
+
+[[The_Story_So_Far/Arc02_among_strangers/chapter-08b-draft-Partial-Success|Read Chapter 8b — Partial Success]]
+
+## Chapter 9 — Watch and Learn
+
+**Chapter 9 summary.** Factor Slate sends the party to escort Guild Agent Blane while she serves a
+debt-default notice — and the debtor turns out to be Dela, the cook-shop owner who has fed them for free
+since they arrived. Forced to inventory her goods rather than take them, the party tries every trick they
+can think of to soften the blow, and finds, tucked at the back of her storeroom, an illegal sliver — a
+bottle holding a piece of someone's life — that turns out to be a keepsake from Dela's own grandfather.
+On the walk back, Ropewalks men corner them over the signed paperwork and strip them of their daggers
+rather than risk a real fight. With Moss's help the sliver is destroyed at Dela's own request, and the
+party spends the rest of the day quietly working the town on her behalf — a shrine donation, a round of
+the local shopkeepers, an anonymous fifty-six gold parcel — until her account clears enough that she can
+say the number out loud without crying.
+
+[[The_Story_So_Far/Arc02_among_strangers/chapter-09-draft-Watch-and-Learn|Read Chapter 9 — Watch and Learn]]
