@@ -48,6 +48,7 @@ Growing up in Amble — four seasons, and the people who filled them.
 - [[Amble_Campaign/Reference/card-chapter-06|Chapter 6 — The Line We Crossed]]
 - [[Amble_Campaign/Reference/card-chapter-08|Chapter 8 — Unsafe Alone]]
 - [[Amble_Campaign/Reference/card-chapter-08b|Chapter 8b — Partial Success]]
+- [[Amble_Campaign/Reference/card-chapter-09|Chapter 9 — Watch and Learn]]
 
 ### Mentors of Amble
 
