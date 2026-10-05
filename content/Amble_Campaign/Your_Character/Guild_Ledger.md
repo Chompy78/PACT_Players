@@ -8,7 +8,7 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Moss
 
-**Grade I** · **Owed: 1,002.4 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 1,052.4 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
@@ -20,9 +20,9 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 | Contract paid: Margit Farrow, the Ropewalks tannery (Ch. 8: Kin) | −8 GP |
 | Animal upkeep: Fluffy: 0.2 GP a month for 13 months (Ch. 5: Indentured) | +2.6 GP |
 | Animal upkeep: Brambleback: 0.6 GP a month for 13 months (Ch. 5: Indentured) | +7.8 GP |
-| Advance: 2 GP a month from Ch. 9: Something Wrong to Ch. 12: Assets | not yet counting |
-| Training, your share (50%) | +212.5 GP |
-| **Owed** | **1,002.4 GP** |
+| Advance, paid to Dela Brant: 2 GP a month from Ch. 9: Something Wrong to Ch. 12: Assets | not yet counting |
+| Training, your share (50%) | +262.5 GP |
+| **Owed** | **1,052.4 GP** |
 
 ## Caspian
 
@@ -52,7 +52,7 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Anders
 
-**Grade I** · **Owed: 875.5 GP** · 5 years 8 months of the term left
+**Grade I** · **Owed: 825.5 GP** · 5 years 8 months of the term left
 
 | | |
 |---|--:|
@@ -62,8 +62,8 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 | Lost equipment - Session 8 (Ch. 8: Kin) | +3 GP |
 | Goods not returned x3 (Ch. 8: Kin) | +7.5 GP |
 | Contract paid: Margit Farrow, the Ropewalks tannery (Ch. 8: Kin) | −8 GP |
-| Training, your share (50%) | +137.5 GP |
-| **Owed** | **875.5 GP** |
+| Training, your share (50%) | +87.5 GP |
+| **Owed** | **825.5 GP** |
 
 ## Fenwik
 
