@@ -335,6 +335,8 @@ They took our weapons first. Then they blindfolded us and walked us through what
 
 She had a knife and an apple. She was carving pieces off the apple and eating them, one at a time, without looking up.
 
+![[chapter-08b-she-did-not-look-up-ignoremd.png|She did not look up|750]]
+
 "So you're the Guild group," she said, "who thought it would be a good idea to murder a child, and then several months later come back and do it again."
 
 Skylar said it hadn't been a group decision.
