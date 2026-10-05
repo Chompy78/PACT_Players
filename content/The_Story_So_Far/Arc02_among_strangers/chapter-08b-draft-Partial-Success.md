@@ -63,6 +63,8 @@ It was pouring. That's what I remember, more than anything else. Rain on the cou
 
 Factor Slate had the door shut and a bowl of apples on his desk. "Would anyone like an apple?" he said. Fenwick said yes. Anders, who was closer, said yes faster, and the apple was in his bag before either of them had finished the word. Fenwick took his time choosing one, and took it hard.
 
+![[chapter-08b-would-anyone-like-an-apple-ignoremd.png|Would anyone like an apple|750]]
+
 Slate said that, given how some of us were with excessive force, he'd thought this job would be right up our alley. Then he slid a paper across the desk, and we all read it, in a room that smelled of wet wool.
 
 It was a proper Guild contract, with a number on it as long as a sentence. The work was at the Ropewalks. The pay was four gold pieces each, applied to our accounts, which meant, as ever, that we'd never actually hold it. The job was to go to a tannery and deal with the woman who ran things there. Slate called it an authorised termination. Skylar asked whether that meant a lawful killing, and Slate said it did, as opposed to an unlawful one. "A withdrawal of a life contract," Skylar said. Nobody laughed. It was, we all felt, a very Guild sort of phrase.
@@ -102,6 +104,8 @@ Caspian took a crowbar from the stores, on the principle that a door was probabl
 The Ropewalks are long, low and dirty: rope sheds, drying lines, things hung out that ought to have been kept indoors. Strangers get watched there. We got watched more. A few people picked us out within minutes, and most of them were looking at Moss and Brambleback, who were already known here.
 
 A goat is hard to hide. Someone suggested dyeing him. Caspian suggested red, which got him a look. Then Moss said if we wanted to be sneaky, the smartest thing was for him to go one way and the rest of us to go the other, and every eye in the district would follow the giant. It was a genuinely good idea. We're honestly not sure whether we did it. Our memory says we talked it over and kept walking together, but it may be that he wandered off for a while, and nobody thought to ask.
+
+![[chapter-08b-a-goat-is-hard-to-hide-ignoremd.png|A goat is hard to hide|750]]
 
 Two kids came up asking for change. Anders gave them a copper each, and offered another if they'd tell him what was in the warehouse, the one where all the people were kept. "Which one?" the kids said. There were three, apparently. Anders offered three copper for three warehouses, and the kids wanted silver, and none of us had any. Fenwick said he barely had shoes. Then Anders told them we were looking for some new friends. One of the kids said he'd had a friend once. He'd died, a while ago. He said it flatly and left it there, and after that he stood well clear of Brambleback.
 
