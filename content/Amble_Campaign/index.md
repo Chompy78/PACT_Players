@@ -55,4 +55,4 @@ The pages that are about you, not the world.
 
 ## Stoneharbour Map
 
-![[The_World/stoneharbour-map.jpeg|Stoneharbour Map|750]]
+![[The_World/stoneharbour-town-map.png|Stoneharbour Map|750]]

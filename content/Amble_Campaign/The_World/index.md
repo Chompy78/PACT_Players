@@ -11,4 +11,5 @@ description: Amble, Stoneharbour, the wider kingdom, and who lives in it.
   South March, and what lies past it
 - [[What_Lives_Around_Here|What Lives Around Here]] — dogs, wolves, river rats and worse, and how
   dangerous each of them is
-- [[World Map|World Map]] — *nothing on it yet*
+- [[World Map|World Map]] — the continent, and the Kingdom of Halden inside it
+- [[stoneharbour-map|Stoneharbour Map]] — the town from above, and the view from the ship coming in
