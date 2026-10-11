@@ -281,9 +281,9 @@ We went back to Dela's for lunch that afternoon, because nobody could think of a
 
 Skylar asked what we owed for lunch. "Three copper," Dela said, "for all of us." Moss had nothing on him, he said, just to be clear.
 
-Then Dela took a silver coin out of her purse and pushed it across the counter. We had huge debts, she said, and we should spend what we had on ourselves. It was all she had. Nobody argued with her.
+Then Dela took a silver coin out of her purse and pushed it across the counter at us. We pushed it back. She pushed it across again, harder. We had debts enough of our own, she said — we should spend what little we had on ourselves, not on her. It was all the coin she had left. Nobody argued with her after that.
 
-Fenwick suggested a donation tin on the counter for anyone who could use it. Dela put one out. The card on it said donations for the soup kitchen in the Low Quay, please donate freely. The money, we were told, was for the soup kitchen, and not for her.
+Fenwick suggested a donation tin on the counter for anyone who could use it. Dela had one out before he'd finished saying it, with a card already written in careful letters — *donations for the soup kitchen in the Low Quay, please donate freely* — as if she'd been keeping it under the counter for weeks, waiting for a reason. The money, we were told, was for the soup kitchen, and not for her. Moss pointed out, as gently as he knew how, that she was the one with a notice on her own counter. Dela said the soup kitchen people had it worse, and that was the end of the conversation.
 
 It was Skylar who worked out what the bottle was. She turned it in the light for a long time before she spoke. "It's a sliver," she said at last. Someone's life, or memory, or whatever made them who they were, had been drawn out and bound into the glass. Slivers were illegal, unless you were rich and powerful, and even then you had to be careful. The memories were the valuable part. A person could not choose which ones went in, we were told, because you could not give up meaningless ones.
 
