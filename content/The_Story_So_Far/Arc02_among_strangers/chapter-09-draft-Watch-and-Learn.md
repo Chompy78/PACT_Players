@@ -229,7 +229,7 @@ The leader of the guild men looked hard at Anders for some time, and then he nod
 
 Anders said he was afraid so.
 
-"Well known in the guild," the man said. "You've upset the response team," he said. "You've upset more people than everyone else put together."
+"Well known in the guild," the man said, looking at Anders the way you'd look at a stain you'd already given up on getting out. "You've upset the response team," he said. "You've upset more people than everyone else put together, and in an organisation this size, that takes a particular kind of effort."
 
 * * *
 
