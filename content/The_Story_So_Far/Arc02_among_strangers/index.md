@@ -90,3 +90,14 @@ the local shopkeepers, an anonymous fifty-six gold parcel — until her account 
 say the number out loud without crying.
 
 [[The_Story_So_Far/Arc02_among_strangers/chapter-09-draft-Watch-and-Learn|Read Chapter 9 — Watch and Learn]]
+
+## Side Tale 1 — Jory's Team
+
+**A side tale, between Chapter 9 and Chapter 10.** Only Caspian, Moss and Archer go up the coast, with Wren,
+Ordis and a reluctant Jory, to secure the cargo and crew of a wrecked ship. On the way they buy four illegal
+bottles off a hamlet girl, and at the wreck they find a salvage crew already loading the cargo. Giant crabs in
+the flooded hold bring down both Caspian and Archer before the fight is won, and behind a locked door they find
+the ship's captain, Tom, alive. His grateful wife thanks Jory most of all. On the walk home the party learn
+what slivers really are and burn the bottles, and Factor Slate signs off their bonus pay.
+
+[[The_Story_So_Far/Arc02_among_strangers/side-tale-01-draft-Jorys-Team|Read Side Tale 1 — Jory's Team]]

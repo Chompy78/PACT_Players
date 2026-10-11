@@ -32,3 +32,4 @@ They signed the contract and walked out of Amble under guild escort, bound for S
 - [[The_Story_So_Far/Arc02_among_strangers/chapter-08-draft-Unsafe-Alone|Chapter 8: Unsafe Alone]]
 - [[The_Story_So_Far/Arc02_among_strangers/chapter-08b-draft-Partial-Success|Chapter 8b: Partial Success]]
 - [[The_Story_So_Far/Arc02_among_strangers/chapter-09-draft-Watch-and-Learn|Chapter 9: Watch and Learn]]
+- [[The_Story_So_Far/Arc02_among_strangers/side-tale-01-draft-Jorys-Team|Side Tale 1: Jory's Team]]
