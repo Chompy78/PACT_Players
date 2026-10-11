@@ -3,6 +3,7 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-10-12 · Languages: Draconic added, and what Haldeni is actually worth abroad** — Draconic joins Infernal and Sylvan as an ordinary language, the one without a country. The TRAINED box now says what the Guild's reach abroad actually is: nothing bigger than a charter office, a few clerks and a counter with no authority of its own, so Haldeni serves you there and on the quay outside and nowhere else.
 - **2026-10-12 · Languages: a new page, and every house rule now points at its lore** — synced from the
   GM repo's `D-2026-10-12-languages-offshoots-trade-and-cants`. New `The_World/Languages.md`, using this
   wiki's own ⚪ COMMON / 🔵 TRAINED gate: the COMMON tier deliberately states the street-level

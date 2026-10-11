@@ -16,8 +16,9 @@ exotic and none of them is a relic. Plenty of families keep one up alongside Hal
 anything up — because an aunt insisted, because the songs are in it, because it is theirs. Nobody thinks
 twice about it.
 
-**Infernal** and **Sylvan** are the same: real languages, known by the people who know them, remarkable to
-nobody.
+**Infernal**, **Sylvan** and **Draconic** are the same: real languages, known by the people who know them,
+remarkable to nobody. Draconic is the odd one only in that it has no country — there are too few
+dragonborn anywhere for that, so it travels with them rather than sitting in a place.
 
 A few places keep something smaller and older than any of those. **Delvern**, up in the mountains, has its
 own tongue that is not quite Dwarvish — a hold's own version, from when the hold was its own. Hardly anyone
@@ -65,8 +66,10 @@ It is useless for anything else, and that matters more than it sounds.
 > all: it reads as one of the chosen who could not be bothered to keep the language.
 >
 > **Haldeni does not travel the way you have been told.** It goes where the Guild's paperwork goes, because
-> the ledgers are written in it, and it stops there. Halden's size bought its language offices, not
-> affection.
+> the ledgers are written in it, and it stops there. In the other kingdoms the Guild keeps nothing bigger
+> than a charter office — a few clerks, a counter, no authority of its own — so Haldeni will serve you
+> inside one of those and on the quay outside it, and nowhere else. Halden's size bought its language
+> offices, not affection.
 >
 > **And Trade cannot carry a dispute.** You can agree a deal in it and you cannot argue one. When a bargain
 > across a border goes wrong, both sides have to fall back into somebody's home language — and whoever's
