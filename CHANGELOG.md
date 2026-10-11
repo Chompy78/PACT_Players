@@ -3,6 +3,11 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-10-11 · Maps: the harbour-mouth view replaced with a corrected one** — synced from the GM repo.
+  The version published on 2026-10-07 had two banners over the wrong districts, "Low Quay" over the central
+  quays and "Naval Wharf" over the shipyard. The replacement has every banner over its own district, and
+  adds the ship's rigging in the near corner so the view reads as being from the deck. Same filename, same
+  page, no links to change.
 - **2026-10-07 · Maps: four new ones published, and the old Stoneharbour map taken down** — synced from the
   GM repo's `D-2026-10-07-canonical-maps`. **The map players have been reading since 2026-08-27 was wrong**:
   it had the sea on the south side, no town wall, no Kingshold, no Naval Wharf, and Shrine Hill inside the
