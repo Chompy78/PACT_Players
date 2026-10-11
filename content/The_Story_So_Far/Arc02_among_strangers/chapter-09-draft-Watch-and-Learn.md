@@ -331,8 +331,6 @@ Dela had her hands in a sink of water. She told us the shrine had come down to s
 
 "It's people paying for all the free meals you've given them over the years," Skylar said.
 
-"They weren't free meals," she said. "They've paid for them now."
-
 Dela looked as if she had been caught stealing, and the more we tried to make it better, the worse she looked. Moss put the case as well as it could be put. "The tribe up on the hill will help with your food costs for a while," he said. "They'll send a shipment down, and it won't all be coming from us." Dela said she had never wanted anyone to know. She had put the box out herself, she said, for the soup kitchen. She was embarrassed. After a while she let us sit with her, and she was quiet.
 
 Down in the Low Quay, the soup kitchen had a new heating pot. It was magic, and it was steaming away on the back bench with a great deal of food beside it. Someone had donated the lot. Nobody could say who. "There's a benefactor in this town none of us know about," Anders said. Skylar said it made her think somebody had hired Anders to sabotage the whole town. Anders said no, he was only stoking the fire.
