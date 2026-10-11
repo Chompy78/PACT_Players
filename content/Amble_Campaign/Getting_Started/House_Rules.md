@@ -29,8 +29,11 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 - [Group Checks and Expert Checks](#group-checks-and-expert-checks)
 - [How Hard Is Hard?](#how-hard-is-hard)
 - [Magic Items — Whose Breath Is In It](#magic-items--whose-breath-is-in-it)
+- [Languages — What the Parent Gets You](#languages--what-the-parent-gets-you)
 
 ## Growing Up Together
+
+**More on this:** [[Peoples_and_Magic|Peoples and Magic]] — who you'll actually meet, and how each of the peoples reads.
 
 > [!note]- Details
 > Species don't age at different rates during childhood here. A human, dwarf, elf, gnome, halfling, or any other playable species who's "8 years old" in Chapter 1 is at the same developmental and social stage of life as everyone else at the table — and the same holds at every age the Prelude covers. Longer or shorter natural lifespans only start to matter after adulthood. This is why the party gets to grow up together as genuine peers, regardless of species — add whatever cultural flavour fits your character's heritage, just don't let it break the shared-childhood assumption.
@@ -38,6 +41,8 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > *2024 RAW doesn't govern this either way — species lifespan differences are flavour text, not a mechanical rule, so this isn't overriding anything, just settling a question RAW leaves open.*
 
 ## Building a Child (Sessions 1-2)
+
+**More on this:** [[Amble|Amble]] — the village you grew up in, and the customs every child there knows.
 
 > [!note]- Details
 > Sessions 1 and 2 don't use a full character build — that happens at the start of Session 3. Until then, character creation is deliberately quick:
@@ -77,6 +82,8 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 
 ## Short Rests and Long Rests
 
+**More on this:** [[Hurt_And_What_To_Do|Hurt, and What to Do About It]] — what actually heals, what takes weeks, and what only money will mend.
+
 > [!note]- Details
 > **Short Rest** takes 30 minutes (down from the standard hour). *2024 RAW: 1 hour, and — new in 2024 — you need at least 1 hit point to take one (see Stable Characters Can Join a Rest below for the exception).*
 >
@@ -91,6 +98,8 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 
 ## Stable Characters Can Join a Rest
 
+**More on this:** [[Hurt_And_What_To_Do|Hurt, and What to Do About It]] — being down at 0, and getting back up.
+
 > [!note]- Details
 > A character who's stable at 0 hit points can take part in a Short Rest or Long Rest. At the end of it, they regain 1 hit point and can spend Hit Dice normally afterward, same as anyone else. (Waking up this way still counts as being revived under Revival Exhaustion below — the level of exhaustion applies.)
 >
@@ -98,12 +107,16 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 
 ## Revival Exhaustion
 
+**More on this:** [[Hurt_And_What_To_Do|Hurt, and What to Do About It]] — what going down costs you afterwards.
+
 > [!note]- Details
 > Whenever a character drops to 0 hit points and is later revived to 1 or more — by any means, healing magic, a potion, a natural death-save recovery — they gain one level of exhaustion. This stacks with any exhaustion they already have, and follows the standard exhaustion track, which means enough of it really can kill a character. A Long Rest still removes one level, as normal. **A creature left at 1 HP by a non-lethal attack was never at 0, so it gains no exhaustion.**
 >
 > *2024 RAW doesn't penalise going to 0 hit points and being healed back up at all — no exhaustion is gained. (RAW does the opposite for an actual death: a creature that dies and is later resurrected comes back with 1 fewer exhaustion level than it had, not more.) The "a Long Rest removes one level" part above is standard RAW, unchanged — this section's only real house rule is the exhaustion gain itself.*
 
 ## Three Failed Death Saves — a Permanent Injury
+
+**More on this:** [[Hurt_And_What_To_Do|Hurt, and What to Do About It]] — what a bonesetter can fix and what is permanent.
 
 > [!note]- Details
 > **If you collect a third failed death saving throw, you do not die. You become stable at 0 hit points and
@@ -123,6 +136,8 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > death for choices and for overwhelming damage.*
 
 ## Nothing Dies at 0 Hit Points
+
+**More on this:** [[Who_Youre_Dealing_With|Who You're Dealing With]] and [[What_Lives_Around_Here|What Lives Around Here]] — who you are actually fighting, and how dangerous each of them is.
 
 > [!note]- Details
 > **A creature reduced to 0 hit points does not die. It goes down, exactly as you would** — unconscious,
@@ -153,6 +168,8 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > the time.*
 
 ## Non-Lethal Attacks
+
+**More on this:** [[Who_Youre_Dealing_With|Who You're Dealing With]] — why picking a fight in Stoneharbour usually ends badly — and [[The_Town_After_Dark|The Town After Dark]] for who turns up afterwards.
 
 > [!note]- Details
 > **Declare it before you roll.** A non-lethal attack has to be declared *before* the attack roll — you're announcing intent, not deciding after the fact once you see how much damage landed.
@@ -215,6 +232,8 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 
 ## Manacles — Binding a Creature
 
+**More on this:** [[The_Town_After_Dark|The Town After Dark]] — the Watch, and what happens to whoever you hand over.
+
 > [!note]- Details
 > **Manacles are for the aftermath of a fight, not a way to take a fighter out of it.** Binding one limb-set of a creature that is still resisting (both wrists, or both ankles) takes three steps, each its own action, and the target gets a save at each one. **Binding the other limb-set too costs the same again.**
 >
@@ -252,6 +271,8 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > You can hold at most one Heroic Inspiration at a time. If you'd earn another while already holding one, you can't stack it — instead, give it to another player character who doesn't currently have any. *This paragraph is standard 2024 RAW, not a house rule — the one-at-a-time cap and passing along a duplicate both work this way by default.*
 
 ## Drinking a Potion — Bonus Action
+
+**More on this:** [[What_Magic_Costs|What Magic Costs]] — what a potion costs, and who sells one.
 
 > [!note]- Details
 > Drinking a potion, or administering one to another creature, costs a Bonus Action.
@@ -293,6 +314,8 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 
 ## Group Checks and Expert Checks
 
+**More on this:** [[What_Your_Character_Knows|What Your Character Knows]] — how proficiency and expertise gate what your character simply knows.
+
 > [!note]- Details
 > Not every situation where multiple characters could roll is handled the same way. Which approach applies depends on whether success depends on everyone involved, or the party can lean on its most qualified member.
 >
@@ -328,6 +351,8 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 
 ## How Hard Is Hard?
 
+**More on this:** [[Who_Youre_Dealing_With|Who You're Dealing With]] — what ordinary working people can actually do, which is what the ladder is calibrated against.
+
 > [!note]- Details
 > The GM sets a target number (a DC) for anything genuinely uncertain, roughly matching how difficult the attempt actually is. You won't always be told the number, but here's the ladder, so you have a feel for it — and a sense of what each tier of "impressive" actually looks like at the table.
 >
@@ -346,6 +371,8 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 ## Magic Items — Whose Breath Is In It
 
 Read the box your character qualifies for — see [[What_Your_Character_Knows|What Your Character Knows]].
+
+**More on this:** [[What_Magic_Costs|What Magic Costs]] · [[What_The_Quay_Sells|What the Quay Sells]] · [[Words_People_Use|Words People Use]] — prices, slivers, and what a binder or a proving actually is.
 
 > [!info]- ⚪ COMMON — no proficiency needed
 > Nobody makes a magic thing and walks away from it. Somebody holds it up. There is a person behind every
@@ -446,6 +473,51 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > **And the part nobody advertises: the cheapest way to end a magic item is to end the person holding it.**
 > Not the sword. The smith three towns away who has never touched it.
 
+## Languages — What the Parent Gets You
+
+> [!note]- Details
+> Full background on [[Languages|Languages]]. The rules part:
+>
+> **Haldeni is your language, and it is not the world's.** Outside the kingdom it goes where the Guild's
+> paperwork goes and no further. Don't expect to be understood abroad because you were understood at home.
+>
+> **Two languages are offshoots of ordinary ones.** **Aelvish** (Aeloria) came from Elvish; **Kaldrunic**
+> (Kaldrun) came from Dwarvish. If you have the parent and you meet the offshoot, or the other way round:
+>
+> - **Concrete, slow, practical speech works, no roll.** Numbers, prices, weights, directions, goods,
+>   names, threats.
+> - **Anything that matters needs an Intelligence check.** DC 13 for plain speech you're straining at, DC 17
+>   for formal, legal, religious or written. No proficiency applies.
+> - **A failed check gives you the subject, not the content.** You know they settled the shipment. You don't
+>   know what they settled.
+> - **You can never pass as a speaker.** No roll, nothing improves it, and a native hears it inside one
+>   sentence. Plan around being obviously foreign rather than hoping to hide it.
+>
+> **Trade** — the harbour pidgin — is its own language on your sheet, not a dialect of Albric. It is
+> cheap to come by: a season working a quay, a hold or a caravan covers it, so ask your GM rather than
+> assuming you have to buy it. Its ceiling is not a difficult roll, it is **a flat no**: prices, weights,
+> grades, cargo, dates, directions, threats and a deal in outline all work, and law, nuance, feeling, an
+> oath or an argument **cannot be said in it at all**. A dispute has to move into somebody's home language,
+> and whoever's that is has the advantage. A native Albric speaker understands Trade for free. It does not
+> work in reverse — Trade in an Albric counting-house marks you as crew, not principal.
+>
+> **There is no single Thieves' Cant.** Every kingdom has its own and they are not mutually intelligible, so
+> your cant is the cant of one country and is named that way on your sheet. Halden's mountain and river
+> territories use the Haldeni one. Abroad, yours is noise — everything it buys you at home has to be
+> rebuilt from nothing.
+>
+> **Druidic does not exist in this world.** There is no secret druids' language. Instead a druid reads and
+> leaves **the old faith's marks**: cut, chalked or scratched signs on wayside stones, gateposts, doorframes
+> and lintels that keepers, almshouse hands, hedge-elders, hedge-druids and the long-term poor can read, and
+> that everyone else walks past as a scratch on a gatepost.
+>
+> - No roll to read one. Leaving one takes a minute or so and something to cut or chalk with.
+> - They say practical things: who feeds strangers, bad water, a keeper two miles on, don't sleep here, the
+>   dog bites.
+> - **They are not secret, only unread** — so an NPC who learned them reads yours too. That is the point
+>   of them, not a flaw.
+> - They stop at Halden's border, like the cants.
+
 ---
 
-See also: [[What_Your_Character_Knows|What Your Character Knows]] · [[Peoples_and_Magic|Peoples and Magic]] · [[Character_Advancement|Character Advancement]]
+See also: [[What_Your_Character_Knows|What Your Character Knows]] · [[Peoples_and_Magic|Peoples and Magic]] · [[Character_Advancement|Character Advancement]] · [[Languages|Languages]]

@@ -3,6 +3,20 @@
 > One line per change/session, **newest first**. *Why* lives in `DECISIONS.md`. Not backfilled past
 > 2026-07-21 — this repo's prior history is better read via `git log` than reconstructed here.
 
+- **2026-10-12 · Languages: a new page, and every house rule now points at its lore** — synced from the
+  GM repo's `D-2026-10-12-languages-offshoots-trade-and-cants`. New `The_World/Languages.md`, using this
+  wiki's own ⚪ COMMON / 🔵 TRAINED gate: the COMMON tier deliberately states the street-level
+  misconception ("the elves talk elvish, only fancier about it"; "everyone who matters speaks Haldeni
+  really") and the TRAINED tier, on History + Insight, takes it apart. **Haldeni is no longer the common
+  tongue of the continent** — what people actually do business in is **Trade**, the harbour pidgin, which
+  can agree a deal and cannot argue one. Aelvish and Kaldrunic are their own languages descended from Elvish
+  and Dwarvish, and having the parent never lets you pass. A thief's cant stops at the border. **Druidic
+  does not exist** — druids read and leave the old faith's marks instead. `House_Rules.md` gains a
+  matching "Languages — What the Parent Gets You" section, **and a `More on this:` lore link on thirteen
+  other rules** (rests and injuries → Hurt and What to Do About It, 0 HP and non-lethal → Who You're
+  Dealing With, manacles → The Town After Dark, potions and magic items → What Magic Costs, and so on),
+  so no rule sits on the page without pointing at the lore that explains it. Indexed from The World and from
+  What Your Character Knows.
 - **2026-10-11 · Maps: the harbour-mouth view replaced with a corrected one** — synced from the GM repo.
   The version published on 2026-10-07 had two banners over the wrong districts, "Low Quay" over the central
   quays and "Naval Wharf" over the shipyard. The replacement has every banner over its own district, and

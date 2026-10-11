@@ -9,6 +9,8 @@ description: Amble, Stoneharbour, the wider kingdom, and who lives in it.
 - [[Wider_World_Kids|What Lies Beyond Amble?]] — the world as a child of Amble understands it
 - [[Kingdom_of_Halden_Adults|The Kingdom of Halden]] — the kingdom you actually live in: the king, the
   South March, and what lies past it
+- [[Languages|Languages]] — what people speak, what you get by in at the harbour, and why your
+  Haldeni stops working at the border
 - [[What_Lives_Around_Here|What Lives Around Here]] — dogs, wolves, river rats and worse, and how
   dangerous each of them is
 - [[World Map|World Map]] — the continent, and the Kingdom of Halden inside it

@@ -61,6 +61,7 @@ describe where a character starts, not a wall.
 - [[The_Iron_Coin_Guild|The Iron Coin Guild]] — what your indenture says and what it costs to find out
 - [[Who_Youre_Dealing_With|Who You're Dealing With]] — what ordinary working people can do
 - [[Words_People_Use|Words People Use]] — the local vocabulary
+- [[Languages|Languages]] — what people speak, and what your own language is worth abroad
 - [[What_Lives_Around_Here|What Lives Around Here]] — animals and worse, and what they fight like
 - [[The_Town_After_Dark|The Town After Dark]] — the Watch, the lamps and the dogs
 - [[Hurt_And_What_To_Do|Hurt, and What to Do About It]] — injury, recovery and what it costs
