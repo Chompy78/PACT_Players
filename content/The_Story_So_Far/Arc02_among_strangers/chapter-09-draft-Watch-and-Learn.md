@@ -243,7 +243,7 @@ We ate at the guild that afternoon, at the long table by the wall, where nobody 
 
 "We didn't have time to look at anything," Skylar said. "We had a recovery detail," Anders said. "We don't work in admin like you."
 
-Anders wanted to know who usually produced the statements. "Fred," Moss said. "He's in charge of everything." Wren said the records office always made mistakes, and that she had noticed some in the ledger herself. "Way too late for that one, Wren," Skylar said.
+Anders wanted to know who usually produced the statements. Wren said the records office always made mistakes, and that she had noticed some in the ledger herself. "Way too late for that one, Wren," Skylar said.
 
 Wren came back about fifteen minutes later with a copy of the statement, already frowning. "The mistakes are all over it," she said. The statement said Dela owed a hundred and forty-six gold. Once an account went over a hundred, a referral was automatic. So the notice had been right, at least that far.
 
