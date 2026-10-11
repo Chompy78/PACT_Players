@@ -247,7 +247,7 @@ Anders wanted to know who usually produced the statements. Wren said the records
 
 Wren came back about fifteen minutes later with a copy of the statement, already frowning. "The mistakes are all over it," she said. The statement said Dela owed a hundred and forty-six gold. Once an account went over a hundred, a referral was automatic. So the notice had been right, at least that far.
 
-Seventy-five gold of it was things Dela had put down against other people's accounts. A funeral shroud. A roof patch after the storm. A healing for somebody's cold. A healing for somebody having a baby. Toby's poison had its own line, a cure at twenty gold.
+Seventy-five gold of it was things Dela had quietly put on her own account rather than anyone else's — a funeral shroud, a roof patch after the storm, a healing for somebody's cold, a healing for somebody having a baby. Toby's poison had its own line, a cure at twenty gold. None of it was a mistake the guild would ever correct; she'd chosen every one of those lines herself.
 
 "We should have a proper auditor," Fenwick said. He had the expression of someone who had read a very long document and found it cruel. "This makes no sense."
 
@@ -341,10 +341,10 @@ The recovery was cancelled. There was a payment plan now, and Dela still charged
 
 * * *
 
-The rain had stopped by the evening. The town had gone dark and wet, welcoming to some people and not to others. Dela had nearly gone the same way as us, into the guild's indentureship, and she had not. No one died this time.
+The rain had stopped by evening. The town had gone dark and wet, the kind of evening that felt safer indoors than out. Dela had nearly gone the same way we had — into the guild's indentureship — and hadn't. No one died this time.
 
 Moss said that was true, and we all agreed it was, and we all knew there had been other times it wasn't.
 
-Dela was quieter than she had been. She was not as sharp with her tongue, and she did not make her jokes. All afternoon people had argued back whenever she tried to do the right thing, and it had worn her down. "Everyone's meals were a little colder," Moss said. Then he thought about it. "Only ours."
+Dela was quieter than usual, without her usual sharp tongue or her jokes. All afternoon she'd had to watch people pick through her accounts and argue about what she owed, and it had worn her down more than she let on. "Everyone's meals were a little colder," Moss said. Then he thought about it. "Only ours."
 
 We ate them anyway. She would have been hurt if we hadn't.
