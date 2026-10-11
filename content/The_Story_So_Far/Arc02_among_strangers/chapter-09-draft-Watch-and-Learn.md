@@ -293,7 +293,11 @@ Anders asked Dela whether she would sell it. She would not. It was the only thin
 
 * * *
 
-Wren was on the street outside when we came out. Skylar reminded us that the notice said nothing was to leave the property without the warrant. Wren said a sliver would not be on any inventory at all, because they were illegal. Moss took the bottle out of his coat, looked at it for a moment, and smashed it on the paving outside the cook shop. It broke with a small, ordinary sound. That was the end of it.
+Wren was on the street outside when we came out. Skylar reminded us that the notice said nothing was to leave the property without the warrant. Wren said a sliver would not be on any inventory at all, because they were illegal.
+
+Moss took the bottle out of his coat and held it up the way Skylar had, turning it slowly in the light, as if he might see something in it worth knowing before it was gone for good. Whatever had been drawn out of Dela's grandfather and bound into that glass, none of us would ever know what it was now — and it occurred to more than one of us that maybe that was exactly as it should be. Moss looked at it a moment longer. Then he smashed it on the paving outside the cook shop.
+
+It broke with a small, ordinary sound — nothing like what you'd expect from something that had once been a piece of somebody's life. None of us said anything for a moment. Then we kept walking. That was the end of it.
 
 * * *
 
@@ -311,7 +315,7 @@ The first man handed over a gold and a half there and then. He turned round and 
 
 The next morning there was a parcel waiting at the guild, and it held fifty-six gold.
 
-Caspian opened it. For a moment nobody said anything. Then Moss pocketed one gold piece, said he would walk the other side of town on his own, to see who took an interest in him, and went. We didn't see him again until he turned up at the clerk's window.
+Caspian opened it. For a moment nobody said anything.
 
 We went to the clerk. "The money goes against Dela's account," Caspian said. "It moves her onto a payment plan." The clerk said that was all in order. He would redo the document. Were we able to deliver the new one? We were. Caspian said yes, and then asked whether we could have a receipt. There was a receipt.
 
