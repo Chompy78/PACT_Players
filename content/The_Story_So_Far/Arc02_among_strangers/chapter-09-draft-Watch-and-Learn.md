@@ -5,7 +5,7 @@ draft: false
 
 # Chapter 9 — Watch and Learn
 
-The job was simple, and we were told so three times. We were to walk an agent of the guild across Stoneharbour, stand where she put us [VERIFY], watch her serve a notice, and keep our hands where everyone could see them [VERIFY]. The guild liked things said three times. It liked them written down afterwards too, and by the end of that day we had written down a great deal.
+The job was simple, and we were told so three times. We were to walk an agent of the guild across Stoneharbour, stand where she put us, watch her serve a notice, and keep our hands where everyone could see them. The guild liked things said three times. It liked them written down afterwards too, and by the end of that day we had written down a great deal.
 
 Factor Slate sent for us before the sun was properly up, which was the first bad sign. The man who came to wake us was a friend of Fred's, and he wanted us to know it. He made remarks about our appetites all the way out of the barracks, and kept glancing at Moss's middle as if it might answer back. We skipped breakfast.
 
@@ -19,7 +19,7 @@ He tapped the desk. "We've got a good arrangement with most of the people down t
 
 We could all see he was leaving something out. He had the look of a man who had been handed a job and had not enjoyed passing it on.
 
-The agent in the courtyard was a middle-aged woman with a worn satchel on her hip. She looked at us as though we were late, which we were. She asked for the passcode. Skylar said, "Here's your passcode," and elbowed Anders hard in the ribs. [VERIFY]
+The agent in the courtyard was a middle-aged woman with a worn satchel on her hip. She looked at us as though we were late, which we were. She asked for the passcode. Skylar said, "Here's your passcode," and elbowed Anders hard in the ribs.
 
 "I am Agent Dorra Blane," she said. "This is your first recovery notice, I understand." She read an address off the folded paper in her hand without looking up. "Number eight, Market Steps."
 
@@ -95,9 +95,7 @@ Blane read out the notice. "Unfortunately, you have defaulted against your loan 
 
 Dela sat down on the nearest stool and began to cry, without making any noise at all. Nessa came round the counter and held her. Toby got down from his stool and went to stand against the two of them, and the three of them stayed like that while Blane waited.
 
-"Can you pay the debt?" Blane asked, quite gently.
-
-"No," Dela said. "I can't."
+None of us said anything. It was strange, seeing her like this at all, after how carefully she'd always managed everything else — the free bread, the extra helpings, the bowl that turned up with no explanation attached. We had never once seen Dela unable to do something.
 
 Blane looked at us. "Do we have your permission to do the inventory?" Dela nodded.
 
@@ -118,10 +116,6 @@ When we came to the pot, Toby came over and told us in a flat voice, the voice o
 "Anything written down goes for its written value," Blane said. "Write down *large cooking pot* and it brings a few silver. Half a gold at most."
 
 Anders had a plan. "We lift the pot off the range and write down an ordinary pot," he said. "Then when the goods are sold, we buy it back for Dela. Far cheaper than her buying back a magic pot."
-
-"You can't guarantee we'll be able to buy it," Skylar said.
-
-"It'll still be cheaper than her buying back a magic pot."
 
 "You can't guarantee we'll be able to buy it," Skylar said.
 
@@ -229,7 +223,7 @@ Six guild men came out of a building halfway back to the guild, and one of them 
 
 "We had to give up all our possessions," Anders said. "Because you took your time."
 
-Moss flexed at the back, which was not much use to anybody. The leader of the guild men looked hard at Anders for some time, and then he nodded.
+The leader of the guild men looked hard at Anders for some time, and then he nodded.
 
 "You're Anders, isn't it?"
 
@@ -265,7 +259,9 @@ Isabet Marrow adjusted the statement. The adjustment was real, she said, but it 
 
 "Could we pay it ourselves?" Anders asked.
 
-Nobody could say we could. Anders suggested putting the knife back on Dela's shelf and telling the guild it had been planted on her. Moss said that would end well for Dela. Anders agreed that it would. Nobody did it, and then the subject was dropped, and Anders looked for a while as though someone had taken his best idea and lost it.
+"Of course you can," Wren said.
+
+That was the easy part. We did not have the coin to do it, and we had just said so. Anders suggested putting the knife back on Dela's shelf and telling the guild it had been planted on her. Moss said that would end well for Dela. Anders agreed that it would. Nobody did it, and then the subject was dropped, and Anders looked for a while as though someone had taken his best idea and lost it.
 
 * * *
 
@@ -331,7 +327,7 @@ Dela had her hands in a sink of water. She told us the shrine had come down to s
 
 "It's people paying for all the free meals you've given them over the years," Skylar said.
 
-"They weren't free meals," Skylar said. "They've paid for them now."
+"They weren't free meals," she said. "They've paid for them now."
 
 Dela looked as if she had been caught stealing, and the more we tried to make it better, the worse she looked. Moss put the case as well as it could be put. "The tribe up on the hill will help with your food costs for a while," he said. "They'll send a shipment down, and it won't all be coming from us." Dela said she had never wanted anyone to know. She had put the box out herself, she said, for the soup kitchen. She was embarrassed. After a while she let us sit with her, and she was quiet.
 
