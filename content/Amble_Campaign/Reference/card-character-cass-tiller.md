@@ -11,15 +11,15 @@ draft: false
 
 Cass is not a human, a halfling or an elf.
 
-Cass Tiller uses they/them pronouns.
+Cass Tiller uses she/her pronouns.
 
 **Role:** The server at the Brant cookshop on the Market Steps in Stoneharbour, who does the serving and the worrying.
 
 **Home:** The Brant cookshop, Market Steps, Stoneharbour.
 
-In Chapter 5 they refuse Fenwick's request for cast-off cooking things on the spot — it is a cookhouse, they use their things — and object to Dela giving out free food again.
+In Chapter 5 she refuses Fenwick's request for cast-off cooking things on the spot — it is a cookhouse, they use their things — and objects to Dela giving out free food again.
 
-They allow the party a guild discount of two coppers rather than one.
+She allows the party a guild discount of two coppers rather than one.
 
-*Reference page for the campaign assistant. Source: Published Chapter 5; species and pronouns from PACT-campaign Arc02 reference.*
+*Reference page for the campaign assistant. Source: Published Chapter 5; species from PACT-campaign Arc02 reference; pronouns per John, 2026-10-12.*
 
