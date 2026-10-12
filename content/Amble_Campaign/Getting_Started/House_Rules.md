@@ -25,6 +25,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 - [Medium Armor Strength Requirement](#medium-armor-strength-requirement)
 - [Heavy Armor Strength Requirement](#heavy-armor-strength-requirement)
 - [Advancement](#advancement)
+- [Downtime Between Chapters](#downtime-between-chapters)
 - [How Checks Actually Play Out](#how-checks-actually-play-out)
 - [Group Checks and Expert Checks](#group-checks-and-expert-checks)
 - [How Hard Is Hard?](#how-hard-is-hard)
@@ -302,6 +303,37 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > - Contract pay and any debt changes are handled separately from Advancement Points — they don't affect your character's growth directly.
 >
 > *2024 RAW advances characters by XP thresholds or DM-adjudicated milestone leveling — there's no Advancement Points system in the standard rules; this is entirely this table's own.*
+
+## Downtime Between Chapters
+
+> [!note]- Details
+> When time passes between chapters, most of it you're working for the Guild. **Downtime is your Restdays and
+> evenings**, and you choose what your character does with them.
+>
+> **How many picks:** one for a gap of two to four months, two for five months or more, and a half-size "short" pick
+> for under two months (coin is halved). If you missed the chapter itself, you get one extra pick.
+>
+> **When:** we do picks and rolls together at the **start of the session**, before the first scene. Come with an idea.
+> Can't make it? Message your pick to the GM beforehand.
+>
+> **Steady or Push:** for most activities you choose **Steady** (a sure, modest result, no roll) or **Push** (one roll
+> for about double, but a fail gets you *less* than Steady, plus a problem).
+>
+> | Activity | What it gets you |
+> |---|---|
+> | **Earn coin** | Steady about 12 GP a season, Push for about 24. Say **Declared** (onto your debt), **Retained** (keep up to 5, with the Guild's say-so) or **Undeclared** (keep it all, and hope) |
+> | **Build a name** with a group | Two of you working on the same group (or one of you over two picks) warm it up a step. It costs a few GP each (5 or more, more the better they already know you), and something else, like unpaid work. People who dislike you need a Push |
+> | **Spend time** with someone you like | They won't think worse of you this gap, and +1 with them unless they already feel strongly about you (then it takes a Push). Free. If you want something from them, that's Look into |
+> | **Look into** something | Always a roll. You might get nothing, what the street says, a real lead, or at the top, a hint from the GM about what's coming |
+> | **Put in for the Guild** (Stoneharbour) | Extra contract days. More off your debt, and a Push can get you named in Slate's report |
+> | **Work an angle** | Always a roll. Coin nobody knows about, and one crowd likes you more. Others like you less, unless it goes really well. Until somebody finds out. You can tell the GM this one privately |
+> | **Quiet help** | Give your spare time to people who need it, with no name on it: a soup kitchen, a sickbed, a grave, a schoolroom. No coin and no standing. Roll a d8 for what comes of it, mostly good |
+> | **Train** | Learn something with a Guild teacher. Each training pick gives **1 Bonus AP** toward it (Push for 2), up to half its cost. **Anything costing 6 AP or more needs training picks** to cover the weeks it takes |
+> | **A project** | Something longer: clear a mark from your file, look after someone, a public deed with the whole party, and in Fordwater a bolt-hole or a craft of your own |
+>
+> **Working together:** two of you on the same group, person or question usually helps. Ask the GM.
+>
+> *Standard D&D leaves most of what happens between adventures to the GM. This table uses its own system.*
 
 ## How Checks Actually Play Out
 
