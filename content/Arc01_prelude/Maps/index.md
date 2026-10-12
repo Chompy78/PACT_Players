@@ -1,24 +1,30 @@
 ---
 title: Maps
+description: Amble from above, Wren's own version of it, and the Woodline at the village edge.
 noStubPages: true
 ---
 
-## Amble Village
+Three maps of home.
 
-![[Amble Village.png|Amble Village|750]]
+## Amble
 
-## Amble Village Centre
+The village as a careful hand would draw it: the Council Tree at the centre with the square below it,
+Tavern & Inn on the square, the shrine out west past the Miller's house, Old Marn's cottage beyond that,
+and the Cubby Tree off east past the granary where the fields start. The cemetery sits apart, as it
+should. North Gate at the top, South Road at the bottom — and the South Road is the one that matters now.
 
-![[Amble Village Centre.png|Amble Village Centre|750]]
+![[village-map.png|Amble|750]]
 
 ## My Village (by Wren)
 
+The same place, drawn by somebody who lives in it.
+
 ![[my village by Wren.png|My Village (by Wren)|750]]
 
-## Woodline
+## The Woodline
 
-![[Woodline.jpg|Woodline|750]]
+Where the fields give way to trees, a short walk out of the village: the stream crossing, the old shrine
+by the path, and the hollow tree. Every child in Amble knows all three, and knows how far past them you
+are supposed to go.
 
-## Village Map
-
-![[village-map.png|Village Map|750]]
+![[Woodline.jpg|The Woodline|750]]
