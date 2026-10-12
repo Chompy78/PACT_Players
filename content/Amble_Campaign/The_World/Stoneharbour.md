@@ -98,6 +98,9 @@ Above the town, quieter than the rest of it.
 - **The Quiet Ground** — the burial ground, terraced into the hillside below the shrine
 - **The Wayside Stone** — a worn standing stone off the main path, a minor wayside shrine
 
+**More on this:** [[Shrines_And_Keepers|Shrines and Keepers]] — who keeps each of these, who pays for them,
+and what the Hill can and cannot do for you.
+
 ### Kingshold & the Naval Wharf
 
 The Crown's own corner, walled off from the streets and gated. Around **380 under arms** — the garrison, the Naval Wharf and two vessels — and they are counted separately from the town's own people.

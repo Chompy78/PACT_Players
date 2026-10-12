@@ -16,7 +16,8 @@ Read the box your character qualifies for — see [[What_Your_Character_Knows|Wh
 > is wrong with you, which is not always the same as being able to fix it.
 >
 > **The Resting Stair on Shrine Hill** takes people who have nowhere else. It is an almshouse, not a
-> hospital, and they will not turn you away.
+> hospital, and they will not turn you away. The free care in this country is nursing and the paid care is
+> magic — see [[Shrines_And_Keepers#who-actually-heals-you|Shrines and Keepers]].
 >
 > **Magical healing costs what a year costs.** Fifteen gold to close a wound. Forty to lift a disease. A
 > potion is fifty. See [[What_Magic_Costs|What Magic Costs]].

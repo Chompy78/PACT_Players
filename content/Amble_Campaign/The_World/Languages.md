@@ -82,8 +82,8 @@ It is useless for anything else, and that matters more than it sounds.
 
 ## If you read the old signs
 
-The old faith of the hills keeps books that are an index of signs, and it keeps the same habit out on the
-road. Cut, chalked or scratched onto wayside stones, gateposts, doorframes and lintels, there is a set of
+[[Shrines_And_Keepers#shrine-hill-and-the-old-faith|The old faith of the hills]] keeps books that are an
+index of signs, and it keeps the same habit out on the road. Cut, chalked or scratched onto wayside stones, gateposts, doorframes and lintels, there is a set of
 **marks** — a few dozen of them, and no two valleys agreeing on all of them.
 
 They say useful things, never mysterious ones. *This house will feed you and will not ask. This one won't.
@@ -101,4 +101,4 @@ the table, including what a druid gets instead of a secret druids' language, bec
 
 ---
 
-See also: [[Peoples_and_Magic|Peoples and Magic]] · [[Kingdom_of_Halden_Adults|The Kingdom of Halden]] · [[World Map|World Map]] · [[Words_People_Use|Words People Use]] · [[House_Rules#languages--what-the-parent-gets-you|House Rules → Languages]]
+See also: [[Shrines_And_Keepers|Shrines and Keepers]] · [[Peoples_and_Magic|Peoples and Magic]] · [[Kingdom_of_Halden_Adults|The Kingdom of Halden]] · [[World Map|World Map]] · [[Words_People_Use|Words People Use]] · [[House_Rules#languages--what-the-parent-gets-you|House Rules → Languages]]

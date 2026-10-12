@@ -11,6 +11,9 @@ description: Amble, Stoneharbour, the wider kingdom, and who lives in it.
   South March, and what lies past it
 - [[Languages|Languages]] — what people speak, what you get by in at the harbour, and why your
   Haldeni stops working at the border
+- [[Shrines_And_Keepers|Shrines and Keepers]] — the hill, the jar, Restday, and what a shrine can and
+  cannot do for you
+- [[The_Calendar|The Calendar]] — the twelve months, Marketday and Restday, and what year it is
 - [[What_Lives_Around_Here|What Lives Around Here]] — dogs, wolves, river rats and worse, and how
   dangerous each of them is
 - [[World Map|World Map]] — the continent, and the Kingdom of Halden inside it

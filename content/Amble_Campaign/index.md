@@ -43,7 +43,10 @@ The pages that are about you, not the world.
 - [[Peoples_and_Magic|Peoples and Magic]] — who you'll meet growing up here, and how common magic really is
 - [[Wider_World_Kids|What Lies Beyond Amble?]] — what a child in Amble actually knows about the world outside it
 - [[Kingdom_of_Halden_Adults|The Kingdom of Halden]] — the kingdom itself, now that you have seen more of it than Amble
-- [[World Map]] — *nothing on it yet*
+- [[Languages|Languages]] — what people speak, what you can get by in at the harbour, and why your Haldeni stops working at the border
+- **[[Shrines_And_Keepers|Shrines and Keepers]]** — Halden's faith: the hill, the jar, Restday, and what a shrine can and cannot do for you
+- [[The_Calendar|The Calendar]] — the twelve months, the week, and what year it actually is
+- [[World Map]] — the continent, and the Kingdom of Halden inside it
 
 ## Reference
 
