@@ -24,7 +24,7 @@ A separate tree out toward the fields on the village's edge, near the grazing pa
 ### Elsewhere in Amble
 
 - **The village square** — where market days happen and news travels fastest.
-- **The tavern and inn.**
+- **The Green Man** — the tavern and inn, on the north side of the square. The chimney is always going. Nobody in Amble calls it anything but "the tavern", and nobody can tell you why it has the name it has.
 - **The shrine** — home to Mother Yela, and to the bell loft in its tower, which [[Arc01_prelude/NPCs/index|Wren]] has claimed as her own space.
 - **The Woodline** — the woods at the village's edge, where the fields give way to trees. Children swap stories about what lives out there past the first twenty paces; not all of those stories turn out to be just stories.
 - **The cemetery** — set apart from the day-to-day bustle. Amble meets death calmly here, without spectacle.

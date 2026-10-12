@@ -15,6 +15,14 @@ should. North Gate at the top, South Road at the bottom — and the South Road i
 
 ![[village-map.png|Amble|750]]
 
+## The Market Square
+
+Market day, close up: the stalls, the well and the fountain, the performance area for travelling folk, and
+**The Green Man** on the north side with its awning out and the trestle tables full. The storyteller's
+bench is under the tree beside it.
+
+![[Amble Village Centre.png|The Market Square|750]]
+
 ## My Village (by Wren)
 
 The same place, drawn by somebody who lives in it.
