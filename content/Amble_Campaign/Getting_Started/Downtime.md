@@ -33,12 +33,16 @@ In Stoneharbour you also choose what happens to the money:
 - **Retained:** the Guild lets you keep a little of it, for a small fee.
 - **Undeclared:** you keep all of it and don't tell the Guild. They might find out.
 
-### Build a name with a group
+### Win over a crowd
 
-Spend time where a group of people can see you: working beside them, turning up, helping out. If it goes well, they think better of you by a step.
+Choose one part of town or one kind of people: the fish-quay families of Low Quay, the Market Steps stallholders, the
+Watch, the merchants. Then spend your spare time where they'll see you: lend a hand when they're short, turn up when it
+matters to them, put a little money into their causes. If it works, that crowd starts to think better of you.
 
-- It costs you something: a few gold, and usually some unpaid work as well.
-- People who don't mind you either way are easy to win over. **People who already dislike you need a Push**, and the more they dislike you, the harder it is.
+- **It costs you something:** a few gold, and usually some unpaid work as well.
+- **People who don't know you yet are easy to win over.** People who already dislike you take a Push, and the more they
+  dislike you, the harder it is.
+- **A crowd only warms to you so fast:** one improvement per chapter, however many of you try.
 - **Do it with a friend** and you share the cost. If you both Push, you have a better chance together.
 
 ### Spend time with someone
