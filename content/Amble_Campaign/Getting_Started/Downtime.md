@@ -15,7 +15,7 @@ Time passes between chapters, sometimes a few weeks and sometimes more than a ye
 
 ## Safe or risky
 
-For most picks you choose how hard to try:
+For most picks you choose how hard to try. (A few, like training, are always a roll.)
 
 - **Steady** is the safe choice. You get a sure, modest result, with no roll.
 - **Push** means you roll. Do well and you get about twice as much. Do badly and you get *less* than Steady would have given you, and something goes wrong.
@@ -77,7 +77,7 @@ Give your spare time to people who need it, with your name left off it: a soup k
 
 ### Train
 
-Learn something new with a teacher the Guild finds you. See the next section.
+Learn something new with a teacher the Guild finds you. This one is **always a roll**. See the next section.
 
 ### A longer project
 
@@ -94,14 +94,23 @@ Everything you buy with AP takes some time to learn as well.
 |---|---|
 | Under 6 | None |
 | 6-10 | 1 |
-| 11-15 | 2 |
-| 16-20 | 4 |
+| 11-15 | 2 (or 1, if you roll really well) |
+| 16-20 | 4 (fewer if you roll really well) |
 
-- **Each training pick also gives you 1 Bonus AP** toward the thing you're training, or 2 if you Push and succeed. That Bonus AP can only be spent on that thing, and it can pay for up to half of it.
+- **Training is always a roll.** You roll a d20 plus whatever fits the thing you're learning: the skill itself, the
+  tool, Athletics for fighting moves, Arcana, Religion or Nature for magic, Constitution for toughness, and so on. The GM
+  will tell you which.
+  - **A good roll** covers the weeks and gives you **Bonus AP** toward the thing you're training: 1, or 2 if you roll
+    really well. That Bonus AP can only be spent on that thing, and it can pay for up to half of it.
+  - **An average roll** still covers the weeks, but gives no Bonus AP.
+  - **A bad roll** means you hurt yourself in practice. You make no progress that pick, and the Guild medic's bill goes
+    on your debt.
+- **Learning something brand new** (a first cantrip, a skill you've never had) is harder, because you're rolling
+  without the training. The first steps are the slowest.
+- **You can still train for a small purchase**, just for the chance of Bonus AP toward it.
 - **The gold cost is the same as always**, with the Guild paying half.
-- **Training can go wrong.** If you Push and fail, you hurt yourself in practice. You make no progress that pick, and the Guild medic's bill goes on your debt. A Steady training pick always makes progress.
 
-*Example: Archer wants to open a new kind of magic, which costs 7 AP. That needs one training pick. He trains Steady, so the pick covers the weeks and gives him 1 Bonus AP toward it. He pays the other 6 AP and his half of the gold, and he can use it from the next chapter.*
+*Example: Archer wants to open a new kind of magic, which costs 7 AP. That needs one training pick. He rolls well, so the pick covers the weeks and gives him 1 Bonus AP toward it. He pays the other 6 AP and his half of the gold, and he can use it from the next chapter. If he'd rolled badly, he'd try again next chapter.*
 
 ## Working together
 
