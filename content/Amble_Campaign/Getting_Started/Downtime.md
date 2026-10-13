@@ -31,7 +31,7 @@ Odd jobs on your Restdays: a cookshop on market nights, the fish market, carting
 In Stoneharbour you also choose what happens to the money:
 - **Declared:** it goes on your Guild debt. Safe.
 - **Retained:** the Guild lets you keep a little of it, for a small fee.
-- **Undeclared:** you keep all of it and don't tell the Guild. They might find out.
+- **Undeclared:** you keep all of it and don't tell the Guild. They might find out. You can tell the GM this one privately.
 
 ### Win over a crowd
 
