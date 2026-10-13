@@ -59,9 +59,10 @@ Ask around about something you've heard: a rumour, a person, a place. This one i
 
 Asking too clumsily can mean people notice you asking.
 
-### Put in for the Guild (Stoneharbour)
+### Put in for the Guild
 
-Volunteer for extra contract days and the jobs nobody wants. It takes a little more off your debt. Push, and you might get named in the Factor's report.
+Volunteer for extra contract days and the jobs nobody wants. It takes a little more off your debt. Push, and the Guild
+might notice: it goes in your file, and that counts when promotion comes round.
 
 ### Work an angle
 
