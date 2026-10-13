@@ -26,7 +26,7 @@ Push when you're good at the thing. If you're not, Steady is usually the better 
 
 ### Earn some coin
 
-Odd jobs on your Restdays: a cookshop on market nights, the fish market, carting, mending. It's a few gold for the season, more if you Push.
+Odd jobs on your Restdays: a cookshop on market nights, the fish market, carting, mending. It's a few gold for the season, more if you Push. As the years go on and you get better known, the pay goes up.
 
 In Stoneharbour you also choose what happens to the money:
 - **Declared:** it goes on your Guild debt. Safe.
@@ -85,32 +85,23 @@ Something that takes several chapters: clearing a mark from your Guild file, loo
 
 ## Training, explained
 
-Everything you buy with AP takes some time to learn as well.
+Training makes something you want to buy with AP cheaper.
 
-- **Small things (under 6 AP)** you can pick up around your Guild work. Buy them as normal.
-- **Bigger things (6 AP or more)** take weeks of practice with a teacher. The only spare weeks you have are your downtime. **So a bigger purchase needs one or more training picks first:**
-
-| What it costs in AP | Training picks needed |
-|---|---|
-| Under 6 | None |
-| 6-10 | 1 |
-| 11-15 | 2 (or 1, if you roll really well) |
-| 16-20 | 4 (fewer if you roll really well) |
-
-- **Training is always a roll.** You roll a d20 plus whatever fits the thing you're learning: the skill itself, the
-  tool, Athletics for fighting moves, Arcana, Religion or Nature for magic, Constitution for toughness, and so on. The GM
-  will tell you which.
-  - **A good roll** covers the weeks and gives you **Bonus AP** toward the thing you're training: 1, or 2 if you roll
-    really well. That Bonus AP can only be spent on that thing, and it can pay for up to half of it.
-  - **An average roll** still covers the weeks, but gives no Bonus AP.
-  - **A bad roll** means you hurt yourself in practice. You make no progress that pick, and the Guild medic's bill goes
-    on your debt.
-- **Learning something brand new** (a first cantrip, a skill you've never had) is harder, because you're rolling
-  without the training. The first steps are the slowest.
-- **You can still train for a small purchase**, just for the chance of Bonus AP toward it.
+- **Pick the thing you're training toward**: a skill, a fighting move, a spell, more hit points, anything you'd buy
+  with AP. The Guild finds you a teacher.
+- **Training is always a roll.** You roll a d20 plus whatever fits: the skill itself, the tool, Athletics for fighting
+  moves, Arcana, Religion or Nature for magic, Constitution for toughness, and so on. The GM will tell you which.
+  - **A good roll** gives you **Bonus AP** toward that thing: 1, or 2 if you roll really well.
+  - **An average roll** gets you nothing this time.
+  - **A bad roll** means you hurt yourself in practice. The Guild medic's bill goes on your debt.
+- **The Bonus AP can only be spent on that thing.** Training picks add up, and together they can pay for up to half of
+  it. You buy it as normal when you're ready.
+- **Learning something brand new** (a first cantrip, a skill you've never had) is harder, because you're rolling without
+  the training.
 - **The gold cost is the same as always**, with the Guild paying half.
 
-*Example: Archer wants to open a new kind of magic, which costs 7 AP. That needs one training pick. He rolls well, so the pick covers the weeks and gives him 1 Bonus AP toward it. He pays the other 6 AP and his half of the gold, and he can use it from the next chapter. If he'd rolled badly, he'd try again next chapter.*
+*Example: Archer wants to open a new kind of magic, which costs 7 AP. He trains toward it and rolls well, so he gets 1
+Bonus AP. When he buys it, he pays the other 6 AP and his half of the gold.*
 
 ## Working together
 
