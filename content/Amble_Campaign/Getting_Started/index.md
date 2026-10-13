@@ -7,3 +7,4 @@ description: Read these first — the premise, the table rules, and how this wik
 - [[What_Your_Character_Knows|What Your Character Knows]] — ⚪🔵🟣, and the one thing we ask of you
 - [[House_Rules|House Rules]] — everything this table does differently
 - [[Character_Advancement|A Note on Character Advancement]] — AP instead of levels
+- [[Downtime|Downtime Between Chapters]] — what your character does between chapters

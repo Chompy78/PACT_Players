@@ -1,0 +1,112 @@
+---
+title: Downtime Between Chapters
+description: What your character does with their spare time between chapters, and how it works at the table.
+draft: false
+---
+
+Time passes between chapters, sometimes a few weeks and sometimes more than a year. Most of it your character spends working for the Guild. **Downtime is the rest: your Restdays and evenings.** You choose what your character does with them.
+
+## How it works
+
+- **You get one pick each chapter.** A pick is one thing your character spends their spare time on.
+- **We do picks at the start of the session**, before the first scene, all together. It takes about ten minutes. Come with an idea of what you want.
+- **Missed the last chapter?** You get one extra pick, because your character was off doing something else.
+- **Can't make the session?** Message your pick to the GM beforehand, and the GM will roll for you.
+
+## Safe or risky
+
+For most picks you choose how hard to try:
+
+- **Steady** is the safe choice. You get a sure, modest result, with no roll.
+- **Push** means you roll. Do well and you get about twice as much. Do badly and you get *less* than Steady would have given you, and something goes wrong.
+
+Push when you're good at the thing. If you're not, Steady is usually the better bet.
+
+## What you can do
+
+### Earn some coin
+
+Odd jobs on your Restdays: a cookshop on market nights, the fish market, carting, mending. It's a few gold for the season, more if you Push.
+
+In Stoneharbour you also choose what happens to the money:
+- **Declared:** it goes on your Guild debt. Safe.
+- **Retained:** the Guild lets you keep a little of it, for a small fee.
+- **Undeclared:** you keep all of it and don't tell the Guild. They might find out.
+
+### Build a name with a group
+
+Spend time where a group of people can see you: working beside them, turning up, helping out. If it goes well, they think better of you by a step.
+
+- It costs you something: a few gold, and usually some unpaid work as well.
+- People who don't mind you either way are easy to win over. **People who already dislike you need a Push**, and the more they dislike you, the harder it is.
+- **Do it with a friend** and you share the cost. If you both Push, you have a better chance together.
+
+### Spend time with someone
+
+Time with one person because you like them: a cup of tea, a hand with their work, an evening together. It's free.
+
+- They won't think worse of you this time round, and they'll usually think better of you.
+- If they already feel strongly about you, good or bad, moving them takes a Push.
+- **It's not a favour-trade.** If you want something from them, that's *Look into*.
+
+### Look into something
+
+Ask around about something you've heard: a rumour, a person, a place. This one is **always a roll**. You might find nothing, or hear what the street says, or pick up a real lead. At the very top, the GM gives you a private hint about what's coming.
+
+Asking too clumsily can mean people notice you asking.
+
+### Put in for the Guild (Stoneharbour)
+
+Volunteer for extra contract days and the jobs nobody wants. It takes a little more off your debt. Push, and you might get named in the Factor's report.
+
+### Work an angle
+
+Grey or shady work for the people the Guild doesn't like you mixing with. This one is **always a roll**.
+
+- If it goes well, you get coin nobody knows about, and the people you worked for like you more.
+- Every job is at someone's expense. **Other groups may think worse of you**, and the worse it goes, the more people you annoy.
+- If it goes badly, you might be caught.
+- You can tell the GM this one privately.
+
+### Quiet help
+
+Give your spare time to people who need it, with your name left off it: a soup kitchen, a sickbed, a grave that needs digging, a schoolroom.
+
+- You get no coin, and nobody thinks better of you for it. That's the point.
+- Roll a d8 to see what comes of it. It's usually something small and good, like a useful bit of gossip or a steadier start to the next chapter. Sometimes you come back tired or under the weather.
+
+### Train
+
+Learn something new with a teacher the Guild finds you. See the next section.
+
+### A longer project
+
+Something that takes several chapters: clearing a mark from your Guild file, looking after someone, a public good deed with the whole party, and in Fordwater a hidden room or a small trade of your own. Ask the GM.
+
+## Training, explained
+
+Everything you buy with AP takes some time to learn as well.
+
+- **Small things (under 6 AP)** you can pick up around your Guild work. Buy them as normal.
+- **Bigger things (6 AP or more)** take weeks of practice with a teacher. The only spare weeks you have are your downtime. **So a bigger purchase needs one or more training picks first:**
+
+| What it costs in AP | Training picks needed |
+|---|---|
+| Under 6 | None |
+| 6-10 | 1 |
+| 11-15 | 2 |
+| 16-20 | 4 |
+
+- **Each training pick also gives you 1 Bonus AP** toward the thing you're training, or 2 if you Push and succeed. That Bonus AP can only be spent on that thing, and it can pay for up to half of it.
+- **The gold cost is the same as always**, with the Guild paying half.
+- **Training can go wrong.** If you Push and fail, you hurt yourself in practice. You make no progress that pick, and the Guild medic's bill goes on your debt. A Steady training pick always makes progress.
+
+*Example: Archer wants to open a new kind of magic, which costs 7 AP. That needs one training pick. He trains Steady, so the pick covers the weeks and gives him 1 Bonus AP toward it. He pays the other 6 AP and his half of the gold, and he can use it from the next chapter.*
+
+## Working together
+
+Two of you on the same thing (the same group, the same person or the same question) usually helps. Ask the GM how.
+
+---
+
+See also: [[House_Rules|House Rules]] · [[Character_Advancement|Character Advancement]]
