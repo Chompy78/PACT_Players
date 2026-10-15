@@ -311,7 +311,7 @@ The Amble campaign runs on standard **D&D 2024** rules. Where something below do
 > win over a crowd, spend time with someone, ask around, work an angle, help out quietly, or train. We do the
 > picks together at the start of the session.
 >
-> **Training** is one of the picks: roll well and you get Bonus AP toward something you want to buy.
+> **Training** is one of the picks: with luck, you get Bonus AP toward something you want to buy.
 >
 > Everything is explained on its own page: [[Downtime|Downtime Between Chapters]].
 >
