@@ -27,7 +27,7 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Caspian
 
-**Grade I** · **Owed: 872.4 GP** · 5 years 7 months of the term left
+**Grade I** · **Owed: 922.4 GP** · 5 years 7 months of the term left
 
 | | |
 |---|--:|
@@ -38,8 +38,8 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 | Contract paid: Gull Strand wreck guard (Ch9B, 2026-10-08) - part cargo recovered (Ch. 9: Something Wrong) | −9 GP |
 | Advance drawn: two bottles bought at Saltcote (Ch9B, 2026-10-08), later destroyed (Ch. 9: Something Wrong) | +1 GP |
 | Animal upkeep: 0.2 GP a month for 14.5 months (Ch. 5: Indentured) | +2.9 GP |
-| Training, your share (50%) | +187.5 GP |
-| **Owed** | **872.4 GP** |
+| Training, your share (50%) | +237.5 GP |
+| **Owed** | **922.4 GP** |
 
 ## Archer
 
@@ -58,7 +58,7 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Anders
 
-**Grade I** · **Owed: 819.5 GP** · 5 years 7 months of the term left
+**Grade I** · **Owed: 844.5 GP** · 5 years 7 months of the term left
 
 | | |
 |---|--:|
@@ -68,12 +68,12 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 | Lost equipment - Session 8 (Ch. 8: Kin) | +3 GP |
 | Goods not returned x3 (Ch. 8: Kin) | +7.5 GP |
 | Contract paid: Margit Farrow, the Ropewalks tannery (Ch. 8: Kin) | −8 GP |
-| Training, your share (50%) | +87.5 GP |
-| **Owed** | **819.5 GP** |
+| Training, your share (50%) | +112.5 GP |
+| **Owed** | **844.5 GP** |
 
 ## Fenwik
 
-**Grade I** · **Owed: 767 GP** · 5 years 7 months of the term left
+**Grade I** · **Owed: 829.5 GP** · 5 years 7 months of the term left
 
 | | |
 |---|--:|
@@ -82,8 +82,8 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 | advance for rolling pin (Ch. 8: Kin) | +1 GP |
 | Lost equipment - Session 8 (Ch. 8: Kin) | +3 GP |
 | Contract paid: Margit Farrow, the Ropewalks tannery (Ch. 8: Kin) | −8 GP |
-| Training, your share (50%) | +75 GP |
-| **Owed** | **767 GP** |
+| Training, your share (50%) | +137.5 GP |
+| **Owed** | **829.5 GP** |
 
 ## Skylar
 
