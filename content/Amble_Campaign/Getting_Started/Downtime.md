@@ -89,6 +89,19 @@ Learn something new with a teacher the Guild finds you. This one **always comes 
 Something that takes several chapters: clearing a mark from your Guild file, looking after someone, a public good deed with the whole party, and in Fordwater a hidden room or a small trade of your own. Ask the GM.
 The Landing deed in Stoneharbour has to be done in a single break between chapters.
 
+Some things are bigger than one person's spare time. The whole party can take one of the ordinary activities and do it
+together over several breaks:
+
+- work a season together, like crewing a boat or a harvest gang;
+- stand with a group through hard months;
+- take someone in and look after them;
+- chase one question all the way down;
+- lead a Guild job the whole town sees;
+- set up a regular run for someone on the wrong side of the Guild;
+- keep something going quietly, like a soup kitchen or a schoolroom.
+
+It takes most of the party's breaks for a while, and it can do things no single pick can. Ask the GM.
+
 ## Training, explained
 
 Training makes something you want to buy with AP cheaper.
