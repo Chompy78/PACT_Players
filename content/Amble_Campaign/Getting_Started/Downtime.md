@@ -87,6 +87,7 @@ Learn something new with a teacher the Guild finds you. This one **always comes 
 ### A longer project
 
 Something that takes several chapters: clearing a mark from your Guild file, looking after someone, a public good deed with the whole party, and in Fordwater a hidden room or a small trade of your own. Ask the GM.
+The Landing deed in Stoneharbour has to be done in a single break between chapters.
 
 ## Training, explained
 
