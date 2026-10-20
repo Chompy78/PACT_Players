@@ -49,6 +49,8 @@ Growing up in Amble — four seasons, and the people who filled them.
 - [[Amble_Campaign/Reference/card-chapter-08|Chapter 8 — Unsafe Alone]]
 - [[Amble_Campaign/Reference/card-chapter-08b|Chapter 8b — Partial Success]]
 - [[Amble_Campaign/Reference/card-chapter-09|Chapter 9 — Watch and Learn]]
+- [[Amble_Campaign/Reference/card-chapter-09|Chapter 9 — Watch and Learn]]
+- [[Amble_Campaign/Reference/card-chapter-10a|Chapter 10a — The Landing]]
 
 ### Mentors of Amble
 
