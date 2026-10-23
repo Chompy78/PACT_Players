@@ -25,5 +25,7 @@ In Chapter 3 he is scarred across the face rescuing Wren at the lime pits.
 
 In Chapter 4 he wants to join the Iron Coin Guild, is refused, and stays behind in Amble when the party leaves for Stoneharbour.
 
-*Reference page for the campaign assistant. Source: Published chapters 1-4; species from PACT-campaign canon (benign, non-spoiler).*
+In Chapter 10a he arrives at the Iron Coin Guild in Stoneharbour as an indentured recruit, with a two-hundred-gold debt, a three-year indenture, a chain shirt and a longsword, and goes with the party on his first mission, a night watch on a smuggling landing.
+
+*Reference page for the campaign assistant. Source: Published chapters 1-4 and 10a; species from PACT-campaign canon (benign, non-spoiler).*
 
