@@ -51,6 +51,7 @@ Growing up in Amble — four seasons, and the people who filled them.
 - [[Amble_Campaign/Reference/card-chapter-09|Chapter 9 — Watch and Learn]]
 - [[Amble_Campaign/Reference/card-chapter-09|Chapter 9 — Watch and Learn]]
 - [[Amble_Campaign/Reference/card-chapter-10a|Chapter 10a — The Landing]]
+- [[Amble_Campaign/Reference/card-chapter-10b|Chapter 10b — Tea Leaves]]
 
 ### Mentors of Amble
 

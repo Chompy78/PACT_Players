@@ -329,7 +329,7 @@ They did not call themselves a thieves' guild, but he suspected that was what it
 
 We were all back at the guild by then, and Moss said, dryly, that we'd done well not to give away who we were. It was true, in its way. We hadn't captured anyone either. "Still time," Anders said, wincing. He pointed out that we knew where Nessa lived. We could kick her door down, throw a sheet over her and bring her back to the guild. Jory was in the guild too, he said, so we could tell Nessa to talk, or else Jory would pay for it. He wanted to see what happened.
 
-Moss had a small crate that he hadn't told anyone about. When he finally got it open, there were no charms in it, only a bottle of brandy and a small box of pipe tobacco. He closed the lid again and said nothing.
+Moss had a small crate that he hadn't told anyone about. When he finally got it open, there were no charms in it, only a bottle of brandy and a small box of cigars. He closed the lid again and said nothing.
 
 Then we slept. Anders slept longest, with a rapier wound in his stomach, and said he was sure he'd be fine.
 
@@ -391,6 +391,6 @@ We did not settle it that night.
 
 Before the day was out, Skylar and Wren had a talk. Maybe, they agreed, Anders should be manacled to a tree in future, to stop him causing trouble. A boulder might be more effective, Skylar said.
 
-That night, while the rest of us were still talking, Moss slipped away. He went up to Shrine Hill and climbed a tree, the sort no one would look in, and sat there with the brandy. He didn't share it. He drank all of it. Then he lit a pipe of the tobacco and smoked that too.
+That night, while the rest of us were still talking, Moss slipped away. He went up to Shrine Hill and climbed a tree, the sort no one would look in, and sat there with the brandy. He didn't share it. He drank all of it. Then he lit one of the cigars and smoked that too.
 
 Down in the barracks, nobody noticed he had gone.
