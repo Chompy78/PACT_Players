@@ -219,7 +219,7 @@ The men backed away into the alley, not hurrying. "Thanks for your business," th
 
 Six guild men came out of a building halfway back to the guild, and one of them looked us over with some interest. "We heard you were being attacked," he said.
 
-"You don't look very attacked," Anders said.
+"You don't look very attacked," he said.
 
 "We had to give up all our possessions," Anders said. "Because you took your time."
 
@@ -317,7 +317,7 @@ The next morning there was a parcel waiting at the guild, and it held fifty-six 
 
 Caspian opened it. For a moment nobody said anything.
 
-We went to the clerk. "The money goes against Dela's account," Caspian said. "It moves her onto a payment plan." The clerk said that was all in order. He would redo the document. Were we able to deliver the new one? We were. Caspian said yes, and then asked whether we could have a receipt. There was a receipt.
+We went to the clerk. "The money goes against Dela's account," Caspian said. "It moves her onto a payment plan." The clerk said that was all in order. She would redo the document. Were we able to deliver the new one? We were. Caspian said yes, and then asked whether we could have a receipt. There was a receipt.
 
 "Third-party donation," the clerk said, tapping the line, because things had to be done accurately. Caspian ran his finger down the new statement and stopped. A second donation. Ten gold, from the Anchor Light shrine.
 

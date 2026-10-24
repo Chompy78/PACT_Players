@@ -61,7 +61,7 @@ She'd sold off nearly everything since the flood — her nets, her tools, most o
 
 "You keep your money hidden, you hear me," Fenwick told her on the way out, and meant it more than the joke he wrapped around it.
 
-Wren had tagged along with us, hanging back a bit the way she did, and somewhere in the crush of the market we lost her for a couple of streets — you know how it gets down there. When we found her again she'd gone very still, holding a scrap of paper somebody had shoved at her and walked off without so much as a word. Ugly little thing, it said — plain as anything — that tieflings weren't welcome up at the shrine and shouldn't bother coming back.
+Wren had tagged along with us, hanging back a bit, as she did, and somewhere in the crush of the market we lost her for a couple of streets — you know how it gets down there. When we found her again she'd gone very still, holding a scrap of paper somebody had shoved at her and walked off without so much as a word. Ugly little thing, it said — plain as anything — that tieflings weren't welcome up at the shrine and shouldn't bother coming back.
 
 Moss read it over her shoulder and went quiet in that particular way of his, the way he only ever got when he was too angry to actually say anything yet.
 

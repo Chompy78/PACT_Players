@@ -61,7 +61,7 @@ We didn't know it yet, but that was the day Amble stopped being the whole world.
 
 * * *
 
-The rest of the market went back to being a market, once the excitement had burned off. Moss drifted toward the herb stall and came back thinking about apprenticeships, torn between the farm and something that smelled less like manure. Skylar found the curio seller and asked about magic until he ran out of patient answers. Fenwick tried Marek again and was, gently, ignored — Marek only passed through a few times a year, and by the next visit he never remembered anyone's name. Fenwick took that personally. Fenwick took most things personally.
+The rest of the market went back to being a market, once the excitement had burned off. Moss drifted toward the herb stall and came back thinking about apprenticeships, torn between the farm and something that smelled less like manure. Skylar found the curio seller and asked about magic until he ran out of patient answers. Fenwick tried Marek again and was, gently, ignored — Marek only passed through now and then, and by the next visit he never remembered anyone's name. Fenwick took that personally. Fenwick took most things personally.
 
 Anders found Bram loading sacks alone, because Bram's father was somewhere being useless, and helped without being asked. That was the year we started noticing things about Bram we hadn't noticed at eight — that he worked harder than anyone gave him credit for, that he flinched less than he used to, that when he finally told us he wanted to join the Guild, the reason wasn't glory.
 

@@ -319,7 +319,7 @@ The mob from the Low Quay began to drift away. The first boats went out toward t
 
 "Your buddy's back here," one of the men told Fenwick. "Come and get him." Anders hung between Fenwick and Bram with the crossbow bolt still in him. Skylar made the plan, in a low voice. We had been made, she said. We couldn't learn any more tonight, but we had enough to follow up, from the people we'd recognised. She and Wren would go with Anders, Fenwick and Bram. They would go back to the guild, and she would tell Caspian and Moss to leave when it was safe.
 
-There were about twenty crates, one to a man on each trip. Moss waited until the men were gone from the boat. The crate he picked was nailed shut, and heavy but not too heavy, only awkward. He took hold of it with a few arms, slid it off the back of the boat and under the water, and swam for the jetty. The men were going slowly and carefully toward the wagon, and nobody noticed that one was missing. He hid it and did not tell us.
+There were crates by the dozen, one to a man on each trip. Moss waited until the men were gone from the boat. The crate he picked was nailed shut, and heavy but not too heavy, only awkward. He took hold of it with a few arms, slid it off the back of the boat and under the water, and swam for the jetty. The men were going slowly and carefully toward the wagon, and nobody noticed that one was missing. He hid it and did not tell us.
 
 When the last of the men had gone, the wagon began to move. Caspian followed it. It rolled into the Ropewalks and stopped outside a two-storey building that looked like a tavern. It was rowdy inside, and busy. A couple of men started unloading the wagon. There was a cellar door at the side, where the ale was delivered.
 

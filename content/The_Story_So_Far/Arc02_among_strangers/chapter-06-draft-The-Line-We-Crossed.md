@@ -11,7 +11,7 @@ Two more months went by the way months went by then: counted in coin, not in sea
 
 Corley told us how to make a bunk properly, and disapproved of how we did it anyway. Every morning, across the room, Sena — the same Sena from that first night — kept doing what she'd always done: writing something small in a notebook before anyone else was awake, and putting it away before anyone could ask what. We still never asked. She was quiet in the particular way that meant she'd decided quiet was safer, and we were sixteen and busy and let her be quiet. Four years served by the time we arrived; one left, by the time any of this mattered.
 
-The ledger kept its own accounting, separate from ours. We paid off four gold that stretch, which felt like something until Fenwick did the sum out loud and it came to seven hundred and forty-four still owed, each — Moss's share alone closer to eight hundred, on account of the boy. Nobody said the boy's name. Nobody had ever had it to say. We had stopped flinching at the number by then, which cost something too, quieter than the first one.
+The ledger kept its own accounting, separate from ours. We paid off four gold that stretch, which felt like something until Fenwick did the sum out loud and it came to seven hundred and forty-six still owed, each — Moss's share alone closer to eight hundred, on account of the boy. Nobody said the boy's name. Nobody had ever had it to say. We had stopped flinching at the number by then, which cost something too, quieter than the first one.
 
 * * *
 
