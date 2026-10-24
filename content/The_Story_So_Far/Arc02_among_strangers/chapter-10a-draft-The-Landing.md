@@ -21,7 +21,7 @@ Caspian had taken the guild's steady work and then pushed for something extra. I
 
 Skylar was grumpy as hell in the mornings, and she had stopped pretending otherwise. "I'm just not a morning person," she said. "Leave me alone." After a coffee she was a different girl, so Moss suggested we carry a coffee around with us.
 
-That morning the guild had us in the warehouses doing a stocktake, which was as exciting as it sounds. The news came from whoever happened to be standing nearest. Senna was back, the guild member who had gone missing. She'd had a year left when she vanished, and her debt had almost been paid. But the charges had kept landing on her account the whole time she was away, and the time away didn't count as time served. Now she had ten months left, and she was particularly grumpy about the money. Tam wrote from his new post to say he was enjoying the work. He had been made grade two, and he said it was much better out of Stoneharbour, in a small country town. It was a bit dangerous, he said, but a lot more exciting than endless streets.
+That morning the guild had us in the warehouses doing a stocktake, which was as exciting as it sounds. The news came from whoever happened to be standing nearest. Sena was back, the guild member who had gone missing. She'd had a year left when she vanished, and her debt had almost been paid. But the charges had kept landing on her account the whole time she was away, and the time away didn't count as time served. Now she had ten months left, and she was particularly grumpy about the money. Tam wrote from his new post to say he was enjoying the work. He had been made grade two, and he said it was much better out of Stoneharbour, in a small country town. It was a bit dangerous, he said, but a lot more exciting than endless streets.
 
 Then word went round that a new group of indentured was coming in that day. We were to meet them, feed them lunch and show them around, which the guild called an honour, since we were still grade one.
 
@@ -391,6 +391,6 @@ We did not settle it that night.
 
 Before the day was out, Skylar and Wren had a talk. Maybe, they agreed, Anders should be manacled to a tree in future, to stop him causing trouble. A boulder might be more effective, Skylar said.
 
-That night, while the rest of us were still talking, Moss slipped away. He went up to Shrine Hill and climbed a tree, the sort no one would look in, and sat there with the brandy. He didn't share it. He drank all of it. Then he lit one of the cigars and smoked that too.
+That night, while the rest of us were still talking, Moss slipped away. He went up to Shrine Hill and climbed a tree, the sort no one would look in, and sat there with the brandy. He didn't share it. He drank all of it. Then he lit a cigar and smoked that too, and another after it, until the box was empty.
 
 Down in the barracks, nobody noticed he had gone.

@@ -101,3 +101,27 @@ the ship's captain, Tom, alive. His grateful wife thanks Jory most of all. On th
 what slivers really are and burn the bottles, and Factor Slate signs off their bonus pay.
 
 [[The_Story_So_Far/Arc02_among_strangers/side-tale-01-draft-Jorys-Team|Read Side Tale 1 — Jory's Team]]
+
+## Chapter 10a — The Landing
+
+**Chapter 10a summary.** About a year and a half into the indenture, the party spends a few days of downtime on
+their own affairs while a new group of recruits arrives at the Guild, Bram among them. Factor Slate then sends
+them, with Bram and Wren, to watch a night-time smuggling landing at a river mouth on the Low Quay side and to
+take someone of importance alive. From a hide in the scrub they see the boats come in, with Nessa and the Anchor
+Light's keeper, Ysolt, at the landing. Anders goes to look at a covered wagon, is caught, and is stabbed and shot
+by men who turn out to belong to Peter's crew. The party take no prisoners, though Peter's men say they are
+bringing in charms, and Moss quietly keeps a crate he took.
+
+[[The_Story_So_Far/Arc02_among_strangers/chapter-10a-draft-The-Landing|Read Chapter 10a — The Landing]]
+
+## Chapter 10b — Tea Leaves
+
+**Chapter 10b summary.** The morning after the landing, the party goes to lunch at Dela's to watch Nessa, and
+Skylar follows her to the Anchor Light shrine, where Ysolt is training her as a healer. Moss searches the shrine
+as a spider and finds only ordinary stores. At the Low Quay warehouse, Fenwick asks for a "sensitive" item under
+a false name and is beaten in an office over a box of tea leaves. The rescue turns into a brawl, a barred door and
+a crowd, and everyone gets out alive. Peter stops Anders on his way home and demands the missing crate's brandy
+and cigars, or six hundred gold. Moss owns up to taking it, and the goods are gone. Wren learns that the charms
+land on the next shipment, tomorrow night, and Slate tells the party to seize them, with no killing.
+
+[[The_Story_So_Far/Arc02_among_strangers/chapter-10b-draft-Tea-Leaves|Read Chapter 10b — Tea Leaves]]

@@ -307,7 +307,7 @@ Anders finished his own ale, slowly. Then he went back to the guild.
 
 * * *
 
-We were all there by then. Fenwick was awake, with a swollen face and a great deal to say. He'd only asked for the special goods, he told us, and they had seen through him almost at once. He had at least not given them his real name. Caspian said there must be a great many Fenwicks in Stoneharbour. Fenwick pointed out that there were rather fewer halflings, and fewer still who arrived with a giant and a wolf.
+We were all there by then. Fenwick was awake, with a swollen face and a great deal to say. He'd only asked for the special goods, he told us, and they had seen through him almost at once. He had at least not given them his real name. Caspian said there must be a great many Fenwicks in Stoneharbour. Fenwick pointed out that there were rather fewer gnomes, and fewer still who arrived with a giant and a wolf.
 
 Anders asked if anyone had noticed anything in that warehouse, besides Fenwick being beaten. There'd been crates, Fenwick said, and plenty of them. Most of it was fishing tackle, hooks, line, lead weights, and there were chests of tea leaves. "Bloody tea," he said. The import fee on that sort of thing was heavy, and it was cheaper to buy elsewhere, so it had very likely come in the same way as everything else. It wasn't what we were looking for, but it was still smuggled. Skylar said we could report it.
 
@@ -351,7 +351,7 @@ Caspian went up to the druids, in the early evening, for a little mending. It wa
 
 We had to decide what to do with the evening. Halder's house was the obvious thing, but Halder looked after a great many children, we remembered, which was why he'd been so desperate to sandbag it. We could hardly go barging in. Caspian said he could become a cat and have a look around. If he left it late, the children would be asleep, and he could creep about at midnight.
 
-Before that we asked ourselves what to take back to Peter. There was nothing. Moss had smoked all the cigars and drunk all the brandy. What was left was an empty box and an empty bottle, somewhere in the woods, and they were worth six hundred gold. Anders had not tried to bargain at the time. We agreed, in a way that nobody enjoyed, that the debt was Moss's. The rest of us were on the hook with him.
+Before that we asked ourselves what to take back to Peter. There was nothing. Moss had smoked all the cigars and drunk all the brandy. What was left was an empty box and an empty bottle, somewhere in the woods up on Shrine Hill, and they were worth six hundred gold. Anders had not tried to bargain at the time. We agreed, in a way that nobody enjoyed, that the debt was Moss's. The rest of us were on the hook with him.
 
 That night Caspian, as a cat, went into Halder's little house. In the shed behind it he found a pouch of fishing tackle that looked as if it had never been used. He searched the house. It held nothing suspicious at all. On a hook beside the front door hung a charm, an old one, much handled and worn smooth, hung there by someone who had owned it for years.
 
