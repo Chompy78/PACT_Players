@@ -195,7 +195,7 @@ Anders and Wren went up the outside wall. Moss and Bram braced them at the botto
 
 The window was iced shut, and they chipped at it, one and then the other, until Wren got a nail under the frame and it gave.
 
-Inside there was a table, and a side drawer in the table, and a small carved chest sitting in the drawer. And then a large blaring noise started up, and did not stop, and Wren stood frozen with her hands over her ears. She was fifteen. None of us had thought for a second that a guild man might ward his own room. She got hold of the chest and threw it out of the window to Moss standing below, and then both of them came out after it, and we ran.
+Inside there was a table, and a side drawer in the table, and a small carved chest sitting in the drawer. And then a large blaring noise started up, and did not stop, and Wren stood frozen with her hands over her ears. She was thirteen. None of us had thought for a second that a guild man might ward his own room. She got hold of the chest and threw it out of the window to Moss standing below, and then both of them came out after it, and we ran.
 
 At the cubby, in the dark, we got it open. There was a pearl inside.
 

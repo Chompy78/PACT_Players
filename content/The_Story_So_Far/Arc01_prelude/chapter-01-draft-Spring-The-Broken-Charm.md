@@ -33,7 +33,7 @@ She'd lost it out past the old shrine, near the wood line. She'd been sitting th
 
 We went to look. Getting there meant crossing the stream. Fenwick crossed it by knocking Skylar straight in. An accident, he said. He said that for years. None of us ever believed him.
 
-We found the sheep first, and then the tracks — dog-sized, heading off into the trees, gone after twenty paces. It took nearly an hour to find the charm, half-buried under a fallen log. It wasn't even damaged. Wren cried a bit. Relief, or being eight. We never worked out which.
+We found the sheep first, and then the tracks — dog-sized, heading off into the trees, gone after twenty paces. It took nearly an hour to find the charm, half-buried under a fallen log. It wasn't even damaged. Wren cried a bit. Relief, or being seven. We never worked out which.
 
 * * *
 

@@ -139,7 +139,7 @@ We pulled the hoods back once it was over. Strangers, mostly — human, unremark
 
 Wren never asked how the men who'd hurt her ended up unconscious outside the shrine's front door, and we never told her all of it. She looked at us differently after. We hadn't earned it cleanly, and we tried not to think too hard about why.
 
-The morning began with a small bit of justice: Anders woke with his face smeared in grease, payback for weeks of Fred getting away with the manure. The laughing that followed was the first easy laughing we'd had in days. Then word came that Fred's contract had gone up for sale — his debts had finally caught up with him, the way they catch up with everyone in the guild — and nobody at our table pretended to feel sorry.
+The morning began with a small bit of justice: Anders woke with his face smeared in grease, payback for weeks of Fred getting away with the manure. The laughing that followed was the first easy laughing we'd had in days. Then somebody at our table announced that Fred's contract had gone up for sale — his debts had finally caught up with him, the way they catch up with everyone in the guild. It was a joke, and a hopeful one, and nobody pretended to feel sorry.
 
 We were still together. And for the first time in a while, we were a little more trusted than we'd been the week before — not by the guild, not by the shrine, but by the one person whose trust had cost us something to earn. That mattered more than we let ourselves say out loud.
 
