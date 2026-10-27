@@ -85,7 +85,7 @@ We split into pairs to walk the rounds: Caspian and Anders together; Archer and 
 
 "Are rats meant to do that?" Fenwick asked, down the borrowed line to Moss, who would have known if anyone did.
 
-They weren't. Nobody had an answer better than that.
+They weren't. Nobody had an answer better than that, and Moss went down to the boats to see for himself, leaving Skylar in the break room to mind the line.
 
 The rats turned on him for interfering. One took a bite out of Moss hard enough to put him briefly on the ground; the other came at Fenwick with teeth bared before a bolt of raw force from Archer's hand ended it outright. Fenwick knelt by Moss afterward with the little kit every one of us had learnt to carry by then, and gave up some of his own strength to put some back into him — not much, but enough that Moss was back on his feet before either of them had to think too hard about how close that bite had come to being worse.
 
@@ -95,7 +95,7 @@ It came up armoured and enormous, more limbs than any crab had a right to, and w
 
 Fenwick went to help and paid for it worse than anyone. The creature caught him in its claw and wouldn't let go, dragging at him while he fought it with everything he had, until on the second desperate break he finally tore free and went straight over the side into the water rather than stay in its grip a moment longer. He came up gasping, climbed for a ladder he only knew was there because he'd already used it once that week, and dragged himself back onto the wharf soaked through and shaking.
 
-By then word had reached Caspian and Anders on the far side of the yard — Anders' voice down the line telling them there was trouble at the dock before either of them understood what kind — and they ran without waiting to be asked twice. Skylar came from the break room a beat behind Moss, having heard nothing clearly except the sound of him crying out, which was enough. Between the six of us and the goat, who fought harder than anything half his size had any business fighting, we wore the creature down — Archer's fire finding it cleanest, Anders finding a blade in the dark of its own blind side, Fenwick's rolling pin landing again and again even soaked and exhausted — until it took one last swipe at whoever was nearest and slid back into the black water it had come from, and didn't come up again.
+By then word had reached Caspian and Anders on the far side of the yard — Anders' voice down the line telling them there was trouble at the dock before either of them understood what kind — and they ran without waiting to be asked twice. Skylar came running from the break room, having heard nothing clearly down the line except the sound of Moss crying out, which was enough. Between the six of us and the goat, who fought harder than anything half his size had any business fighting, we wore the creature down — Archer's fire finding it cleanest, Anders finding a blade in the dark of its own blind side, Fenwick's rolling pin landing again and again even soaked and exhausted — until it took one last swipe at whoever was nearest and slid back into the black water it had come from, and didn't come up again.
 
 None of us died. That was the whole of the good news, and on a day like that one, it was enough.
 
