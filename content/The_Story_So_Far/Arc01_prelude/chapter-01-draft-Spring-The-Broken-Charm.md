@@ -7,7 +7,7 @@ draft: false
 
 None of us had any business being heroes. We weren't trying to be. Heroes are brave. Heroes are wise. Heroes make sensible decisions. We were eight, and we were none of those things.
 
-We met every morning at the council tree, once our chores were done. That was where everyone met. Past it were the fields, and out in the fields was our cubby, which we were building plank by plank out of whatever we could steal.
+We met every morning at the council tree, once our chores were done. That was where everyone met. Past it were the fields, and at the edge of the fields stood a big old tree with our cubby in its branches, which we were building plank by plank out of whatever we could steal.
 
 That morning we heard the shouting before we saw the tree.
 
@@ -97,4 +97,4 @@ She fell asleep against Skylar's shoulder that night. Six of us under a roof we'
 
 The lantern was still burning in the corner. The stolen one. Nobody got up to put it out.
 
-![[chapter-01-the-cubby-tree-ignoremd.jpeg|The cubby, built plank by stolen plank in the tree above the council tree|750]]
+![[chapter-01-the-cubby-tree-ignoremd.jpeg|The cubby, built plank by stolen plank in the big old tree at the edge of the fields|750]]
