@@ -17,7 +17,7 @@ I didn't know yet what they wanted with him. None of us did, and that same morni
 
 * * *
 
-We were not asked to go. It was made very clear that we were told. A coaster had run aground on a sandbank north of the city, and we were to go and secure its cargo. The crew would help us, the guild said. We were given a writ that explained what we were doing, ponies to ride, and the right to borrow anything we needed beyond our usual allowance. A merchants' guild was paying for the job. On top of our six gold a month, we would get another six if the danger turned out to be worse than wild animals.
+We were not asked to go. It was made very clear that we were told. A coaster had run aground on a sandbank north of the city, and we were to go and secure its cargo. The crew would help us, the guild said. We were given a writ that explained what we were doing, ponies to ride, and the right to borrow anything we needed beyond our usual allowance. A merchants' guild was paying for the job. The job paid a bonus of six gold on top of our usual pay, and another six if the danger turned out to be worse than wild animals.
 
 "When we get back," Archer said, "we give our oral report. Really talk it up, boys."
 
@@ -53,7 +53,7 @@ Caspian said it wasn't really his cup of tea. "I know," Wren said. "I've known y
 
 Wren said that he took the credit when things went well, which always helped. She told him one more thing before the watch was over. The guild's training cost half what it would anywhere else, and that was one of the main reasons people joined at all. But if you ended your contract early, she said, they charged you the other half as part of the exit fee.
 
-The middle watch was easier. Jory was cordial with Archer, because Archer hadn't been there the night we broke into his house. It had been Fenwick and Anders who went in. Moss had stood outside and watched. Jory asked how Archer was finding Stoneharbour.
+The middle watch was easier. Jory was cordial with Archer, because Archer hadn't been there the night we broke into his house. It had been Caspian, Fenwick and Anders who went in. Moss had stood outside and watched. Jory asked how Archer was finding Stoneharbour.
 
 "Not too bad," Archer said. "Being indentured to the guild, it's going to take a while to pay that off. But you do what you've got to do to stay alive."
 
