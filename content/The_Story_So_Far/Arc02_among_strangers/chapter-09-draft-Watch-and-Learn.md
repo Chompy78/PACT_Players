@@ -233,7 +233,7 @@ Anders said he was afraid so.
 
 * * *
 
-We were back at the guild before long. The quartermaster took the inventory, then sent us along to the records clerk, Isabet Marrow. She took the ledger, turned it over, checked the front and back, and thanked us. We asked whether we were to take anything back to the agent. Nothing, she said, unless we had asked for the list of debts for the recovery. We had not.
+We were back at the guild before long. The quartermaster took the inventory, then sent us along to the records clerk, Ilsabet Marrow. She took the ledger, turned it over, checked the front and back, and thanked us. We asked whether we were to take anything back to the agent. Nothing, she said, unless we had asked for the list of debts for the recovery. We had not.
 
 We ate at the guild that afternoon, at the long table by the wall, where nobody could see us going back to Dela's. Wren came over while most of us were eating. She asked whether we didn't normally eat at Dela's at lunchtime.
 
@@ -255,7 +255,7 @@ Caspian went through the numbers twice, one finger on the page. "Dela's real deb
 
 "Get it under a hundred gold," Blane said, "and Dela can have a payment plan. Stay over, and she finds another twenty gold from somewhere, or her goods go and the recovery goes ahead."
 
-Isabet Marrow adjusted the statement. The adjustment was real, she said, but it was still nineteen gold over. She printed a new one and asked us to take it to Blane. We did not have nineteen gold between us, and everyone knew it.
+Ilsabet Marrow adjusted the statement. The adjustment was real, she said, but it was still nineteen gold over. She printed a new one and asked us to take it to Blane. We did not have nineteen gold between us, and everyone knew it.
 
 "Could we pay it ourselves?" Anders asked.
 
