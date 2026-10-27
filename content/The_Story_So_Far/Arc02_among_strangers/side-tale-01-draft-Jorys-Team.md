@@ -131,7 +131,7 @@ Archer had noticed something by then. Earlier she had started to say something a
 
 "Five silver each," the girl said. "Done."
 
-Caspian bought two, and Archer bought the other two, a gold piece each. It was most of what we had on us. "If it's contraband," Archer said, "it could be worth a lot of money back home."
+Caspian bought two, and Archer bought the other two, a gold piece each for their pair. It was most of what we had on us. "If it's contraband," Archer said, "it could be worth a lot of money back home."
 
 "It could also get you in a lot of trouble," said Moss.
 

@@ -35,7 +35,7 @@ They wanted to know why so many of us had arrived at once. Must be quite a villa
 
 Volunteered is a struggle, somebody said. Fenwick said he had been volunteered, and Skylar supplied the word he was looking for, which was voluntold. And then it turned out that most of them were the same — Sena, Corley, Ordis, indentured every one, debts of their own or their families', none of them itemised for us. Fenwick asked whether they'd saved their towns as well. Nobody laughed, and nobody answered. Tam said that stories had to be worth something around here, and we'd all be in this barracks a long time, so there was no sense spending the good ones on the first night. He said it kindly. It was the house rules.
 
-We learnt the shape of the ladder that evening too: two years at grade one, or three, or four, and much the same again at grade two. An indentured member came out of their seven years somewhere around grade three. At that point, Sena said, her voice going flat, the guild would finally start paying you properly — now that you were free to leave. And being young, we were told, we were lucky: we'd work less and train more. To make us useful.
+We learnt the shape of the ladder that evening too: two years at grade one, or three, or four, and much the same again at grade two. You would come out of your seven years somewhere around grade three. At that point, Sena said, her voice going flat, the guild would finally start paying you properly — now that you were free to leave. And being young, we were told, we were lucky: we'd work less and train more. To make us useful.
 
 Somebody was going to make us useful. We'd been hearing that since we were eight. It had always been the adults we loved who said it.
 

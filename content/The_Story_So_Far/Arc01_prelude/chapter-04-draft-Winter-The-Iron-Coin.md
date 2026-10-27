@@ -59,7 +59,7 @@ We carried her to her bed. All of us except Skylar, who said — correctly, and 
 
 *Someone needs to go get Old Corr.*
 
-I want to be careful here, because of what came after, and because it would be easy to make us sound more frightened than we were. We weren't frightened, we were *organised* — we knew exactly what you did when an adult went down, because we'd done it a dozen times: you fetched the healer, the healer fixed it, and then the adults took over and told you to go away. Old Corr had put us back together after the rats, and after the lime pits, and after most of the stupid things we had ever done to ourselves.
+I want to be careful here, because of what came after, and because it would be easy to make us sound more frightened than we were. We weren't frightened, we were *organised* — we knew exactly what you did when an adult went down, because we'd done it a dozen times: you fetched the healer, the healer fixed it, and then the adults took over and told you to go away. Old Corr had put us back together after most of the stupid things we had ever done to ourselves.
 
 It did not once occur to any of us that the healer might already be lying on his own floor.
 

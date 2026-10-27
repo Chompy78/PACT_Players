@@ -303,7 +303,7 @@ It broke with a small, ordinary sound — nothing like what you'd expect from so
 
 Moss went up the hill to the Anchor Light shrine on his own. The rest of us waited at the guild, and Anders waited with us, silent for the whole time, which was unusual enough that we noticed.
 
-When Moss came back down, he gave us the shrine's answer in as few words as he could. "The shrine can't take coin," he said. "Its charter doesn't allow it. They only pay for things that help the shrine grow. Seed, food, farms." He rubbed the back of his neck. "But they'll help with Dela's ingredients, and send a regular shipment down to the cook shop. I asked if the box for the soup kitchen could come down for now. The keeper said no. It's Dela's say. You don't go against someone who's trying to do the right thing."
+When Moss came back down, he gave us the shrine's answer in as few words as he could. "The shrine can't take coin in payment," he said. "Its charter doesn't allow it. Donations, yes. But it only pays for things that help the shrine grow. Seed, food, farms." He rubbed the back of his neck. "But they'll help with Dela's ingredients, and send a regular shipment down to the cook shop. I asked if the box for the soup kitchen could come down for now. The keeper said no. It's Dela's say. You don't go against someone who's trying to do the right thing."
 
 "It's the best I could do," Moss said. "It's the one good connection I've got."
 
