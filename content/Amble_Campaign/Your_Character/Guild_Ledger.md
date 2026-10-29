@@ -8,7 +8,7 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Moss
 
-**Grade I** · **Owed: 1,088.6 GP** · 5 years 7 months of the term left
+**Grade I** · **Owed: 1,101.1 GP** · 5 years 7 months of the term left
 
 | | |
 |---|--:|
@@ -22,8 +22,8 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 | Animal upkeep: Fluffy: 0.2 GP a month for 14.5 months (Ch. 5: Indentured) | +2.9 GP |
 | Animal upkeep: Brambleback: 0.6 GP a month for 14.5 months (Ch. 5: Indentured) | +8.7 GP |
 | Advance, paid to Dela Brant: 2 GP a month from Ch. 9: Something Wrong to Ch. 12: Assets | not yet counting |
-| Training, your share (50%) | +312.5 GP |
-| **Owed** | **1,088.6 GP** |
+| Training, your share (50%) | +325 GP |
+| **Owed** | **1,101.1 GP** |
 
 ## Caspian
 
