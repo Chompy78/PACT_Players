@@ -87,7 +87,7 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 
 ## Skylar
 
-**Grade I** · **Owed: 1,065.9 GP** · 5 years 7 months of the term left
+**Grade I** · **Owed: 1,078.4 GP** · 5 years 7 months of the term left
 
 | | |
 |---|--:|
@@ -95,5 +95,5 @@ description: What each of you owes the Iron Coin Guild, as the Stoneharbour bran
 | Repaid from surplus, 17.5 months | −54 GP |
 | Contract paid: Margit Farrow, the Ropewalks tannery (Ch. 8: Kin) | −8 GP |
 | Animal upkeep: 0.2 GP a month for 14.5 months (Ch. 5: Indentured) | +2.9 GP |
-| Training, your share (50%) | +375 GP |
-| **Owed** | **1,065.9 GP** |
+| Training, your share (50%) | +387.5 GP |
+| **Owed** | **1,078.4 GP** |
