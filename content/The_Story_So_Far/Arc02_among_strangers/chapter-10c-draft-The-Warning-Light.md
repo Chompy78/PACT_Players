@@ -449,6 +449,34 @@ The rest of it went back and forth by thought, a sentence at a time across the d
 
 *Goodnight,* Moss sent.
 
-We went back to the guild in two lots, by different streets, and got Bram to someone who could mend him. We had caught nobody. We had needed four. We had stopped the smuggling for one night, by assaulting an old woman and the girl she was teaching. Ysolt had seen Bram's face. We were sure she would want to know who the rest of us were. We were sure Jory would hear of it. We lay in our bunks and listened for the barracks door, and we didn't know yet which of them would come for us first.
+We went back to the guild in two lots, by different streets, and got Bram to someone who could mend him. The yard was dark and empty. The lamp was still burning over the barracks door, and nobody had waited up for us. We had caught nobody. We had needed four. We had stopped the smuggling for one night, by assaulting an old woman and the girl she was teaching. Ysolt had seen Bram's face. We were sure she would want to know who the rest of us were, and that Jory would hear of it. We lay in our bunks and listened for the barracks door, and nobody came through it.
 
-Moss lay awake, the same as the night before. One pair of guild manacles had gone into the shrine on Nessa's wrists, and sooner or later Hob would want to know where it was.
+* * *
+
+Slate sent for us at first light.
+
+Nobody had come in the night, not Jory, not Ysolt, not a clerk with a form. That felt worse, somehow. We stood in a row in front of his desk with our hands behind us, as we had the afternoon before, and Slate let us stand there while he finished reading something. He did not shout. He never did.
+
+"Four," he said at last. "I asked for four. I would have been pleased with one."
+
+Skylar began to explain about the light. Slate raised a hand, and she stopped.
+
+"A week ago," he said, "you brought me the smuggling, and I told you it was good work, and I meant it. I thought we had the start of something. Since then you have been recognised on the Low Quay in front of every resident of it, and now you have been seen at the shrine door by the one woman in that district I would have asked you to avoid." He turned a page over. "I do not need you to be geniuses. I need you to bring back what you are sent for."
+
+"In fairness, sir," said Anders, "you didn't give us any recruits."
+
+"I gave you the stores."
+
+"Hob didn't."
+
+"Hob," said Slate, "has been very clear about what he did and didn't give you." He didn't look up. Moss nodded at the floor as if his eleven hundred gold had just been read out. Caspian said nothing. Anders said that we had stopped it for a night, at least, and Slate said that a night was a night.
+
+"I will be honest with you," he said. He squared the papers. "There is a drawer in this room of letters from other branches. They ask after good people. Nobody has asked after you. But somebody always needs a place filled, sooner or later, and then someone will take you off my hands and buy out your contracts. I look forward to that day. I will sign the paper before they have finished the sentence."
+
+"That's very encouraging," said Anders.
+
+"It was not meant to be."
+
+He was not angry. We have thought about that a good deal since. He was disappointed in the dry, careful way of a man who has written the same report on you before and expects to write it again. He dismissed us with a nod, and we went out into the yard and stood in the sun.
+
+We did not go to the stores that morning. Somewhere across the yard, we were fairly sure, Hob was already writing something in a margin.
