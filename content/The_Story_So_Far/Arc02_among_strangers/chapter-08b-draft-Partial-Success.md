@@ -396,5 +396,3 @@ The last thing that week was gossip. It came round the barracks sideways, from s
 That evening Anders went to see Brambleback. The goat took one look at him and backed away, and kept backing until the wall stopped him. Anders stood there with his hands in his sleeves. Brambleback would butt a stranger in the street, but he had never once backed away from one of us.
 
 We didn't understand yet what the problem was. We put it down to the week.
-
-<!-- tic-atn: 0 -->
