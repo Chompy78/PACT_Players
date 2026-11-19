@@ -144,5 +144,3 @@ The morning began with a small bit of justice: Anders woke with his face smeared
 We were still together. And for the first time in a while, we were a little more trusted than we'd been the week before — not by the guild, not by the shrine, but by the one person whose trust had cost us something to earn. That mattered more than we let ourselves say out loud.
 
 ![[chapter-08-a-meal-for-a-bit-of-work-ignoremd.png|A meal for a bit of work|750]]
-
-<!-- tic-atn: 3 -->

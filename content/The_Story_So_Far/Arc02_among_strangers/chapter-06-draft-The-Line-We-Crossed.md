@@ -126,5 +126,3 @@ Silas considered that for a moment, decided it was worth more than he'd expected
 *"You know where to find me,"* he said, before he left. As if any of us were in a hurry to.
 
 We walked back to the barracks that night with a debt slightly smaller than it had been, a bunk in the corner empty that hadn't been, and a small glass vial none of us understood, tucked away for later. Somewhere in that town, we were fairly sure, somebody was still keeping their own ledger of everything we'd done to earn our keep that week. We didn't much care, that night. We were thinking about the bunk.
-
-<!-- tic-atn: 3 -->

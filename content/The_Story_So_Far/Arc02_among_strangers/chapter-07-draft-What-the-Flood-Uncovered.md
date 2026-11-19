@@ -190,5 +190,3 @@ The man from the tavern found Anders that same week and asked, plainly, after hi
 Jory, we were told, would be joining the barracks within the week — bonded, resentful, and entirely unwilling to pretend otherwise. He hated Caspian, Anders and Fenwick plainly and without complication — the three of them had come through his door the night his sister was hurt, and he never once pretended otherwise around any of them. What he felt about the rest of us was murkier: guilty by association more than anything earned outright. We'd see him again. Often, probably, given how small a guild really is once you're all wearing the same brand. None of us looked forward to it, and none of us pretended we didn't deserve whatever he decided to feel about us.
 
 We went to bed that night much as we always did by then — exhausted, paid in nothing that counted, a little more disliked than we'd been the week before, and no closer to working out whether any of it had been worth it. Somewhere in a guild file, our names were already collecting the kind of mark that doesn't wash off by morning. That was the week we stopped being able to pretend otherwise.
-
-<!-- tic-atn: 5 -->
