@@ -461,7 +461,9 @@ Nobody had come in the night, not Jory, not Ysolt, not a clerk with a form. That
 
 Skylar began to explain about the light. Slate raised a hand, and she stopped.
 
-"A week ago," he said, "you brought me the smuggling, and I told you it was good work, and I meant it. I thought we had the start of something. Since then you have been recognised on the Low Quay in front of every resident of it, and now you have been seen at the shrine door by the one woman in that district I would have asked you to avoid." He turned a page over. "I do not need you to be geniuses. I need you to bring back what you are sent for."
+"A week ago," he said, "you brought me the smuggling, and I told you it was good work, and I meant it. I thought we had the start of something. Since then you have been recognised on the Low Quay in front of every resident of it, and now you have been seen at the shrine door by the one woman in that district I would have asked you to avoid." He turned a page over. "I have also had word up from the Low Quay this morning," he said. "They are furious. They know it was you. They are saying a girl of sixteen was beaten in the street, and that the old woman who looks after half that district was struck for her trouble. They did not like you before. I should not go down there for a while."
+
+He let that sit. "I do not need you to be geniuses. I need you to bring back what you are sent for."
 
 "In fairness, sir," said Anders, "you didn't give us any recruits."
 
