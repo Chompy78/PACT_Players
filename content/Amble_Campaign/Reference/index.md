@@ -91,9 +91,11 @@ Where the party go after Amble. These pages cover who people are, not what happe
 
 The town's own authorities, separate from the Guild.
 
+- [[Amble_Campaign/Reference/card-character-blake|Blake]]
 - [[Amble_Campaign/Reference/card-character-halvard-stroud|Halvard Stroud]]
 - [[Amble_Campaign/Reference/card-character-hesk|Hesk]]
 - [[Amble_Campaign/Reference/card-character-hesper-tuck|Hesper Tuck]]
+- [[Amble_Campaign/Reference/card-character-jack|Jack]]
 - [[Amble_Campaign/Reference/card-character-juna-sennet|Juna Sennet]]
 - [[Amble_Campaign/Reference/card-character-lovis|Lovis]]
 - [[Amble_Campaign/Reference/card-character-odalys-praed|Odalys Praed]]
