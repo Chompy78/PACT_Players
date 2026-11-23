@@ -21,7 +21,7 @@ Procedural, unhurried, never raised, and courteous. He greets people, learns the
 
 In Chapter 5 he gives the party their first real job, a courier round, and afterwards records the killing in the lane as a fatality against Moss and explains that an unauthorised death has to be paid for.
 
-In Chapter 10c he gives the party a job: capture at least four ringleaders of the Low Quay smugglers alive, and twelve if possible. When the ambush fails he tells the party, drily and without raising his voice, that he is disappointed, reminds them of their earlier good work, reports that the Low Quay is furious with them, and says that another branch will surely buy out their contracts one day and take them off his hands.
+In Chapter 10c he gives the party a job: capture at least four ringleaders of the Low Quay smugglers alive, and twelve if possible. When the ambush fails he tells the party the next morning, drily and without raising his voice, that he already has reports from the Low Quay, reminds them of their earlier good work, and says there will be no bonus; contract season is coming and he may be able to get rid of them, so he will not record the job as a failure, they will never talk about it again, and they would do well to stay out of the Low Quay.
 
 *Reference page for the campaign assistant. Source: PACT-campaign Arc02 reference; Published Chapter 5.*
 

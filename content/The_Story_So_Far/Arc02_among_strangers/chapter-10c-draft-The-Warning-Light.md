@@ -453,32 +453,38 @@ We went back to the guild in two lots, by different streets, and got Bram to som
 
 * * *
 
-Slate sent for us at first light.
+Slate sent for us early the next morning.
 
-Nobody had come in the night, not Jory, not Ysolt, not a clerk with a form. That felt worse, somehow. We stood in a row in front of his desk with our hands behind us, as we had stood for his briefing, and Slate let us stand there while he finished reading something. He did not shout. He never did.
+Nobody had come after us in the night. No boats had come in to the jetty. When we got in, nobody was waiting for us, and nobody seemed to care. Bram had gone to the infirmary. The rest of us went up to Slate's office and stood in a row in front of his desk with our hands behind us, as we had stood for his briefing.
 
-"Four," he said at last. "I asked for four."
+Slate had a sheaf of papers in front of him, and he was going through them one at a time. He did not raise his voice. He never did.
 
-Anders began to explain about the light. Slate raised a hand, and he stopped.
+"I don't think there's much need for you to tell me what went down," he said. "I've got a few reports here." He turned one over. "From the Low Quay. Already, at this hour of the morning. Impressive." He read a line or two more. "They are saying a girl of sixteen was beaten in the street, and that the old woman who looks after half that district was struck for her trouble. They know it was you. They did not like you before."
 
-"You brought me the smuggling, and I told you it was good work, and I meant it. I thought we had the start of something. I asked you for four. Instead you have been noticed at the shrine door, by someone who will remember it." He turned a page over. "I have also had word up from the Low Quay this morning," he said. "They are furious. They know it was you. They are saying a girl of sixteen was beaten in the street, and that the old woman who looks after half that district was struck for her trouble. They did not like you before. I should not go down there for a while."
+He squared the papers. "You brought me the smuggling, and I told you it was good work, and I meant it. You won't be getting a bonus for this one, obviously."
 
-He let that sit. "I do not need you to be geniuses. I need you to bring back what you are sent for."
+"What about a pro-rata bonus?" said Anders.
 
-"In fairness, sir," said Anders, "you didn't give us any recruits."
+"Pro-rata zero against any sum is still zero."
 
-"I gave you the stores."
+"Luckily," Slate went on, "I believe contract season is coming up. With any luck I may be able to get rid of you."
 
-"Then Hobb took them away again."
+"You don't want us to go," said Anders.
 
-"Hobb," said Slate, "has been very clear about what he did and didn't give you." He didn't look up. Moss nodded at the floor as if his eleven hundred gold had just been read out. Caspian said nothing. Anders said that we had stopped it for a night, at least, and Slate said that a night was a night.
+Slate let that pass. "I won't put you down as a failure, because that makes it harder to get rid of you. I can't quite rightfully put you down as anything better. So we'll put something in between." He looked at us over the papers. "And we'll both agree, I think, pretty much never to talk about this again. Shall we?"
 
-"I will be honest with you," he said. He squared the papers. "There is a drawer in this room of letters from other branches. They ask after good people. Nobody has asked after you. But somebody always needs a place filled, sooner or later, and then someone will take you off my hands and buy out your contracts. I shall try to bear it."
+We agreed.
 
-"That's very encouraging," said Anders.
+"Obviously," he said, "you'll probably want to stay out of the Low Quay."
 
-"It was not meant to be."
+"Really?" said Moss.
 
-He was not angry. We have thought about that a good deal since. He was disappointed in the dry, careful way of a man who has written the same report on you before and expects to write it again. He dismissed us with a nod, and we went out into the yard and stood in the sun.
+"So we stay out of the Low Quay," said Anders, "and you won't put this on our guild record."
 
-We did not go to the stores that morning. Somewhere across the yard, we were fairly sure, Hobb was already writing something in a margin.
+"Oh, you can do whatever you want. I'm only suggesting it, for your own health and safety." He went back to his reports. "And I don't know what you're talking about."
+
+"Right," said Anders. "Excellent. Well, I'll see you later. Much later."
+
+At the door he remembered, aloud, that he had some cleaning work to do in the stores. Three days this week, he believed. Slate said he would leave him to sort that out with whoever it was, and did not look up.
+
+We have thought about that meeting a good deal since. Slate was upset with us in the dry, professional way of a man who has written the same report on you before and expects to write it again, and who would very much like the next one to be somebody else's job. We went out into the yard and stood in the sun, and nobody said a word about the shrine. We had agreed not to.
