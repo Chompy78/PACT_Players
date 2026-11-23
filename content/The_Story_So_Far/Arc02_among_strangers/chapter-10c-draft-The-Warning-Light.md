@@ -449,19 +449,19 @@ The rest of it went back and forth by thought, a sentence at a time across the d
 
 *Goodnight,* Moss sent.
 
-We went back to the guild in two lots, by different streets, and got Bram to someone who could mend him. The yard was dark and empty. The lamp was still burning over the barracks door, and nobody had waited up for us. We had caught nobody. We had needed four. We had stopped the smuggling for one night, by assaulting an old woman and the girl she was teaching. Ysolt had seen Bram's face. We were sure she would want to know who the rest of us were, and that Jory would hear of it. We lay in our bunks and listened for the barracks door, and nobody came through it.
+We went back to the guild in two lots, by different streets, and got Bram to someone who could mend him. The yard was dark and empty. The lamp was still burning over the barracks door, and nobody who mattered had waited up for us. We had caught nobody. We had needed four. We had stopped the smuggling for one night, by assaulting an old woman and the girl she was teaching. Ysolt had seen Bram's face. We were sure she would want to know who the rest of us were, and that Jory would hear of it. We lay in our bunks and listened for the barracks door, and nobody came through it.
 
 * * *
 
 Slate sent for us at first light.
 
-Nobody had come in the night, not Jory, not Ysolt, not a clerk with a form. That felt worse, somehow. We stood in a row in front of his desk with our hands behind us, as we had the afternoon before, and Slate let us stand there while he finished reading something. He did not shout. He never did.
+Nobody had come in the night, not Jory, not Ysolt, not a clerk with a form. That felt worse, somehow. We stood in a row in front of his desk with our hands behind us, as we had stood for his briefing, and Slate let us stand there while he finished reading something. He did not shout. He never did.
 
-"Four," he said at last. "I asked for four. I would have been pleased with one."
+"Four," he said at last. "I asked for four."
 
-Skylar began to explain about the light. Slate raised a hand, and she stopped.
+Anders began to explain about the light. Slate raised a hand, and he stopped.
 
-"A week ago," he said, "you brought me the smuggling, and I told you it was good work, and I meant it. I thought we had the start of something. Since then you have been recognised on the Low Quay in front of every resident of it, and now you have been seen at the shrine door by the one woman in that district I would have asked you to avoid." He turned a page over. "I have also had word up from the Low Quay this morning," he said. "They are furious. They know it was you. They are saying a girl of sixteen was beaten in the street, and that the old woman who looks after half that district was struck for her trouble. They did not like you before. I should not go down there for a while."
+"You brought me the smuggling, and I told you it was good work, and I meant it. I thought we had the start of something. I asked you for four. Instead you have been noticed at the shrine door, by someone who will remember it." He turned a page over. "I have also had word up from the Low Quay this morning," he said. "They are furious. They know it was you. They are saying a girl of sixteen was beaten in the street, and that the old woman who looks after half that district was struck for her trouble. They did not like you before. I should not go down there for a while."
 
 He let that sit. "I do not need you to be geniuses. I need you to bring back what you are sent for."
 
@@ -469,11 +469,11 @@ He let that sit. "I do not need you to be geniuses. I need you to bring back wha
 
 "I gave you the stores."
 
-"Hob didn't."
+"Then Hob took them away again."
 
 "Hob," said Slate, "has been very clear about what he did and didn't give you." He didn't look up. Moss nodded at the floor as if his eleven hundred gold had just been read out. Caspian said nothing. Anders said that we had stopped it for a night, at least, and Slate said that a night was a night.
 
-"I will be honest with you," he said. He squared the papers. "There is a drawer in this room of letters from other branches. They ask after good people. Nobody has asked after you. But somebody always needs a place filled, sooner or later, and then someone will take you off my hands and buy out your contracts. I look forward to that day. I will sign the paper before they have finished the sentence."
+"I will be honest with you," he said. He squared the papers. "There is a drawer in this room of letters from other branches. They ask after good people. Nobody has asked after you. But somebody always needs a place filled, sooner or later, and then someone will take you off my hands and buy out your contracts. I shall try to bear it."
 
 "That's very encouraging," said Anders.
 
