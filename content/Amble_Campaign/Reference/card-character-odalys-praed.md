@@ -17,5 +17,7 @@ The party first hear her name in Chapter 5, on the night of the dance, after the
 
 People say her name quietly, even in the open. The party are told the underworld belongs to her the way the Stoneharbour branch belongs to Factor Slate.
 
+In Chapter 10c the party meet her in her upstairs room at a Ropewalks tavern. She tells them guild contracts get bought by other branches, offers Anders and Moss a faster way to work off their debts, and says she authorised a contract against Caspian. She rescinds it for ninety gold, and gives Anders a pass to come and go in the Ropewalks.
+
 *Reference page for the campaign assistant. Source: Published Chapter 5.*
 

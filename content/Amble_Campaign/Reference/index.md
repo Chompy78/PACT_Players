@@ -104,11 +104,13 @@ The town's own authorities, separate from the Guild.
 - [[Amble_Campaign/Reference/card-character-peter|Peter]]
 - [[Amble_Campaign/Reference/card-character-petra-whitlock|Petra Whitlock]]
 - [[Amble_Campaign/Reference/card-character-selwyn-aske|Selwyn Aske]]
+- [[Amble_Campaign/Reference/card-character-silas|Silas]]
 - [[Amble_Campaign/Reference/card-character-wystan-dorn|Wystan Dorn]]
 
 ### The Guild branch
 
 - [[Amble_Campaign/Reference/card-character-berrin-slate|Berrin Slate]]
+- [[Amble_Campaign/Reference/card-character-fred|Fred]]
 - [[Amble_Campaign/Reference/card-character-hobb-hobbern|Hobb Hobbern]]
 - [[Amble_Campaign/Reference/card-character-ilsabet-marrow|Ilsabet Marrow]]
 

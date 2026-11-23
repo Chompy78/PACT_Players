@@ -21,5 +21,7 @@ In Chapter 9 he is not on the party's side when Anders warns him about Nessa and
 
 In Chapter 10a the ten gold that went toward Dela's debt turns out to have come from the Anchor Light shrine, which Jory raised from his old crew around the Low Quay. When the party suspect a spy inside the Guild, Factor Slate questions him and he knows nothing, though some of his old crew were at the smuggling landing.
 
+In Chapter 10b the party say they are friends with Jory now that he is in the Guild, and that he is in the Guild partly because of them. In Chapter 10c, after the failed ambush on the Anchor Light's keeper and Jory's sister Nessa, the party expect Jory to hear of it.
+
 *Reference page for the campaign assistant. Source: Published Chapters 7, 8, 9 and 10a.*
 

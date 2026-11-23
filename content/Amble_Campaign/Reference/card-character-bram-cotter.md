@@ -27,5 +27,7 @@ In Chapter 4 he wants to join the Iron Coin Guild, is refused, and stays behind 
 
 In Chapter 10a he arrives at the Iron Coin Guild in Stoneharbour as an indentured recruit, with a two-hundred-gold debt, a three-year indenture, a chain shirt and a longsword, and goes with the party on his first mission, a night watch on a smuggling landing.
 
+In Chapter 10b he is with the party at the Low Quay warehouse. In Chapter 10c he and Anders ambush Ysolt and Nessa outside the Anchor Light shrine. Bram punches Nessa and is knocked down by Ysolt's spirits, and she stabilises him before taking Nessa back inside. The party get him to someone at the Guild who can mend him.
+
 *Reference page for the campaign assistant. Source: Published chapters 1-4 and 10a; species from PACT-campaign canon (benign, non-spoiler).*
 

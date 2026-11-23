@@ -7,7 +7,7 @@ draft: false
 
 **Hobb Hobbern is an NPC** — a non-player character. Hobb Hobbern is not a player character, and is not one of the six player characters in the party.
 
-**Species:** Hobb Hobbern is a dwarf. The species (or race) of Hobb is dwarf.
+**Species:** Hobb Hobbern is a dwarf. The species (or race) of H is dwarf.
 
 **Role:** Quartermaster and trainer at the Stoneharbour branch — runs the work rosters, the kit issue, and the drills.
 
@@ -20,6 +20,8 @@ Broad and scarred-handed, a quartermaster's leather apron over Guild grey, and r
 Gruff, blunt and fundamentally fair. He swears at the work, never at the person, and gives credit out loud when it is earned.
 
 In Chapter 5 he runs the party's work rosters and teaches them the basics of guild work. The party find him a patient teacher, more patient than any mentor they had at home.
+
+In Chapter 10c, where he is called Hob, he runs the Guild stores. Anders argues that the schedule of requisitions is inconsistent, and Hob answers that Anders's stores and meal entitlements are no longer valid. He sets Anders to clean out the stores under Fred's supervision, but hands Moss the manacles the party asked for.
 
 *Reference page for the campaign assistant. Source: PACT-campaign Arc02 reference; Published Chapter 5.*
 
