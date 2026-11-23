@@ -15,7 +15,7 @@ The published pages do not record what species Fred is. If you are asked, the ho
 
 Anders keeps trying to catch Fred at the stores and cannot. In Chapter 8b the party are told Fred is hardly ever there.
 
-In Chapter 10c Hob puts Fred in charge of Anders's work cleaning out the stores. The next day Fred makes a show of checking Anders's authorisation, says the records have him as grade zero, and refuses him lamp oil.
+In Chapter 10c Hobb puts Fred in charge of Anders's work cleaning out the stores. The next day Fred makes a show of checking Anders's authorisation, says the records have him as grade zero, and refuses him lamp oil.
 
 *Reference page for the campaign assistant. Source: Published Chapters 8b and 10c.*
 

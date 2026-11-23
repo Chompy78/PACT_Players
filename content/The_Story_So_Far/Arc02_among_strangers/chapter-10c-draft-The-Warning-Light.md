@@ -69,15 +69,15 @@ The stores were down a short stair, behind a counter with a ledger chained to it
 
 Anders had read the schedule of requisitions, the sheet that said what each grade could take out, and he had found a mistake in it. As grade-one members, he said, we could take anything up to two gold without signing for it, so that if we lost it, it went on our debt. But the schedule listed manacles as a grade-two item, and manacles cost two gold. Either the guild had made a mistake, he said, or Fred had.
 
-It wasn't Fred behind the counter. It was Hob, the dwarf who ran the stores, and he had been standing there the whole time.
+It wasn't Fred behind the counter. It was Hobb, the dwarf who ran the stores, and he had been standing there the whole time.
 
-"What's this got to do with Fred?" Hob asked.
+"What's this got to do with Fred?" Hobb asked.
 
 "Fred issues the schedule of requisitions."
 
-"No, he doesn't. I do." Manacles were the cheapest schedule, Hob said, the kind you didn't sign for. He asked whether they really were two gold. They were.
+"No, he doesn't. I do." Manacles were the cheapest schedule, Hobb said, the kind you didn't sign for. He asked whether they really were two gold. They were.
 
-"Oh, well, yes," said Anders. "You're one hundred per cent right, Hob. However, there is an inconsistency."
+"Oh, well, yes," said Anders. "You're one hundred per cent right, Hobb. However, there is an inconsistency."
 
 Skylar said, quite quietly, that somebody ought to get Anders a bigger shovel.
 
@@ -85,25 +85,25 @@ Skylar said, quite quietly, that somebody ought to get Anders a bigger shovel.
 
 "I am the requisitions officer."
 
-"You're the quartermaster. You shouldn't have to worry yourself with little things like this." He meant the records clerk, he said. Ilsabet Marrow. Somebody under Hob must have made the error.
+"You're the quartermaster. You shouldn't have to worry yourself with little things like this." He meant the records clerk, he said. Ilsabet Marrow. Somebody under Hobb must have made the error.
 
-"This is a key part of my job," Hob said. "Are you saying I get someone else to do a key part of my job? You're saying there's an error. I understand that. But you said I'm incompetent."
+"This is a key part of my job," Hobb said. "Are you saying I get someone else to do a key part of my job? You're saying there's an error. I understand that. But you said I'm incompetent."
 
 He let that sit for a moment. Then he told us there was a gold-piece reward for anyone who found an error in a guild document.
 
 Moss leaned over the counter and put one large finger on the sheet. "Yeah, there's a whoopsie here," he said. "If you could just correct that, maybe it'll help the next time."
 
-"Oh, thank you, Moss," said Hob. He wrote a note in the margin. We could take out a couple of pairs of manacles, he said. Then he turned to Anders.
+"Oh, thank you, Moss," said Hobb. He wrote a note in the margin. We could take out a couple of pairs of manacles, he said. Then he turned to Anders.
 
-There had been some sort of paper error, Hob said. It seemed Anders's entitlements were no longer valid. No requisitions from the stores, and no meals. He wondered how that had happened.
+There had been some sort of paper error, Hobb said. It seemed Anders's entitlements were no longer valid. No requisitions from the stores, and no meals. He wondered how that had happened.
 
-Anders folded the schedule and put it in his coat. It had Hob's name on the bottom, he observed. That was really interesting. He thanked Hob and said we'd be on our way.
+Anders folded the schedule and put it in his coat. It had Hobb's name on the bottom, he observed. That was really interesting. He thanked Hobb and said we'd be on our way.
 
-"And by the way," Hob said, "next week you're helping clean out the stores. Fred will tell you what to do. You'll be under supervision."
+"And by the way," Hobb said, "next week you're helping clean out the stores. Fred will tell you what to do. You'll be under supervision."
 
 "I will happily," said Anders, "be under Fred's supervision in the stores."
 
-Moss asked, very politely, whether we might have a few manacles after all. "No worries, Moss," Hob said, and handed them over.
+Moss asked, very politely, whether we might have a few manacles after all. "No worries, Moss," Hobb said, and handed them over.
 
 If any of it had been meant to land Fred in trouble, and with Anders we suspected some of it had, it had missed Fred completely. On the stair going up, Anders told nobody in particular that all he had been trying to do was highlight some inconsistencies in the administration.
 
@@ -111,7 +111,7 @@ If any of it had been meant to land Fred in trouble, and with Anders we suspecte
 
 When Anders went to the mess hall for something to eat, he was turned away at the door. Somebody had already been told.
 
-He took it well, for Anders. He sat on the barracks step and explained that you could draw as much lamp oil from the stores as you liked, any member at all, with no signature. You could sell it for a silver a jar and say you'd burnt it. He said this was not about the mission. It was purely about Hob.
+He took it well, for Anders. He sat on the barracks step and explained that you could draw as much lamp oil from the stores as you liked, any member at all, with no signature. You could sell it for a silver a jar and say you'd burnt it. He said this was not about the mission. It was purely about Hobb.
 
 It was Bram who came up with something useful. "Why don't we go down to the Low Quay," he said, "and look at the ground? See if there's any good spots to hide out."
 
@@ -315,7 +315,7 @@ Anders asked what happened to our debts if we were killed. Moss asked what happe
 
 Anders wondered aloud whether, if we proved we were worth our debts and paid them back quickly, it might be in her organisation's interest to have our indentures transferred to her. Moss thought it might be a faster way to pay off what we owed. It didn't work that way, Odalys said, unfortunately. They were always looking for people to help. Skylar spent the whole of this exchange staring at the pair of them as if she could kill them with it.
 
-As we stood to go, Odalys gave Anders a pass. He and Archer had been barred from the Ropewalks since the business at the tannery, but he had a debt here now, so he would need to come and go. Caspian didn't need one; he was allowed in the Ropewalks anyway, because he hadn't killed anyone. Then she handed us a folded piece of paper. "Would you mind giving that to Slate for me?"
+As we stood to go, Odalys gave Anders a pass. He, Archer and Moss had been barred from the Ropewalks since the business at the tannery, but he had a debt here now, so he would need to come and go. Caspian didn't need one; he was allowed in the Ropewalks anyway, because he hadn't killed anyone. Then she handed us a folded piece of paper. "Would you mind giving that to Slate for me?"
 
 "I'll see you around," she said. "When you head back to the guild, I suggest you go through the northern gate, near Kingshold. Not your usual one. Just in case the message hasn't come through."
 
@@ -353,7 +353,7 @@ So that was what we took to bed with us: a cart, a mule, a tarp, the guild's man
 
 * * *
 
-The next day Anders went down to the stores, to see whether Hob had told everybody. Fred was behind the counter.
+The next day Anders went down to the stores, to see whether Hobb had told everybody. Fred was behind the counter.
 
 "Anders," Fred said. "How are you? You've been making friends and influencing people, I hear."
 
@@ -367,9 +367,9 @@ Anders said he was just there for some lamp oil, if he could.
 
 "Looking forward to it. What day are we doing that?"
 
-"Not sure. Hob's still working it out."
+"Not sure. Hobb's still working it out."
 
-"I will wait to be informed by Hob, then."
+"I will wait to be informed by Hobb, then."
 
 "Lovely seeing you again," Fred said.
 
@@ -469,9 +469,9 @@ He let that sit. "I do not need you to be geniuses. I need you to bring back wha
 
 "I gave you the stores."
 
-"Then Hob took them away again."
+"Then Hobb took them away again."
 
-"Hob," said Slate, "has been very clear about what he did and didn't give you." He didn't look up. Moss nodded at the floor as if his eleven hundred gold had just been read out. Caspian said nothing. Anders said that we had stopped it for a night, at least, and Slate said that a night was a night.
+"Hobb," said Slate, "has been very clear about what he did and didn't give you." He didn't look up. Moss nodded at the floor as if his eleven hundred gold had just been read out. Caspian said nothing. Anders said that we had stopped it for a night, at least, and Slate said that a night was a night.
 
 "I will be honest with you," he said. He squared the papers. "There is a drawer in this room of letters from other branches. They ask after good people. Nobody has asked after you. But somebody always needs a place filled, sooner or later, and then someone will take you off my hands and buy out your contracts. I shall try to bear it."
 
@@ -481,4 +481,4 @@ He let that sit. "I do not need you to be geniuses. I need you to bring back wha
 
 He was not angry. We have thought about that a good deal since. He was disappointed in the dry, careful way of a man who has written the same report on you before and expects to write it again. He dismissed us with a nod, and we went out into the yard and stood in the sun.
 
-We did not go to the stores that morning. Somewhere across the yard, we were fairly sure, Hob was already writing something in a margin.
+We did not go to the stores that morning. Somewhere across the yard, we were fairly sure, Hobb was already writing something in a margin.
