@@ -455,13 +455,21 @@ We went back to the guild in two lots, by different streets, and got Bram to som
 
 Slate sent for us early the next morning.
 
-Nobody had come after us in the night. No boats had come in to the jetty. When we got in, nobody was waiting for us, and nobody seemed to care. Bram had gone to the infirmary. The rest of us went up to Slate's office and stood in a row in front of his desk with our hands behind us, as we had stood for his briefing.
+Nobody had come after us in the night. No boats had come in to the jetty. When we got in, nobody was waiting for us, and nobody seemed to care. Bram had gone to the infirmary. The rest of us went up to Slate's office, Anders and Moss and Caspian and Skylar, and stood in a row in front of his desk with our hands behind us, as we had stood for his briefing.
 
 Slate had a sheaf of papers in front of him, and he was going through them one at a time. He did not raise his voice. He never did.
 
-"I don't think there's much need for you to tell me what went down," he said. "I've got a few reports here." He turned one over. "From the Low Quay. Already, at this hour of the morning. Impressive." He read a line or two more. "They are saying a girl of sixteen was beaten in the street, and that the old woman who looks after half that district was struck for her trouble. They know it was you. They did not like you before."
+"I don't think there's much need for you to tell me what went down," he said. "I've got a few reports here." He turned one over. "From the Low Quay. Already, at this hour of the morning. Impressive." He read a line or two more. "There are a number of complaints, and the names in them are people the district thinks well of. They know it was you. They did not like you before."
 
-He squared the papers. "You brought me the smuggling, and I told you it was good work, and I meant it. You won't be getting a bonus for this one, obviously."
+He squared the papers.
+
+"Is that a new lamp, sir?" said Skylar. "The one on the shelf."
+
+"No," said Slate.
+
+"It's a nice one."
+
+"It is the same lamp." He did not look at it. "You brought me the smuggling, and I told you it was good work, and I meant it. You won't be getting a bonus for this one, obviously."
 
 "What about a pro-rata bonus?" said Anders.
 
@@ -483,7 +491,15 @@ We agreed.
 
 "Oh, you can do whatever you want. I'm only suggesting it, for your own health and safety." He went back to his reports. "And I don't know what you're talking about."
 
-"Right," said Anders. "Excellent. Well, I'll see you later. Much later."
+"Right," said Slate, not looking up. "Excellent. Well, I'll see you later. Much later."
+
+"Does the mess still do eggs in the morning?" Caspian asked, on the way out.
+
+"I am not in charge of the mess."
+
+"Only I'd heard it might have changed."
+
+"Goodbye, Caspian."
 
 At the door he remembered, aloud, that he had some cleaning work to do in the stores. Three days this week, he believed. Slate said he would leave him to sort that out with whoever it was, and did not look up.
 
